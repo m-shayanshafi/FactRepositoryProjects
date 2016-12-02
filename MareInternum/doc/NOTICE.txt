@@ -1,0 +1,17 @@
+Mare Internum
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Network layer is provided by MINA library package,
+which is open source software.
+The original software is available from
+
+	http://mina.apache.org/
+	
+Message logging is provided by the SLF4J library package,
+which is open source software, written by Ceki Guelkue, and
+copyright by SLF4J.ORG and QOS.ch.  The original software is
+available from
+
+   http://www.slf4j.org/

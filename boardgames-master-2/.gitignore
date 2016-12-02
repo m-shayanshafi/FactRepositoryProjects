@@ -1,0 +1,5 @@
+*.javac
+.project
+.classpath
+.settings
+bin

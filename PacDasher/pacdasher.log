@@ -1,0 +1,24 @@
+Starting logging at 3/16/05 2:16 PM
+UIModel <init>: Millis from Starting PacDasher to Started loading XML was 20
+Animation logInitialPerfAnalysis: 
+
+INITIAL PERFORMANCE ANALYSIS
+
+
+Animation logInitialPerfAnalysis: Video card supports page flipping? true
+
+Animation logInitialPerfAnalysis: Full screen required for page flipping? true
+
+Animation logInitialPerfAnalysis: Page flipping active? true
+
+Animation logInitialPerfAnalysis: image Caps isAccelerated: true
+Animation logInitialPerfAnalysis: image Caps isTrueVolatile: true
+Animation logInitialPerfAnalysis: 
+OS Arch: x86
+OS Name: Windows 2000
+OS Version: 5.0
+Java Version: 1.5.0-rc
+Java Vendor: Sun Microsystems Inc.
+
+MazeAccessor readAndCreate: Millis from Started loading XML to Ended loading XML was 2764
+FrameRunnerSplashScreen changeStateIfNecessary: Millis from XML load ended to game ready was 2894

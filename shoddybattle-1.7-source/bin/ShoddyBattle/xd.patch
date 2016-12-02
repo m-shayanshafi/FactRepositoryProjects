@@ -1,0 +1,1130 @@
+Beedrill:	+Baton Pass,
+;
+
+Exeggcute:	+Selfdestruct,
+	+Nightmare,
+;
+
+Zangoose:	+Refresh,
+	~ Refresh + Curse,
+	~ Refresh + Double Kick,
+	~ Refresh + Flail,
+	~ Refresh + Razor Wind,
+;
+
+Doduo:	+Sky Attack,
+;
+
+Walrein:	+Charm,
+	~ Charm + Curse,
+	~ Charm + Fissure,
+	~ Charm + Spit Up,
+	~ Charm + Stockpile,
+	~ Charm + Swallow,
+	~ Charm + Water Sport,
+	~ Charm + Yawn,
+;
+
+Flaaffy:	+Heal Bell,
+	~ Heal Bell + Charge,
+	~ Heal Bell + Odor Sleuth,
+	~ Heal Bell + Reflect,
+	~ Heal Bell + Safeguard,
+	~ Heal Bell + Screech,
+	~ Heal Bell + Take Down,
+;
+
+Slowpoke:	+Nightmare,
+;
+
+Manectric:	+Refresh,
+	~ Refresh + Crunch,
+	~ Refresh + Curse,
+	~ Refresh + Headbutt,
+	~ Refresh + Swift,
+	~ Refresh + Uproar,
+;
+
+Hitmonlee:	+Refresh,
+	~ Refresh + Mach Punch,
+	~ Refresh + Rapid Spin,
+;
+
+Paras:	+Refresh,
+	~ Refresh + Flail,
+	~ Refresh + Light Screen,
+	~ Refresh + Psybeam,
+	~ Refresh + Pursuit,
+	~ Refresh + Screech,
+	~ Refresh + Sweet Scent,
+;
+
+Parasect:	+Refresh,
+	~ Refresh + Flail,
+	~ Refresh + Light Screen,
+	~ Refresh + Psybeam,
+	~ Refresh + Pursuit,
+	~ Refresh + Screech,
+	~ Refresh + Sweet Scent,
+;
+
+Scizor:	+Morning Sun,
+	~ Morning Sun + Baton Pass,
+	~ Morning Sun + Light Screen,
+	~ Morning Sun + Razor Wind,
+	~ Morning Sun + Reversal,
+	~ Morning Sun + Safeguard,
+;
+
+Marowak:	+Sing,
+	~ Sing + Ancientpower,
+	~ Sing + Belly Drum,
+	~ Sing + Perish Song,
+	~ Sing + Screech,
+	~ Sing + Skull Bash,
+;
+
+Persian:	+Sing,
+	~ Sing + Amnesia,
+	~ Sing + Assist,
+	~ Sing + Charm,
+	~ Sing + Hypnosis,
+	~ Sing + Petal Dance,
+	~ Sing + Spite,
+;
+
+Lunatone:	+Baton Pass,
+	+Selfdestruct,
+;
+
+Snorlax:	+Selfdestruct,
+	+Refresh,
+	~ Refresh + Charm,
+	~ Refresh + Lick,
+;
+
+Mawile:	+Sing,
+	~ Sing + Ancientpower,
+	~ Sing + Poison Fang,
+	~ Sing + Tickle,
+;
+
+Victreebel:	+Morning Sun,
+	~ Morning Sun + Encore,
+	~ Morning Sun + Ingrain,
+	~ Morning Sun + Leech Life,
+	~ Morning Sun + Reflect,
+	~ Morning Sun + Synthesis,
+	~ Morning Sun + Teeter Dance,
+;
+
+Gastly:	+Selfdestruct,
+	+Nightmare,
+;
+
+Metagross:	+Refresh,
+;
+
+Lugia:	+Featherdance,
+	+Psycho Boost,
+	+Nightmare,
+;
+
+Typhlosion:	+Blast Burn,
+	~ Blast Burn + Covet,
+	~ Blast Burn + Crush Claw,
+	~ Blast Burn + Foresight,
+	~ Blast Burn + Fury Swipes,
+	~ Blast Burn + Howl,
+	~ Blast Burn + Thrash,
+;
+
+Forretress:	+Refresh,
+	+Selfdestruct,
+	~ Refresh + Flail,
+	~ Refresh + Sand Tomb,
+	~ Refresh + Swift,
+;
+
+Shuppet:	+Nightmare,
+;
+
+Swellow:	+Baton Pass,
+	~ Baton Pass + Featherdance,
+	~ Baton Pass + Mirror Move,
+	~ Baton Pass + Pursuit,
+	~ Baton Pass + Rage,
+	~ Baton Pass + Refresh,
+	~ Baton Pass + Sky Attack,
+	~ Baton Pass + Supersonic,
+;
+
+Swinub:	+Charm,
+	~ Charm + Bite,
+	~ Charm + Icicle Spear,
+;
+
+Ursaring:	+Refresh,
+	~ Refresh + Crunch,
+	~ Refresh + Take Down,
+	~ Refresh + Yawn,
+;
+
+Spearow:	+Baton Pass,
+	~ Baton Pass + Astonish,
+	~ Baton Pass + Faint Attack,
+	~ Baton Pass + False Swipe,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Scary Face,
+	~ Baton Pass + Sky Attack,
+	~ Baton Pass + Tri Attack,
+;
+
+Larvitar:	+Nightmare,
+;
+
+Meganium:	+Frenzy Plant,
+	~ Frenzy Plant + Flail,
+	~ Frenzy Plant + Grasswhistle,
+	~ Frenzy Plant + Ingrain,
+	~ Frenzy Plant + Leech Seed,
+	~ Frenzy Plant + Nature Power,
+	~ Frenzy Plant + Vine Whip,
+;
+
+Espeon:	+Nightmare,
+;
+
+Gengar:	+Selfdestruct,
+	+Nightmare,
+;
+
+Sableye:	+Helping Hand,
+	+Nightmare,
+	~ Helping Hand + Moonlight,
+;
+
+Primeape:	+Helping Hand,
+	~ Helping Hand + Beat Up,
+	~ Helping Hand + Foresight,
+	~ Helping Hand + Meditate,
+	~ Helping Hand + Revenge,
+	~ Helping Hand + Smellingsalt,
+;
+
+Camerupt:	+Charm,
+	~ Charm + Howl,
+	~ Charm + Scary Face,
+	~ Charm + Stomp,
+;
+
+Shiftry:	+Refresh,
+	~ Refresh + Amnesia,
+	~ Refresh + False Swipe,
+	~ Refresh + Leech Seed,
+	~ Refresh + Quick Attack,
+	~ Refresh + Razor Wind,
+	~ Refresh + Take Down,
+;
+
+Houndoom:	+Charm,
+	~ Charm + Beat Up,
+	~ Charm + Fire Spin,
+	~ Charm + Pursuit,
+	~ Charm + Rage,
+	~ Charm + Reversal,
+	~ Charm + Spite,
+	~ Charm + Will-O-Wisp,
+;
+
+Vulpix:	+Charm,
+	~ Charm + Disable,
+	~ Charm + Faint Attack,
+	~ Charm + Flail,
+	~ Charm + Howl,
+	~ Charm + Hypnosis,
+	~ Charm + Spite,
+;
+
+Magneton:	+Refresh,
+;
+
+Gardevoir:	+Sing,
+	+Nightmare,
+	~ Sing + Charm,
+	~ Sing + Destiny Bond,
+	~ Sing + Disable,
+	~ Sing + Mean Look,
+	~ Sing + Memento,
+	~ Sing + Will-O-Wisp,
+	~ Sing + Wish,
+;
+
+Xatu:	+Baton Pass,
+	+Nightmare,
+	+Sky Attack,
+	~ Baton Pass + Drill Peck,
+	~ Baton Pass + Faint Attack,
+	~ Baton Pass + Featherdance,
+	~ Baton Pass + Haze,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Refresh,
+;
+
+Fearow:	+Baton Pass,
+	~ Baton Pass + Astonish,
+	~ Baton Pass + Faint Attack,
+	~ Baton Pass + False Swipe,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Scary Face,
+	~ Baton Pass + Sky Attack,
+	~ Baton Pass + Tri Attack,
+;
+
+Solrock:	+Baton Pass,
+	+Selfdestruct,
+;
+
+Blissey:	+Sweet Kiss,
+	~ Sweet Kiss + Aromatherapy,
+	~ Sweet Kiss + Heal Bell,
+	~ Sweet Kiss + Present,
+	~ Sweet Kiss + Sweet Scent,
+	~ Sweet Kiss + Wish,
+;
+
+Wigglytuff:	+Nightmare,
+;
+
+Shellder:	+Refresh,
+	+Selfdestruct,
+	~ Refresh + Barrier,
+	~ Refresh + Bubblebeam,
+	~ Refresh + Icicle Spear,
+	~ Refresh + Rapid Spin,
+	~ Refresh + Screech,
+;
+
+Porygon:	+Nightmare,
+;
+
+Butterfree:	+Morning Sun,
+	+Nightmare,
+;
+
+Ledian:	+Refresh,
+	~ Refresh + Bide,
+	~ Refresh + Silver Wind,
+;
+
+Onix:	+Selfdestruct,
+;
+
+Dewgong:	+Helping Hand,
+	~ Helping Hand + Disable,
+	~ Helping Hand + Encore,
+	~ Helping Hand + Fake Out,
+	~ Helping Hand + Horn Drill,
+	~ Helping Hand + Icicle Spear,
+	~ Helping Hand + Lick,
+	~ Helping Hand + Perish Song,
+	~ Helping Hand + Slam,
+;
+
+Moltres:	+Extrasensory,
+	+Will-O-Wisp,
+	+Morning Sun,
+	+Sky Attack,
+;
+
+Grimer:	+Helping Hand,
+	~ Helping Hand + Curse,
+	~ Helping Hand + Haze,
+	~ Helping Hand + Imprison,
+	~ Helping Hand + Lick,
+	~ Helping Hand + Mean Look,
+;
+
+Growlithe:	+Charm,
+	~ Charm + Crunch,
+	~ Charm + Fire Spin,
+	~ Charm + Heat Wave,
+	~ Charm + Howl,
+	~ Charm + Safeguard,
+	~ Charm + Thrash,
+;
+
+Togetic:	+Tri Attack,
+	~ Tri Attack + Foresight,
+	~ Tri Attack + Future Sight,
+	~ Tri Attack + Mirror Move,
+	~ Tri Attack + Peck,
+	~ Tri Attack + Present,
+;
+
+Pinsir:	+Helping Hand,
+	~ Helping Hand + Faint Attack,
+	~ Helping Hand + Flail,
+	~ Helping Hand + Fury Attack,
+;
+
+Jigglypuff:	+Nightmare,
+;
+
+Lickitung:	+Helping Hand,
+	+Nightmare,
+	~ Helping Hand + Belly Drum,
+	~ Helping Hand + Curse,
+	~ Helping Hand + Heal Bell,
+	~ Helping Hand + Magnitude,
+	~ Helping Hand + Smellingsalt,
+	~ Helping Hand + Wish,
+;
+
+Wailord:	+Selfdestruct,
+;
+
+Seel:	+Helping Hand,
+	~ Helping Hand + Disable,
+	~ Helping Hand + Encore,
+	~ Helping Hand + Fake Out,
+	~ Helping Hand + Horn Drill,
+	~ Helping Hand + Icicle Spear,
+	~ Helping Hand + Lick,
+	~ Helping Hand + Perish Song,
+	~ Helping Hand + Slam,
+;
+
+Exeggutor:	+Refresh,
+	+Selfdestruct,
+	+Nightmare,
+	~ Refresh + Curse,
+	~ Refresh + Ingrain,
+	~ Refresh + Moonlight,
+	~ Refresh + Sweet Scent,
+	~ Refresh + Synthesis,
+	~ Refresh + Wish,
+;
+
+Scyther:	+Morning Sun,
+	~ Morning Sun + Baton Pass,
+	~ Morning Sun + Light Screen,
+	~ Morning Sun + Razor Wind,
+	~ Morning Sun + Reversal,
+	~ Morning Sun + Safeguard,
+;
+
+Qwilfish:	+Selfdestruct,
+;
+
+Teddiursa:	+Refresh,
+	~ Refresh + Crunch,
+	~ Refresh + Take Down,
+	~ Refresh + Yawn,
+;
+
+Quilava:	+Blast Burn,
+	~ Blast Burn + Covet,
+	~ Blast Burn + Crush Claw,
+	~ Blast Burn + Foresight,
+	~ Blast Burn + Fury Swipes,
+	~ Blast Burn + Howl,
+	~ Blast Burn + Thrash,
+;
+
+Dugtrio:	+Charm,
+	~ Charm + Ancientpower,
+	~ Charm + Beat Up,
+	~ Charm + Faint Attack,
+	~ Charm + Pursuit,
+	~ Charm + Screech,
+	~ Charm + Uproar,
+;
+
+Ralts:	+Sing,
+	+Nightmare,
+	~ Sing + Charm,
+	~ Sing + Destiny Bond,
+	~ Sing + Disable,
+	~ Sing + Mean Look,
+	~ Sing + Memento,
+	~ Sing + Will-O-Wisp,
+	~ Sing + Wish,
+;
+
+Electrode:	+Refresh,
+;
+
+Staryu:	+Nightmare,
+;
+
+Slowbro:	+Nightmare,
+;
+
+Pidgeot:	+Refresh,
+	~ Refresh + Air Cutter,
+	~ Refresh + Faint Attack,
+	~ Refresh + Foresight,
+	~ Refresh + Pursuit,
+;
+
+Tauros:	+Refresh,
+;
+
+Croconaw:	+Hydro Cannon,
+	~ Hydro Cannon + Ancientpower,
+	~ Hydro Cannon + Dragon Claw,
+	~ Hydro Cannon + Mud Sport,
+	~ Hydro Cannon + Thrash,
+	~ Hydro Cannon + Water Sport,
+;
+
+Regice:	+Selfdestruct,
+;
+
+Metang:	+Refresh,
+;
+
+Natu:	+Baton Pass,
+	+Nightmare,
+	+Sky Attack,
+	~ Baton Pass + Drill Peck,
+	~ Baton Pass + Faint Attack,
+	~ Baton Pass + Featherdance,
+	~ Baton Pass + Haze,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Refresh,
+;
+
+Weepinbell:	+Morning Sun,
+	~ Morning Sun + Encore,
+	~ Morning Sun + Ingrain,
+	~ Morning Sun + Leech Life,
+	~ Morning Sun + Reflect,
+	~ Morning Sun + Synthesis,
+	~ Morning Sun + Teeter Dance,
+;
+
+Poliwrath:	+Helping Hand,
+	~ Helping Hand + Bubblebeam,
+	~ Helping Hand + Haze,
+	~ Helping Hand + Ice Ball,
+	~ Helping Hand + Mist,
+	~ Helping Hand + Splash,
+	~ Helping Hand + Sweet Kiss,
+	~ Helping Hand + Water Sport,
+;
+
+Poochyena:	+Heal Bell,
+	~ Heal Bell + Astonish,
+	~ Heal Bell + Covet,
+	~ Heal Bell + Leer,
+	~ Heal Bell + Yawn,
+;
+
+Tyranitar:	+Nightmare,
+;
+
+Dragonite:	+Heal Bell,
+	~ Heal Bell + Dragonbreath,
+	~ Heal Bell + Haze,
+	~ Heal Bell + Light Screen,
+	~ Heal Bell + Mist,
+	~ Heal Bell + Supersonic,
+;
+
+Kirlia:	+Sing,
+	+Nightmare,
+	~ Sing + Charm,
+	~ Sing + Destiny Bond,
+	~ Sing + Disable,
+	~ Sing + Mean Look,
+	~ Sing + Memento,
+	~ Sing + Will-O-Wisp,
+	~ Sing + Wish,
+;
+
+Electabuzz:	+Follow Me,
+	~ Follow Me + Barrier,
+	~ Follow Me + Karate Chop,
+	~ Follow Me + Meditate,
+	~ Follow Me + Rolling Kick,
+;
+
+Zapdos:	+Extrasensory,
+	+Metal Sound,
+	+Baton Pass,
+	+Sky Attack,
+;
+
+Kangaskhan:	+Sing,
+	~ Sing + Crush Claw,
+	~ Sing + Disable,
+	~ Sing + Focus Energy,
+	~ Sing + Foresight,
+	~ Sing + Safeguard,
+	~ Sing + Stomp,
+	~ Sing + Wish,
+	~ Sing + Yawn,
+;
+
+Spinda:	+Nightmare,
+;
+
+Arbok:	+Refresh,
+	~ Refresh + Beat Up,
+	~ Refresh + Poison Fang,
+	~ Refresh + Pursuit,
+	~ Refresh + Slam,
+	~ Refresh + Spite,
+;
+
+Muk:	+Helping Hand,
+	~ Helping Hand + Curse,
+	~ Helping Hand + Haze,
+	~ Helping Hand + Imprison,
+	~ Helping Hand + Lick,
+	~ Helping Hand + Mean Look,
+;
+
+Lapras:	+Heal Bell,
+	+Nightmare,
+	~ Heal Bell + Curse,
+	~ Heal Bell + Dragon Dance,
+	~ Heal Bell + Foresight,
+	~ Heal Bell + Horn Drill,
+	~ Heal Bell + Refresh,
+	~ Heal Bell + Tickle,
+;
+
+Dusclops:	+Helping Hand,
+	+Nightmare,
+	~ Helping Hand + Destiny Bond,
+	~ Helping Hand + Faint Attack,
+	~ Helping Hand + Grudge,
+	~ Helping Hand + Imprison,
+	~ Helping Hand + Memento,
+	~ Helping Hand + Pain Split,
+;
+
+Snorunt:	+Sing,
+	+Selfdestruct,
+	~ Sing + Block,
+	~ Sing + Spikes,
+;
+
+Tangela:	+Morning Sun,
+	~ Morning Sun + Amnesia,
+	~ Morning Sun + Confusion,
+	~ Morning Sun + Flail,
+	~ Morning Sun + Leech Seed,
+	~ Morning Sun + Nature Power,
+	~ Morning Sun + Reflect,
+;
+
+Carvanha:	+Refresh,
+	~ Refresh + Hydro Pump,
+	~ Refresh + Thrash,
+;
+
+Gulpin:	+Sing,
+	+Selfdestruct,
+	+Nightmare,
+	~ Sing + Acid Armor,
+	~ Sing + Pain Split,
+	~ Sing + Smog,
+;
+
+Igglybuff:	+Nightmare,
+;
+
+Sealeo:	+Charm,
+	~ Charm + Curse,
+	~ Charm + Fissure,
+	~ Charm + Spit Up,
+	~ Charm + Stockpile,
+	~ Charm + Swallow,
+	~ Charm + Water Sport,
+	~ Charm + Yawn,
+;
+
+Seedot:	+Refresh,
+	~ Refresh + Amnesia,
+	~ Refresh + False Swipe,
+	~ Refresh + Leech Seed,
+	~ Refresh + Quick Attack,
+	~ Refresh + Razor Wind,
+	~ Refresh + Take Down,
+;
+
+Roselia:	+Sweet Kiss,
+	+Nightmare,
+	~ Sweet Kiss + Cotton Spore,
+	~ Sweet Kiss + Pin Missile,
+	~ Sweet Kiss + Spikes,
+;
+
+Numel:	+Charm,
+	~ Charm + Howl,
+	~ Charm + Scary Face,
+	~ Charm + Stomp,
+;
+
+Baltoy:	+Refresh,
+;
+
+Golduck:	+Charm,
+	~ Charm + Cross Chop,
+	~ Charm + Foresight,
+	~ Charm + Future Sight,
+	~ Charm + Hypnosis,
+	~ Charm + Light Screen,
+	~ Charm + Mud Sport,
+	~ Charm + Psybeam,
+	~ Charm + Psychic,
+	~ Charm + Refresh,
+;
+
+Mr. Mime:	+Follow Me,
+	+Nightmare,
+	~ Follow Me + Fake Out,
+	~ Follow Me + Future Sight,
+	~ Follow Me + Hypnosis,
+;
+
+Jynx:	+Nightmare,
+;
+
+Mew:	+Faint Attack,
+	+Zap Cannon,
+	+Role Play,
+	+Hypnosis,
+	+Fake Out,
+	+Night Shade,
+	+Selfdestruct,
+	+Sky Attack,
+	+Nightmare,
+	~ Hypnosis + Role Play,
+	~ Hypnosis + Faint Attack,
+	~ Hypnosis + Night Shade,
+	~ Hypnosis + Fake Out,
+;
+
+Togepi:	+Tri Attack,
+	~ Tri Attack + Foresight,
+	~ Tri Attack + Future Sight,
+	~ Tri Attack + Mirror Move,
+	~ Tri Attack + Peck,
+	~ Tri Attack + Present,
+;
+
+Delcatty:	+Sweet Kiss,
+	~ Sweet Kiss + Baton Pass,
+	~ Sweet Kiss + Fake Tears,
+	~ Sweet Kiss + Helping Hand,
+	~ Sweet Kiss + Pay Day,
+	~ Sweet Kiss + Tickle,
+	~ Sweet Kiss + Uproar,
+	~ Sweet Kiss + Wish,
+;
+
+Rapidash:	+Baton Pass,
+	~ Baton Pass + Charm,
+	~ Baton Pass + Double Kick,
+	~ Baton Pass + Flame Wheel,
+	~ Baton Pass + Hypnosis,
+	~ Baton Pass + Thrash,
+;
+
+Farfetch'd:	+Baton Pass,
+	~ Baton Pass + Curse,
+	~ Baton Pass + Featherdance,
+	~ Baton Pass + Flail,
+	~ Baton Pass + Foresight,
+	~ Baton Pass + Gust,
+	~ Baton Pass + Mirror Move,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Wish,
+	~ Baton Pass + Yawn,
+;
+
+Banette:	+Helping Hand,
+	+Nightmare,
+	~ Helping Hand + Astonish,
+	~ Helping Hand + Destiny Bond,
+	~ Helping Hand + Disable,
+	~ Helping Hand + Foresight,
+	~ Helping Hand + Imprison,
+;
+
+Drowzee:	+Nightmare,
+;
+
+Altaria:	+Heal Bell,
+	+Sky Attack,
+	~ Heal Bell + Agility,
+	~ Heal Bell + False Swipe,
+	~ Heal Bell + Haze,
+	~ Heal Bell + Pursuit,
+	~ Heal Bell + Rage,
+;
+
+Dodrio:	+Baton Pass,
+	+Sky Attack,
+	~ Baton Pass + Endeavor,
+	~ Baton Pass + Faint Attack,
+	~ Baton Pass + Flail,
+	~ Baton Pass + Haze,
+	~ Baton Pass + Quick Attack,
+	~ Baton Pass + Supersonic,
+;
+
+Mareep:	+Heal Bell,
+	~ Heal Bell + Charge,
+	~ Heal Bell + Odor Sleuth,
+	~ Heal Bell + Reflect,
+	~ Heal Bell + Safeguard,
+	~ Heal Bell + Screech,
+	~ Heal Bell + Take Down,
+;
+
+Sharpedo:	+Refresh,
+	~ Refresh + Hydro Pump,
+	~ Refresh + Thrash,
+;
+
+Steelix:	+Selfdestruct,
+;
+
+Ninetales:	+Charm,
+	~ Charm + Disable,
+	~ Charm + Faint Attack,
+	~ Charm + Flail,
+	~ Charm + Howl,
+	~ Charm + Hypnosis,
+	~ Charm + Spite,
+;
+
+Rhydon:	+Helping Hand,
+	~ Helping Hand + Crunch,
+	~ Helping Hand + Crush Claw,
+	~ Helping Hand + Curse,
+	~ Helping Hand + Magnitude,
+	~ Helping Hand + Reversal,
+;
+
+Claydol:	+Refresh,
+;
+
+Breloom:	+Refresh,
+	~ Refresh + Charm,
+	~ Refresh + Fake Tears,
+	~ Refresh + Helping Hand,
+;
+
+Swablu:	+Sky Attack,
+;
+
+Ariados:	+Refresh,
+	~ Refresh + Baton Pass,
+	~ Refresh + Disable,
+	~ Refresh + Psybeam,
+	~ Refresh + Pursuit,
+	~ Refresh + Sonicboom,
+;
+
+Salamence:	+Refresh,
+	~ Refresh + Dragon Rage,
+	~ Refresh + Hydro Pump,
+	~ Refresh + Iron Defense,
+	~ Refresh + Thrash,
+	~ Refresh + Twister,
+	~ Refresh + Wish,
+;
+
+Ledyba:	+Refresh,
+	~ Refresh + Bide,
+	~ Refresh + Silver Wind,
+;
+
+Makuhita:	+Refresh,
+	~ Refresh + Cross Chop,
+	~ Refresh + Detect,
+	~ Refresh + Faint Attack,
+	~ Refresh + Foresight,
+	~ Refresh + Helping Hand,
+	~ Refresh + Revenge,
+;
+
+Hitmonchan:	+Helping Hand,
+	~ Helping Hand + Hi Jump Kick,
+	~ Helping Hand + Mind Reader,
+	~ Helping Hand + Rapid Spin,
+;
+
+Bayleef:	+Frenzy Plant,
+	~ Frenzy Plant + Flail,
+	~ Frenzy Plant + Grasswhistle,
+	~ Frenzy Plant + Ingrain,
+	~ Frenzy Plant + Leech Seed,
+	~ Frenzy Plant + Nature Power,
+	~ Frenzy Plant + Vine Whip,
+;
+
+Starmie:	+Refresh,
+	+Nightmare,
+;
+
+Pupitar:	+Nightmare,
+;
+
+Feraligatr:	+Hydro Cannon,
+	~ Hydro Cannon + Ancientpower,
+	~ Hydro Cannon + Dragon Claw,
+	~ Hydro Cannon + Mud Sport,
+	~ Hydro Cannon + Thrash,
+	~ Hydro Cannon + Water Sport,
+;
+
+Slugma:	+Selfdestruct,
+;
+
+Pineco:	+Refresh,
+	+Selfdestruct,
+	~ Refresh + Flail,
+	~ Refresh + Sand Tomb,
+	~ Refresh + Swift,
+;
+
+Skarmory:	+Sky Attack,
+;
+
+Meowth:	+Sing,
+	~ Sing + Amnesia,
+	~ Sing + Assist,
+	~ Sing + Charm,
+	~ Sing + Hypnosis,
+	~ Sing + Petal Dance,
+	~ Sing + Spite,
+;
+
+Shroomish:	+Refresh,
+	~ Refresh + Charm,
+	~ Refresh + Fake Tears,
+	~ Refresh + Helping Hand,
+;
+
+Voltorb:	+Refresh,
+;
+
+Swalot:	+Sing,
+	+Selfdestruct,
+	+Nightmare,
+	~ Sing + Acid Armor,
+	~ Sing + Pain Split,
+	~ Sing + Smog,
+;
+
+Raticate:	+Refresh,
+	~ Refresh + Bite,
+	~ Refresh + Flame Wheel,
+	~ Refresh + Fury Swipes,
+	~ Refresh + Reversal,
+	~ Refresh + Screech,
+	~ Refresh + Uproar,
+;
+
+Glalie:	+Sing,
+	+Selfdestruct,
+	~ Sing + Block,
+	~ Sing + Spikes,
+;
+
+Magcargo:	+Refresh,
+	+Selfdestruct,
+	~ Refresh + Acid Armor,
+	~ Refresh + Heat Wave,
+;
+
+Totodile:	+Hydro Cannon,
+	~ Hydro Cannon + Ancientpower,
+	~ Hydro Cannon + Dragon Claw,
+	~ Hydro Cannon + Mud Sport,
+	~ Hydro Cannon + Thrash,
+	~ Hydro Cannon + Water Sport,
+;
+
+Venomoth:	+Refresh,
+	~ Refresh + Baton Pass,
+	~ Refresh + Screech,
+	~ Refresh + Signal Beam,
+;
+
+Ampharos:	+Heal Bell,
+	~ Heal Bell + Charge,
+	~ Heal Bell + Odor Sleuth,
+	~ Heal Bell + Reflect,
+	~ Heal Bell + Safeguard,
+	~ Heal Bell + Screech,
+	~ Heal Bell + Take Down,
+;
+
+Hariyama:	+Refresh,
+	~ Refresh + Cross Chop,
+	~ Refresh + Detect,
+	~ Refresh + Faint Attack,
+	~ Refresh + Foresight,
+	~ Refresh + Helping Hand,
+	~ Refresh + Revenge,
+;
+
+Pidgeotto:	+Refresh,
+	~ Refresh + Air Cutter,
+	~ Refresh + Faint Attack,
+	~ Refresh + Foresight,
+	~ Refresh + Pursuit,
+;
+
+Duskull:	+Helping Hand,
+	+Nightmare,
+	~ Helping Hand + Destiny Bond,
+	~ Helping Hand + Faint Attack,
+	~ Helping Hand + Grudge,
+	~ Helping Hand + Imprison,
+	~ Helping Hand + Memento,
+	~ Helping Hand + Pain Split,
+;
+
+Haunter:	+Selfdestruct,
+	+Nightmare,
+;
+
+Chikorita:	+Frenzy Plant,
+	~ Frenzy Plant + Flail,
+	~ Frenzy Plant + Grasswhistle,
+	~ Frenzy Plant + Ingrain,
+	~ Frenzy Plant + Leech Seed,
+	~ Frenzy Plant + Nature Power,
+	~ Frenzy Plant + Vine Whip,
+;
+
+Spheal:	+Charm,
+	~ Charm + Curse,
+	~ Charm + Fissure,
+	~ Charm + Spit Up,
+	~ Charm + Stockpile,
+	~ Charm + Swallow,
+	~ Charm + Water Sport,
+	~ Charm + Yawn,
+;
+
+Nosepass:	+Helping Hand,
+	+Selfdestruct,
+	~ Helping Hand + Magnitude,
+;
+
+Articuno:	+Heal Bell,
+	+Extrasensory,
+	+Haze,
+	+Sky Attack,
+;
+
+Houndour:	+Charm,
+	~ Charm + Beat Up,
+	~ Charm + Fire Spin,
+	~ Charm + Pursuit,
+	~ Charm + Rage,
+	~ Charm + Reversal,
+	~ Charm + Spite,
+	~ Charm + Will-O-Wisp,
+;
+
+Cloyster:	+Refresh,
+	+Selfdestruct,
+	~ Refresh + Barrier,
+	~ Refresh + Bubblebeam,
+	~ Refresh + Icicle Spear,
+	~ Refresh + Rapid Spin,
+	~ Refresh + Screech,
+;
+
+Mewtwo:	+Selfdestruct,
+;
+
+Mightyena:	+Heal Bell,
+	~ Heal Bell + Astonish,
+	~ Heal Bell + Covet,
+	~ Heal Bell + Leer,
+	~ Heal Bell + Yawn,
+;
+
+Regirock:	+Selfdestruct,
+;
+
+Spinarak:	+Refresh,
+	~ Refresh + Baton Pass,
+	~ Refresh + Disable,
+	~ Refresh + Psybeam,
+	~ Refresh + Pursuit,
+	~ Refresh + Sonicboom,
+;
+
+Porygon2:	+Nightmare,
+;
+
+Piloswine:	+Charm,
+	~ Charm + Bite,
+	~ Charm + Icicle Spear,
+;
+
+Hypno:	+Baton Pass,
+	+Nightmare,
+	~ Baton Pass + Assist,
+	~ Baton Pass + Barrier,
+	~ Baton Pass + Belly Drum,
+	~ Baton Pass + Role Play,
+	~ Baton Pass + Wish,
+;
+
+Arcanine:	+Charm,
+	~ Charm + Crunch,
+	~ Charm + Fire Spin,
+	~ Charm + Heat Wave,
+	~ Charm + Howl,
+	~ Charm + Safeguard,
+	~ Charm + Thrash,
+;
+
+Chansey:	+Sweet Kiss,
+	~ Sweet Kiss + Aromatherapy,
+	~ Sweet Kiss + Heal Bell,
+	~ Sweet Kiss + Present,
+	~ Sweet Kiss + Sweet Scent,
+	~ Sweet Kiss + Wish,
+;
+
+Nuzleaf:	+Refresh,
+	~ Refresh + Amnesia,
+	~ Refresh + False Swipe,
+	~ Refresh + Leech Seed,
+	~ Refresh + Quick Attack,
+	~ Refresh + Razor Wind,
+	~ Refresh + Take Down,
+;
+
+Magmar:	+Follow Me,
+	~ Follow Me + Barrier,
+	~ Follow Me + Karate Chop,
+	~ Follow Me + Mega Punch,
+	~ Follow Me + Screech,
+;
+
+Cyndaquil:	+Blast Burn,
+	~ Blast Burn + Covet,
+	~ Blast Burn + Crush Claw,
+	~ Blast Burn + Foresight,
+	~ Blast Burn + Fury Swipes,
+	~ Blast Burn + Howl,
+	~ Blast Burn + Thrash,
+;
+

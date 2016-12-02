@@ -1,0 +1,143 @@
+<project 
+	name="MDMS_MOBILE" 
+	default="j2mepolish">
+	
+	<property name="wtk.home" value="/opt/java/wtk2.2" />
+	
+	<property name="polish.home" value="/opt/java/j2mepolish" />
+	<property name="appdir.home" value="/opt/java/wtk2.2/apps/solitario" />
+			
+	
+
+	<taskdef name="j2mepolish" 
+		classname="de.enough.polish.ant.PolishTask" 
+		classpath="${polish.home}/import/enough-j2mepolish-client.jar:${polish.home}/import/enough-j2mepolish-build.jar:${polish.home}/import/jdom.jar:${polish.home}/import/proguard.jar:${polish.home}/yguard-lib.jar:${wtk.home}/wtklib/kenv.zip"/>
+	
+	<target name="setdeploy" 
+		description="Call this target first to set the OTA download-URL, e.g. ant setdeploy j2mepolish"
+		>
+		<property name="deploy-url" value="http://www.company.com/download/" />
+	</target>
+		
+	<target name="test" >
+		<property name="test" value="true" />
+		<property name="dir.work" value="build/test" />
+	</target>
+			
+	<target name="init">
+	  	<property name="test" value="false" />
+		<property name="dir.work" value="build/real" />
+		<property name="deploy-url" value="" />
+	</target>
+	
+	
+	<target name="j2mepolish" 
+			depends="init"
+			description="This is the controller for the J2ME build process." 
+			>
+		<j2mepolish>
+			<info
+				license="GPL"
+				name="lonely"
+				version="1.0"
+				description="Solitaro's Game"
+				vendorName="jhvm"
+				icon="dot.png"
+				jarName="${polish.vendor}-${polish.name}.jar" 
+				jarUrl="${deploy-url}${polish.jarName}"
+				deleteConfirm="Do you really want to kill me?" 
+			/>
+			
+			<deviceRequirements if="test">
+				<requirement name="Identifier" value="Generic/midp2" />
+			</deviceRequirements>
+	
+			<!-- <requirement name="Identifier" value="Generic/midp2, Generic/midp1, Siemens/midp1" /> -->
+			<deviceRequirements unless="test">
+				<requirement name="Identifier" value="Generic/midp2"/>
+			</deviceRequirements>
+			
+	
+			<build
+				symbols="ExampleSymbol, AnotherExample"
+				fullscreen="menu"
+				usePolishGui="false"
+				workDir="${dir.work}"
+			>
+	
+				<midlet class="bo.com.solitario.Main" name="solitario" />
+	
+				<variables includeAntProperties="true" >
+					<variable name="update-url" value="http://www.enough.de/update" />
+					<variable name="title" value="J2ME Polish" />
+				</variables>
+	
+				<resources
+					dir="resources"
+					defaultexcludes="yes"
+					excludes="readme.txt"
+				>
+	
+					<localization locales="en_US" if="test" />
+				</resources>
+				
+				<!--
+				<obfuscator name="ProGuard" useDefaultPackage="true" >
+				</obfuscator>-->
+				
+				 <obfuscator name="ProGuard" useDefaultPackage="true" >
+				 </obfuscator>
+				
+				    
+				<debug if="test" showLogOnError="true" verbose="true" level="info">
+				</debug>
+				
+				<compiler extdirs="lib"/>
+				
+			</build>
+			
+			<!-- execution of emulator(s) -->
+			<emulator
+				wait="true"
+				trace="class"
+				securityDomain="trusted"
+				enableProfiler="true"
+				enableMemoryMonitor="false"
+				enableNetworkMonitor="false"
+				if="test"
+				>
+				<!--
+				<parameter name="-Xjam" value="transient=http://localhost:8080/${polish.jadName}" />
+				-->
+			</emulator>
+		
+		</j2mepolish>
+	</target>
+	
+
+	<target name="clean" 
+	  		description="allows a clean build. You should call [ant clean] whenever you made changes to devices.xml, vendors.xml or groups.xml">
+		<delete dir="build" />
+		<delete dir="dist" />
+	</target>
+	
+	<target name="wclean">
+		<delete>
+			<fileset dir="${appdir.home}/src"  includes="**/**"  />
+			<fileset dir="${appdir.home}/classes"  includes="**/**"/>
+		</delete>
+	</target>
+	
+	<target name="deploy" >
+		<copy todir="${appdir.home}/src">
+			<fileset dir="./src/" />
+		</copy>
+	</target>
+	<target name="cvs-clean">
+		<delete includeemptydirs="true">
+			<fileset dir="build" includes="**/**" excludes="CVS/" />
+			<fileset dir="classes" includes="**/**" excludes="CVS/"  />
+			<fileset dir="dist" includes="**/**" excludes="CVS/"/>
+		</delete>
+	</target>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="25">
+	<if item="lantern" not="t">
+		<if item="candle">
+			If you used a <b>candle</b> in the mines,
+			<lose item="candle">cross it off</lose>
+			your Adventure Sheet as it can be used only once.
+	</if></if>
+	Then <goto section="317"/>.
+</section>

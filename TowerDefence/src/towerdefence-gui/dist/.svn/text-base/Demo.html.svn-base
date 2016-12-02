@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>JavaFX Tower Defence Game System 0.0.1 Applet Demo</title>
+</head>
+<body>
+<h1>JavaFX Tower Defence Game System 0.0.1 Applet Demo</h1>
+<script src="http://dl.javafx.com/1.2/dtfx.js"></script>
+<script>
+    javafx(
+        {
+              archive: "Main.jar",
+              width: 640,
+              height: 480,
+              code: "org.mysoft.td.gui.Main",
+              name: "JavaFX Tower Defence Game System 0.0.1 Applet Demo"
+        }
+    );
+</script>
+</body>
+</html>

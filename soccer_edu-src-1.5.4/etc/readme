@@ -1,0 +1,29 @@
+Tao of soccer Education Edition ver 1.5.4
+
+
+===============================================================================
+WINDOWS
+===============================================================================
+
+1) open 3 DOS windows at soccer-1.5.4 directory
+2) start the soccer monitor by typing "soccermaster.bat" in DOS window 1.
+3) start the soccer server by typing "soccerserver.bat" in DOS window 2.
+4) start SFU team by typing "sfu_both_team.bat" in DOS window 3.
+5) On the monotor toolbar, click Play button (the only one enabled); the
+monotor connects to server which will be staying in NoGame mode for any
+time. Then click Forward button to swithch to PreGame mode. Then click on
+Play button again; the Step/Pause button will get enabled; the system
+switches to the regular play mode.
+6) Loading the situation file.
+In the paused state, choose the situation file using Load button. In the
+Situation Setup dialogue that follows, set the number of repetitions of the
+selected situation and the duration (repetiton period). Then click OK.
+7) Running TOS without the monitor.
+Start the server and then the teams. Teams will begin playing the game on
+their own if the monitor does not connect to the server after a pre-defined
+time interval since the server had started (90 seconds by default; this time
+can be set using the server initialization file). 
+The latter feature is useful for evaluating the AI team by repeatedly
+playing same situation, say the corner kick, attack on the goal, etc.
+8) To display real-time game statistics, you may start the observer by typing
+"observer.bat" in a DOS window.

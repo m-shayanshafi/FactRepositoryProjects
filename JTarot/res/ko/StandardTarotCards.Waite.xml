@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="ko" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">공개 소프트웨어</entry>
+	<entry key="ObjectTitle0">0-The바보</entry><entry key="ObjectMeaning0">어리석음, 광, 낭비, 중독, 정신 
+착란, 격앙,bewrayment.</entry>
+	<entry key="ObjectTitle1">1-The마술사</entry><entry key="ObjectMeaning1">특기, 외교, 주소, 예민; 병, 
+고통, 손실, 재해, 적의 올가미; 자기 과신, 
+의지; Querent, 만약에 남성.</entry>
+	<entry key="ObjectTitle2">2-The높은 여사제</entry><entry key="ObjectMeaning2">아직의 비밀, 신비,unrevealed미래; 
+Querent을 관심을 끌는 여자, 만약에 남성; 
+Querent그녀 자신, 만약에 여성; 침묵, 
+강인; 신비, 지혜, 과학.</entry>
+	<entry key="ObjectTitle3">3-The황후</entry><entry key="ObjectMeaning3">Fruitfulness, 활동, 기선, 일의 길이; 
+불명한 것, 은밀한; 또한 곤란, 의혹, 
+무지.</entry>
+	<entry key="ObjectTitle4">4-The황제</entry><entry key="ObjectMeaning4">안정성, 힘, 보호, 현실화; 
+중대한 사람; 원조, 이유, 확신; 
+또한 권위와 의지.</entry>
+	<entry key="ObjectTitle5">5-TheHierophant</entry><entry key="ObjectMeaning5">결혼, 연립, 감금, 노역; 다른 
+계정, 자비 및 미덕에 의하여; 감흥; 
+Querent에는 의지가 있는 남자.</entry>
+	<entry key="ObjectTitle6">6-The애인</entry><entry key="ObjectMeaning6">매력, 사랑, 아름다움, 예심은 
+극복한다.</entry>
+	<entry key="ObjectTitle7">7-The2륜 전차</entry><entry key="ObjectMeaning7">Succour, pr오v이d얹어은 또한, 추정, 복수, 
+말썽 전쟁하고, 성공한다.</entry>
+	<entry key="ObjectTitle8">8 힘</entry><entry key="ObjectMeaning8">힘, 에너지, 활동, 용기, 관대; 
+또한 성공과 명예를 완료하십시요.</entry>
+	<entry key="ObjectTitle9">9-The은자</entry><entry key="ObjectMeaning9">신중, 세심한 주의; 또한 그리고 
+특별하게 반역, 감정, 사기, 타락.</entry>
+	<entry key="ObjectTitle10">운의 10 바퀴</entry><entry key="ObjectMeaning10">운명, 운, 성공, 고각, 운, 경사.</entry>
+	<entry key="ObjectTitle11">11공정</entry><entry key="ObjectMeaning11">공평, 공정, 청렴, 행정관; 
+법률안에 가치가 있는 측의 개선.</entry>
+	<entry key="ObjectTitle12">12-The은 남자를 걸었다</entry><entry key="ObjectMeaning12">지혜, 세심한 주의, 감식력, 예심, 
+희생, 직관, 점, 예언.</entry>
+	<entry key="ObjectTitle13">13죽음</entry><entry key="ObjectMeaning13">또한의 끝, 사망, 파괴, 타락, 남자를
+위해, 여자를 위해 은인의 손실, 많은 반대; 
+하녀를 위해, 결혼의 실패는 계획한다.</entry>
+	<entry key="ObjectTitle14">14절제</entry><entry key="ObjectMeaning14">경제, 절도, 검약, 관리, 설비.</entry>
+	<entry key="ObjectTitle15">15-The악마</entry><entry key="ObjectMeaning15">황폐, 폭력, 격렬함, 특별한 
+노력, 힘, 불운; 운명지어 있고 그러나 이 이유 
+악을 위해 저것은 이지 않는다.</entry>
+	<entry key="ObjectTitle16">16-The탑</entry><entry key="ObjectMeaning16">불행, 고민, 빈곤, 역경, 재앙, 
+치욕, 기만, 파멸. 의외 대참사의 카드 특히 
+이다.</entry>
+	<entry key="ObjectTitle17">17-The별</entry><entry key="ObjectMeaning17">손실, 도둑질, 결핍, 각화; 다른 
+독서 말하 희망 그리고 밝은 장래성,</entry>
+	<entry key="ObjectTitle18">18-The달</entry><entry key="ObjectMeaning18">숨긴 적, 위험, 비방, 암흑, 공포, 
+기만, 신비로운 힘, 과실.</entry>
+	<entry key="ObjectTitle19">19-The일요일</entry><entry key="ObjectMeaning19">물자 행복, 운이 좋은 결혼, 만족.</entry>
+	<entry key="ObjectTitle20">20판단</entry><entry key="ObjectMeaning20">위치, 재생, 결과의 변화. 다른 
+계정은 총계 손실 그러나 소송을 지정한다.</entry>
+	<entry key="ObjectTitle21">21-The세계</entry><entry key="ObjectMeaning21">확실한 성공, r엊옴번서, 항해, 노선, 
+해외이주, 비행, 장소의 변화.</entry>
+	<entry key="ObjectTitle22">컵의 에이스</entry><entry key="ObjectMeaning22">진실한 심혼의 집, 기쁨, 내용, 거주, 
+자양물, 풍부, 비옥; 여기에의 신성한 
+테이블, 경사.</entry>
+	<entry key="ObjectTitle23">컵의 2</entry><entry key="ObjectMeaning23">성의 사랑, 열정, 친교, 친화력, 
+조합, 일치, 교감, 상호 관계, 및 -- 점의 모든 
+사무실은 그렇다 하고 제안으로 -- 쾌락과 사업의 
+것안에sanctified.&lt;p&gt;Additionalmeanings:&lt;/p&gt;Favourable은 
+어느에 의하여 성격 성격안에 이는 까 사랑아울러 
+저 욕망, 그러나,; 또한 부와 명예.</entry>
+	<entry key="ObjectTitle24">컵의 3</entry><entry key="ObjectMeaning24">많음, 얀벽 및 유쾌안에 어떤 사정의
+결론; 행복한 문제점, 승리, 수행, 
+치유하는 위안,</entry>
+	<entry key="ObjectTitle25">컵의 4</entry><entry key="ObjectMeaning25">이 세계의 포도주가 포만을 일으키는 
+원인이 되었었다 처럼, 피로, 단의 싫증, 넌더리, 
+가상vexations; 다른 포도주는, 처럼 
+요전같은 선물, 지금 낭비자를 제안된다, 
+그러나 그는 위로를 거기에 보지 않는다. 이것은 
+또한 혼합한 쾌락의 카드 이다.</entry>
+	<entry key="ObjectTitle26">컵의 5</entry><entry key="ObjectMeaning26">손실의 카드 이다, 그러나 무언가는 넘어서
+남아 있는다; 3개은 가지고 갔다, 그러나 2개은 
+남겨둔다; 상속의 카XX아드, 세습 재산, 
+전송, 그러나 기대에 해당 이다; 몇몇 
+해석자과 결혼의, 그러나 아니다 괴로움 격파없이
+카드 이다.</entry>
+	<entry key="ObjectTitle27">컵의 6</entry><entry key="ObjectMeaning27">과거와 기억의 카드, 뒤에,것과 같이 -- 
+예컨대 -- 유년기에 - 본; 행복, 즐거움, 
+그러나 오히려 과거에서 오는; 사라진 것. 
+이것이 반전하, 새로운 관계, 다른 독서에 
+의하여 신지식, 새로운 환경을 준, 그때 아이들은
+생소한 관할 구역안에 놀고 있다.</entry>
+	<entry key="ObjectTitle28">컵의 7</entry><entry key="ObjectMeaning28">요전같은 호의, 반영, 감정, 상상, 
+숙고의 유리안에 사물의 심상; 이 계급안에 
+어떤 달성, 그러나 영원한 아무것 또는 
+실속품은 건의하지 않는다.</entry>
+	<entry key="ObjectTitle29">컵의 8</entry><entry key="ObjectMeaning29">카드는 표면에 자체적으로를 위해 
+말한다, 그러나 다른 독서는 전체로 정반대 -- 
+기쁨, 온후, 겁, 명예, 겸손을 줌 이다. 
+카드가 사정의 쇠퇴를 보이나, 중요하 
+생각한 사정이 좋으나 나쁜을 위해 경미한 
+결과의 진짜로 -- 이다 고 실제로는, 흔하게 
+발견된다.</entry>
+	<entry key="ObjectTitle30">컵의 9</entry><entry key="ObjectMeaning30">일치, 만족, 육체적인bien-?tre; 
+또한 승리, 성공, 이점; 의논이 하는 
+사람Querent을 위해 만족.</entry>
+	<entry key="ObjectTitle31">컵의 10</entry><entry key="ObjectMeaning31">만족, 전체 심혼의 휴식; 저 
+국가의 얀벽; 인간 사랑 및 친교의 또한 
+얀벽; 몇 그림 카드에,Querent's관심사를 의 
+책임을 지고 있는 사람 만약에; Querent에의해
+거주되는 또한 도시, 마을 또는 나라.</entry>
+	<entry key="ObjectTitle32">컵의 페이지</entry><entry key="ObjectMeaning32">Querent이 연결될 것이다 누구를 
+서비스를과에 만들 위하여 채촉되는 공정한 
+젊은이, 사람; 면학 젊음; 뉴스, 메시지; 
+신청, 반영, 명상; 또한 이 것은 사업에
+지시했다.</entry>
+	<entry key="ObjectTitle33">컵의 기사</entry><entry key="ObjectMeaning33">도착, 메신저의 접근 -- 때때로 저것; 
+전진, 건의안,demeanour, 안내장, 자극.</entry>
+	<entry key="ObjectTitle34">컵의 여왕</entry><entry key="ObjectMeaning34">좋고, 공정한 여자; Querent에 
+서비스를 할 것이다 정직한, 헌신적인 여자,; 
+시각의 사랑하고 있는 정보 및 지금부터 
+선물; 성공, 행복, 쾌락; 또한 
+지혜, 미덕; 완전한 배우자 및 좋은 어머니.</entry>
+	<entry key="ObjectTitle35">컵의 임금</entry><entry key="ObjectMeaning35">공정한 남자, 사업가, 법률, 또는 
+신성; 책임있는,Querent을 은혜를 
+베풀n것을 처분하는; 과학, 법률 및 
+예술을 공언하는 그들을 포함하여 또한 
+공평, 예술 및 과학,; 창조적인 정보.</entry>
+	<entry key="ObjectTitle36">Pentacles의 에이스</entry><entry key="ObjectMeaning36">완전한 만족, 경사, 무아경; 
+또한 빠른 정보; 금&lt;모든 카드의 호의를 
+베풀는p&gt;Additionalmeanings:&lt;/p&gt;The.</entry>
+	<entry key="ObjectTitle37">Pentacles의 2</entry><entry key="ObjectMeaning37">한편으로는 그것은 유쾌, 디자인의 
+주제 이는 그것의 연결 대표된다, 및 휴양의 
+카드로; 그러나 쓰기안에 뉴스 그리고 메시지로 
+또한, 대로 장애, 동요, 말썽,embroilment읽는다.</entry>
+	<entry key="ObjectTitle38">Pentacles의 3</entry><entry key="ObjectMeaning38">무역, 숙련 노동; 흔하게, 
+귀족의 카드로 그런데, 귀족 주시해, 유명, 
+명예.</entry>
+	<entry key="ObjectTitle39">Pentacles의 4</entry><entry key="ObjectMeaning39">것개에는 있는 저것, 선물, 유산, 
+상속에 쪼개는 소유물의 보증인.</entry>
+	<entry key="ObjectTitle40">Pentacles의 5</entry><entry key="ObjectMeaning40">모양안에 -- 다시 말하면 궁핍 -- 
+또는 다르게 설명했다, 카드는 물자 말썽을 
+특히 예고한다. 몇몇cartomancists를 위해, 
+사랑과 애인 아내 의 남편, 친구, 주부의 카드 
+이다; 또한 일치, 친화력. 이 대안은 
+화합될.</entry>
+	<entry key="ObjectTitle41">Pentacles의 6</entry><entry key="ObjectMeaning41">현재, 선물은, 만족은 다른 계정 
+주의 말한다, 조심을 지금 받아들인 시간의, 현재 
+번영,etc.은 이다.</entry>
+	<entry key="ObjectTitle42">Pentacles의 7</entry><entry key="ObjectMeaning42">이들은 대단히 모순되다; 요점안에,
+돈, 사업, 물물교환의 카드 이다; 그러나 1개의
+독서는 언쟁, 싸움을 -- 그리고 다른 순결, 
+재간,purgation준다.</entry>
+	<entry key="ObjectTitle43">Pentacles의 8</entry><entry key="ObjectMeaning43">기술안에 일, 고용, 임무, 기술, 특기 
+및 준비 단계안에 사업, 아마.</entry>
+	<entry key="ObjectTitle44">Pentacles의 9</entry><entry key="ObjectMeaning44">신중, 안전, 성공, 성취, 확신, 
+감식력.</entry>
+	<entry key="ObjectTitle45">Pentacles의 10</entry><entry key="ObjectMeaning45">이익,riches; 가족은, 기록 보관소, 
+적출, 가족의 거주 중요하다.</entry>
+	<entry key="ObjectTitle46">Pentacles의 페이지</entry><entry key="ObjectMeaning46">그것으로의 신청, 학문, 장학금, 
+반영은 다른 독서 뉴스 말한다, 메시지 
+및bringer을; 또한 규칙, 관리.</entry>
+	<entry key="ObjectTitle47">Pentacles의 기사</entry><entry key="ObjectMeaning47">공용품,serviceableness, 관심사, 
+r엊딛으d어 모든 책임 위에 정상, 외부 편평한 
+것.</entry>
+	<entry key="ObjectTitle48">Pentacles의 여왕</entry><entry key="ObjectMeaning48">부유, 관대, 장려, 안전, 자유.</entry>
+	<entry key="ObjectTitle49">Pentacles의 임금</entry><entry key="ObjectMeaning49">이 종류의 정보, 사업 및 정상적인 
+지적인 적성, 때때로 수학 선물 및 달성 
+실현하는Valour; 이 경로안에 성공.</entry>
+	<entry key="ObjectTitle50">칼의 에이스</entry><entry key="ObjectMeaning50">정복, 힘의 개선, 개선, 모두안에 
+과량 계급. 증오심안에아울러 사랑안에 
+중대한 힘의 카드, 이다. 크라운은 운 
+말하기의 구체안에 온다 흔하게 매우 더 높은 
+의미를 나를지도 모른다.</entry>
+	<entry key="ObjectTitle51">칼의 2</entry><entry key="ObjectMeaning51">적합과 건의하는equipoise, 용기, 
+친교, 팔의 국가안에 일치; 다른 독서는 
+연함, 애정, 친밀을 준다. 칼이 일반적으로 
+인간 사변안에 자선심이 많은 힘의 상징이 
+아니기적 이지 않기 때문에, 하모니의 제안 및 다른 
+호의를 베풀는 독서는 자격이 된 방법안에 
+사려되어야 한다.</entry>
+	<entry key="ObjectTitle52">칼의 3</entry><entry key="ObjectMeaning52">제거, 휴무, 지연, 사단, 파열, 분산, 
+및 디자인이 자연적으로 의미하는 모두, 명확한 
+열거를 위해 부르기 에는 너무 간단하고 명백하 
+있는.</entry>
+	<entry key="ObjectTitle53">칼의 4</entry><entry key="ObjectMeaning53">조심, 퇴각, 고독, 은자 휴식, 망명, 
+무덤 및 관. 그것은 이 최후 이다 디자인을 
+건의한.</entry>
+	<entry key="ObjectTitle54">칼의 5</entry><entry key="ObjectMeaning54">강직, 파괴, 폐지, 악평, 불명예,
+이들의 이체 그리고 아날로그에 손실.</entry>
+	<entry key="ObjectTitle55">칼의 6</entry><entry key="ObjectMeaning55">근해, 노선, 방법, 적당한 결구에 
+의하여 여행,commissionary.</entry>
+	<entry key="ObjectTitle56">칼의 7</entry><entry key="ObjectMeaning56">디자인, 시도, 소원, 희망, 신뢰; 
+또한, 실패할지도 모른다 계획, 등쌀 
+싸운. 의미가 서로와 불화하여 넓게 이기 
+때문에, 디자인은 그것의 수입품안에 미심쩍다.</entry>
+	<entry key="ObjectTitle57">칼의 8</entry><entry key="ObjectMeaning57">충돌, 비방, 나쁜 소식, 강력한 
+억울함, 위기, 책망, 방해안에 힘; 또한 
+병.</entry>
+	<entry key="ObjectTitle58">칼의 9</entry><entry key="ObjectMeaning58">죽음, 실패, 유산, 지연, 기만, 실의, 
+절망.</entry>
+	<entry key="ObjectTitle59">칼의 10</entry><entry key="ObjectMeaning59">Whatsoever디자인에의해 간접적으로 
+알린다; 또한 고통, 고통, 눈물, 슬픔, 
+황폐. 폭력에 의한 죽음의 특별하게 
+카드가 아니다.</entry>
+	<entry key="ObjectTitle60">칼의 페이지</entry><entry key="ObjectMeaning60">권위, 감시, 검사, 및 다시 속하는 질 
+우연히 목격, 비밀 기관, 조심.</entry>
+	<entry key="ObjectTitle61">칼의 기사</entry><entry key="ObjectMeaning61">특기, 용감성, 수용량, 방위, 
+주소, 증오, 분노, 전쟁, 파괴, 반대, 저항, 
+파멸. 그런 까닭에 카드가 죽음을 의미하는 
+감 있는다, 그러나 불운의 다른 카드에 그것의 
+근접안에 이 의미를 단 나른다.</entry>
+	<entry key="ObjectTitle62">칼의 여왕</entry><entry key="ObjectMeaning62">Widowhood, 여성 슬픔 및 당황 의 
+휴무, 결핍 슬퍼하는, 무균 별거.</entry>
+	<entry key="ObjectTitle63">칼의 임금</entry><entry key="ObjectMeaning63">Whatsoever판단의 아이디어 및 모든 그것의 
+연결 힘, 명령, 권위, 호전적인 정보, 법률, 
+크라운의 사무실에서, 등등 일어난다.</entry>
+	<entry key="ObjectTitle64">지팡이의 에이스</entry><entry key="ObjectMeaning64">창조, 발명품, 기업, 이들안에 
+유래하는 힘; 원리, 처음, 근원; 출생, 
+가족, 원천, 및 어떤 의미로는 그들뒤에 이는 
+사내다움; 기업의 출발점; 다른 계정에
+따르면, 돈, 운, 상속.</entry>
+	<entry key="ObjectTitle65">지팡이의 2</entry><entry key="ObjectMeaning65">양자택일 독서사이 가능한 결혼; 
+한편으로는,riches, 운, 장려; 다른 
+사람에, 육체적인 질고, 질병, 억울함, 슬픔, 
+모r디f잊XX이온. 디자인은 1개의 제안을 준다; 
+여기 그의 판도를 바라보고 교체로 지구를 
+관조해 주는 이다; 그것은 병, 모r디f잊XX이온, 
+숙녀가 하찮은 실의가 예상할지도 모른다 이 
+세계wealth.&lt;p&gt;Additionalmeanings:&lt;/p&gt;A의 웅대의 속에 
+알렉산더의 슬픔 본다.</entry>
+	<entry key="ObjectTitle66">지팡이의 3</entry><entry key="ObjectMeaning66">그는 설치했다 힘, 기업, 노력, 무역, 
+상업, 발견을 상징한다; 그들은 그의 
+상품을 품는 바다상공에 항해하고 있는 
+그의 배 이다. 성공적인 상인 황태자가 
+도움you.&lt;p&gt;Additionalmeanings:&lt;/p&gt;A아주 좋은 카드를 
+예상해서 너의 것으로 그 측에서 보고 있었다 처럼,
+카드는 또한 사업안에 능력있는 협력을 
+의미한다; 기업이 협력에 의하여 호의를 보일 
+것이다.</entry>
+	<entry key="ObjectTitle67">지팡이의 4</entry><entry key="ObjectMeaning67">그들은 표면 -- 전원 생활, 피난처,
+종, 휴식, 일치, 하모니, 번영, 평화, 및 국내 
+추수 가정의 피난의 이들의 완전히 한 일에 
+한번만 거의 있는다.</entry>
+	<entry key="ObjectTitle68">지팡이의 5</entry><entry key="ObjectMeaning68">모방,as, 예를 들면, 가짜 전투, 
+그러나 또한riches과 운다음에 수색의 격렬한 
+경쟁 및 투쟁. 이 감안에 그것은 생활의
+전투와 연결한다. 지금부터 금, 이익, 부유의
+카드 이는 것과 몇몇 속성은 말한다.</entry>
+	<entry key="ObjectTitle69">지팡이의 6</entry><entry key="ObjectMeaning69">카드는 이고 그래서 몇 의미를 
+충당할 수 있는다 고 디자인했다; 
+표면에, 성공해 승리자 이다, 그러나 또한 
+중대한 뉴스 이다, 진술한다 임금 특사에 의하여 
+안으로 나른; 그것의 자신의 욕망, 희망의 
+크라운에 관을 씌우는 기대, 등등 이다.</entry>
+	<entry key="ObjectTitle70">지팡이의 7</entry><entry key="ObjectMeaning70">표면, 6에valour의 카드,을 위해, 
+공격하고 있다 있는 1개을, 그런데, 유리 위치 
+이다. 지적인 비행기에, 그것은 면담, 말 
+투쟁을 의미한다; 사업 -- 교섭안에, 무역, 
+물물교환, 경쟁의 전쟁. 
+him.&lt;p&gt;Additionalmeanings:&lt;/p&gt;A암흑 아이를 도달하게 
+더 성공의 카드 이다, 왜냐하면 전투원은 
+정상에 이고 그의 적은 지도 모른다.</entry>
+	<entry key="ObjectTitle71">지팡이의 8</entry><entry key="ObjectMeaning71">기업안에 활동, 그런 활동, 급행 
+메신저의 저것으로 신속의 경로,; 중대한 
+성급, 중대한 희망, 확실한 경사를 
+약속하는 끝으로 속도; 일반적으로, 항상 
+움직이고 있는 저것; 
+또한love.&lt;p&gt;Additionalmeanings:&lt;/p&gt;Domestic의 화살은
+결혼한 사람을 위해 논박한다.</entry>
+	<entry key="ObjectTitle72">지팡이의 9</entry><entry key="ObjectMeaning72">카드는 반대안에 힘을 의미한다. 
+공격해 만약에, 사람은 맹공격을 
+대담하게 만날 것이다; 그리고 그의 구조는, 
+그가 강한 길항근을 시험할지도 모른다 저것 
+보인다. 이 나쁜 카드, 주요한 의미에 모든 그것의
+가능한 부가물 -- 지연, 현탁액, 
+말하는adjournment.&lt;p&gt;Additionalmeanings:&lt;/p&gt;Generally있는다.</entry>
+	<entry key="ObjectTitle73">지팡이의 10</entry><entry key="ObjectMeaning73">많은significances의 카드, 및 독서의 
+어떤은 화합될. 나는 명예와 성실과 
+그것을 연결하는 저것을 곁에 둔다. 주요한
+의미는 탄압 간단하게 이다, 그러나 또한 운, 이익, 
+성공의 어떤 종류 이고, 그때 이 것의 탄압 이다. 
+또한 의 변장, 불신의 카드 틀리 보이기 이다. 
+숫자에 의하여 접근하고 있는 장소는 그가 
+나르는 막대로 고통받l지도 모른다. 좋은 
+카드의 가까이에 
+어느loss.&lt;p&gt;Additionalmeanings:&lt;/p&gt;Difficulties과 모순, 
+있으면 칼의 9개이 따르면, 그리고 소송의 질문 
+이으면 성공은 어리석어 뵈게 했다 이다.</entry>
+	<entry key="ObjectTitle74">지팡이의 페이지</entry><entry key="ObjectMeaning74">, 애인 충실한, 우체부, 어두운 
+젊은이 결구. 남자의 옆에, 그는 그에 관하여 
+호의를 베풀l 고백을 품을 것이다. 컵의 
+페이지에의해 따라 만약에 위험한 경쟁자. 
+그의 한 벌의 주요한 질을 있는다. 그는 
+가족 정보를 의미할지도 모른다.</entry>
+	<entry key="ObjectTitle75">지팡이의 기사</entry><entry key="ObjectMeaning75">출발, 휴무, 비행, 해외이주. 
+친절한 어두운 젊은이. 주거 변경.</entry>
+	<entry key="ObjectTitle76">지팡이의 여왕</entry><entry key="ObjectMeaning76">어두운 여자, 시골 여자, 친절한 의 
+훌륭한 사랑 순결한. 그녀의 옆에 
+카드가 남자를 의미하면, 그녀는 그로 잘 
+처분된다; 여자가, 그녀Querent에 
+흥미있으면. 또한, 돈의 사랑, 또는 사업안에
+어느 정도 성공.</entry>
+	<entry key="ObjectTitle77">지팡이의 임금  </entry><entry key="ObjectMeaning77">어두운 남자, 시골사람 친절한, 
+일반적으로 결혼하는, 정직한과 양심. 
+카드는 아주 오랫동안의 앞에 안으로 떨어지기 
+위하여 항상 정직을 의미하고, 의외 유산에 관하여
+뉴스를 의미할지도 모른다.</entry>
+	<entry key="ReversedMeaning0">태만, 휴무, 배급, 부주의, 냉담, 무효, 
+허영.</entry>
+	<entry key="ReversedMeaning1">마기족 사람, 정신 질병, 치욕, 불안, 의사.</entry>
+	<entry key="ReversedMeaning2">열정의, 도덕 또는 육체 열정, 자만, 지상 
+지견.</entry>
+	<entry key="ReversedMeaning3">빛, 진실, 연루되는 사정, 공중 기쁨의 
+해결; 다른 독서에 따르면, 동요.</entry>
+	<entry key="ReversedMeaning4">인덕, 연민, 신용; 적에게 또한 혼란, 
+방해, 미숙.</entry>
+	<entry key="ReversedMeaning5">사회, 좋은 이해, 일치,overkindness, 약점.</entry>
+	<entry key="ReversedMeaning6">실패, 미련한 디자인. 다른 계정은 
+좌절시키는 결혼과 모든 종류의 반대의 
+말한다.</entry>
+	<entry key="ReversedMeaning7">난동, 싸움, 논박, 소송, 패배.</entry>
+	<entry key="ReversedMeaning8">전제 정치, 독재제, 압제, 독재자 행세, 
+전제국, 전제정부,despotist전제론자, 남용 
+만약에 힘, 약점, 갈등, 때때로 조차 치욕.</entry>
+	<entry key="ReversedMeaning9">은폐, 변장, 방침, 공포는, 
+주의를unreasoned.</entry>
+	<entry key="ReversedMeaning10">증가, 풍부, 여분.</entry>
+	<entry key="ReversedMeaning11">모든 그것의 부, 법적인 합병증, 완미한 
+신앙, 편견, 과량 엄격엄격안에 법률.</entry>
+	<entry key="ReversedMeaning12">사심, 군중, 정치적 통일체.</entry>
+	<entry key="ReversedMeaning13">관성, 잠, 혼수, 석화, 몽유병; 
+희망은 파괴했다.</entry>
+	<entry key="ReversedMeaning14">것은 교회, 종교, 종파, 성직과, 때때로 
+고른다Querent을 결혼할 것이다 성직자를 
+연결했다; 또한 d잇은이온, 불운한 조합, 
+각축 관심사.</entry>
+	<entry key="ReversedMeaning15">나쁜 불운, 약점, 하찮음, 장님.</entry>
+	<entry key="ReversedMeaning16">1개의 또한의 계정에 따르면, 적은 계급 
+탄압, 투옥, 폭정안에 동일물.</entry>
+	<entry key="ReversedMeaning17">거만, 오만함, 성불능.</entry>
+	<entry key="ReversedMeaning18">기만의 불안정성, 변덕, 침묵, 적은 
+계급 및 과실.</entry>
+	<entry key="ReversedMeaning19">조금 감안에 동일물.</entry>
+	<entry key="ReversedMeaning20">약점, 븟일란임XXy, 간명; 또한 숙고, 
+결정, 형.</entry>
+	<entry key="ReversedMeaning21">관성, 고정물, 침체, 영구성.</entry>
+	<entry key="ReversedMeaning22">위치의 의외 변화.</entry>
+	<entry key="ReversedMeaning23">열정.</entry>
+	<entry key="ReversedMeaning24">위로, 치료, 사업의 말.</entry>
+	<entry key="ReversedMeaning25">Presentiment.</entry>
+	<entry key="ReversedMeaning26">오랫동안을 위해 보지 않은 어떤 친척의 
+반환.</entry>
+	<entry key="ReversedMeaning27">안으로 빠르게 내릴 것이다 상속.</entry>
+	<entry key="ReversedMeaning28">컵의 3과 함께 만약에 성공.</entry>
+	<entry key="ReversedMeaning29">완전한 만족.</entry>
+	<entry key="ReversedMeaning30">좋은 사업.</entry>
+	<entry key="ReversedMeaning31">비애; 또한 심각한 싸움.</entry>
+	<entry key="ReversedMeaning32">모든 종류의 장애.</entry>
+	<entry key="ReversedMeaning33">불규칙성.</entry>
+	<entry key="ReversedMeaning34">남자를 위해 부유한 결혼 및 여자를 위해 
+수훈이 있는 것.</entry>
+	<entry key="ReversedMeaning35">손실.</entry>
+	<entry key="ReversedMeaning36">부, 나쁜 정보의 나쁜 측; 또한 
+중대한riches. 번영, 안락한 물자 조건을 
+보이고, 그러나 이들이 소지자에게 이점의 이다 위에 
+카드가 또는 아니다&lt;p&gt;Additionalmeanings:&lt;/p&gt;보물의 
+발견안에 몫 반전한다 의존할 것이다 어떤 
+케이스안에.</entry>
+	<entry key="ReversedMeaning37">나쁜 전조, 무지, 부정.</entry>
+	<entry key="ReversedMeaning38">이웃 카드에 의존한다.</entry>
+	<entry key="ReversedMeaning39">관측, 지장.</entry>
+	<entry key="ReversedMeaning40">사랑안에 말썽.</entry>
+	<entry key="ReversedMeaning41">Querent's명예심에 체크.</entry>
+	<entry key="ReversedMeaning42">성급함, 이해, 의혹.</entry>
+	<entry key="ReversedMeaning43">Querent은 돈 빌려주기의 사정안에 타협될 
+것이다.</entry>
+	<entry key="ReversedMeaning44">헛된 희망.</entry>
+	<entry key="ReversedMeaning45">또는 다르게 운이 좋을지도 모른다 경우.</entry>
+	<entry key="ReversedMeaning46">때때로 강직과 때때로 약탈.</entry>
+	<entry key="ReversedMeaning47">고용에서 용감한 남자.</entry>
+	<entry key="ReversedMeaning48">병.</entry>
+	<entry key="ReversedMeaning49">오래 되고는 맹렬한 남자.</entry>
+	<entry key="ReversedMeaning50">그녀의 자신의 몰지각으로, 여자를 위해, 
+그만두는 결혼.</entry>
+	<entry key="ReversedMeaning51">불량배와 거래.</entry>
+	<entry key="ReversedMeaning52">Querent이 타협했다 누구를 것에 회의; 
+또한 수녀.</entry>
+	<entry key="ReversedMeaning53">총명한 행정을 따르는 어느 정도 성공.</entry>
+	<entry key="ReversedMeaning54">비애와 슬퍼하기의 표시.</entry>
+	<entry key="ReversedMeaning55">소송의 형편이 나쁜 문제점.</entry>
+	<entry key="ReversedMeaning56">가능하게 무시되는 좋은 통보.</entry>
+	<entry key="ReversedMeaning57">친척의 출발.</entry>
+	<entry key="ReversedMeaning58">의심스러운 사람향하여 의혹을 위해 좋은 
+지상.</entry>
+	<entry key="ReversedMeaning59">전쟁안에 군인을 위해 승리 그리고 
+필연적인 운.</entry>
+	<entry key="ReversedMeaning60">놀라운 뉴스.</entry>
+	<entry key="ReversedMeaning61">저능 사람과 논박; 여자를 위해, 타파될
+것이다 경쟁자와 투쟁.</entry>
+	<entry key="ReversedMeaning62">Querent으로 악의에 나쁜 여자.</entry>
+	<entry key="ReversedMeaning63">나쁜 남자; 파괴적인 소송에 막을 
+내리는 또한 주의.</entry>
+	<entry key="ReversedMeaning64">출생의 표시.</entry>
+	<entry key="ReversedMeaning65">놀람, 경이, 매혹, 정서, 말썽, 공포.</entry>
+	<entry key="ReversedMeaning66">역경, 수고 및 실의의 말썽, 현탁액 
+또는 중지의 말.</entry>
+	<entry key="ReversedMeaning67">결혼한 여자는 아름다운 아이가 있을 것이다.</entry>
+	<entry key="ReversedMeaning68">싸움은 이점에 돌l지도 모른다.</entry>
+	<entry key="ReversedMeaning69">거치된 희망의 수행.</entry>
+	<entry key="ReversedMeaning70">당황, 당황, 불안. 우유 부단향하여
+또한 주의 이다.</entry>
+	<entry key="ReversedMeaning71">시기심, 싸움, 내부 논박, 양심의stingings의 
+화살; 그리고 결혼되는 사람을 위해 가정 
+불화.</entry>
+	<entry key="ReversedMeaning72">장애, 역경, 재앙.</entry>
+	<entry key="ReversedMeaning73">반대, 곤란, 음모, 및 그들의 유례.</entry>
+	<entry key="ReversedMeaning74">나쁜 소식.</entry>
+	<entry key="ReversedMeaning75">여자를 위해, 결혼, 그러나 가능하게 
+좌절시키는.</entry>
+	<entry key="ReversedMeaning76">Querent으로, 그러나 그것을 운동하는 기회없이 
+친절.</entry>
+	<entry key="ReversedMeaning77">따라야 하는 충고.</entry>
+</oracleio>

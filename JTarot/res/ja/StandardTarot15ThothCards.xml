@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Original Thoth Spread" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">Thoth の元の広がり</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0">querent 及び質問の性質</entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1">querent 及び質問の性質</entry>
+	<entry key="PositionTitle2">Querent 3</entry><entry key="Meaning2">querent 及び質問の性質</entry>
+	<entry key="PositionTitle3">第2 結果1</entry><entry key="Meaning3">二番目に可能な結果</entry>
+	<entry key="PositionTitle4">最初結果3</entry><entry key="Meaning4">最初可能な結果</entry>
+	<entry key="PositionTitle5">心理的な3</entry><entry key="Meaning5">全体の広がりの"心理的な論評" </entry>
+	<entry key="PositionTitle6">外面の要因1</entry><entry key="Meaning6">querent の制御を越える要因</entry>
+	<entry key="PositionTitle7">第2 結果2</entry><entry key="Meaning7">二番目に可能な結果</entry>
+	<entry key="PositionTitle8">最初結果2</entry><entry key="Meaning8">最初可能な結果</entry>
+	<entry key="PositionTitle9">心理的な2</entry><entry key="Meaning9">全体の広がりの"心理的な論評" </entry>
+	<entry key="PositionTitle10">外面の要因2</entry><entry key="Meaning10">querent の制御を越える要因</entry>
+	<entry key="PositionTitle11">第2 結果3</entry><entry key="Meaning11">二番目に可能な結果</entry>
+	<entry key="PositionTitle12">最初結果1</entry><entry key="Meaning12">最初可能な結果</entry>
+	<entry key="PositionTitle13">心理的な1</entry><entry key="Meaning13">全体の広がりの"心理的な論評" </entry>
+	<entry key="PositionTitle14">外面の要因3</entry><entry key="Meaning14">querent の制御を越える要因</entry>
+</oracleio>

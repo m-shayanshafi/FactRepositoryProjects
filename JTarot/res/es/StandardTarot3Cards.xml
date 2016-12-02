@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Three cards" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Tres tarjetas</entry>
+	<entry key="Description">Esto es una disposición última, presente y futura 
+simple. Esta disposición es la mejor describir las situaciones 
+simples que realmente no requieren un análisis largo y profundo. 
+Esto se hace a veces antes de hacer una disposición más 
+complicada para ayudarle a enfocar sus ideas, sensaciones, o 
+preguntas. También esto se puede hacer después de que una 
+disposición más complicada todavía para especificar más lejos una 
+pregunta específica restante de la disposición compleja.</entry>
+	<entry key="PositionTitle0">Más allá de</entry><entry key="Meaning0">Qué ha sucedido en el pasado. Qué usted sabe 
+ya. Qué usted está trayendo con usted en este problema.</entry>
+	<entry key="PositionTitle1">Presente</entry><entry key="Meaning1">Donde usted ahora está. Qué usted ahora se 
+está sintiendo. Qué ahora le está sucediendo.</entry>
+	<entry key="PositionTitle2">Futuro</entry><entry key="Meaning2">Qué va a suceder en el futuro. Éste no es 
+generalmente el futuro demasiado distante pero el timeframe depende de
+la pregunta.</entry>
+</oracleio>

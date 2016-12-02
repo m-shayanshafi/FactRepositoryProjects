@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/30/trunk/src/GameElements
+END
+bullet.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30/trunk/src/GameElements/bullet.png
+END
+female.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30/trunk/src/GameElements/female.png
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/trunk/src/GameElements/GameObject.java
+END
+PowerUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/30/trunk/src/GameElements/PowerUp.java
+END
+MainCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/trunk/src/GameElements/MainCharacter.java
+END
+PowerUpType.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/trunk/src/GameElements/PowerUpType.java
+END
+Chest.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30/trunk/src/GameElements/Chest.java
+END
+DynamicObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/30/trunk/src/GameElements/DynamicObject.java
+END
+Enemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/30/trunk/src/GameElements/Enemy.java
+END
+male.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/30/trunk/src/GameElements/male.png
+END
+chestfinal.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/trunk/src/GameElements/chestfinal.png
+END
+Movable.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/src/GameElements/Movable.java
+END
+Zombie.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/src/GameElements/Zombie.java
+END
+zombiemob.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30/trunk/src/GameElements/zombiemob.png
+END
+Bullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/src/GameElements/Bullet.java
+END

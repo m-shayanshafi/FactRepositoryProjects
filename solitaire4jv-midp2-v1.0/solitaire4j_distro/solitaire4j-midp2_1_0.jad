@@ -1,0 +1,9 @@
+MIDlet-Name: lonely
+MIDlet-Version: 1.0
+MIDlet-Vendor: jhvm
+MIDlet-Jar-URL: Generic-midp2.jar
+MIDlet-Jar-Size: 45325
+MIDlet-Description: Solitaro's Game
+MIDlet-Icon: /dot.png
+MIDlet-1: solitario,/dot.png,Main
+MIDlet-Delete-Confirm: Do you really want to kill me?

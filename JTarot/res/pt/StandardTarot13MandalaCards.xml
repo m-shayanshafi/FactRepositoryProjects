@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação De Mandala/Alchemical (Guiley)</entry>
+	<entry key="Description">Fazendo a leitura com somente os primeiros nove 
+cartões é chamado a propagação de Mandala. Adicionar os 
+quatro cartões elemental é a propagação alchemical</entry>
+	<entry key="PositionTitle0">O self</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Desejos</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Sonhos</entry><entry key="Meaning2">O que você quer conseguir</entry>
+	<entry key="PositionTitle3">Perseguições</entry><entry key="Meaning3">O que nós tentamos ativamente conseguir</entry>
+	<entry key="PositionTitle4">Acessórios</entry><entry key="Meaning4">Perseguições que nos prendem para trás de conseguir 
+nossos sonhos. Para o exemplo, o sonho de muitos povos do 
+dinheiro da felicidade mas da perseguição que pensa d fá-los-á 
+feliz. Entretanto, é a preocupação sobre o dinheiro, não a 
+falta dele, que impede realmente a felicidade.</entry>
+	<entry key="PositionTitle5">Qualidades</entry><entry key="Meaning5">Aspectos bons sobre o querent</entry>
+	<entry key="PositionTitle6">Sorrows</entry><entry key="Meaning6">Falhas do querent que necessitam melhorar</entry>
+	<entry key="PositionTitle7">Self-imagem</entry><entry key="Meaning7">Como as vistas querent him/herself</entry>
+	<entry key="PositionTitle8">Impuso da alma</entry><entry key="Meaning8">One's finalidade verdadeira e desitiny</entry>
+	<entry key="PositionTitle9">Terra</entry><entry key="Meaning9">Escuridão, mistério, e o desconhecido</entry>
+	<entry key="PositionTitle10">Ar</entry><entry key="Meaning10">Iluminação e enlightenment espirituais</entry>
+	<entry key="PositionTitle11">Fogo</entry><entry key="Meaning11">Intellect, pensamento racional, vontade</entry>
+	<entry key="PositionTitle12">Água</entry><entry key="Meaning12">Creatividade e emoções</entry>
+</oracleio>

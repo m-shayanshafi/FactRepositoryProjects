@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="nl" author="Thomas Dilts" >
+<entry key="menulanguage">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+<entry key="Advisor">Adviseur</entry>
+<entry key="BadFileMessage">Het dossier u selecteerde kon niet worden gebruikt. 
+Probeer opnieuw met een ander dossier dat het correcte formaat 
+is.</entry>
+<entry key="CancelButton">Annuleer</entry>
+<entry key="CardSelectionWizard">De Tovenaar van de Selectie van objecten</entry>
+<entry key="ChooseWhichFileToCreate">Kies welk dossier u wilt en dan de "creëert dit dossier" knoop 
+drukt</entry>
+<entry key="Create this file">Creëer dit dossier</entry>
+<entry key="DoYouWantToMakeThisDefault">Wilt u dit uw standaarddossier bij tne volgende nieuw begin van 
+jTarot maken?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, u raakte annuleert. Wilt u werkelijk al uw 
+veranderingen weg werpen?</entry>
+<entry key="Graphical objects">Grafische voorwerpen</entry>
+<entry key="Lastusedreadingslistisempty">De laatste gebruikte lezingenlijst is leeg</entry>
+<entry key="Layout translations">De vertalingen van de lay-out</entry>
+<entry key="Layout">Lay-out</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Selecteer in de linkerlijst manueel het voorwerp dat in het 
+beeld op het recht en de klap ' daarna ' wordt getoond.</entry>
+<entry key="ManuallySelectEachCard">Selecteer manueel elk voorwerp</entry>
+<entry key="Menu and message translations">De vertalingen van het menu en van het bericht</entry>
+<entry key="More">Meer</entry>
+<entry key="NextButton">Daarna</entry>
+<entry key="No">Nr</entry>
+<entry key="OpenAFile">Selecteer een te openen dossier</entry>
+<entry key="Oracle translations">De vertalingen van het orakel</entry>
+<entry key="RandomlyChooseTheNextCard">Selecteer het volgende voorwerp om in de positie te gaan die in 
+het beeld wordt getoond.</entry>
+<entry key="RandomlySelectCards">Selecteer willekeurig voorwerpen</entry>
+<entry key="Removealllastusedreadings">Verwijder alle laatste gebruikte lezingen</entry>
+<entry key="SaveAFile">Selecteer een dossier of ga een nieuwe dossiernaam in</entry>
+<entry key="SelectLayoutAndCardSelection">Kies de lay-out u en de manier wilt u de voorwerpen wilt 
+selecteren; of willekeurig of manueel. Als u werkelijk 
+hier wordt verloren, raak enkel de knoop ' willekeurig uitgezochte 
+voorwerpen "</entry>
+<entry key="Smaller group of objects">Kleinere groep voorwerpen</entry>
+<entry key="StartupWizard">Start Tovenaar</entry>
+<entry key="TheDeckCopyright">Het beeldauteursrecht van objecten</entry>
+<entry key="Title">jTarot en Runen</entry>
+<entry key="Type of oracle">Type van orakel</entry>
+<entry key="Use reversed objects">Gebruik omgekeerde voorwerpen</entry>
+<entry key="Yes">Ja</entry>
+<entry key="YouMustFirstSelectAValidCard">U moet een geldig voorwerp eerst selecteren</entry>
+<entry key="advancedLabel">Geavanceerd</entry>
+<entry key="advisorsLabel">Adviseurs</entry>
+<entry key="browseroptionsLabel">Toon browser optiesdialoog</entry>
+<entry key="cardisreversed">Dit voorwerp wordt omgekeerd</entry>
+<entry key="contributeLabel">Hoe kan ik dit project helpen?</entry>
+<entry key="copyrighttitle">De tekstenauteursrecht van de adviseur</entry>
+<entry key="createsetupfilesLabel">Creëer een dossier van de orakelopstelling</entry>
+<entry key="editsetupfileLabel">Geef een opstellingsdossier uit</entry>
+<entry key="exitLabel">Uitgang</entry>
+<entry key="exportLabel">De uitvoer</entry>
+<entry key="exporthtmlLabel">HTML (Vele dossiers, compatibel systeem alle Webbrowsers)</entry>
+<entry key="exportmhtmlLabel">MHTML (Enig dossier, het compatibele systeem van MS-Windows)</entry>
+<entry key="exportwarLabel">WAR (Enig dossier, compatibel systeem Konqueror en sommige 
+mozillaklonen)</entry>
+<entry key="generalhelpLabel">Hulp</entry>
+<entry key="givetranslatehelpLabel">Vertaal ' hulp ' aan uw taal</entry>
+<entry key="helpLabel">Hulp</entry>
+<entry key="ifreversed">Omgekeerde beschrijving</entry>
+<entry key="imagesLabel">Beelden</entry>
+<entry key="languageLabel">Taal</entry>
+<entry key="loadsetupfileLabel">Laad een opstellingsdossier voor gebruik in dit programma</entry>
+<entry key="newlayoutLabel">Doe een nieuwe lezing</entry>
+<entry key="openLabel">Open een eerder bewaarde lezing</entry>
+<entry key="optionsLabel">Opties</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Druk via Webbrowser</entry>
+<entry key="readingsLabel">Lezingen</entry>
+<entry key="recentLabel">Laatste gebruikte lezingen</entry>
+<entry key="reportbugLabel">Meld een programmafout</entry>
+<entry key="saveLabel">Sparen de huidige lezing</entry>
+<entry key="screensPersonalReading">Uw vertaling van de lezing</entry>
+<entry key="screensQuestion">Vraag voor de lezing</entry>
+<entry key="screensReading">Geproduceerde Lezing</entry>
+<entry key="showallobjectsLabel">Toon alle beelden voor dit orakel</entry>
+<entry key="showpositionnumbersLabel">Toon de aantallen van de lay-outpositie</entry>
+<entry key="showreversedandnormalLabel">Toon samen normale en omgekeerde objecten teksten</entry>
+<entry key="thecard">Het voorwerp</entry>
+<entry key="theposition">Positie</entry>
+</oracleio>

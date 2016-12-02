@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/thai-go/src/thaigo/state
+END
+EndPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/thai-go/src/thaigo/state/EndPhase.java
+END
+GamePhaseAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/state/GamePhaseAbstract.java
+END
+WaitingPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/thai-go/src/thaigo/state/WaitingPhase.java
+END
+UpdateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/thai-go/src/thaigo/state/UpdateTask.java
+END
+MainPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/thai-go/src/thaigo/state/MainPhase.java
+END

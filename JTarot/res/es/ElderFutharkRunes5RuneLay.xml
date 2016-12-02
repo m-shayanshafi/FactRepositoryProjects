@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Five Runes" classification="LayoutTranslations" version="1" language="es" author="Peschel, A Practical Guide to the Runes" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Peschel, una guía práctica al Runes</entry>
+		<entry key="Title">Disposición de cinco rune</entry>
+		<entry key="Description">Este runecast indica sucesos futuros recientes, 
+generalmente en el plazo de tres meses.</entry>
+		<entry key="PositionTitle0">Presente</entry><entry key="Meaning0">Su problema como ahora está. Puede también 
+demostrar su estado de la mente. Un rune negativo en esta 
+posición que no se parezca estar en synch con la pregunta puede 
+demostrar a menudo que usted (o sus querant) está de un estado de la 
+mente muy preocupado y agitado</entry>
+		<entry key="PositionTitle1">Más allá de</entry><entry key="Meaning1">Cuál era en el pasado que le hizo estar en su posición
+actual</entry>
+		<entry key="PositionTitle2">Ayuda</entry><entry key="Meaning2">La ayuda que usted puede esperar que reciba en el 
+problema actual. Si hay un rune negativo aquí, puede indicar 
+una desgana de aceptar el consejo dado por los runes u otra persona, o
+puede indicar retrasa o los problemas leves que pueden impedir la 
+resolución rápida de la materia en la pregunta</entry>
+		<entry key="PositionTitle3">Inflexibilidades</entry><entry key="Meaning3">Qué aspectos del problema se deben aceptar y no pueden 
+ser cambiados. Los runes positivos aquí demuestran una carencia
+de influencias y de oposiciones molestas, mientras que los runes 
+negativos demuestran los obstáculos a su éxito.</entry>
+		<entry key="PositionTitle4">Futuro</entry><entry key="Meaning4">El resultado final, dado los otros factores en el 
+runecast.</entry>
+</oracleio>

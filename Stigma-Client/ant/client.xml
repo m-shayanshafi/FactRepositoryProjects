@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="Client" default="build_package">
+
+	<property name="package" value="Stigma-Client" />
+	<property name="main_class" value="pl.org.minions.stigma.client.Main" />
+
+	<patternset id="source_pattern">
+		<include name="**/client/**" />
+		<include name="**/client/*.java" />
+		<include name="**/utils/ui/synth/*.java" />
+		<include name="**/logger/Log.java" />
+		<include name="**/minions/utils/*.java" />
+
+		<exclude name="**/test/*.java" />
+	</patternset>
+
+	<patternset id="jar_files_pattern">
+		<include name="img/client/**/*.png" />
+		<include name="img/default/**/*.png" />
+
+		<include name="synth/client/*.xml" />
+	</patternset>
+
+	<patternset id="package_files_pattern">
+		<!-- This means 'empty' -->
+		<exclude name="**/*.*" />
+		<exclude name="**/**" />
+	</patternset>
+
+	<input addproperty="keystore" message="Keystore location" />
+	<input addproperty="storepass" message="Keystore password" />
+
+	<target name="build_package">
+
+		<ant antfile="base.xml" inheritrefs="yes">
+			<property name="package.suffix" value="Logger" />
+			<property name="use_log_4j" value="true" />
+		</ant>
+		<ant antfile="base.xml" inheritrefs="yes">
+			<property name="package.suffix" value="NotSigned" />
+		</ant>
+		<ant antfile="base.xml" inheritrefs="yes">
+			<property name="sign_jar" value="true" />
+		</ant>
+	</target>
+
+</project>

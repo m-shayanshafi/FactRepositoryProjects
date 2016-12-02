@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spiral Layout (Biggs)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">螺旋佈局(Biggs)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">基礎</entry><entry key="Meaning1">什麼querent 的當前形勢被修建</entry>
+	<entry key="PositionTitle2">通過行動</entry><entry key="Meaning2">querent 從前採取了對當前形勢貢獻了的行動</entry>
+	<entry key="PositionTitle3">通過情感</entry><entry key="Meaning3">querent 的情感狀態從前</entry>
+	<entry key="PositionTitle4">通過外在影響</entry><entry key="Meaning4">影響了querent 的情況的其它人民actions/emotions</entry>
+	<entry key="PositionTitle5">當前位置</entry><entry key="Meaning5">那裡querent 立場現在在關係對情況</entry>
+	<entry key="PositionTitle6">未來外部影響</entry><entry key="Meaning6">其他人將影響querent 的actions/emotions</entry>
+	<entry key="PositionTitle7">未來情感</entry><entry key="Meaning7">querent 應該提防在將來的情感</entry>
+	<entry key="PositionTitle8">未來行動</entry><entry key="Meaning8">querent 也許在將來採取的行動</entry>
+	<entry key="PositionTitle9">結果</entry><entry key="Meaning9">情況的預見的結果</entry>
+</oracleio>

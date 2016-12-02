@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Yes or No Spread (Peach)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Ja of Geen Verspreiding (Perzik)</entry>
+	<entry key="Description">De perzik stelt voor de kaarten in de volgende orde worden 
+gelezen: 1+2, 3+4, 7+8, 5+6, Nota 9+10 dat de ' nuttige ' en ' 
+ongunstige ' invloeden zijn altijd met betrekking tot het resultaat 
+getoond=wordt= dat in kaart 2. Aldus als het antwoord op nr 
+komt, kaarten 3 en 4 helpen=zullen= dat resultaat en niet noodzakelijk
+zullen helpen querent. Aangezien de Perzik die kaart zegt als 
+kaart 2 recht is, ja was het antwoord op de vraag; indien 
+omgekeerd, zou nr, dan u waarschijnlijk moeten toelaten "toestaat 
+omgekeerde kaarten" </entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Huidige situatie voor querent</entry>
+	<entry key="PositionTitle1">het beantwoorden van kaart</entry><entry key="Meaning1">Als recht, ja was het antwoord op de vraag; indien 
+omgekeerd, nr. Ook de resultatenkaart voor de lezing.</entry>
+	<entry key="PositionTitle2">Nuttige Invloeden 1</entry><entry key="Meaning2">De redenen zullen het resultaat voorkomen</entry>
+	<entry key="PositionTitle3">Nuttige Invloeden 2</entry><entry key="Meaning3">De redenen zullen het resultaat voorkomen</entry>
+	<entry key="PositionTitle4">Gedachten 1 van Querent</entry><entry key="Meaning4">De gedachten van Querent betreffende de kwestie</entry>
+	<entry key="PositionTitle5">Gedachten 2 van Querent</entry><entry key="Meaning5">De gedachten van Querent betreffende de kwestie</entry>
+	<entry key="PositionTitle6">Ongunstige Invloed 1</entry><entry key="Meaning6">Dingen die tegen het resultaat werken</entry>
+	<entry key="PositionTitle7">Ongunstige Invloed 2</entry><entry key="Meaning7">Dingen die tegen het resultaat werken</entry>
+	<entry key="PositionTitle8">Gevoel 1 van Querent</entry><entry key="Meaning8">Het gevoel van Querent betreffende de kwestie</entry>
+	<entry key="PositionTitle9">Gevoel 2 van Querent</entry><entry key="Meaning9">Het gevoel van Querent betreffende de kwestie</entry>
+</oracleio>

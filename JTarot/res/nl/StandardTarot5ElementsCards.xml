@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Layout of the elements" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Lay-out van de elementen</entry>
+	<entry key="Description">Gebruik om inzicht in aspecten van zelf te bereiken die het in 
+evenwicht brengen of ontwikkeling vergen</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Oosten-intellectueel</entry><entry key="Meaning1">Het intellectuele of Geestelijke Leven</entry>
+	<entry key="PositionTitle2">Zuiden-sensueel</entry><entry key="Meaning2">Het sensuele en/of Instinctual Leven</entry>
+	<entry key="PositionTitle3">Westen-emotioneel</entry><entry key="Meaning3">Het emotionele Leven</entry>
+	<entry key="PositionTitle4">Noorden-intuïtief</entry><entry key="Meaning4">Het intuïtieve en/of Geestelijke Leven</entry>
+</oracleio>

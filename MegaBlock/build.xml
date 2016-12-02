@@ -1,0 +1,172 @@
+<project default="help" name="MegaBlock">
+
+    <property file="build.system.properties"/>
+    <property file="build.properties"/>
+    <property name="src.dir"          value="src"/>
+    <property name="build.dir"        value="build"/>
+    <property name="lib.dir"          value="lib"/>
+    <property name="res.dir"          value="res"/>
+    <property name="doc.dir"          value="docs"/>
+    <property name="javadoc.dir.name" value="javadoc"/>
+    <property name="javadoc.dir"      value="${doc.dir}/${javadoc.dir.name}"/>
+    <property name="javadoc.subdir"   value="${doc.dir}/${javadoc.dir.name}/${project.name}-${project.version}-javadoc"/>
+    <property name="javadoc.file"     value="${doc.dir}/${project.name}-${project.version}-javadoc.zip"/>
+    <property name="classes.dir"      value="${build.dir}/classes"/>
+    <property name="jar.dir"          value="${build.dir}/jar"/>
+    <property name="jar.contents.dir" value="${jar.dir}/contents"/>
+    <property name="jar.file"         value="${jar.dir}/${project.name}-${project.version}.jar"/>
+    <property name="jad.file"         value="${jar.dir}/${project.name}-${project.version}.jad"/>
+		
+    <taskdef resource="antenna.properties" classpath="${antenna.jar}"/>
+	
+    <target name="help">
+        <echo message="Avaiable tasks: ${line.separator}"/>
+        <echo message="    help          - Display this help message ${line.separator}"/>
+        <echo message="    clean         - Clean the build directories${line.separator}"/>
+        <echo message="    build         - Build the class files${line.separator}"/>
+        <echo message="    clean-javadoc - Clean the javadoc directory${line.separator}"/>
+        <echo message="    javadoc       - Build the javadoc${line.separator}"/>
+        <echo message="    package       - Build jar file${line.separator}"/>
+        <echo message="    run           - Run with wireless toolkit${line.separator}"/>
+    </target>
+
+    <target name="clean">
+        <delete includeemptydirs="true" failonerror="false">
+        	<fileset dir="${classes.dir}" includes="**/*"/>
+    	</delete>
+        <delete includeemptydirs="true" failonerror="false">
+        	<fileset dir="${jar.dir}" includes="**/*"/>
+    	</delete>
+    </target>
+
+    <target name="build">
+        <mkdir dir="${build.dir}"/>
+        <mkdir dir="${classes.dir}"/>
+    	
+        <fileset dir="${lib.dir}" id="build.lib.files">
+            <include name="*"/>
+        </fileset>
+    	
+    	<pathconvert pathsep=":" property="build.libs" refid="build.lib.files"/>
+
+        <wtkbuild 
+        	excludes="**/.svn/*" 
+        	srcdir="src" 
+        	destdir="${classes.dir}" 
+   	        classpath="${build.libs}"
+        />
+    </target>
+
+    <target name="clean-javadoc">
+       <delete includeemptydirs="true" failonerror="false">
+           <fileset dir="${javadoc.dir}" includes="**/*"/>
+       </delete>
+       <delete file="${javadoc.file}" failonerror="false" />
+    </target>
+
+    <target name="javadoc" depends="clean-javadoc">
+       <mkdir dir="${javadoc.dir}"/>
+       <mkdir dir="${javadoc.subdir}"/>
+       <javadoc sourcepath="${src.dir}" 
+       	        destdir="${javadoc.subdir}" 
+       	        linksource="true" 
+		        packagenames="*"
+       	        defaultexcludes="yes" 
+       />
+	   <zip destfile="${javadoc.file}"
+	   		basedir="${javadoc.dir}"
+	   		update="true"
+			includes="**/*">
+	   </zip>
+    </target>
+
+    <target name="package" depends="clean, build">
+        <mkdir dir="${jar.contents.dir}"/>
+    	
+    	 <copy todir="${jar.contents.dir}">
+    	    <fileset dir="${classes.dir}"/>
+    	 </copy>
+    	
+	   	 <copy todir="${jar.contents.dir}">
+	   	    <fileset dir="${res.dir}"/>
+	   	 </copy>
+    	
+    	<unzip dest="${jar.contents.dir}">
+    	    <patternset>
+    	        <include name="**/*.class"/>
+    	    </patternset>
+    	    <fileset dir="${lib.dir}">
+    	        <include name="**/*.jar"/>
+    	    </fileset>
+    	</unzip>
+
+    	<wtkjad jadfile="${jad.file}"
+    			target="${project.url}"
+    			name="${midlet.name}"
+   				encoding="UTF-8"
+    			vendor="${project.vendor}"
+    			version="${project.version}">
+	    	<midlet name="${midlet.name}"
+	    		    icon="${midlet.icon}"
+	    		    class="${midlet.class}"
+			/>
+    	</wtkjad>
+    	
+    	<wtkpackage 
+   		 	basedir="${jar.contents.dir}"
+    		preverify="${jar.preverify}"
+    		obfuscate="${jar.obfuscate}"
+    		jarfile="${jar.file}"
+    		jadfile="${jad.file}">
+    	</wtkpackage>
+
+    	<!--
+	    <fileset dir="${wtk.home}/lib" id="wtk.lib.files">
+	        <include name="*"/>
+	    </fileset>
+		<pathconvert pathsep=":" property="wtk.libs" refid="wtk.lib.files"/>
+
+    	<wtksmartlink
+    		classpath="${wtk.libs}"
+    		jarfile="${jar.dir}/${project.name}.jar"
+    		jadfile="${jar.dir}/${project.name}.jad">
+        </wtksmartlink>
+        -->
+
+     </target>
+	
+    <target name="run">
+    	<wtkrun jadfile="${jad.file}"/>
+    </target>
+	
+    <target name="eclipse">
+	<echo file=".classpath"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+<classpathentry kind="src" path="${src.dir}"/>
+<classpathentry kind="lib" path="${wtk.home}/lib/cldcapi11.jar"/>
+<classpathentry kind="lib" path="${wtk.home}/lib/midpapi21.jar"/>
+<classpathentry kind="lib" path="${lib.dir}"/>
+<classpathentry kind="output" path="${classes.dir}"/>
+</classpath>]]></echo>
+
+	<echo file=".project"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+    <name>${project.name}</name>
+    <comment></comment>
+    <projects>
+    </projects>
+    <buildSpec>
+            <buildCommand>
+                    <name>org.eclipse.jdt.core.javabuilder</name>
+                    <arguments>
+                    </arguments>
+            </buildCommand>
+    </buildSpec>
+    <natures>
+            <nature>org.eclipse.jdt.core.javanature</nature>
+            <nature>eclipseme.core.nature</nature>
+    </natures>
+</projectDescription>]]></echo>
+</target>
+	
+</project>

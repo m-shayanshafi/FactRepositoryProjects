@@ -1,0 +1,9 @@
+#############################################################################
+#
+# Jewel (Diamond/Pearl) Metagame
+#
+#############################################################################
+
+metagame.mechanics = mechanics.JewelMechanics
+metagame.species = dpspecies.db
+metagame.moveset = dpmovesets.db

@@ -1,0 +1,1 @@
+java -Djava.endorsed.dirs=jars -cp jars/pacdasher.jar:jars/jaxp-api.jar:jars/sax.jar:jars/xercesImpl.jar:jars/xml-apis.jar -XX:+UseConcMarkSweepGC -XX:SurvivorRatio=2 com.oranda.pacdasher.PacDasherMain

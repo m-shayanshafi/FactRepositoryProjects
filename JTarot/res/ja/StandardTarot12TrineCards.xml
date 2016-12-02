@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Trines Spread (Doane)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">4 Trines の広がり(Doane)</entry>
+	<entry key="Description">名前が提案するので、別のものと共に4 組の3 枚のカード(trines) がその仕事ある。生命(1 、6 、11) のTrine 、力(2 、7 、12) のTrine 、社会的なTrine (3 、8 、9) 、秘密のTrine
+</entry>
+	<entry key="PositionTitle0">個人的な生命</entry><entry key="Meaning0">健康</entry>
+	<entry key="PositionTitle1">名誉及び権限</entry><entry key="Meaning1">ビジネス、評判</entry>
+	<entry key="PositionTitle2">パートナー</entry><entry key="Meaning2">の敵結婚</entry>
+	<entry key="PositionTitle3">環境</entry><entry key="Meaning3">環境で隠される事</entry>
+	<entry key="PositionTitle4">難儀</entry><entry key="Meaning4">敵、失敗、障害</entry>
+	<entry key="PositionTitle5">精神生命</entry><entry key="Meaning5">精神生命: 旅行</entry>
+	<entry key="PositionTitle6">環境</entry><entry key="Meaning6">病気、仕事</entry>
+	<entry key="PositionTitle7">親族及び思考</entry><entry key="Meaning7">兄弟、知的な問題</entry>
+	<entry key="PositionTitle8">仲間</entry><entry key="Meaning8">友人</entry>
+	<entry key="PositionTitle9">お金</entry><entry key="Meaning9">お金: 負債、税、遺産</entry>
+	<entry key="PositionTitle10">後世</entry><entry key="Meaning10">後世の生命: 子供、情事、喜び、推測</entry>
+	<entry key="PositionTitle11">富</entry><entry key="Meaning11"></entry>
+</oracleio>

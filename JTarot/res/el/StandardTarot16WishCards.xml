@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Επιθυμία που διαδίδεται (Doane)</entry>
+	<entry key="Description">Τα εννέα από τα φλυτζάνια καλούνται συχνά κάρτα 
+επιθυμίας. Εάν εμφανιζόταν οπουδήποτε αυτή η κάρτα στην 
+ανάγνωση, εκτός από στην ομάδα των τριών συμπεριλαμβανομένης της
+κάρτας 8, αυτό θα ήταν μια ισχυρή ένδειξη ότι κάποιο μέρος ή 
+όλη η querent επιθυμία θα πραγματοποιηθεί. Πιό στενό 
+εμφανίζεται στην ανωτέρω αριθμητική ακολουθία, όσο πιό σύντομα 
+η επιθυμία θα πραγματοποιηθεί. Εάν τα εννέα από τα 
+φλυτζάνια εμφανιστούν στην ομάδα 8, αυτό είναι μια ένδειξη ότι 
+η επιθυμία πιθανώς δεν θα πραγματοποιηθεί  οι άλλες δύο 
+κάρτες στην ομάδα θα παραγάγουν την αιτία. Εάν τα εννέα 
+από τα φλυτζάνια δεν εμφανίζονται, αυτό δεν πρέπει να ληφθεί ως 
+ένδειξη είτε της μοίρας, αν και άλλες κάρτες στην ανάγνωση 
+μπορούν να επιβεβαιώσουν ή να αρνηθούν την επιθυμία.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Περιβάλλον 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Περιβάλλον 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Περιβάλλον 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Επιθυμία 1</entry><entry key="Meaning4">Περιγραφή της querent επιθυμίας</entry>
+	<entry key="PositionTitle5">Επιθυμία 2</entry><entry key="Meaning5">Περιγραφή της querent επιθυμίας</entry>
+	<entry key="PositionTitle6">Επιθυμία 3</entry><entry key="Meaning6">Περιγραφή της querent επιθυμίας</entry>
+	<entry key="PositionTitle7">Αντίθεση 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Αντίθεση 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Αντίθεση 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Παράγοντες 1</entry><entry key="Meaning10">Παράγοντες που θα εισαχθούν σε αυτό το θέμα</entry>
+	<entry key="PositionTitle11">Παράγοντες 2</entry><entry key="Meaning11">Παράγοντες που θα εισαχθούν σε αυτό το θέμα</entry>
+	<entry key="PositionTitle12">Παράγοντες 3</entry><entry key="Meaning12">Παράγοντες που θα εισαχθούν σε αυτό το θέμα</entry>
+	<entry key="PositionTitle13">Πραγματοποιήσεις 1</entry><entry key="Meaning13">Πραγματοποιήσεις του querent (συνήθως στο μέλλον)</entry>
+	<entry key="PositionTitle14">Πραγματοποιήσεις 2</entry><entry key="Meaning14">Πραγματοποιήσεις του querent (συνήθως στο μέλλον)</entry>
+	<entry key="PositionTitle15">Πραγματοποιήσεις 3</entry><entry key="Meaning15">Πραγματοποιήσεις του querent (συνήθως στο μέλλον)</entry>
+</oracleio>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Four Seasons Spread (Cortese/Reed)</entry>
+	<entry key="Description">"This spread is used to examine motivations for plans or
+ambitions. The cards are arranged so as to call to mind the
+progression of the seasons and also the progression of any action
+or plan through the four stages of conception, progression,
+resolution, and reflection." - Cortese</entry>
+	<entry key="PositionTitle0">Spring</entry><entry key="Meaning0">Dominant for Spring, symbolizing the conception or
+     initiation of an action or ambition, the planting of the seed,
+     so to speak.  The modifier for spring is card 8.</entry>
+	<entry key="PositionTitle1">Modifies Summer</entry><entry key="Meaning1">Modifier for Card 3.</entry>
+	<entry key="PositionTitle2">Summer</entry><entry key="Meaning2">Dominant for Summer, symbolizing the progression of a
+     plan, the way in which an idea will flower.  The modifier for
+     summer is card 2.</entry>
+	<entry key="PositionTitle3">Modifies Autumn</entry><entry key="Meaning3">Modifier for Card 5.</entry>
+	<entry key="PositionTitle4">Autumn</entry><entry key="Meaning4">Dominant for Autumn, symbolizing the resolution of the 
+     plan, how events will "wind themselves up."  The modifier for
+     autumn is card 4.</entry>
+	<entry key="PositionTitle5">Modifies Winter</entry><entry key="Meaning5">Modifier for Card 7.</entry>
+	<entry key="PositionTitle6">Winter</entry><entry key="Meaning6">Dominant for Winter, symbolizing the period of reflection
+     after an action or plan has been completed, or what the
+     querent may wish to learn from the progression of events.  The
+     modifier for winter is card 6.</entry>
+	<entry key="PositionTitle7">Modifies Spring</entry><entry key="Meaning7">Modifier for Card 1.</entry>
+</oracleio>

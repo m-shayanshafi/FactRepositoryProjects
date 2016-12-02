@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="598">
+	<if not="t" item="lantern"><if item="candle"><lose item="candle" hidden="t"/></if></if>
+	The tunnel is circular. Permafrost makes the earthern walls harder than stone. About halfway along the tunnel there is a side-passage with stones heaped across it.
+	<choices>
+		<choice section="347">Unblock the side passage</choice>
+		<choice section="487">Press on down the main tunnel</choice>
+	</choices>
+</section>

@@ -1,0 +1,48 @@
+version 1.5
+
+new:
+
+- specialist players
+- veteran movement rules
+- veteran blocking rules
+- veteran throwing rules (except of scattering)
+- veteran injury rules
+- picking up ball via button (instead of automatically)
+- visualized substitution line
+- "new game" menu item
+- improved graphic
+- removed out-of-date help
+
+------------------------------
+
+version 1.1
+
+new:
+
+- increased team size (16 players)
+- substituting injured players
+- optional language parameter
+- "about" dialog
+
+------------------------------
+
+version 1.0
+
+new:
+
+- extended throwing: fumbles & interceptions
+
+
+bug-fixes:
+
+- wrong status message for player with ball if reselected after movement
+
+------------------------------
+
+version 0.6
+
+new:
+
+- sprinting
+- tooltips for prone players
+- score display

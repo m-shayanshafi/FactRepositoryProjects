@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staticItems version="Development" id="2"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/StaticItems-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<itemsMap>
+		<entry>
+			<key y="3" x="1" />
+			<value>
+				<item type="1" name="Test Other" kind="OTHER">
+					<effects></effects>
+					<modifiers></modifiers>
+				</item>
+			</value>
+		</entry>
+		<entry>
+			<key y="4" x="1" />
+			<value>
+				<item type="1" name="Test Weapon" kind="WEAPON">
+					<effects></effects>
+					<modifiers></modifiers>
+				</item>
+			</value>
+		</entry>
+		<entry>
+			<key y="4" x="2" />
+			<value>
+				<item type="2" name="Test Armor" kind="ARMOR">
+					<effects></effects>
+					<modifiers></modifiers>
+				</item>
+				<item type="1" name="Light Armor" kind="ARMOR">
+                    <effects></effects>
+                    <modifiers></modifiers>
+                </item>
+			</value>
+		</entry>
+		<entry>
+            <key y="5" x="2" />
+            <value>
+                <item type="2" name="Test Armor Bis" kind="ARMOR">
+                    <effects></effects>
+                    <modifiers></modifiers>
+                </item>
+            </value>
+        </entry><entry>
+            <key y="6" x="2" />
+            <value>
+                <item type="2" name="Another Test Armor" kind="ARMOR">
+                    <effects></effects>
+                    <modifiers></modifiers>
+                </item>
+            </value>
+        </entry>
+	</itemsMap>
+</staticItems>

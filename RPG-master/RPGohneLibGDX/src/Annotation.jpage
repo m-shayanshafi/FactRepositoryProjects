@@ -1,0 +1,5 @@
+So, ich schreib hier mal so ein bisschen.
+
+Die generellen Daten für Typen, Attacken und Kämpfer werden in den JSON-Files
+gespeichert. Sie werden mit den DataIrgendwas-Klassen abgerufen. Ich werde die
+speziellen Infos in extra Speicherblättern, mit XP, Attacken und so speichen.

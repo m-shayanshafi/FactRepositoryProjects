@@ -1,0 +1,22 @@
+submitted to sourceforge.net
+
+PacDasher is a Pacman clone which seeks to exploit 
+the new graphics capabilities and control over garbage collection 
+included in Java 1.4 to show that Java is now a good choice
+for creating arcade-style games.
+
+The frame rate is 50fps with between 1000 and 2000 bytes 
+put on the heap per frame. Many other Java games, especially 
+applets, are prone to sudden freezes due to the garbage collection 
+thread kicking in. With PacDasher, command-line options to 
+Java specify the garbage collection algorithm used, and 
+garbage collection is encouraged by the code at natural 
+pauses in the game.
+
+Unlike many other Pacman clones, PacDasher takes on the challenge
+of giving a faithful representation of the maze in the original
+1980 Pacman. There is also a second maze (from Ms. Pacman). 
+Plans for future development include allowing mazes to be
+created from XML (using JAXP or JDOM).
+
+

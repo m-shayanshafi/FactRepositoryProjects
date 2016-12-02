@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="proficiencyWrapper" type="proficiencyWrapper"/>
+
+  <xs:complexType name="proficiencyWrapper">
+    <xs:sequence>
+      <xs:element name="list" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="proficiency" type="proficiency" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="version" type="xs:string"/>
+  </xs:complexType>
+
+  <xs:complexType name="proficiency">
+    <xs:sequence>
+      <xs:element name="id" type="xs:short"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

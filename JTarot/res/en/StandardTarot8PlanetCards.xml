@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Planetary Spread (Peach)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Planetary Spread (Peach)</entry>
+	<entry key="Description">"Cards of this spread can and ought to be paired and read
+     in juxtaposition, i.e., the card in the position of the Moon
+     should be paired with that in the position of the Sun; the
+     card in the position of Venus with that in the position of
+     Mars, and so on." - Peach</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">You, where you are now. Present situation</entry>
+	<entry key="PositionTitle1">Moon</entry><entry key="Meaning1">Emotions, feelings</entry>
+	<entry key="PositionTitle2">Mercury</entry><entry key="Meaning2">Thoughts, intellect</entry>
+	<entry key="PositionTitle3">Venus</entry><entry key="Meaning3">Love, relationships</entry>
+	<entry key="PositionTitle4">Sun</entry><entry key="Meaning4">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle5">Mars</entry><entry key="Meaning5">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle6">Jupiter</entry><entry key="Meaning6">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle7">Saturn</entry><entry key="Meaning7">Work to be done. Negative influences to overcome</entry>
+</oracleio>

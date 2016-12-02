@@ -1,0 +1,54 @@
+High priority =================================================================
+
+		Features
+/ Player statistics, undo, redo.
+/ A menu to configure the sound files. PENDING : test the sounds are enabled for all events.
+
+		Bugs
+
+
+
+Low priority ==================================================================
+
+		Features
+/ New shapes (3D ?).
+/ Robot :
+   - CSP (Constraint Satisfaction Problem) implementation, see http://delphi.developpez.com/defi/demineur/defieur/.
+   - User algorithms choice (random; trivial cases; schemas search; Constraint Satisfaction Problem).
+/ Propose all available file formats for screenshot creation (see ImageIO.getWriterFormatNames() and ImageIO.getWriterMIMETypes()).
+/ Textured buttons.
+/ Put the look and feels in a jar in the res directory (see the "EXPORT | Runnable JAR file" Eclipse galileo functionnality for idea).
+
+
+
+Permanently ===================================================================
+
+/ Warnings checkstyle.
+/ Update JMines version in configuration file and screenshot.
+
+
+
+New shapes how to =============================================================
+
+/ Rajouter l'id de la shape (static final) dans jmines.model.GameBoard.
+/ Rajouter le label du nouveau JMenuItem de la shape dans les fichiers de langue.
+/ Rajouter le statusText du nouveau JMenuItem de la shape dans les fichiers de langue.
+/ Rajouter les clefs des textes précédents dans la classe Configuration.
+/ Créer l'Action à exécuter pour la nouvelle shape (prendre exemple sur Parquet).
+/ Rajouter le JMenuItem dans jmines.view.MenuBar.
+/ Rajouter la nouvelle shape dans le constructeur de GamePanel.
+/ Rajouter la nouvelle shape aux SUPPORTED_SHAPES dans le bloc static de GameBoard.
+/ Rajouter la nouvelle shape dans GameBoard.getNeighborhood(int, int).
+/ Créer la méthode pour récupérer le voisinage de la nouvelle shape GameBoard.get…Neighborhood(int, int).
+/ Rajouter la nouvelle shape dans GameBoard.initializePolygons(GameBoardEvent).
+/ Rajouter la nouvelle shape dans GamePanel.paintButton(int, int).
+/ Créer la méthode pour peindre les boutons correspondant à la nouvelle shape.
+/ Rajouter la nouvelle shape dans MainPanel.manageBestTimes().
+/ Rajouter les clefs KEY_…_BEGINNER_BEST, KEY_…_INTERMEDIATE_BEST, KEY_…_EXPERT_BEST dans la classe Configuration et dans le tableau des clefs à sauvegarder.
+/ Rajouter la nouvelle shape dans le constructeur de StatisticsDialog.
+/ Rajouter la nouvelle shape dans le constructeur de BestTimesDialog.
+/ Rajouter la nouvelle shape dans BestTimesDialog.initValues(byte).
+/ Rajouter la nouvelle shape aux FILLING_RATIOS dans le bloc static de GameBoard (si égal à 1, non nécessaire).
+/ Rajouter la nouvelle shape (2 fois) dans GameBoard.initialize().
+/ Rajouter la nouvelle shape (2 fois) dans Configuration.clearBestTimes().
+/ Tests.

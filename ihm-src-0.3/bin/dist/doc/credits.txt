@@ -1,0 +1,12 @@
+Ice Hockey Manager Credits:
+===========================
+
+Main Design & Code:
+
+Bernhard '3b' von Gunten <bvg@users.sourceforge.net>
+Arik 'Rik' Dasen <dasen@users.sourceforge.net>
+
+
+Contributions:
+
+Michael Kolanos <kolanos@users.sourceforge.net> (Icons,Logo,Translations)

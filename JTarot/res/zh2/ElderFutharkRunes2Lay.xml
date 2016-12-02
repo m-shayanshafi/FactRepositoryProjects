@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Two Runes" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">二Runes</entry>
+	<entry key="Description">有時使用如同yes/no 答復或選擇最佳二個情況。Tarot 一般是壞在yes/no 答復但如果您必須要求一, 這是更好的佈局的當中一個為它。事先選擇rune 將是"是" rune 並且將是"沒有" rune 或情況卡片將應付。警告, 較不desireable rune 有時是最佳的解答無論如何! 有時您需要上路旅行了。</entry>
+	<entry key="PositionTitle0">解答1</entry><entry key="Meaning0">什麼您能期望如果您採取解答您預先決定, 這張卡片將代表。</entry>
+	<entry key="PositionTitle1">解答2</entry><entry key="Meaning1">什麼您能期望如果您採取解答您預先決定, 這張卡片將代表。</entry>
+</oracleio>

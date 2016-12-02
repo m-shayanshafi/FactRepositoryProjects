@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="The Line Spread" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Распространение Линии</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Дистантное прошлый</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Около прошлого</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Настоящий момент</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Близкое будующее</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Далекое будущее</entry><entry key="Meaning4"></entry>
+</oracleio>

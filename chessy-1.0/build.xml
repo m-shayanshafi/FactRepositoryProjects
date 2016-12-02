@@ -1,0 +1,75 @@
+<project name="Chess" default="build" basedir=".">
+  <property name="debug" value="true" />
+  <property name="deprecation" value="false" />
+  <property name="project" value="" />
+
+  <property name="source" value="./src" />
+  <property name="doc" value="./javadoc" />
+  <property name="dist" value="./dist" />
+  <property name="classes" value="./classes" />
+  <property name="modules" value="" />
+  <property name="thirdparty" value="" />
+  <property name="classpath" value="${classes}:${modules}:${thirdparty}" />
+
+  <property name="root_dir" value="dav/chess" />
+
+  <!--  Cleans and builds all the packages, jar files and javadocs  -->
+  <target name="all" depends="clean, prepare, build"/>
+
+   <!-- Delete generated sources, and directories created by prepare -->
+  <target name="clean">
+    <delete dir="${classes}/${root_dir}/" />
+    <delete file="${dist}/ChessY.jar" />
+  </target>
+
+  <!-- Prepare target directories -->
+  <target name="prepare">
+    <mkdir dir="${doc}"/>
+    <mkdir dir="${classes}/${root_dir}/" />
+    <mkdir dir="${dist}"/>
+  </target>
+  
+  <target name="build" depends="worldjar"/>
+
+  <target name="worldjar" depends="app">
+    <jar jarfile="${dist}/ChessY.jar">
+      <manifest>
+         <attribute name="Built-By" value="Dav Coleman"/>
+         <attribute name="Main-Class" value="dav.chess.app.ChessReviewerApplication" />
+      </manifest>
+      <fileset dir="${classes}" includes="**" />
+      <fileset dir="${source}/" includes="${root_dir}/board/*.gif" />
+    </jar>
+  </target> 
+
+  <target name="piece" depends="">
+    <javac srcdir="${source}/${root_dir}/piece/"
+           destdir="${classes}"
+           target="1.1"
+           classpath="${classpath}" debug="${debug}" deprecation="${deprecation}"
+    />
+  </target>
+
+  <target name="board" depends="piece">
+    <javac srcdir="${source}/${root_dir}/board/"
+           destdir="${classes}"
+           target="1.1"
+           classpath="${classpath}" debug="${debug}" deprecation="${deprecation}"
+    />
+  </target>
+
+  <target name="app" depends="board">
+    <javac srcdir="${source}/${root_dir}/app/"
+           destdir="${classes}"
+           target="1.1"
+           classpath="${classpath}" debug="${debug}" deprecation="${deprecation}"
+    />
+  </target>
+
+</project>
+
+
+
+
+
+

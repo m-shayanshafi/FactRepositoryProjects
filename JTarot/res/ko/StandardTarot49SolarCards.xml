@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">태양 퍼짐 (Doane)</entry>
+	<entry key="Description">각 줄안에, 중간 카드 
+(4,11,18,25,etc.은) 현재 조건 또는 영향을 
+대표한다. 오른쪽으로 3장의 카드는 과거를 
+대표한다; 좌측, 미래에 3. 각 줄은 
+생활의 어느 양상에 또는 어느 사람 관련시킬 
+것이다 (또는 아마 양쪽)</entry>
+	<entry key="PositionTitle0">과거 달 1</entry><entry key="Meaning0">정서, 감각</entry>
+	<entry key="PositionTitle1">과거 달 2</entry><entry key="Meaning1">정서, 감각</entry>
+	<entry key="PositionTitle2">과거 달 3</entry><entry key="Meaning2">정서, 감각</entry>
+	<entry key="PositionTitle3">달 4 현재</entry><entry key="Meaning3">정서, 감각</entry>
+	<entry key="PositionTitle4">달 5 미래</entry><entry key="Meaning4">정서, 감각</entry>
+	<entry key="PositionTitle5">달 6 미래</entry><entry key="Meaning5">정서, 감각</entry>
+	<entry key="PositionTitle6">달 7 미래</entry><entry key="Meaning6">정서, 감각</entry>
+	<entry key="PositionTitle7">과거 수성 1</entry><entry key="Meaning7">생각, 지력</entry>
+	<entry key="PositionTitle8">과거 수성 2</entry><entry key="Meaning8">생각, 지력</entry>
+	<entry key="PositionTitle9">과거 수성 3</entry><entry key="Meaning9">생각, 지력</entry>
+	<entry key="PositionTitle10">수성 4 현재</entry><entry key="Meaning10">생각, 지력</entry>
+	<entry key="PositionTitle11">수성 5 미래</entry><entry key="Meaning11">생각, 지력</entry>
+	<entry key="PositionTitle12">수성 6 미래</entry><entry key="Meaning12">생각, 지력</entry>
+	<entry key="PositionTitle13">수성 7 미래</entry><entry key="Meaning13">생각, 지력</entry>
+	<entry key="PositionTitle14">과거 금성 1</entry><entry key="Meaning14">사랑, 관계</entry>
+	<entry key="PositionTitle15">과거 금성 2</entry><entry key="Meaning15">사랑, 관계</entry>
+	<entry key="PositionTitle16">과거 금성 3</entry><entry key="Meaning16">사랑, 관계</entry>
+	<entry key="PositionTitle17">금성 4 현재</entry><entry key="Meaning17">사랑, 관계</entry>
+	<entry key="PositionTitle18">금성 5 미래</entry><entry key="Meaning18">사랑, 관계</entry>
+	<entry key="PositionTitle19">금성 6 미래</entry><entry key="Meaning19">사랑, 관계</entry>
+	<entry key="PositionTitle20">금성 7 미래</entry><entry key="Meaning20">사랑, 관계</entry>
+	<entry key="PositionTitle21">과거 일요일 1</entry><entry key="Meaning21">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle22">과거 일요일 2</entry><entry key="Meaning22">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle23">과거 일요일 3</entry><entry key="Meaning23">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle24">일요일 4 현재</entry><entry key="Meaning24">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle25">일요일 5 미래</entry><entry key="Meaning25">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle26">일요일 6 미래</entry><entry key="Meaning26">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle27">일요일 7 미래</entry><entry key="Meaning27">에너지, 자아, 중앙 점</entry>
+	<entry key="PositionTitle28">과거 화성 1</entry><entry key="Meaning28">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle29">과거 화성 2</entry><entry key="Meaning29">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle30">과거 화성 3</entry><entry key="Meaning30">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle31">화성 4 현재</entry><entry key="Meaning31">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle32">화성 5 미래</entry><entry key="Meaning32">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle33">화성 6 미래</entry><entry key="Meaning33">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle34">화성 7 미래</entry><entry key="Meaning34">충돌, 전쟁. 또한 r엊XX일어r이라고 
+부르는 까 왜 이는 사정에 해결책 또는 응답을 
+대표한 일지모른다</entry>
+	<entry key="PositionTitle35">과거 목성 1</entry><entry key="Meaning35">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle36">과거 목성 2</entry><entry key="Meaning36">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle37">과거 목성 3</entry><entry key="Meaning37">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle38">목성 4 현재</entry><entry key="Meaning38">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle39">목성 5 미래</entry><entry key="Meaning39">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle40">목성 6 미래</entry><entry key="Meaning40">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle41">목성 7 미래</entry><entry key="Meaning41">성장과 확장. 운. 
+긍정적인 영향</entry>
+	<entry key="PositionTitle42">과거 토성 1</entry><entry key="Meaning42">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle43">과거 토성 2</entry><entry key="Meaning43">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle44">과거 토성 3</entry><entry key="Meaning44">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle45">토성 4 현재</entry><entry key="Meaning45">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle46">토성 5 미래</entry><entry key="Meaning46">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle47">토성 6 미래</entry><entry key="Meaning47">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+	<entry key="PositionTitle48">토성 7 미래</entry><entry key="Meaning48">할 것이다 일. 극복할 것이다 
+네거티브 영향</entry>
+</oracleio>

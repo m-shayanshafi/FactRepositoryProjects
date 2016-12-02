@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Soul Dreamers Spread (Silbury)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">灵魂梦想家传播(Silbury)</entry>
+	<entry key="Description">这读书意欲帮助你了解梦想的消息或意思。卡片应该被安置这样, 他们创造一个向外顺时针螺旋, 应该是更圆上述图看上去</entry>
+	<entry key="PositionTitle0">钥匙</entry><entry key="Meaning0">选择卡片代表梦想情况或您的感觉关于梦想</entry>
+	<entry key="PositionTitle1">作情况</entry><entry key="Meaning1">告诉某事关于梦想的事件, 譬如当, 怎么, 和为什么的地方</entry>
+	<entry key="PositionTitle2">能量内</entry><entry key="Meaning2">梦想的主要能源</entry>
+	<entry key="PositionTitle3">神志清楚的意思</entry><entry key="Meaning3">什么梦想意味对您在' 走的生活中'</entry>
+	<entry key="PositionTitle4">下意识意思</entry><entry key="Meaning4">什么梦想意味对您在一个内在精神水平上</entry>
+	<entry key="PositionTitle5">蛇能量</entry><entry key="Meaning5">当能量是需要的导致梦想完全体现, 如果您渴望, 或解决梦想的困境</entry>
+	<entry key="PositionTitle6">结果</entry><entry key="Meaning6">怎么梦想将体现和它的作用</entry>
+</oracleio>

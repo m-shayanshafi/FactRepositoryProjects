@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion De Roue D'Eliphas Levi (Guiley)</entry>
+	<entry key="Description">La disposition est ainsi appelé parce qu'elle est 
+basée sur la roue d'Eliphas Levi, dont une version est vue sur 
+l'atout 10 dans la plate-forme de Cavalier-Waite ; Levi n'a pas 
+inventé cette disposition. La roue de Levi a assigné des 
+lettres du Tetragramaton (Yod, il, Vau, il, respectivement) à chacune
+des quatre positions montrées ci-dessus. La roue de Levi offre 
+également quelques interprétations additionnelles des quatre 
+costumes de tarot, les quatre grades des cartes de cour, et la 
+signification des lettres T, O, R, et A.</entry>
+	<entry key="PositionTitle0">Présent</entry><entry key="Meaning0">Situation actuelle</entry>
+	<entry key="PositionTitle1">Influences d'affaiblissement</entry><entry key="Meaning1">Les obstacles surmontent déjà. Change qui se 
+sont produits dans le passé.</entry>
+	<entry key="PositionTitle2">Caché</entry><entry key="Meaning2">Influences cachées ou sans connaissance</entry>
+	<entry key="PositionTitle3">Émergence</entry><entry key="Meaning3">Influences naissantes.</entry>
+	<entry key="PositionTitle4">Synthèse</entry><entry key="Meaning4">Réunit les quatre autres influences.</entry>
+</oracleio>

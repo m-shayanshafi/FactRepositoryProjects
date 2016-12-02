@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Распространение Колеса Eliphas Levi 
+(Guiley)</entry>
+	<entry key="Description">План поэтому после того как я назван потому что он 
+основан на колесе Eliphas Levi, вариант которого увиден на 
+козыре 10 в палубе Vsadnika-Waite; Levi не изобрело 
+этот план. Колесо Levi's задало письма Tetragramaton 
+(Yod, его, Vau, его, соответственно) к каждому из 4 
+положений показанных выше. Колесо Levi's также предлагает 
+некоторые дополнительные толкования 4 костюмов tarot, 4 ряда 
+карточек суда, и смысль писем т, о, р, и а.</entry>
+	<entry key="PositionTitle0">Настоящий момент</entry><entry key="Meaning0">Текущийа момент</entry>
+	<entry key="PositionTitle1">Waning влияния</entry><entry key="Meaning1">Уже отжатые препоны. Изменяет происходили в 
+прошлом.</entry>
+	<entry key="PositionTitle2">Спрятано</entry><entry key="Meaning2">Спрятанные или обморочные влияния</entry>
+	<entry key="PositionTitle3">Вытекать</entry><entry key="Meaning3">Вытекая влияния.</entry>
+	<entry key="PositionTitle4">Синтез</entry><entry key="Meaning4">Рисует совместно другие 4 влияния.</entry>
+</oracleio>

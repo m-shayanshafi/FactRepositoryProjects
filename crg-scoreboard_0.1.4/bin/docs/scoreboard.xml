@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+  <ScoreBoard>
+    <Clock Id="Countdown">
+      <Name>Countdown</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">30000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>30000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Intermission">
+      <Name>Intermission</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">900000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>900000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Timeout">
+      <Name>Timeout</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="block">18930</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>600000</MaximumTime>
+      <Running style.display="none">true</Running>
+      <Direction>false</Direction>
+    </Clock>
+    <Clock Id="Penalty5">
+      <Name>Penalty5</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">60000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>60000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Penalty4">
+      <Name>Penalty4</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">60000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>60000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Penalty3">
+      <Name>Penalty3</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">60000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>60000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Jam">
+      <Name>Jam</Name>
+      <Number style.display="block">11</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="block">82000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>120000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Penalty2">
+      <Name>Penalty2</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">60000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>60000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Penalty1">
+      <Name>Penalty1</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="none">60000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>60000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Clock Id="Lineup">
+      <Name>Lineup</Name>
+      <Number style.display="none">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>999</MaximumNumber>
+      <Time style.display="block">450</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>600000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>false</Direction>
+    </Clock>
+    <Clock Id="Period">
+      <Name>Period</Name>
+      <Number style.display="block">1</Number>
+      <MinimumNumber>1</MinimumNumber>
+      <MaximumNumber>2</MaximumNumber>
+      <Time style.display="block">739000</Time>
+      <MinimumTime>0</MinimumTime>
+      <MaximumTime>1800000</MaximumTime>
+      <Running style.display="none">false</Running>
+      <Direction>true</Direction>
+    </Clock>
+    <Team Id="2">
+      <Name style.display="block">TQ</Name>
+      <Logo style.display="block">/images/teamlogos/traumaqueens.jpg</Logo>
+      <Score style.display="block">16</Score>
+    </Team>
+    <Team Id="1">
+      <Name style.display="block">TC</Name>
+      <Logo style.display="block">/images/teamlogos/taichitahs.jpg</Logo>
+      <Score style.display="block">8</Score>
+    </Team>
+    <Images Id="Ad">
+      <Image Id="/images/ads/scimuseum_ad.jpg"/>
+      <Image Id="/images/ads/ornamentea_ad.jpg"/>
+      <Image Id="/images/ads/docusource_ad.jpg"/>
+      <Image Id="/images/ads/phoenix_ad.jpg"/>
+      <Image Id="/images/ads/borough_ad.jpg"/>
+      <Image Id="/images/ads/alibi_ad.jpg"/>
+      <Image Id="/images/ads/sadlack_ad.jpg"/>
+      <Image Id="/images/ads/woodys_ad.jpg"/>
+      <Image Id="/images/ads/etix_ad.jpg"/>
+      <Image Id="/images/ads/blotter_ad.jpg"/>
+      <Image Id="/images/ads/rb3_ad.jpg"/>
+      <Image Id="/images/ads/ecomodernism_ad.jpg"/>
+      <Image Id="/images/ads/edmckay_ad.jpg"/>
+      <Image Id="/images/ads/outten_ad.jpg"/>
+      <Image Id="/images/ads/ruckus_ad.jpg"/>
+      <Image Id="/images/ads/dan_smith_ad.jpg"/>
+      <Image Id="/images/ads/galaxy_ad.jpg"/>
+      <Image Id="/images/ads/chipotle_ad.jpg"/>
+      <Image Id="/images/ads/larrysbeans_ad.jpg"/>
+      <Image Id="/images/ads/indy_ad.jpg"/>
+      <Image Id="/images/ads/tirnanog.jpg"/>
+      <Image Id="/images/ads/plannedparent_ad.jpg"/>
+    </Images>
+    <Images Id="FullScreen">
+      <Image Id="/images/fullscreen/madison-ddlogo.jpg"/>
+      <Image Id="/images/fullscreen/naptown.jpg"/>
+      <Image Id="/images/fullscreen/hoopdrum-intermission1.jpg"/>
+      <Image Id="/images/fullscreen/intermission.jpg"/>
+      <Image Id="/images/fullscreen/american_flag.jpg"/>
+      <Image Id="/images/fullscreen/dutchland-logo.jpg"/>
+      <Image Id="/images/fullscreen/carolina-logo.jpg"/>
+      <Image Id="/images/fullscreen/refs.jpg"/>
+      <Image Id="/images/fullscreen/madison.jpg"/>
+      <Image Id="/images/fullscreen/naptown-logo.jpg"/>
+      <Image Id="/images/fullscreen/scoreboard.jpg"/>
+      <Image Id="/images/fullscreen/dutchland.jpg"/>
+      <Image Id="/images/fullscreen/keys.jpg"/>
+      <Image Id="/images/fullscreen/hoopdrum-intermission2.jpg"/>
+      <Image Id="/images/fullscreen/carolina.jpg"/>
+      <Image Id="/images/fullscreen/madison-logo.jpg"/>
+      <Image Id="/images/fullscreen/ruckus-pizza.jpg"/>
+      <Image Id="/images/fullscreen/countdown.jpg"/>
+    </Images>
+    <Images Id="TeamLogo">
+      <Image Id="/images/teamlogos/debutantebrawlers.jpg"/>
+      <Image Id="/images/teamlogos/traumaqueens.jpg"/>
+      <Image Id="/images/teamlogos/crg.jpg"/>
+      <Image Id="/images/teamlogos/taichitahs.jpg"/>
+    </Images>
+    <Display>
+      <Image Id="Ad" style.display="block">/images/ads/dan_smith_ad.jpg</Image>
+      <Image Id="FullScreen" style.display="block">/images/fullscreen/scoreboard.jpg</Image>
+      <Image Id="TeamLogo" style.display="none"/>
+    </Display>
+  </ScoreBoard>
+</document>
+

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="fr" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">imbécile 0-The</entry><entry key="ObjectMeaning0">Folie, Expiation, Hésitant</entry>
+	<entry key="ObjectTitle1">magicien 1-The</entry><entry key="ObjectMeaning1">Volonté,-Puissance, Dextérité</entry>
+	<entry key="ObjectTitle2">Haute Prêtresse 2-The</entry><entry key="ObjectMeaning2">La Science, Sagesse, La Connaissance, Éducation</entry>
+	<entry key="ObjectTitle3">impératrice 3-The</entry><entry key="ObjectMeaning3">Action, plan, mouvement entreprenant dans une question,
+initiative</entry>
+	<entry key="ObjectTitle4">empereur 4-The</entry><entry key="ObjectMeaning4">Réalisation, Effet, Développement</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Pitié, Bonté De Bienfaisance, Qualité</entry>
+	<entry key="ObjectTitle6">amoureux 6-The</entry><entry key="ObjectMeaning6">Les Dispositions Sages, Preuve, Épreuves Ont 
+surmonté</entry>
+	<entry key="ObjectTitle7">Char 7-The</entry><entry key="ObjectMeaning7">Triomphe, victoire, surmontant des obstacles</entry>
+	<entry key="ObjectTitle8">8-Forces</entry><entry key="ObjectMeaning8">Puissance, Force, Force, Force, Courage</entry>
+	<entry key="ObjectTitle9">hermite 9-The</entry><entry key="ObjectMeaning9">Prudence, Attention, Délibération</entry>
+	<entry key="ObjectTitle10">10-Wheel de la fortune</entry><entry key="ObjectMeaning10">Bonne Fortune, Succès, Chance Inattendue</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Équilibre, Équilibre, Justice</entry>
+	<entry key="ObjectTitle12">12-The a accroché l'homme</entry><entry key="ObjectMeaning12">art de l'auto-portrait-sacrifice, Sacrifice, Dévotion, Limite</entry>
+	<entry key="ObjectTitle13">La 13-Mort</entry><entry key="ObjectMeaning13">La mort, changement, transformation, changement pour le
+plus mauvais</entry>
+	<entry key="ObjectTitle14">14-modération</entry><entry key="ObjectMeaning14">Combinaison, Conformation, Unissant</entry>
+	<entry key="ObjectTitle15">diable 15-The</entry><entry key="ObjectMeaning15">Fatalité pour de bon</entry>
+	<entry key="ObjectTitle16">tour 16-The</entry><entry key="ObjectMeaning16">Ruine, Rupture, Renversement, Perte, Faillite</entry>
+	<entry key="ObjectTitle17">17-The Tiennent le premier rôle</entry><entry key="ObjectMeaning17">Espoir, espérance, promesses lumineuses</entry>
+	<entry key="ObjectTitle18">lune 18-The</entry><entry key="ObjectMeaning18">Crépuscule, Déception, Erreur</entry>
+	<entry key="ObjectTitle19">le soleil 19-The</entry><entry key="ObjectMeaning19">Bonheur, Contenu, Joie</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Renouvellement, résultat, détermination d'une 
+question</entry>
+	<entry key="ObjectTitle21">monde 21-The</entry><entry key="ObjectMeaning21">Accomplissement, Bonne Récompense</entry>
+	<entry key="ObjectTitle22">As des tasses</entry><entry key="ObjectMeaning22">Se régalant, Banquet, Bonne Acclamation</entry>
+	<entry key="ObjectTitle23">Deux de tasses</entry><entry key="ObjectMeaning23">Amour, Attachement, Amitié, Sincérité, Affection</entry>
+	<entry key="ObjectTitle24">Trois de tasses</entry><entry key="ObjectMeaning24">Succès, triomphe, victoire, issue favorable</entry>
+	<entry key="ObjectTitle25">Quatre de tasses</entry><entry key="ObjectMeaning25">Ennui, Mécontentement, Mécontentement, 
+Mécontentement</entry>
+	<entry key="ObjectTitle26">Cinq de tasses</entry><entry key="ObjectMeaning26">Union, Jonction, Mariage, Transmission</entry>
+	<entry key="ObjectTitle27">Six de tasses</entry><entry key="ObjectMeaning27">Le passé, passé près, fané, disparu, disparu</entry>
+	<entry key="ObjectTitle28">Sept de tasses</entry><entry key="ObjectMeaning28">Idée, Sentiment, Réflexion, Projet</entry>
+	<entry key="ObjectTitle29">Huit de tasses</entry><entry key="ObjectMeaning29">Une fille juste, amitié, attachement, tendresse</entry>
+	<entry key="ObjectTitle30">Neuf de tasses</entry><entry key="ObjectMeaning30">La victoire, avantage, succès, triomphe, difficultés 
+a surmonté</entry>
+	<entry key="ObjectTitle31">Dizaines de tasses</entry><entry key="ObjectMeaning31">La ville où on réside, honorent, considération, 
+estime, vertu, gloire, réputation</entry>
+	<entry key="ObjectTitle32">Page des tasses</entry><entry key="ObjectMeaning32">Une jeunesse juste, confiance, probité, discrétion, 
+intégrité</entry>
+	<entry key="ObjectTitle33">Chevalier des tasses</entry><entry key="ObjectMeaning33">Arrivée, Approche, Avance</entry>
+	<entry key="ObjectTitle34">Reine des tasses</entry><entry key="ObjectMeaning34">Une femme juste, succès, bonheur, avantage, plaisir</entry>
+	<entry key="ObjectTitle35">Roi des tasses</entry><entry key="ObjectMeaning35">Un homme juste, qualité, bonté, libéralité, 
+générosité</entry>
+	<entry key="ObjectTitle36">As des Pentagrammes</entry><entry key="ObjectMeaning36">Contentement Parfait, Félicité, Prospérité, 
+Triomphe</entry>
+	<entry key="ObjectTitle37">Deux de Pentagrammes</entry><entry key="ObjectMeaning37">Embarras, Souci, Difficultés</entry>
+	<entry key="ObjectTitle38">Trois de Pentagrammes</entry><entry key="ObjectMeaning38">Noblesse, Altitude, Dignité, Grade, Puissance</entry>
+	<entry key="ObjectTitle39">Quatre de Pentagrammes</entry><entry key="ObjectMeaning39">Plaisir, Joie, Plaisir, Satisfaction</entry>
+	<entry key="ObjectTitle40">Cinq de Pentagrammes</entry><entry key="ObjectMeaning40">Amour d'amoureux ou de maîtresse, d'amour, de douceur,
+d'affection, pur et chaste</entry>
+	<entry key="ObjectTitle41">Six de Pentagrammes</entry><entry key="ObjectMeaning41">Présents, Cadeaux, Satisfaction :</entry>
+	<entry key="ObjectTitle42">Sept de Pentagrammes</entry><entry key="ObjectMeaning42">Argent, Finances, Trésor, Gain, Bénéfice</entry>
+	<entry key="ObjectTitle43">Huit de Pentagrammes</entry><entry key="ObjectMeaning43">Une fille foncée, beauté, franchise, chasteté, 
+innocence, modestie</entry>
+	<entry key="ObjectTitle44">Neuf de Pentagrammes</entry><entry key="ObjectMeaning44">Discrétion, Circonspection, Prudence, Discernement</entry>
+	<entry key="ObjectTitle45">Dizaines de Pentagrammes</entry><entry key="ObjectMeaning45">Chambre, Logement, Habitation, Famille</entry>
+	<entry key="ObjectTitle46">Page des Pentagrammes</entry><entry key="ObjectMeaning46">Une jeunesse foncée, économie, ordre, règle, 
+gestion</entry>
+	<entry key="ObjectTitle47">Chevalier des Pentagrammes</entry><entry key="ObjectMeaning47">Un homme utile, digne de confiance, sagesse, économie,
+ordre, règlement</entry>
+	<entry key="ObjectTitle48">Reine des Pentagrammes</entry><entry key="ObjectMeaning48">Une femme foncée, une femme généreuse, libéralité,
+grandeur d'âme, générosité</entry>
+	<entry key="ObjectTitle49">Roi des Pentagrammes</entry><entry key="ObjectMeaning49">Un homme foncé, victoire, courage, courage, succès</entry>
+	<entry key="ObjectTitle50">As des épées</entry><entry key="ObjectMeaning50">Triomphe, Fécondité, Fertilité, Prospérité</entry>
+	<entry key="ObjectTitle51">Deux d'épées</entry><entry key="ObjectMeaning51">Amitié, Bravoure, Fermeté, Courage</entry>
+	<entry key="ObjectTitle52">Trois d'épées</entry><entry key="ObjectMeaning52">Une Nonne, Séparation, Déplacement, Rupture, 
+Querelle</entry>
+	<entry key="ObjectTitle53">Quatre d'épées</entry><entry key="ObjectMeaning53">Solitude, Retraite, Abandon, Solitaire, Hermite</entry>
+	<entry key="ObjectTitle54">Cinq d'épées</entry><entry key="ObjectMeaning54">Deuil, Tristesse, Affliction</entry>
+	<entry key="ObjectTitle55">Six d'épées</entry><entry key="ObjectMeaning55">Délégué, Messager, Voyage, Voyage</entry>
+	<entry key="ObjectTitle56">Sept d'épées</entry><entry key="ObjectMeaning56">Espoir, Confiance, Désir, Tentative, Souhait</entry>
+	<entry key="ObjectTitle57">Huit d'épées</entry><entry key="ObjectMeaning57">Maladie, Calomnie, Critique, Blâme</entry>
+	<entry key="ObjectTitle58">Neuf d'épées</entry><entry key="ObjectMeaning58">Un ecclésiastique, un prêtre, conscience. 
+Probité, Bonne Foi, Intégrité</entry>
+	<entry key="ObjectTitle59">Dizaines d'épées</entry><entry key="ObjectMeaning59">Larmes, Affliction, Peine, Douleur</entry>
+	<entry key="ObjectTitle60">Page des épées</entry><entry key="ObjectMeaning60">Un Espion, Donnant sur, Autorité</entry>
+	<entry key="ObjectTitle61">Chevalier des épées</entry><entry key="ObjectMeaning61">Un soldat, un homme dont la profession est des bras, 
+Habileté, capacité, adresse, Promptitude</entry>
+	<entry key="ObjectTitle62">Reine des épées</entry><entry key="ObjectMeaning62">Veuvage, Perte, Privation, Absence, Séparation</entry>
+	<entry key="ObjectTitle63">Roi des épées</entry><entry key="ObjectMeaning63">Un avocat, un homme de loi, puissance, commande, 
+supériorité, autorité</entry>
+	<entry key="ObjectTitle64">As des baguettes magiques</entry><entry key="ObjectMeaning64">Naissance, Commencement, Commencement, Origine, Source</entry>
+	<entry key="ObjectTitle65">Deux de baguettes magiques</entry><entry key="ObjectMeaning65">Richesse, Fortune, Opulence, Magnificence, 
+Splendeur</entry>
+	<entry key="ObjectTitle66">Trois de baguettes magiques</entry><entry key="ObjectMeaning66">Entreprise, Entreprise, Commerce, Le Commerce, 
+Négociation</entry>
+	<entry key="ObjectTitle67">Quatre de baguettes magiques</entry><entry key="ObjectMeaning67">Société, Union, Association, Accord, Harmonie</entry>
+	<entry key="ObjectTitle68">Cinq de baguettes magiques</entry><entry key="ObjectMeaning68">Or, Opulence, Gain, Héritage, Richesse, 
+Fortune, Argent</entry>
+	<entry key="ObjectTitle69">Six de baguettes magiques</entry><entry key="ObjectMeaning69">Tentative, Espoir, Désir, Souhait, Espérance</entry>
+	<entry key="ObjectTitle70">Sept de baguettes magiques</entry><entry key="ObjectMeaning70">Succès, Gain, Avantage, Bénéfice, Victoire</entry>
+	<entry key="ObjectTitle71">Huit de baguettes magiques</entry><entry key="ObjectMeaning71">Arrangement, Observation, Direction</entry>
+	<entry key="ObjectTitle72">Neuf de baguettes magiques</entry><entry key="ObjectMeaning72">Ordre, Discipline, Bon Arrangement, Disposition</entry>
+	<entry key="ObjectTitle73">Dizaines de baguettes magiques</entry><entry key="ObjectMeaning73">Confiance, Sécurité, Honneur, Bonne Foi</entry>
+	<entry key="ObjectTitle74">Page des baguettes magiques</entry><entry key="ObjectMeaning74">Un Bon Étranger, Bonnes Nouvelles, Plaisir, 
+Satisfaction</entry>
+	<entry key="ObjectTitle75">Chevalier des baguettes magiques</entry><entry key="ObjectMeaning75">Départ, Séparation, Désunion</entry>
+	<entry key="ObjectTitle76">Reine des baguettes magiques</entry><entry key="ObjectMeaning76">Femme vivant dans le pays, Madame du manoir, amour 
+d'argent, avarice, usure</entry>
+	<entry key="ObjectTitle77">Roi des baguettes magiques  </entry><entry key="ObjectMeaning77">Homme vivant dans le pays, monsieur de pays, la 
+connaissance, éducation</entry>
+	<entry key="ReversedMeaning0">Hésitation, instabilité, herefrom surgissant d'ennui.</entry>
+	<entry key="ReversedMeaning1">Volonté appliquée aux extrémités mauvaises, faiblesse de 
+volonté, adresse, Knavishness.</entry>
+	<entry key="ReversedMeaning2">Vanité, Ignorance, Unskilfulness, La Connaissance 
+Superficielle.</entry>
+	<entry key="ReversedMeaning3">L'inaction, gaspillant loin de la puissance, veulent de la 
+Vacillation de concentration.</entry>
+	<entry key="ReversedMeaning4">Interruption, Contrôle, Non mûr, Non mûr.</entry>
+	<entry key="ReversedMeaning5">Au-dessus-bonté, faiblesse, exercice idiot de générosité.</entry>
+	<entry key="ReversedMeaning6">Plans imprudents, échec une fois mis à l'essai.</entry>
+	<entry key="ReversedMeaning7">Renversé, conquis par Obstacles au dernier moment.</entry>
+	<entry key="ReversedMeaning8">L'abus de la puissance, Overbearingness, veulent du courage.</entry>
+	<entry key="ReversedMeaning9">Au-dessus-prudence, Timorousness, Crainte.</entry>
+	<entry key="ReversedMeaning10">Malade-Fortune, Échec, Malade-Chance Inattendue.</entry>
+	<entry key="ReversedMeaning11">La bigoterie, veulent de l'équilibre, abus de justice, 
+Au-dessus-sévérité, inégalité, polarisation.</entry>
+	<entry key="ReversedMeaning12">Égoïsme, sacrifice non lié et partiel.</entry>
+	<entry key="ReversedMeaning13">La mort s'est juste échappée, le changement partiel, 
+changement pour le meilleur.</entry>
+	<entry key="ReversedMeaning14">Combinaisons peu judicieuses, Désunion, intérêts 
+s'opposants, etc...</entry>
+	<entry key="ReversedMeaning15">Fatalité pour le mal.</entry>
+	<entry key="ReversedMeaning16">Ceux-ci dans degré plus ou moins partiel.</entry>
+	<entry key="ReversedMeaning17">Espoirs non accomplis, espérances déçues ou accomplies en 
+degré mineur.</entry>
+	<entry key="ReversedMeaning18">Fluctuation, légères déceptions, erreurs Futiles.</entry>
+	<entry key="ReversedMeaning19">Ceux-ci en degré mineur.</entry>
+	<entry key="ReversedMeaning20">L'ajournement du résultat, Retardent, importent rouvert 
+plus tard.</entry>
+	<entry key="ReversedMeaning21">Récompense mauvaise, ou Récompense.</entry>
+	<entry key="ReversedMeaning22">Changement, Nouveauté, Métamorphose, Inconsistance.</entry>
+	<entry key="ReversedMeaning23">Désirs croisés, obstacles, opposition, obstacle.</entry>
+	<entry key="ReversedMeaning24">Expédition des affaires, rapidité, célérité, vigilance.</entry>
+	<entry key="ReversedMeaning25">Nouvelle Connaissance, Conjecture, Signe, Pressentiment.</entry>
+	<entry key="ReversedMeaning26">Arrivée, retour, nouvelles, surprise, projets faux.</entry>
+	<entry key="ReversedMeaning27">Le futur, ce qui doit venir, sous peu, bientôt.</entry>
+	<entry key="ReversedMeaning28">Plan, Conception, Résolution, Décision.</entry>
+	<entry key="ReversedMeaning29">Joie, Se régalant, Joie, Plaisir.</entry>
+	<entry key="ReversedMeaning30">Défauts, Erreurs, Erreurs, Imperfections.</entry>
+	<entry key="ReversedMeaning31">Combat, Différends, Opposition, Différences, Conflit.</entry>
+	<entry key="ReversedMeaning32">Un Flatteur, Déception, Artifice.</entry>
+	<entry key="ReversedMeaning33">Duplicité, abus de confiance, fraude, adroite.</entry>
+	<entry key="ReversedMeaning34">Une femme en bonne position, mais intermeddling, et se méfieer 
+; Succès, mais avec un certain ennui propre.</entry>
+	<entry key="ReversedMeaning35">Un homme de la bonne position, mais changeant dans ses rapport
+d'affaires, méfiance, doute, soupçon.</entry>
+	<entry key="ReversedMeaning36">Bourse d'or, argent, gain, aide, bénéfice, Richesse.</entry>
+	<entry key="ReversedMeaning37">Lettre, Missive, Épître, Message.</entry>
+	<entry key="ReversedMeaning38">Enfants, Fils, Filles, Jeunesses, Commencement.</entry>
+	<entry key="ReversedMeaning39">Obstacles, Obstacles.</entry>
+	<entry key="ReversedMeaning40">Amour Honteux, Imprudence, Permis, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Ambition, Désir, Passion, But, Désirant ardemment.</entry>
+	<entry key="ReversedMeaning42">Perturbation, Souci, Inquiétude, Mélancolie.</entry>
+	<entry key="ReversedMeaning43">Flatterie, Usure, Hypocrisie, Changeant.</entry>
+	<entry key="ReversedMeaning44">Duperie, mauvaise foi, artifices, déception.</entry>
+	<entry key="ReversedMeaning45">Jeu, Dissipation, Vol, Perte.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Profusion, Perte, Dissipation.</entry>
+	<entry key="ReversedMeaning47">Un homme de braver, mais hors d'emploi, ralenti, chômeurs,
+négligents.</entry>
+	<entry key="ReversedMeaning48">Certain mal, une femme soupçonneuse, une femme juste 
+considérée avec le soupçon, doute, méfiance.</entry>
+	<entry key="ReversedMeaning49">Un vieux et méchant homme, un homme dangereux, doute, crainte, 
+péril, danger.</entry>
+	<entry key="ReversedMeaning50">Amour d'embarras, idiot et désespéré, obstacle, obstacle.</entry>
+	<entry key="ReversedMeaning51">Les Amis Faux, Trahison, Se trouve.</entry>
+	<entry key="ReversedMeaning52">Erreur, Confusion, Misrule, Désordre.</entry>
+	<entry key="ReversedMeaning53">Économie, précaution, règlement de dépense.</entry>
+	<entry key="ReversedMeaning54">Ennui de pertes (le même sens, si renversé ou pas.)</entry>
+	<entry key="ReversedMeaning55">Déclaration, amour proposé, révélation, surprise.</entry>
+	<entry key="ReversedMeaning56">Conseil Sage, Bon Avocat-conseil, Sagesse, Prudence, 
+Circonspection.</entry>
+	<entry key="ReversedMeaning57">Trahison dans le passé, événement, accident, incident 
+remarquable.</entry>
+	<entry key="ReversedMeaning58">Méfiance sage, soupçon, crainte, doute, caractère ombreux.</entry>
+	<entry key="ReversedMeaning59">Dépassement Du Succès, Avantage Momentané.</entry>
+	<entry key="ReversedMeaning60">Ce qui est imprévu, vigilance, appui.</entry>
+	<entry key="ReversedMeaning61">Un imbécile vaniteux, Ingenuousness, simplicité.</entry>
+	<entry key="ReversedMeaning62">Une mauvaise femme, de mauvais caractère et fanatique, 
+Richesse et discorde, abondance ainsi que le souci, joie avec 
+peine.</entry>
+	<entry key="ReversedMeaning63">Un Homme Mauvais, Contrariété, Souci, Peine, Crainte, 
+Perturbation.</entry>
+	<entry key="ReversedMeaning64">Persécution, Poursuites Voilence, Vexation, Cruauté, 
+Tyrannie.</entry>
+	<entry key="ReversedMeaning65">Surprise, Étonnement, Événement, Occurrence Extraordinaire.</entry>
+	<entry key="ReversedMeaning66">Espoir, Désir, Tentative, Souhait.</entry>
+	<entry key="ReversedMeaning67">Prospérité, Succès, Bonheur, Avantage.</entry>
+	<entry key="ReversedMeaning68">Instance judiciaire, jugement, loi, avocat, tribunal.</entry>
+	<entry key="ReversedMeaning69">Infidélité, Trahison, Déloyauté, Perfidie.</entry>
+	<entry key="ReversedMeaning70">Indécision, Doute, Hésitation, Embarras, Inquiétude.</entry>
+	<entry key="ReversedMeaning71">Querelles, conflits d'intestin, discorde.</entry>
+	<entry key="ReversedMeaning72">Les Obstacles, Croix, Retardent, Mécontentement.</entry>
+	<entry key="ReversedMeaning73">Trahison, Subterfuge, Duplicité, Barre.</entry>
+	<entry key="ReversedMeaning74">Nouvelles Malades, Mécontentement, Contrariété, Souci.</entry>
+	<entry key="ReversedMeaning75">Rupture, Discorde, Querelle.</entry>
+	<entry key="ReversedMeaning76">Un bon une femme vertueuse, mais strict et économique, 
+obstacles, résistance, opposition.</entry>
+	<entry key="ReversedMeaning77">Un homme naturellement bon mais grave, avocat-conseil, 
+Conseil, délibération.</entry>
+</oracleio>

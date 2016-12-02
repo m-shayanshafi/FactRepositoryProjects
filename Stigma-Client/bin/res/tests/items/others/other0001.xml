@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item weight="0" version="Development" value="301" id="1"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/OtherTypeData-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>Gemstone</name>
+	<inventoryIcon>gem</inventoryIcon>
+    <onGroundIcon>gem</onGroundIcon>
+</item>

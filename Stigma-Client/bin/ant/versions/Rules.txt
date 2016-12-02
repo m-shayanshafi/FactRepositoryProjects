@@ -1,0 +1,65 @@
+==============================
+  Version number rules.
+==============================
+
+ Full and simplified version numbers
+-------------------------------------
+
+Full version number consists of 3 dot-separated parts:
+- major number
+- minor number 
+- patch number
+
+Each part is a non negative decimal number. 
+Exceptions may be made for patch number, which can contain suffixes like "Beta", "RC1", "RC2" etc.
+
+Simplified version number contains only major and minor parts.
+Two different versions of application but with same simplified version number must be compatible.
+For example - client and server must communicate.
+
+ Meaning of parts
+--------------------------------------
+
+1. Major
+     Reflects major milestones in product development. Should be changed "when necessary".
+     
+2. Minor
+     Reflects changes in product that add new functionality and/or affects compatibility with older versions.
+     For example: adding a new message type to client-server communication, changing editor file format.
+    
+3. Patch
+     Reflects bug fixes and minor functionality tweaks.
+     For example: fixed some "null pointer".
+     
+ Change logs
+---------------------------------------
+
+Every change made to one of the applications should be put in a ChangeLog.txt file found in proper directory located in doc.
+If necessary version numbers in ant/versions directory should be altered.
+
+For example:
+Adding new message to communication client-server should lead to changes in:
+ - version numbers of both client and server - minor version should be changed and patch number set to 0
+ - ChangeLog.txt - next version number should be updated and line describing change should be added to "Features" section,
+                   if there was no line for future release (no <not released yet> line) appropriate lines should be added
+ 
+ Tagging releases
+---------------------------------------
+
+Each release of application should reflect in proper tag in SVN repository, based on application name and version.
+Tag should be made into tags/app_short_name/full_version directory.
+Tag should be based on revision containing changes needed for release - ChangeLog added release date etc.
+It should contain exact code which was used to generate release.
+
+ Stable releases
+---------------------------------------
+
+When release is considered "stable" (this word may be even used as patch version suffix) then a branch for this version should be created.
+Branch name should be equal to simplified version number of the stable release. Thats why "stable releases" should enforce minor version number changes if needed.
+Branch should be used for committing modification that corresponds "patch number" version changes (but those modification should be concurrently made to "trunk" version).
+Every releases of subsequent versions with same simplified version number should be made only from "stable branch".
+Branches should be made into branches/app_short_name/full_version directory.
+"Trunk" should be used to develop new functionality etc.
+
+====================================
+ doc. v. 1.2.0 - 2009/08/31

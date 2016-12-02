@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">四個季節傳播(Cortese/Reed)</entry>
+	<entry key="Description">"這傳播使用審查刺激為計劃或志向。卡片被安排以便叫介意季節的進步和並且任何行動進步或計劃通過構想、進步、決議, 和反射四個階段。" - Cortese</entry>
+	<entry key="PositionTitle0">春天</entry><entry key="Meaning0">統治在春天, 象徵行動或志向, 種植的構想或_蒙種子, 亦所謂。修飾詞為春天是卡片8 。</entry>
+	<entry key="PositionTitle1">修改夏天</entry><entry key="Meaning1">修飾詞為卡片3 。</entry>
+	<entry key="PositionTitle2">夏天</entry><entry key="Meaning2">統治在夏天, 象徵計劃, 想法將開花的方式進步用。修飾詞為夏天是卡片2 。</entry>
+	<entry key="PositionTitle3">修改秋天</entry><entry key="Meaning3">修飾詞為卡片5 。</entry>
+	<entry key="PositionTitle4">秋天</entry><entry key="Meaning4">統治在秋天, 象徵計劃的決議, 怎麼事件願"風。" 修飾詞為秋天是卡片4 。</entry>
+	<entry key="PositionTitle5">修改冬天</entry><entry key="Meaning5">修飾詞為卡片7 。</entry>
+	<entry key="PositionTitle6">冬天</entry><entry key="Meaning6">統治在冬天, 象徵反射的期間在行動或計劃以後被完成了, 或什麼querent 也許祝願學會從事件進步。修飾詞為冬天是卡片6 。</entry>
+	<entry key="PositionTitle7">修改春天</entry><entry key="Meaning7">修飾詞為卡片1 。</entry>
+</oracleio>

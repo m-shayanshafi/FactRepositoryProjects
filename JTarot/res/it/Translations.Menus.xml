@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="it" author="Thomas Dilts" >
+<entry key="menulanguage">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+<entry key="Advisor">Consigliere</entry>
+<entry key="BadFileMessage">La lima che avete selezionato non potrebbe essere 
+usata. Provi ancora con un'altra lima che è la disposizione 
+corretta.</entry>
+<entry key="CancelButton">Annulli</entry>
+<entry key="CardSelectionWizard">Obietti Il Wizard Di Selezione</entry>
+<entry key="ChooseWhichFileToCreate">Scelga che li archiviano desiderano ed allora premono 
+"generano il tasto di questa lima"</entry>
+<entry key="Create this file">Generi questa lima</entry>
+<entry key="DoYouWantToMakeThisDefault">Desiderate rendere questo la vostra lima di difetto al 
+riavviamento del tne dopo di jTarot?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, avete colpito l'annullamento. Realmente desiderate 
+gettare via tutti i vostri cambiamenti?</entry>
+<entry key="Graphical objects">Oggetti grafici</entry>
+<entry key="Lastusedreadingslistisempty">La lista delle letture usata ultimo è vuota</entry>
+<entry key="Layout translations">Traduzioni della disposizione</entry>
+<entry key="Layout">Disposizione</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Selezioni manualmente nella lista di sinistra l'oggetto
+indicato nell'immagine a destra e colpisca 'dopo '.</entry>
+<entry key="ManuallySelectEachCard">Selezioni manualmente ogni oggetto</entry>
+<entry key="Menu and message translations">Traduzioni del messaggio e del menu</entry>
+<entry key="More">Più</entry>
+<entry key="NextButton">Dopo</entry>
+<entry key="No">No</entry>
+<entry key="OpenAFile">Selezioni una lima per aprirsi</entry>
+<entry key="Oracle translations">Traduzioni di oracolo</entry>
+<entry key="RandomlyChooseTheNextCard">Selezioni l'oggetto seguente per andare nella posizione
+indicata nell'immagine.</entry>
+<entry key="RandomlySelectCards">Selezioni a caso gli oggetti</entry>
+<entry key="Removealllastusedreadings">Rimuova tutte le ultime letture usate</entry>
+<entry key="SaveAFile">Selezioni una lima o entri in un nuovo nome di 
+archivio</entry>
+<entry key="SelectLayoutAndCardSelection">Scelga la disposizione che desiderate ed il senso 
+desiderate selezionare gli oggetti; a caso o manualmente. 
+Se realmente siete persi qui, colpisca appena gli oggetti 'a 
+caso prescelti "del tasto</entry>
+<entry key="Smaller group of objects">Più piccolo gruppo degli oggetti</entry>
+<entry key="StartupWizard">Wizard Startup</entry>
+<entry key="TheDeckCopyright">Copyright dell'immagine dell'oggetto</entry>
+<entry key="Title">jTarot e Runes</entry>
+<entry key="Type of oracle">Tipo di oracolo</entry>
+<entry key="Use reversed objects">Usi gli oggetti invertiti</entry>
+<entry key="Yes">Sì</entry>
+<entry key="YouMustFirstSelectAValidCard">Dovete in primo luogo selezionare un oggetto valido</entry>
+<entry key="advancedLabel">Avanzato</entry>
+<entry key="advisorsLabel">Consiglieri</entry>
+<entry key="browseroptionsLabel">Mostri il dialogo di opzioni del browser</entry>
+<entry key="cardisreversed">Questo oggetto è invertito</entry>
+<entry key="contributeLabel">Come posso aiutare questo progetto?</entry>
+<entry key="copyrighttitle">Copyright dei testi del consigliere</entry>
+<entry key="createsetupfilesLabel">Generi una lima di messa a punto di oracolo</entry>
+<entry key="editsetupfileLabel">Pubblichi una lima di messa a punto</entry>
+<entry key="exitLabel">Rimuova</entry>
+<entry key="exportLabel">Esportazione</entry>
+<entry key="exporthtmlLabel">HTML (molti lime, compatibili tutti i browsers di 
+fotoricettore)</entry>
+<entry key="exportmhtmlLabel">MHTML (singola lima, MS Windows compatibile)</entry>
+<entry key="exportwarLabel">WAR (la singola lima, Konqueror compatibile e un 
+certo mozilla clona)</entry>
+<entry key="generalhelpLabel">Aiuto</entry>
+<entry key="givetranslatehelpLabel">Traduca 'l'aiuto 'alla vostra lingua</entry>
+<entry key="helpLabel">Aiuto</entry>
+<entry key="ifreversed">Descrizione invertita</entry>
+<entry key="imagesLabel">Immagini</entry>
+<entry key="languageLabel">Lingua</entry>
+<entry key="loadsetupfileLabel">Carichi una lima di messa a punto per uso in questo 
+programma</entry>
+<entry key="newlayoutLabel">Faccia una nuova lettura</entry>
+<entry key="openLabel">Apra una lettura precedentemente conservata</entry>
+<entry key="optionsLabel">Opzioni</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Stampa via un web browser</entry>
+<entry key="readingsLabel">Letture</entry>
+<entry key="recentLabel">Letture usate ultimo</entry>
+<entry key="reportbugLabel">Segnali un errore di programma</entry>
+<entry key="saveLabel">Risparmi la lettura corrente</entry>
+<entry key="screensPersonalReading">La vostra traduzione della lettura</entry>
+<entry key="screensQuestion">Domanda per la lettura</entry>
+<entry key="screensReading">Lettura Generata</entry>
+<entry key="showallobjectsLabel">Mostri tutte le immagini per questo oracolo</entry>
+<entry key="showpositionnumbersLabel">Mostri i numeri di posizione della disposizione</entry>
+<entry key="showreversedandnormalLabel">Mostri insieme i testi normali ed invertiti 
+dell'oggetto</entry>
+<entry key="thecard">L'oggetto</entry>
+<entry key="theposition">Posizione</entry>
+</oracleio>

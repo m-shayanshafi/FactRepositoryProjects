@@ -1,0 +1,6 @@
+Special parameters of all Stigma programs:
+
+--generate-translation-file - generates translation file for current locale and puts original English texts in it 
+--update-translation-file - updates translation file for current locale (removes unused translations and adds new)
+
+Remember to use native2ascii tool when editing translation files.

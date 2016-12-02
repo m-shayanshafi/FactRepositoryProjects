@@ -1,0 +1,8 @@
+
+This is a VERY incomplete list; there are many other TODOs.  Also see the Sourceforge page Bug and Feature trackers for other bugs/features.
+
+-add layout "editor" to allow user-creation of control panel and scoreboard display and any other view
+-Add Skater penalties
+-Add "Pass" object to track per-pass scoring
+-add javascript code and/or html control to view all listeners, including stats like last request time
+-XML stats page to parse through pre-saved XML file, or realtime XML, to display current game stats

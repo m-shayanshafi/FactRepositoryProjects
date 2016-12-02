@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts (tarot@lazy8.nu).
+Erlaubnis wird Kopie bewilligt, verteilt und/oder ändert dieses
+Dokument unter den Bezeichnungen der neueren Version der GNU freien 
+Unterlagen Lizenz, der Version 1.2 oder irgendein, die durch die freie
+Software-Grundlage veröffentlicht wird. Eine Kopie der Lizenz 
+kann an http://www.gnu.org gefunden werden</entry>
+	<entry key="Title">Solarverbreitung (Doane)</entry>
+	<entry key="Description">In jeder Reihe stellt die mittlere Karte (4, 11, 18, 25, 
+usw.) anwesende Bedingungen oder Einflüsse dar. Die drei Karten
+rechts stellen die Vergangenheit dar; die drei nach links, die 
+Zukunft. Jede Reihe bezieht entweder auf einem bestimmten Aspekt
+des Lebens oder bestimmte Leute (oder möglicherweise beide)</entry>
+	<entry key="PositionTitle0">Mond 1 Letzt</entry><entry key="Meaning0">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle1">Mond 2 Letzt</entry><entry key="Meaning1">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle2">Mond 3 Letzt</entry><entry key="Meaning2">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle3">Geschenk Des Mond-4</entry><entry key="Meaning3">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle4">Zukunft Des Mond-5</entry><entry key="Meaning4">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle5">Zukunft Des Mond-6</entry><entry key="Meaning5">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle6">Zukunft Des Mond-7</entry><entry key="Meaning6">Gefühle, Gefühle</entry>
+	<entry key="PositionTitle7">Quecksilber 1 Letzt</entry><entry key="Meaning7">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle8">Quecksilber 2 Letzt</entry><entry key="Meaning8">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle9">Quecksilber 3 Letzt</entry><entry key="Meaning9">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle10">Geschenk Des Quecksilber-4</entry><entry key="Meaning10">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle11">Zukunft Des Quecksilber-5</entry><entry key="Meaning11">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle12">Zukunft Des Quecksilber-6</entry><entry key="Meaning12">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle13">Zukunft Des Quecksilber-7</entry><entry key="Meaning13">Gedanken, Intellekt</entry>
+	<entry key="PositionTitle14">Venus 1 Letzt</entry><entry key="Meaning14">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle15">Venus 2 Letzt</entry><entry key="Meaning15">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle16">Venus 3 Letzt</entry><entry key="Meaning16">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle17">Venus 4 Geschenk</entry><entry key="Meaning17">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle18">Venus 5 Zukunft</entry><entry key="Meaning18">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle19">Venus 6 Zukunft</entry><entry key="Meaning19">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle20">Venus 7 Zukunft</entry><entry key="Meaning20">Liebe, Verhältnisse</entry>
+	<entry key="PositionTitle21">Sonne 1 Letzt</entry><entry key="Meaning21">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle22">Sonne 2 Letzt</entry><entry key="Meaning22">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle23">Sonne 3 Letzt</entry><entry key="Meaning23">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle24">Geschenk Der Sonne-4</entry><entry key="Meaning24">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle25">Zukunft Der Sonne-5</entry><entry key="Meaning25">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle26">Zukunft Der Sonne-6</entry><entry key="Meaning26">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle27">Zukunft Der Sonne-7</entry><entry key="Meaning27">Energie, das Ego, der zentrale Punkt</entry>
+	<entry key="PositionTitle28">Mars 1 Letzt</entry><entry key="Meaning28">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle29">Mars 2 Letzt</entry><entry key="Meaning29">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle30">Mars 3 Letzt</entry><entry key="Meaning30">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle31">Mars 4 Geschenk</entry><entry key="Meaning31">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle32">Mars 5 Zukunft</entry><entry key="Meaning32">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle33">Mars 6 Zukunft</entry><entry key="Meaning33">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle34">Mars 7 Zukunft</entry><entry key="Meaning34">Konflikt, Krieg. Kann die Lösung oder die Antwort
+zur Angelegenheit auch darstellen, die ist, warum es das reconciler 
+genannt wird</entry>
+	<entry key="PositionTitle35">Jupiter 1 Letzt</entry><entry key="Meaning35">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle36">Jupiter 2 Letzt</entry><entry key="Meaning36">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle37">Jupiter 3 Letzt</entry><entry key="Meaning37">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle38">Jupiter 4 Geschenk</entry><entry key="Meaning38">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle39">Jupiter 5 Zukunft</entry><entry key="Meaning39">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle40">Jupiter 6 Zukunft</entry><entry key="Meaning40">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle41">Jupiter 7 Zukunft</entry><entry key="Meaning41">Wachstum und Expansion. Glück. Positive 
+Einflüsse</entry>
+	<entry key="PositionTitle42">Saturn 1 Letzt</entry><entry key="Meaning42">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle43">Saturn 2 Letzt</entry><entry key="Meaning43">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle44">Saturn 3 Letzt</entry><entry key="Meaning44">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle45">Saturn 4 Geschenk</entry><entry key="Meaning45">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle46">Saturn 5 Zukunft</entry><entry key="Meaning46">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle47">Saturn 6 Zukunft</entry><entry key="Meaning47">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+	<entry key="PositionTitle48">Saturn 7 Zukunft</entry><entry key="Meaning48">Getan zu werden Arbeit. Negativeinflüsse zum zu 
+überwinden</entry>
+</oracleio>

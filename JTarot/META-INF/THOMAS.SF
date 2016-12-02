@@ -1,0 +1,4610 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 1hc9Jqv5ycx6O6K085WZPN36Os8=
+Created-By: 1.6.0_03 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: wKuz4I3/GoYdByDy+Up3b+VwKPs=
+
+Name: res/es/StandardTarot7SpiritCards.xml
+SHA1-Digest: dH7LkzwPOVA1CZEvf6viwXgXEOQ=
+
+Name: res/ko/StandardTarot12TrineCards.xml
+SHA1-Digest: z78XLkcQyMMWm7K0DVJFk7XzwFg=
+
+Name: res/en/ElderFutharkRunes3Lay.xml
+SHA1-Digest: sCytHR5h14/bbvbgaDZNcVR+Rw4=
+
+Name: res/nl/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: 6Sr15HD5iDRfCLupwtoX2JKeW/4=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r3.jpg
+SHA1-Digest: 1+UtqHoQR2luhAH/owp2rwsl2XA=
+
+Name: res/StandardTarotCards.RiderWaite/r5.jpg
+SHA1-Digest: Qpz/hVOyg9IP0/Ojj9vBVKTxeLM=
+
+Name: res/ru/StandardTarot7HexCards.xml
+SHA1-Digest: o0gb+3JlmS7W/dX/3ZQY0zVHpOU=
+
+Name: res/sv/StandardTarot.xml
+SHA1-Digest: phXWH+r78Ctg1zBO4XUd5DAQzcc=
+
+Name: res/ko/ElderFutharkRunesObj.xml
+SHA1-Digest: TQIh4W2Xk5Xp/A9gK44kxNeQfig=
+
+Name: res/OracleIO.properties.xml
+SHA1-Digest: Vx5w0sKxFKf8i6xA63xAabQj3rQ=
+
+Name: res/StandardTarotCards.RiderWaite/r54.jpg
+SHA1-Digest: M1IptEHQvfv5sHCZE0Zs+JwWV7o=
+
+Name: res/StandardTarotCards.Marseilles/r71.jpg
+SHA1-Digest: xeREELO/6x5gyItovKNT7JBQeWs=
+
+Name: res/ru/StandardTarot8PlanetCards.xml
+SHA1-Digest: DCzqfK7735xJ05eSQOR/z2O4LkM=
+
+Name: res/zh/StandardTarot10YesnoCards.xml
+SHA1-Digest: FE33PLw4k6eG5KLk5Q11emRSots=
+
+Name: res/ElderFutharkRunes.Blues/r8.jpg
+SHA1-Digest: D4TEBS3tOFiAUq5X12tI9wkrLIY=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard$5.class
+SHA1-Digest: NvvjIUZ10bci45QWH8ECNLvmNMY=
+
+Name: jtarot/jTarot$ZoomAction.class
+SHA1-Digest: FH3yz5TXc1AftYbTDuXhaMTTT6Q=
+
+Name: res/ko/ElderFutharkRunes.xml
+SHA1-Digest: ahPD9TcJ+IRuAYvOGc7nCgoqZDg=
+
+Name: res/es/StandardTarot10TreeDavis.xml
+SHA1-Digest: eIbqUWI5IZMFXNq5dr8QkDcFVZE=
+
+Name: res/StandardTarotCards.Cards52/r55.png
+SHA1-Digest: O2SyrVLcqxj93k7RklLz0SzyfqI=
+
+Name: res/en/StandardTarotCelticCross.xml
+SHA1-Digest: mVqXXk3Y6xXKUk/YSOupW6FGDAw=
+
+Name: res/en/StandardTarot49SolarCards.xml
+SHA1-Digest: rs6MzfhnPZqZRQIwvUF4Azch2P0=
+
+Name: res/ja/StandardTarot12TrineCards.xml
+SHA1-Digest: IrR0yVVK5nog6t+PqrnGlLLww44=
+
+Name: res/pt/help12.jpg
+SHA1-Digest: RADifoUUazEMtaGTbESA7pMe4g0=
+
+Name: res/StandardTarotCards.Marseilles/r39.jpg
+SHA1-Digest: 5/v2kKztqmstLcGzlpi6dvOg/N8=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard$1.class
+SHA1-Digest: 4VEk1VNkVFK7UmstV9dNVGFVl4k=
+
+Name: res/StandardTarot10SpiralCards.xml
+SHA1-Digest: KhfvynaWQ2/qigRml+XrBMiW8+s=
+
+Name: res/zh2/ElderFutharkRunes.xml
+SHA1-Digest: IKec/0M1QAZh6wx8VfK3bmr9474=
+
+Name: jtarot/MultiFileFilter.class
+SHA1-Digest: DdCFYY0dkWaFQyKT8uyiPIzOnVI=
+
+Name: res/el/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: zw8C7D86EGgckVjECHW/TLQzT1Y=
+
+Name: res/ko/StandardTarot7MagicCards.xml
+SHA1-Digest: iPQQ7iRHKzcEy7UjG5KH0D8lHnc=
+
+Name: res/zh/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: VO1BtVsmMla99Cn5rOsS1YQ+ons=
+
+Name: res/ko/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: Sy7+rn6DXhJscujRwgJlehv7vgI=
+
+Name: res/StandardTarotCards.Minchiate/r44.jpg
+SHA1-Digest: nzOZJQBZU7J7ZWOMweoH5yI0RRo=
+
+Name: res/pt/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: Ei4aO2eBa6DRxtQv4W9+D0vjq4E=
+
+Name: res/StandardTarotCards.Cards52/r68.png
+SHA1-Digest: G567SCNHRktC/05vXyE/Fp3ZAAk=
+
+Name: res/StandardTarotCards.Cards52/r6.png
+SHA1-Digest: YhoRtcU3iXXBnIbJL/G6pf6iKJY=
+
+Name: res/StandardTarotCards.RiderWaite/r20.jpg
+SHA1-Digest: kRTekFQyQp4UoVp9tW0KE2XH5ic=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard$2.class
+SHA1-Digest: goNc8yhHG474cTzLwrZHYAwtPDs=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r17.jpg
+SHA1-Digest: gBSDDDd7sVXehCm5H+St8AeaQFE=
+
+Name: res/zh/StandardTarot11KeyCards.xml
+SHA1-Digest: /GVs+uOonNKMaCMZSQyLSyVSWnw=
+
+Name: res/StandardTarotCards.Minchiate/r12.jpg
+SHA1-Digest: OFHcBHEgnLuE7r6z0zAIdmwAkTc=
+
+Name: res/el/StandardTarot6TrueLove.xml
+SHA1-Digest: dsN0p/lFLmPZ2hTr6Zr8zDccqJo=
+
+Name: res/zh/StandardTarot.xml
+SHA1-Digest: wtAZFgDwvrBKjJG7+bHjHs4ogZY=
+
+Name: res/it/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: KB4d9xFVFe7Uh5SgghctICEhonM=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel.class
+SHA1-Digest: hEj2/D6zO7kisd7o66HlECBcpqo=
+
+Name: res/StandardTarotCards.Marseilles/r35.jpg
+SHA1-Digest: 5+5dRXVwdtTVHtTuxtcSSk1wdRQ=
+
+Name: res/ko/Translations.Menus.xml
+SHA1-Digest: 6tLrDmyXrmER10bXl7wPCU7mW7g=
+
+Name: res/StandardTarotCards.Cards52/r43.png
+SHA1-Digest: ckNPKHwVBwLZ3sMGiesQQOrnd20=
+
+Name: res/StandardTarotCards.Marseilles/r56.jpg
+SHA1-Digest: HqNjOK+MvRhQg9SWfj8VeManNpM=
+
+Name: res/StandardTarotCards.Cards52/index.xml
+SHA1-Digest: /4Qhnb6WyrIrznJnI1F04FeY3us=
+
+Name: res/nl/StandardTarot7SpiritCards.xml
+SHA1-Digest: bVzoW3lpflk2Du4wMxu717gpK0M=
+
+Name: res/StandardTarot3Cards.xml
+SHA1-Digest: VIKK6N3L+kFt4fqaLAY2LdJC8OA=
+
+Name: src/jtarot/SelectedCard.java
+SHA1-Digest: 8ZmSA1o5mNiZvR+va/3EEG7UWxk=
+
+Name: res/StandardTarotCards.Minchiate/r43.jpg
+SHA1-Digest: 9+uqObYqb5fEbkFM8Ca40xNkEaI=
+
+Name: res/StandardTarot12TrineCards.xml
+SHA1-Digest: Irn7cpP9JN444VHk53UIWCvvVNI=
+
+Name: res/zh/help12.jpg
+SHA1-Digest: mpamTGYys8pRR8hvripTjMQeGU4=
+
+Name: res/sv/help12.jpg
+SHA1-Digest: hbGRXPj6MxfIXjdWEtWa5Kmfz4U=
+
+Name: res/ja/ElderFutharkRunes2Lay.xml
+SHA1-Digest: 9B0rvKzSX6NKSRM/Fla3ZDT5eCE=
+
+Name: res/fr/StandardTarot11CupCards.xml
+SHA1-Digest: BqvtGT07q15jf4KJqyA76pE4EQ8=
+
+Name: res/de/StandardTarotCards.Waite.xml
+SHA1-Digest: GdqXHDSTQI4JEz0EZCENdP5cJUc=
+
+Name: res/en/StandardTarot12HouseCards.xml
+SHA1-Digest: 5tK4rWCOTnTijX1vQk3XWn7mSjU=
+
+Name: res/zh/StandardTarot15ThothCards.xml
+SHA1-Digest: vyrV1Z3LsntxhuhzalzAIfWGEmw=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$4.class
+SHA1-Digest: bN20NEs7e2Xnzg0Mgv07iAkWBjw=
+
+Name: res/StandardTarotCards.Marseilles/r40.jpg
+SHA1-Digest: ntIXlZWPGxxrY9jz1QGP5dI5eG0=
+
+Name: src/nu/lazy8/oracle/engine/RandomExtended.java
+SHA1-Digest: 2BQTy21yfSqzuPhetOqUyooH2WU=
+
+Name: src/jtarot/CardRandomizerPane.java
+SHA1-Digest: a1CICT4qhr86Vdi08JQ+vMk5kjE=
+
+Name: res/ElderFutharkRunes.Blues/r13.jpg
+SHA1-Digest: R2JogfOK9zjQYs4P4oYgGoZv0jY=
+
+Name: res/ElderFutharkRunes.Pearl/r1.jpg
+SHA1-Digest: zZk5GOCoHO5d+us5Y/Bm6SrWvu0=
+
+Name: res/StandardTarotCards.Minchiate/r75.jpg
+SHA1-Digest: Vfxzcqyyd9fVaG6Enm+iDrUlXyI=
+
+Name: res/zh2/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: bDp/IQdv+i4zaKcfdC9dgqhy4xM=
+
+Name: res/fr/StandardTarot21GrandCards.xml
+SHA1-Digest: Cq4JIC2VSkVRBluPCe8S5GpjYTg=
+
+Name: res/en/Translations.Menus.xml
+SHA1-Digest: fTCxS1JNL2c1QYK7TWRCITHnk+Y=
+
+Name: res/StandardTarotCards.Minchiate/r4.jpg
+SHA1-Digest: TxY2osTaFV9DmFG1Eg0bql0ch14=
+
+Name: res/sv/StandardTarot11CupCards.xml
+SHA1-Digest: 3ggrqI4Xk0SQpNMa1y6MWQZ2Cq4=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$3.class
+SHA1-Digest: i8GEiYdTosbkTvSx2afF+6Vr2dc=
+
+Name: jtarot/PropertyTranslationPanel$TransCell.class
+SHA1-Digest: oZNJiUWyedYDWjwO/DSkmJ+x3Jk=
+
+Name: res/it/help.xml
+SHA1-Digest: URZ5RCpJdAJZCT0LIZgOzv2G2Ig=
+
+Name: res/it/StandardTarotCards.Mathers.xml
+SHA1-Digest: 8uOG8DgZddIN0NwKZWkwsv5HAJ4=
+
+Name: res/en/StandardTarot15ThothCards.xml
+SHA1-Digest: LjWnAn8Btd3xnJjoFksHII1Ua04=
+
+Name: res/StandardTarotCards.Marseilles/r32.jpg
+SHA1-Digest: U5e36ePzV0Qv+XIH2xQ1lFCRWF0=
+
+Name: res/sv/StandardTarotCards.Waite.xml
+SHA1-Digest: FER83YDwA77O0872y22m270aEBQ=
+
+Name: res/zh2/ElderFutharkRunes9Lay.xml
+SHA1-Digest: DXOfzgbin81ynNzG7QUH5Wk69OA=
+
+Name: res/el/StandardTarot12HouseCards.xml
+SHA1-Digest: lmpK6ODOZVfWq3L8krxJkGACYBg=
+
+Name: res/en/StandardTarot9AwenCards.xml
+SHA1-Digest: rMsnMOjiIO0ZjHOZCDz1KD4oImg=
+
+Name: res/StandardTarotCards.Marseilles/r61.jpg
+SHA1-Digest: 12mvZtp1ZWPYUSN0xXA37ehV3+I=
+
+Name: res/StandardTarotCards.RiderWaite/r46.jpg
+SHA1-Digest: Pd2qh1lHZqIVON5fQp/t43Xb3a4=
+
+Name: jtarot/CardRandomizerPane$ButtonCard$1.class
+SHA1-Digest: 9/kggNFbB1apvE/ejdhEqyBP+Ks=
+
+Name: res/de/help11.jpg
+SHA1-Digest: oxWXcfH283ke9hpo8TSpKjnMoro=
+
+Name: res/StandardTarot7DreamCards.xml
+SHA1-Digest: plQ00Cun19KPqxzR0Dni7S/FYrM=
+
+Name: res/zh2/StandardTarot21Cards.xml
+SHA1-Digest: +ERZMFxLSsbXIbOWW3rwU90OoG0=
+
+Name: res/StandardTarotCards.Marseilles/r7.jpg
+SHA1-Digest: gbYnLMhaBREJH/dyd533ZymzyKw=
+
+Name: res/de/help.xml
+SHA1-Digest: fhM+Kv+oE6qy30JGKfIr3Jt3sbc=
+
+Name: res/ja/StandardTarotCards.Waite.xml
+SHA1-Digest: OaNVlnRFOr1PJS7+6o3p7wwiMp4=
+
+Name: res/StandardTarot11KeyCards.xml
+SHA1-Digest: PNCR1kCahukeEzy+aQVkuX6gNWw=
+
+Name: res/zh2/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: 7qJjJdtl+56jn0N8RIcLE49IXsE=
+
+Name: res/ElderFutharkRunes.Pearl/r21.jpg
+SHA1-Digest: /q+32KEGEX+ozf69e5OS4nTos+M=
+
+Name: res/zh2/StandardTarot9AwenCards.xml
+SHA1-Digest: +vAzPv1XbjQY4BkrXg6PIQI+Wuw=
+
+Name: res/StandardTarotCards.RiderWaite/r68.jpg
+SHA1-Digest: cfIe4i3kBBUwEGRarnR2sM89N0I=
+
+Name: res/fr/StandardTarot7DreamCards.xml
+SHA1-Digest: qj9st9mIiqatvD+MLB5lRmwUTRU=
+
+Name: res/el/StandardTarot13MandalaCards.xml
+SHA1-Digest: TG6IPBs/1AmzwpngUzRMkJyqf/4=
+
+Name: res/el/help0.jpg
+SHA1-Digest: d3nC4owjoFty4RcOcDnFlmmAv8A=
+
+Name: res/el/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: OOdlGbuASgzBbcDwmPYXDkwdk+M=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$1.class
+SHA1-Digest: jgYAmEwTI2bl8gYHFoAP6AkuBMM=
+
+Name: res/zh/StandardTarot7HexCards.xml
+SHA1-Digest: VIAe/7UJt0R5lm2xrawZh7WPf70=
+
+Name: res/zh2/StandardTarot3Cards.xml
+SHA1-Digest: kNp2Ufo6U5K/aUwT2vvQkeJMC84=
+
+Name: res/StandardTarotCards.Marseilles/r66.jpg
+SHA1-Digest: lf0Fwt5dE9TzMGOSCJiTR/qSpPU=
+
+Name: res/nl/StandardTarot2Cards.xml
+SHA1-Digest: ry1lbLmZmsj/RgDDAgjmIW7zvLk=
+
+Name: res/pt/StandardTarotCelticCross.xml
+SHA1-Digest: gRTQ8uoI/GUbWG20iKC8Y1vcp1w=
+
+Name: res/StandardTarotCards.Cards52/r50.png
+SHA1-Digest: V1Q51e0HOYrKhs7H02Vg7h+ag2Q=
+
+Name: res/StandardTarotCards.Marseilles/r37.jpg
+SHA1-Digest: 0NqRjq3TlPC/Si13ouDppBYrIug=
+
+Name: res/ru/help13.jpg
+SHA1-Digest: kcZSQNIXoIXh/dCfylEUgTCe0MU=
+
+Name: res/zh/help0.jpg
+SHA1-Digest: CsXpbMzv7LSfM8SHJtApnhcaJoc=
+
+Name: res/sv/help13.jpg
+SHA1-Digest: sOPdU98qp598g6UVmpXaEE+SxNk=
+
+Name: res/es/StandardTarot11KeyCards.xml
+SHA1-Digest: LmYVYIqEcCYG16VEEmCQRrn264c=
+
+Name: res/sv/StandardTarot9FanCards.xml
+SHA1-Digest: htqZzWt1OnjtIjvnvIQWx0ozC+c=
+
+Name: res/StandardTarotCards.Cards52/r65.png
+SHA1-Digest: YlP//rtev6i6L7jFMaKFFxnLU60=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard$4.class
+SHA1-Digest: 6CstDMeUYIeHjO8ZezD7bRx43zc=
+
+Name: src/jtarot/HelpTranslationPanel.java
+SHA1-Digest: RMMDtvbKO7aTgXR5aQZIJspuGbg=
+
+Name: jtarot/jTarot$ActionChangedListener.class
+SHA1-Digest: 2JuIT6H0RqHUHekrs2ji7UqTKzU=
+
+Name: res/ko/StandardTarot7HexCards.xml
+SHA1-Digest: iBN4e3ly8bAfmUyH6uzK90yRGCQ=
+
+Name: res/pt/StandardTarot11KeyCards.xml
+SHA1-Digest: oc9jTCcFuFR2qE4xFxo4085iY0k=
+
+Name: res/ru/StandardTarot.xml
+SHA1-Digest: 2w19kszpiahXBejH380qeUIMX4s=
+
+Name: res/ko/StandardTarotCards.Waite.xml
+SHA1-Digest: TpNGPTGONlAdA9k/64KjZRED52Y=
+
+Name: res/zh/StandardTarotCards.xml
+SHA1-Digest: 1rkd9YUfyslZgwg+xVhrDtxMKJU=
+
+Name: src/jtarot/FreeTextFrame.java
+SHA1-Digest: oCsbGKjrgiUff4Ancx0qXdpPIek=
+
+Name: res/StandardTarotCards.Minchiate/r39.jpg
+SHA1-Digest: XnaWn4TWW8lASGBNvZgmHVLb3/Q=
+
+Name: res/ElderFutharkRunes.Wood/r2.jpg
+SHA1-Digest: 2UdOu5nMoOHtqAi0Da6kPK3EYMY=
+
+Name: res/StandardTarotCards.RiderWaite/r6.jpg
+SHA1-Digest: FMzo4lF7GpiV+WwcNe87BjFCk50=
+
+Name: res/StandardTarotCards.Cards52/r75.png
+SHA1-Digest: UACvJgZaj5u4BF2/ToyLokiSDI4=
+
+Name: res/ru/StandardTarot7DreamCards.xml
+SHA1-Digest: 6y2SqRO++r9UUt7ExXS7cMDHKi0=
+
+Name: res/StandardTarotCards.Marseilles/r23.jpg
+SHA1-Digest: yR8xHic5LjC1MaDRUjPbZRWgbC8=
+
+Name: res/ko/help.xml
+SHA1-Digest: mlcXF9gHJso0Ph3tUiFJ8auZsgE=
+
+Name: src/jtarot/CardLayout.java
+SHA1-Digest: CprZefLEutKho1cSQHKniNBDSUE=
+
+Name: res/zh2/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: hvGqZOjpkuSxzzPbWc9nSy7XAgA=
+
+Name: res/ko/StandardTarot1Cards.xml
+SHA1-Digest: ZLtcxfi024olV4LbaK0WTeefGHA=
+
+Name: res/it/StandardTarot5ActionCards.xml
+SHA1-Digest: OxiEIRxGc0BfoWuB5cX1yhA4nuE=
+
+Name: res/StandardTarotCards.Cards52/r71.png
+SHA1-Digest: XtCTb4zsVb9hUjEKQ6zpAk0l7cw=
+
+Name: res/de/StandardTarotCards.Mathers.xml
+SHA1-Digest: PwnTlnl2qaYpNRIdi0IYjPsiqIA=
+
+Name: res/StandardTarotCards.Cards52/r18.png
+SHA1-Digest: T9/0QCJ3KWWgsMEJT55s7459sWI=
+
+Name: res/en/ElderFutharkRunes1Lay.xml
+SHA1-Digest: WpyJmNo30qT+bMgOlw0TgJ1IAgc=
+
+Name: res/el/StandardTarot5ElementsCards.xml
+SHA1-Digest: Z1JAX/DiAv/Lcm7xX3AhovG8wFg=
+
+Name: res/StandardTarotCards.RiderWaite/r78.jpg
+SHA1-Digest: DU7T9Fvczv0UyMy4URWcgcxKL6E=
+
+Name: res/pt/StandardTarot5LineCards.xml
+SHA1-Digest: 843oldB+Ts4qKgptO4NDna2Tqtg=
+
+Name: res/ru/StandardTarot9AwenCards.xml
+SHA1-Digest: zLsl+MwxWUAsgV0v5MOU2y4QL8I=
+
+Name: res/zh2/StandardTarot12TrineCards.xml
+SHA1-Digest: s9b33BY6BlNAyn3mx/SJKbMCALY=
+
+Name: res/it/StandardTarot7MagicCards.xml
+SHA1-Digest: 1c60HitNA/xTOw1RLNGSRK63nYY=
+
+Name: res/fr/StandardTarot5LeviCards.xml
+SHA1-Digest: QUMLfaSD4KLgavz8vm64oG1OZfI=
+
+Name: res/StandardTarotCards.Minchiate/r74.jpg
+SHA1-Digest: W1Wp1TKuDtcIOn+D8YejuaP7TAA=
+
+Name: res/fr/StandardTarotCards.xml
+SHA1-Digest: YNXV9mJtDxk+/FDMHf26pm7Ovi8=
+
+Name: jtarot/jTarot$RecentAction.class
+SHA1-Digest: UzLHq3Z6kyAAqTstwwlnL6A8d3o=
+
+Name: res/de/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: 4aasvcWFiJrPyXwZXfpPzS/8Cnw=
+
+Name: res/StandardTarotCards.Marseilles/r78.jpg
+SHA1-Digest: Tpbh0EqX2m2t2hZhKFJhW57lHoA=
+
+Name: res/ElderFutharkRunes.Pearl/r0.jpg
+SHA1-Digest: DcBNTWeGXYF9ijbZJrBKSMklD9U=
+
+Name: res/StandardTarotCards.Minchiate/r70.jpg
+SHA1-Digest: Dqaxp/cy4/HfvEljXsWsAxykOgU=
+
+Name: res/ElderFutharkRunes.Blues/r1.jpg
+SHA1-Digest: p19dkh+wuGjcEPxUDxF5r2cLilU=
+
+Name: res/zh/StandardTarot15FortuneCards.xml
+SHA1-Digest: Y4J2ofpTS23E/UB17SncEL3l9ks=
+
+Name: res/it/StandardTarot16WishCards.xml
+SHA1-Digest: jXv41wq8MY3iOJVpM1o2UHpKi3s=
+
+Name: res/sv/StandardTarot5LineCards.xml
+SHA1-Digest: 6CrQ2cQHoMf4FLp7r94W42YrM7s=
+
+Name: res/zh/StandardTarotCards.Mathers.xml
+SHA1-Digest: EcoqMfXPP5kmKPw5dzmcYi122Qk=
+
+Name: res/es/StandardTarot1Cards.xml
+SHA1-Digest: mKSrqZdx7FUhqhXnzXKyiXuLOR8=
+
+Name: res/ja/StandardTarot5LineCards.xml
+SHA1-Digest: aaR6iXnsM5qBxaGF7Ip9Mz3xfn0=
+
+Name: res/StandardTarotCards.Cards52/r51.png
+SHA1-Digest: HLt2G6eCrzvAmzBK43/zLADmWtw=
+
+Name: res/es/StandardTarot49SolarCards.xml
+SHA1-Digest: JzBwDkSA67+Bm3ri2FeZy/ix1hk=
+
+Name: res/sv/StandardTarot5ElementsCards.xml
+SHA1-Digest: 5Le42wAYHB0vTox4mNsC+E4UF4M=
+
+Name: res/nl/help11.jpg
+SHA1-Digest: zrkSC+Y8+Ne5CMAr7B6PnbfTrgY=
+
+Name: res/zh2/StandardTarot.xml
+SHA1-Digest: PRru6uh0j+Afp66TJXavkQrByps=
+
+Name: jtarot/Browser$BrowserDialog$2.class
+SHA1-Digest: BP6GBglkIHjpap6GgyJVX6wMhqE=
+
+Name: src/nu/lazy8/oracle/engine/SaveableReading.java
+SHA1-Digest: fqml0JvOLbdaYCPR92D6/4xC1yU=
+
+Name: res/ko/ElderFutharkRunes9Lay.xml
+SHA1-Digest: o+4GqQf2FRbDzExjkzJtlrDIjK8=
+
+Name: res/nl/help0.jpg
+SHA1-Digest: OGQMJ26vmbSVOfre+eCudk6gTKI=
+
+Name: res/en/StandardTarot13MandalaCards.xml
+SHA1-Digest: IJiGaJpU0LBfqE9LKX0OgPB3Uzw=
+
+Name: res/pt/StandardTarot7HexCards.xml
+SHA1-Digest: 2ZkLOm/RqPT9yyHukf6rRozWn2U=
+
+Name: res/fr/StandardTarot8PlanetCards.xml
+SHA1-Digest: zDWsu/QPor9tWPp+Zno4ZGem9Wc=
+
+Name: res/nl/ElderFutharkRunes.xml
+SHA1-Digest: ehON63E3rb2p8zfmJdUQcD1WTew=
+
+Name: res/ElderFutharkRunes.Blues/r5.jpg
+SHA1-Digest: 6VzCC9aovoxBqlQoNg3US7uAHf4=
+
+Name: res/el/StandardTarot8SeasonCards.xml
+SHA1-Digest: cQvY2zp2D6WB37zVRXs1ptchE2Y=
+
+Name: res/StandardTarot8PlanetCards.xml
+SHA1-Digest: oO86ZvGgBAd7aOdkAcPoQkn4Two=
+
+Name: res/zh/StandardTarot8HearthCards.xml
+SHA1-Digest: /UswJNStgoN7vR6TVZE1do/GJ8g=
+
+Name: res/StandardTarotCards.Minchiate/r54.jpg
+SHA1-Digest: CrYIietY8UNEmWPL5dvoQkOCWMc=
+
+Name: res/fr/StandardTarot10TreeDoane.xml
+SHA1-Digest: JDLTsH7Pd57yVO/9fJIJ/jMmbK8=
+
+Name: res/en/StandardTarot5LineCards.xml
+SHA1-Digest: TIPI9QiUISX/ed+Sn7WYyk9aRww=
+
+Name: res/it/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: zS38JnIFsAYNWdfVEQY/FYmAo9g=
+
+Name: res/sv/StandardTarot8SeasonCards.xml
+SHA1-Digest: FSXVh7PsXAq1YtnfXyDhyZmYRCE=
+
+Name: res/StandardTarotCards.Cards52/r34.png
+SHA1-Digest: 0PFm7zg+BioxeDC6DDqTIOKe25o=
+
+Name: res/StandardTarotCards.Marseilles/r76.jpg
+SHA1-Digest: yeEUAMPKjLtr60ADuQ5EsOuKmeU=
+
+Name: res/nl/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: Twuuw+KHZ7sWSHoRvkHzL4x5ioc=
+
+Name: src/jtarot/MultiFileFilter.java
+SHA1-Digest: zEpJhVfk7GYuYviV/MNki3Z58A4=
+
+Name: res/nl/help15.jpg
+SHA1-Digest: TPiaDf6OBXpWiQ40Fn9gxfHRZGM=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard$2.class
+SHA1-Digest: 9e1t29XZ7i/z9DHLEvmZyyL51g4=
+
+Name: res/StandardTarotCards.Minchiate/r46.jpg
+SHA1-Digest: xhftvIQDgIXR0mjEG7zLbwisOoI=
+
+Name: res/ElderFutharkRunes.Blues/r16.jpg
+SHA1-Digest: Za83kzXNEbxoJcI2pyF0ehJBtuw=
+
+Name: res/zh2/help14.jpg
+SHA1-Digest: jLOgU5lm7pIDz+n5pJ4lfYCX+Vc=
+
+Name: res/nl/StandardTarot8SeasonCards.xml
+SHA1-Digest: 7v5cRYkfutmLKfEHLqmqXUNfNBQ=
+
+Name: res/nl/StandardTarot21RomanyCards.xml
+SHA1-Digest: jweBvDPRtBTdM3W/Aauly67BSdA=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r53.jpg
+SHA1-Digest: 79IjbcdOUdpPzoGy62ry8+/eFoI=
+
+Name: res/ru/StandardTarot10TreeDoane.xml
+SHA1-Digest: V31KEcIi77j+wNh8a57tOkhhU+g=
+
+Name: res/ru/ElderFutharkRunesObj.xml
+SHA1-Digest: cUMemRO/vzMpOgR6CRCgB77hZNU=
+
+Name: res/ElderFutharkRunes.Pearl/r8.jpg
+SHA1-Digest: Y3YLgttHySF5wekATpZBIwHA4FM=
+
+Name: nu/lazy8/oracle/engine/OracleStandardFileParser.class
+SHA1-Digest: RKyriQGf5+dpCbDNCClzlvBRrQk=
+
+Name: res/StandardTarotCards.Cards52/r76.png
+SHA1-Digest: xVv4BJFEoNdOEqIppYu3PhEZqdo=
+
+Name: res/pt/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: jKmgf8kiQCTTh/SgJF66amW/yzk=
+
+Name: res/zh/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: odGsMOuh8unmNxtssMYBD6RbxG0=
+
+Name: res/sv/ElderFutharkRunes.xml
+SHA1-Digest: dk6yxCpgVG7PTCm0JkFAVyFGh/w=
+
+Name: res/es/StandardTarot7HexCards.xml
+SHA1-Digest: Kcc4B3XKxFv/QFCufjGBmqrzq1c=
+
+Name: res/de/ElderFutharkRunes3Lay.xml
+SHA1-Digest: v28Qryxpyo5a3WzVtPC2MRpLX20=
+
+Name: res/StandardTarotCards.RiderWaite/r16.jpg
+SHA1-Digest: HEAgoW9wYl4BKqfwJS5wOUOkHlI=
+
+Name: res/pt/help.xml
+SHA1-Digest: nJSWctwrU492dD9hkCvNPxRL6F4=
+
+Name: res/pt/StandardTarot21RomanyCards.xml
+SHA1-Digest: EdO+j/ApoJiWxqUUT1hUe9soodc=
+
+Name: res/fr/StandardTarot16WishCards.xml
+SHA1-Digest: JLfDGOQX/VuNkubBdNvRiuo/OJI=
+
+Name: res/ElderFutharkRunes.Wood/r3.jpg
+SHA1-Digest: cVlIilQOIhHIw/AQHCbmgUoerJ4=
+
+Name: res/StandardTarot7HexCards.xml
+SHA1-Digest: ukzfpAQVJCxYQOLxfpfVX+lkAKM=
+
+Name: res/it/StandardTarot7ChakraCards.xml
+SHA1-Digest: 65Uu0PNEH84v1LHEBhVWqhj9dHY=
+
+Name: res/en/StandardTarot10TreeDoane.xml
+SHA1-Digest: IimA5+t1iKdXCeQx3onJ5/NdQfA=
+
+Name: res/StandardTarotCards.Cards52/r27.png
+SHA1-Digest: VfwqUN+pXAMM9Ye+b5wjWkUvgAs=
+
+Name: res/StandardTarotCards.Marseilles/r11.jpg
+SHA1-Digest: +uZdhlHaIW2iqCN9U7dFMdAC9bw=
+
+Name: res/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: Uu7L2hKvpreyKHohYe9C+1fVe9s=
+
+Name: res/sv/alltoonefile.sh
+SHA1-Digest: oR8Y2AW3FaXektQdRox9aRRMbOA=
+
+Name: res/ko/StandardTarot2Cards.xml
+SHA1-Digest: ipid4qq7eYnv/RwJUcyXaWMSGGU=
+
+Name: res/ru/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: e/xzrw9r4wGrWvnaujfZRx1m4SQ=
+
+Name: jtarot/LayoutDefinition.class
+SHA1-Digest: +GexwV2SXE/QXzwCtZFLezf7+/I=
+
+Name: res/ru/StandardTarotCards.Thierens.xml
+SHA1-Digest: x+ifcUAM/KT2tycFbZhIDwDJIcI=
+
+Name: res/zh2/StandardTarot49SolarCards.xml
+SHA1-Digest: bKE3Cp7kmv4tJwXft+HQcW8hrcY=
+
+Name: res/ru/StandardTarot9FanCards.xml
+SHA1-Digest: 8w/NxHKXfwMq3XkrbwkKNF3AZx4=
+
+Name: res/ElderFutharkRunes.Pearl/r14.jpg
+SHA1-Digest: XII4w+YeJYXLco/NspFtQrIy7OA=
+
+Name: res/ru/StandardTarotCards.Mathers.xml
+SHA1-Digest: 7aVA9zLieC2MQAKJkLEvwkMMjk8=
+
+Name: res/StandardTarotCards.Minchiate/r78.jpg
+SHA1-Digest: 893/CtE5J0yXfjkKGUlBQjVp/LM=
+
+Name: res/zh/ElderFutharkRunes1Lay.xml
+SHA1-Digest: SmOdY/8szooQJyJroexMe+xfYZA=
+
+Name: jtarot/LogViewer$LogList.class
+SHA1-Digest: 1RlIbTeh998gQ6oCdwfmYXSN8Oo=
+
+Name: res/ja/StandardTarot.xml
+SHA1-Digest: qH6HGolrvcG7spc/S/52GrkuEgI=
+
+Name: res/StandardTarotCards.Marseilles/r15.jpg
+SHA1-Digest: nc3WXemaTscqL16RPKLfc4TGm8Y=
+
+Name: res/pt/StandardTarot10YesnoCards.xml
+SHA1-Digest: AgXYOQE5J/8PaDxydf7uiEpEERQ=
+
+Name: res/ru/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: JdBRITaUJ13z6MPBDhJEPUB7Mnc=
+
+Name: res/es/ElderFutharkRunes9Lay.xml
+SHA1-Digest: +jGprkdzaSpmJpd/huABOYPR+WI=
+
+Name: res/el/help11.jpg
+SHA1-Digest: XjO10XXF0ugsmXUHx1BWPhEoU4U=
+
+Name: res/el/StandardTarotCelticCross.xml
+SHA1-Digest: R45dK6c0fL8RvkFhxqd5jozDOIY=
+
+Name: res/StandardTarotCards.Cards52/r47.png
+SHA1-Digest: r2vI3I+rMecDfBZPLFTkhZler88=
+
+Name: res/sv/StandardTarot8PlanetCards.xml
+SHA1-Digest: 5RjlXbJdTWqd5oVvgxip/o8rryQ=
+
+Name: res/de/StandardTarot10SpiralCards.xml
+SHA1-Digest: /HFWLyGjOubnqoVLxHGxiI0JTXw=
+
+Name: res/el/StandardTarot7ChakraCards.xml
+SHA1-Digest: czjQiIydRBh081eqFK72Ulipk04=
+
+Name: res/pt/ElderFutharkRunes.xml
+SHA1-Digest: eJdq3NdnAmQn2uSyBX8uXgtued4=
+
+Name: res/StandardTarotCards.Cards52/r63.png
+SHA1-Digest: ImUi3yrpIMRrFZZqwKHeTiykyJU=
+
+Name: res/StandardTarotCards.RiderWaite/r23.jpg
+SHA1-Digest: yWVamlZ0lcoDIz2rKa6sW1PrCsA=
+
+Name: res/zh2/StandardTarot16WishCards.xml
+SHA1-Digest: RwA+Cqf5FPkg60FK4tfCSygBRz8=
+
+Name: res/fr/StandardTarot15FortuneCards.xml
+SHA1-Digest: 9+LCpJVazlg0zO0WAavMFO6GhHA=
+
+Name: res/ja/help10.jpg
+SHA1-Digest: J2Kz7imoqNxH5Pm1Yuv7gC9BghY=
+
+Name: res/el/StandardTarot12TrineCards.xml
+SHA1-Digest: PDbAmF0pWbAD+BkDhcj03a+G9oY=
+
+Name: res/StandardTarotCards.Minchiate/r72.jpg
+SHA1-Digest: sElPDZGSMkeUvcN485AqQFWE1ww=
+
+Name: res/sv/ElderFutharkRunes2Lay.xml
+SHA1-Digest: CbIwARXAXY9RcU6aV9Mzmvs1NNo=
+
+Name: res/de/StandardTarot16WishCards.xml
+SHA1-Digest: Nwx+drlWJBNmQaPQqrxbqV0yVFw=
+
+Name: res/zh2/help12.jpg
+SHA1-Digest: eIrv+0GwcV9sXHB+ctbxV03S92o=
+
+Name: nu/lazy8/oracle/engine/OracleIO.class
+SHA1-Digest: WLC8VH4CfEdyFi0MKBVqIB8zKu8=
+
+Name: jtarot/CardRandomizerPane.class
+SHA1-Digest: ohnN3PHVfNXcqw1kS5JUJoWXvxo=
+
+Name: res/fr/StandardTarot8HearthCards.xml
+SHA1-Digest: hyaa7JGZTiwOgUY7jeKKFWIsO0Q=
+
+Name: res/zh/StandardTarot5ElementsCards.xml
+SHA1-Digest: roXl/Nw/VBt0VK8eHttZN4GQH5g=
+
+Name: res/StandardTarot7ChakraCards.xml
+SHA1-Digest: uexWDHPm4ONb5wYYGarrNaeoZMo=
+
+Name: jtarot/jTarot$LanguageAction.class
+SHA1-Digest: TBhQEpknQ8byZH28+fUSH298hP8=
+
+Name: res/StandardTarotCards.Cards52/r15.png
+SHA1-Digest: 2HfbhVTm3TFsPFbvbaXQCaHUp54=
+
+Name: res/ElderFutharkRunes.Blues/r23.jpg
+SHA1-Digest: TwV3qFbEdj//ytwKejjAn1rRjNk=
+
+Name: res/en/StandardTarot7HexCards.xml
+SHA1-Digest: /4Z+WPcIOuWDnlKWx3TIuGFc51o=
+
+Name: res/StandardTarotCards.Minchiate/r33.jpg
+SHA1-Digest: OvfaMypm18/eDwxl/VC9CSZl3XI=
+
+Name: res/it/help12.jpg
+SHA1-Digest: eXVLfzzU6ay/BQnd8TiDux+WIDg=
+
+Name: res/StandardTarotCards.Marseilles/r19.jpg
+SHA1-Digest: Rf41o22tMxovoMC5VMSgxsNPRxM=
+
+Name: res/it/StandardTarotCards.xml
+SHA1-Digest: jrVp7in9+H507uJpDgauNGyi+3I=
+
+Name: jtarot/HelpTranslationPanel$TransCell.class
+SHA1-Digest: 9Wlp+zmBZgRr7ebHO6GkFF/0jg4=
+
+Name: res/sv/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: Knpf7CLVU3t/2hBYrnCNqtlWkRI=
+
+Name: res/StandardTarotCards.RiderWaite/r55.jpg
+SHA1-Digest: S1v1P7Ra/ExXKezWy1kQwG/eR2U=
+
+Name: res/zh2/help10.jpg
+SHA1-Digest: 6i/t0vC04BF/yC2WR1cn1ZHEvI4=
+
+Name: jtarot/FreeTextFrame$1.class
+SHA1-Digest: NYZP7v8NCT7EpdALtIXNkYltRXU=
+
+Name: jtarot/LogViewer$ListHandler$1.class
+SHA1-Digest: Xan9CG90b7kt41bJS4NtBPfVaaA=
+
+Name: res/zh/StandardTarot12TrineCards.xml
+SHA1-Digest: xZgiHR2G/N6teJyp17Vq4pwqePM=
+
+Name: res/zh2/StandardTarot6TrueLove.xml
+SHA1-Digest: VlRW4UOZmugY4p4G8yijHzwv18k=
+
+Name: res/fr/StandardTarot49SolarCards.xml
+SHA1-Digest: bOcQKkP8fn+YSGvk/BV5dz7uhGs=
+
+Name: res/pt/StandardTarot13MandalaCards.xml
+SHA1-Digest: xXm1EcyXgYDeF24pKF/nG1VyXjM=
+
+Name: jtarot/jTarot$AdvisorAction.class
+SHA1-Digest: eyKqUVrc9Y/3VQknDN+eQh3ydCk=
+
+Name: res/ja/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 9cJvDPnbyJewubQDxjF2r0BjTrw=
+
+Name: res/es/StandardTarot8HearthCards.xml
+SHA1-Digest: HCfOygXSpbh73tgrqAX8JsUcuag=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r77.jpg
+SHA1-Digest: rORcNVa4iVyOiypzKa5x3+L1wgc=
+
+Name: res/pt/help11.jpg
+SHA1-Digest: zGuoB/2F1u67/ALQDh9F/M9aWJU=
+
+Name: res/StandardTarotCards.Marseilles/r50.jpg
+SHA1-Digest: w/KM74NUQh35iJ4ZbiIV+ENN8lc=
+
+Name: res/StandardTarotCards.Minchiate/r18.jpg
+SHA1-Digest: GcVGZqySw6bWOyVYiN2MzY/tQZg=
+
+Name: res/StandardTarot13MandalaCards.xml
+SHA1-Digest: gD8QC+9mdO06vEHUAKapJUlNuPA=
+
+Name: res/fr/StandardTarot7HexCards.xml
+SHA1-Digest: xdToO8n4Y6dcWaPYX4DhoGUatds=
+
+Name: res/ja/StandardTarotCards.xml
+SHA1-Digest: BHZxe71qtx1RLemqhyZGgRf6gQI=
+
+Name: res/zh2/StandardTarotCelticCross.xml
+SHA1-Digest: /nYi209kyO6F1MzZjRAsf3FKPpo=
+
+Name: res/en/StandardTarot2Cards.xml
+SHA1-Digest: e28azPBQFuV9Brl4c17O0uTnvxQ=
+
+Name: jtarot/jTarot$HelpAction.class
+SHA1-Digest: hajjkbxNsAv0xXEmpajv65gC3iU=
+
+Name: res/StandardTarotCards.Cards52/r59.png
+SHA1-Digest: arSHTgybyUA0h1y5yoEiJcPaPVs=
+
+Name: res/es/StandardTarot9AwenCards.xml
+SHA1-Digest: WwXatVWY+UYDP+cutxUTLiVYU4Y=
+
+Name: jtarot/jTarot$1.class
+SHA1-Digest: 0HiMoAkhNG/+SfEZBXuU1tUrDgs=
+
+Name: res/StandardTarotCards.Cards52/r77.png
+SHA1-Digest: kmG0kKeGcewYR7yJ2pwPqWX4c8Q=
+
+Name: res/nl/StandardTarot10TreeDavis.xml
+SHA1-Digest: C+CpmgxPetT1cNffw0to8pMZkpQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r23.jpg
+SHA1-Digest: ET1neCwIDSVvBm44T6alcu7mDOg=
+
+Name: jtarot/BrowserCommandLexer.class
+SHA1-Digest: nUoC7LJ2gts3JCgf7t4z0uUx1sU=
+
+Name: res/zh/help13.jpg
+SHA1-Digest: 0kKlGe2pDPaCaWvZaMiUqWPeo0k=
+
+Name: res/de/StandardTarot49SolarCards.xml
+SHA1-Digest: tpj6tizHXjTGw/4GKWz3JLQDI6Y=
+
+Name: res/ja/StandardTarot2Cards.xml
+SHA1-Digest: VfJHuZJJH6VmfjcgJCFoPyIPURI=
+
+Name: res/ElderFutharkRunes.Blues/r19.jpg
+SHA1-Digest: RKhtCRd5NJdQaRNnEXEXPw4bjdw=
+
+Name: res/nl/StandardTarot7HexCards.xml
+SHA1-Digest: QXv8ehsfAkN5piszyJ7Gsve1SEY=
+
+Name: jtarot/StandardSetupPanel.class
+SHA1-Digest: ahwDlug9htSqYVwh7CT9acPJAm4=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r33.jpg
+SHA1-Digest: iVQpZ291RWwzMbYbcDcBXoHkKl4=
+
+Name: res/it/StandardTarot8SeasonCards.xml
+SHA1-Digest: z1XjradLeMW7lbrBLZtqBgoKYY4=
+
+Name: res/nl/StandardTarot8HearthCards.xml
+SHA1-Digest: lRFWUxV/7wcMDQYttuxd/uZxKz8=
+
+Name: res/nl/StandardTarot1Cards.xml
+SHA1-Digest: 4KLcUoxLEHhbsfIR7oF5Esnwf8o=
+
+Name: res/StandardTarotCards.Marseilles/r10.jpg
+SHA1-Digest: IAAKGmMwEIAlqlfDhnTTUwcecVw=
+
+Name: res/zh/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 9wuZGkw0AsX+hnnyLUK0CCEU2MM=
+
+Name: res/zh/StandardTarot8PlanetCards.xml
+SHA1-Digest: XD+sbv/7rz8RJF0X5MXaSe9YSho=
+
+Name: res/el/StandardTarot8PlanetCards.xml
+SHA1-Digest: Tf7S8xXP6SC9gZZ4k6b+lk0f0Dw=
+
+Name: res/de/StandardTarot6TrueLove.xml
+SHA1-Digest: zJ8w5GEsYeRjl6IUWTVS289zNQI=
+
+Name: res/el/StandardTarotCards.xml
+SHA1-Digest: fwn7n20hQke3aWnbvlZ0fc3JdQU=
+
+Name: res/de/StandardTarot7DreamCards.xml
+SHA1-Digest: PBHN5VXG7yPcbRnfRdyGJNiQXdw=
+
+Name: res/StandardTarotCards.Minchiate/r57.jpg
+SHA1-Digest: 4ULVbi2/Q+gbHk081EvVei//jI4=
+
+Name: res/StandardTarotCards.Marseilles/r43.jpg
+SHA1-Digest: bUJ69eWDvN9NZqpbhAmDWrJN5yo=
+
+Name: res/StandardTarotCards.Marseilles/r58.jpg
+SHA1-Digest: QLkbCV/Nncf6vD6TP7CmFJz9Wgg=
+
+Name: res/sv/StandardTarot7ChakraCards.xml
+SHA1-Digest: SwYhHaaAqIabHCEuZfZmXIsVC+M=
+
+Name: res/ElderFutharkRunes2Lay.xml
+SHA1-Digest: GhUyRPB5Hs+14Kjy2uZ2IscVWFQ=
+
+Name: res/ru/help15.jpg
+SHA1-Digest: ms5QuS9pwA6iaFgt1IS3Etc9k3k=
+
+Name: res/de/ElderFutharkRunes9Lay.xml
+SHA1-Digest: mbOPstwKizzUwFwUkFSNK9mIl/k=
+
+Name: res/StandardTarotCards.RiderWaite/r30.jpg
+SHA1-Digest: XVGELfijEitqgK6EIeu5L2JTtI8=
+
+Name: res/fr/StandardTarot1Cards.xml
+SHA1-Digest: zMWaLJ1POUR5l+vQokW+dPL6Nv4=
+
+Name: res/en/StandardTarot7DreamCards.xml
+SHA1-Digest: rAMNdSPn4A+pZH3AmOuEWxoRpSY=
+
+Name: src/jtarot/StandardSetupPanel.java
+SHA1-Digest: qJldq4voiAdqhbDO1w15KxwKmSQ=
+
+Name: res/ElderFutharkRunes.Pearl/r20.jpg
+SHA1-Digest: YLJZvZLZWPRWeybxJXNFLS5A7bQ=
+
+Name: res/ko/StandardTarotCards.Thierens.xml
+SHA1-Digest: 7oPNJyFYmGUEKs09LFqpnLIxWDk=
+
+Name: res/StandardTarotCards.Marseilles/r45.jpg
+SHA1-Digest: 1JocQmo4HS8Jg1xQT442KUk0GW0=
+
+Name: res/it/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: W8J6v6lZyJ0+iszPxXmwAi4Z/Kk=
+
+Name: res/de/StandardTarot13MandalaCards.xml
+SHA1-Digest: ABugwQIhKzOEKjmK8F2ttMQkT0c=
+
+Name: res/ja/help14.jpg
+SHA1-Digest: DjMR0LZZbAzCpJxPrMsn7HKQ4uA=
+
+Name: res/ko/StandardTarot9FanCards.xml
+SHA1-Digest: n8DslH4OhB5XFJmSynWroiOuNSQ=
+
+Name: res/ja/StandardTarot11KeyCards.xml
+SHA1-Digest: 8UMdQ0gafoxZd6RARVko+iOxv1o=
+
+Name: res/ja/StandardTarot16WishCards.xml
+SHA1-Digest: vpDGGlbYpFtyP/PCKaHEoZVeZo0=
+
+Name: res/zh2/Translations.Menus.xml
+SHA1-Digest: B8sQ/rs8ODjjPbZPt8/m3f05oGw=
+
+Name: res/nl/StandardTarot10YesnoCards.xml
+SHA1-Digest: jFeZ9nLD/iWp82/5LbP52MHf5lY=
+
+Name: res/pt/StandardTarot6TrueLove.xml
+SHA1-Digest: 0xnljkMXfIKc7DcB9w+KYmWahpg=
+
+Name: res/ko/StandardTarot11KeyCards.xml
+SHA1-Digest: rW3HH3Mn3tyWUuuMPzoSpKwWKwM=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard$4.class
+SHA1-Digest: 6ylNXSfGtQvL2Xiky0QNvh78j6k=
+
+Name: res/zh2/StandardTarot13MandalaCards.xml
+SHA1-Digest: WJ9xnXvDcU2wrDbE4AntB2Wzvx8=
+
+Name: res/nl/StandardTarot11KeyCards.xml
+SHA1-Digest: Fk428uO55isw/M/IdM8UEECPL7I=
+
+Name: res/StandardTarotCards.Cards52/r46.png
+SHA1-Digest: 0rFPvrmA458tnxQgh6G1GFVavTQ=
+
+Name: res/ElderFutharkRunes.Blues/r24.jpg
+SHA1-Digest: eIL/sZ3FVRfNE1953VLQP1EqV20=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r71.jpg
+SHA1-Digest: jq89gSd3pVb8ORfVMqE2NAbjyTY=
+
+Name: res/it/StandardTarot49SolarCards.xml
+SHA1-Digest: aQAeduZbioogjVg1dRJ9WOQld5c=
+
+Name: res/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: 7bjO0WCWHiBpUw8ter3vOCSDqAk=
+
+Name: res/sv/StandardTarot9AwenCards.xml
+SHA1-Digest: 6C15VtpdYmgavDPLDtyBtbVDW58=
+
+Name: res/es/StandardTarot11CupCards.xml
+SHA1-Digest: BktaUnG5EoxmLVM8R7QOMqrXV1s=
+
+Name: res/pt/help14.jpg
+SHA1-Digest: 4VfoSz29xBcJ1AagwY3/DCmCYoA=
+
+Name: src/jtarot/BrowserCommandLexer.java
+SHA1-Digest: 1159EGO93sbuyq01VDffQefEtIs=
+
+Name: res/it/ElderFutharkRunesObj.xml
+SHA1-Digest: Ntjlb2gmQ7WAG80iqSI3iON3aHs=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r21.jpg
+SHA1-Digest: /o0AGHaSZ1PneG3uNpr6g0dWJIA=
+
+Name: res/StandardTarotCards.Cards52/r1.png
+SHA1-Digest: QXqUolxyE6WS9wDNi0iGB2kBAH8=
+
+Name: res/sv/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: /P6p/ZpfM6R/qS7+yLjPTuW+qMM=
+
+Name: jtarot/jTarot$RecentAction$RecentMenuWatcher.class
+SHA1-Digest: j3wqxExr4GfmCKRr4+rs5Ntj4/s=
+
+Name: res/pt/Translations.Menus.xml
+SHA1-Digest: iO/SDVMOv2amRyZyfySZe7p5xvk=
+
+Name: res/ElderFutharkRunes.Wood/r20.jpg
+SHA1-Digest: SBw5XzYI65DbyMzchEAk6LlmMwk=
+
+Name: res/ko/ElderFutharkRunes1Lay.xml
+SHA1-Digest: 5t0iXsOHAcLNv7bqAJx2+VamK+w=
+
+Name: res/StandardTarot7SpiritCards.xml
+SHA1-Digest: b1hglo9ax4vVUx62XGqgSQSxdUQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r57.jpg
+SHA1-Digest: Drq1mcj6fvFB0PmelOCgRxy/1a0=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r2.jpg
+SHA1-Digest: Ccu5ZVyGf2ZZLI3pfo40ElH7GZg=
+
+Name: res/sv/StandardTarot5LeviCards.xml
+SHA1-Digest: uRpdszkCtmALU7x/ZIXaurMC37o=
+
+Name: res/StandardTarotCards.RiderWaite/r12.jpg
+SHA1-Digest: qTqL7reBeY3wpx2OxhgLhUnL2Go=
+
+Name: jtarot/jTarot$TroubleShootAction$1.class
+SHA1-Digest: PblTd8oF+MRCQnzCOjj4jpvLXkg=
+
+Name: res/zh2/StandardTarot8SeasonCards.xml
+SHA1-Digest: Rx2+1bdcX0uPk6anCxFeSDpiD4I=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r27.jpg
+SHA1-Digest: CEmhiW0vceIOEF/h2GIKCmXH+Ss=
+
+Name: res/ElderFutharkRunes.Wood/r21.jpg
+SHA1-Digest: FgOLzALoFJBvQh2qcym7SrpDs1o=
+
+Name: res/el/StandardTarot10TreeDoane.xml
+SHA1-Digest: 6nSPVfDmlKARVwq4q817FLleYEM=
+
+Name: res/en/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: EKJhSsWr4+w6No4ATTU5lE0bAbs=
+
+Name: res/StandardTarotCards.Marseilles/r16.jpg
+SHA1-Digest: ver4vFZNSv8ZzUYbO/0X77uIhAE=
+
+Name: res/StandardTarotCards.RiderWaite/r10.jpg
+SHA1-Digest: qp4z8WjR1inogCQteXZAj0wp8oM=
+
+Name: res/pt/StandardTarot.xml
+SHA1-Digest: w/QvBj7TQZHMcPme3pe0Im+1hN4=
+
+Name: res/sv/help.xml
+SHA1-Digest: 3jTuTKs1u3mS+SjuaN06takpmQA=
+
+Name: res/de/StandardTarot8PlanetCards.xml
+SHA1-Digest: t0//2aDJo+/wWOdJxBrt1AE1SsU=
+
+Name: res/nl/StandardTarotCards.Mathers.xml
+SHA1-Digest: EgBo8XcddMzKfbCTqOMvM8Viqd0=
+
+Name: res/StandardTarot.xml
+SHA1-Digest: PNytCy/sNiGHezd2EUOsK4Pkw4M=
+
+Name: res/it/StandardTarot12HouseCards.xml
+SHA1-Digest: ApgwmjAbDqfIxCvtmm6lao2KTNI=
+
+Name: res/ja/ElderFutharkRunes1Lay.xml
+SHA1-Digest: EEi+5/AaPaMIhlw7Qp3aiOAXBgc=
+
+Name: res/es/help11.jpg
+SHA1-Digest: yqeAY03N3F0hnfiAXEZVPEj/ypY=
+
+Name: res/es/ElderFutharkRunes2Lay.xml
+SHA1-Digest: YoNO1EIFTUICUL6sGknreB+oSmw=
+
+Name: res/StandardTarotCards.Minchiate/r37.jpg
+SHA1-Digest: I0B7COrnilQhLhxnzpDic7cM8ZQ=
+
+Name: jtarot/jTarot$ShowReversedAndNormalTextsAction.class
+SHA1-Digest: ML3CoT9K0W6aSAc+AKPnjFplUj4=
+
+Name: res/de/StandardTarot7SpiritCards.xml
+SHA1-Digest: zyMH3F0quq27fbwzFTKCfAqNyvc=
+
+Name: res/es/StandardTarot15ThothCards.xml
+SHA1-Digest: T8j4AIXMTnB1Tliqjx7Td+wplMM=
+
+Name: res/StandardTarotCards.RiderWaite/r52.jpg
+SHA1-Digest: GEe8QAUXJl2QhPStzDuycm9LlUo=
+
+Name: res/StandardTarotCards.Cards52/r41.png
+SHA1-Digest: yD8lvLpGtfZUr95ryBsiBaMzwyE=
+
+Name: res/ko/StandardTarotCards.xml
+SHA1-Digest: gCCsYEuOVcVP78ekJuEj1H7C/Z8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r56.jpg
+SHA1-Digest: qCG8BHUe/d5U3naEdLzV7Y+A4tw=
+
+Name: res/StandardTarotCards.Cards52/r39.png
+SHA1-Digest: bsG4VmGRkWg2q1h6wI0fRuRdlwU=
+
+Name: res/sv/StandardTarot15ThothCards.xml
+SHA1-Digest: s/2Lj6M1evIytHKtAdOIvpacgPk=
+
+Name: res/StandardTarotCards.Cards52/r28.png
+SHA1-Digest: /C+E0Co4pLrn9MPeudacXKqBggU=
+
+Name: src/nu/lazy8/oracle/engine/Layout.java
+SHA1-Digest: HsANAf+vD+hGoN/6qi3LvrdlxBA=
+
+Name: res/ko/StandardTarot8SeasonCards.xml
+SHA1-Digest: MyaYTAvWzOsd5G2L+RxqaEE+E/I=
+
+Name: res/de/StandardTarot7HexCards.xml
+SHA1-Digest: VlmUyidKG55aMWYNm6Gr0s0HMm4=
+
+Name: nu/lazy8/oracle/engine/OracleParser.class
+SHA1-Digest: DsOIZ4lZmqtN/0vxV1sJ7ksMJCU=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$2.class
+SHA1-Digest: z6Cw3Svlv9UMSjbftmVcPtfRIdw=
+
+Name: res/ko/StandardTarot5LineCards.xml
+SHA1-Digest: 9E+LeZ/LBg6YI2MRyaBGpqZK+W8=
+
+Name: src/nu/lazy8/oracle/engine/OracleStandardFileParser.java
+SHA1-Digest: Ohpa7g9yq64OsMA4SCVRtfaWfkQ=
+
+Name: res/en/StandardTarot7MagicCards.xml
+SHA1-Digest: hHPO6eGWVAopHuR1XoL+i+byiBM=
+
+Name: res/el/ElderFutharkRunesObj.xml
+SHA1-Digest: L4f0sSQDkxi8zpMsGawMCsKrMJE=
+
+Name: res/ko/StandardTarotCelticCross.xml
+SHA1-Digest: a3KcXZHkr7pXpMmlPP0iZCAkCnQ=
+
+Name: res/StandardTarotCards.Cards52/r73.png
+SHA1-Digest: txOA/C/4NboGaO1YD7obDQMKtG0=
+
+Name: res/sv/ElderFutharkRunes1Lay.xml
+SHA1-Digest: 8rtVitd6g5eGHzYkrbqjJNiofFQ=
+
+Name: res/zh/StandardTarot7ChakraCards.xml
+SHA1-Digest: 5fVq4svGDil9TnmA9uci3POm4bg=
+
+Name: res/it/StandardTarot21Cards.xml
+SHA1-Digest: FMLzNKpDPePVzBPNb7AGkEBLjZc=
+
+Name: res/StandardTarotCards.RiderWaite/r19.jpg
+SHA1-Digest: UEB+mD+hfyBOVEsWag1Mfv/Pyio=
+
+Name: jtarot/CreateSetupFileDialog.class
+SHA1-Digest: JgKfA9CtWlt73KG81Sg5F/xSWII=
+
+Name: res/en/help11.jpg
+SHA1-Digest: 60TCExcBn5AKrAMf+5PIXquwBpg=
+
+Name: res/el/StandardTarot9FanCards.xml
+SHA1-Digest: 4ZW1JgQY4I0+NvB3gHIIHk5rlC8=
+
+Name: res/StandardTarotCards.Cards52/r45.png
+SHA1-Digest: dgEzP4kLHlM6dH+WDAB65o8mDG0=
+
+Name: res/de/StandardTarot11KeyCards.xml
+SHA1-Digest: ErJ1pql1WoH6vvWEP7M5RTBF16w=
+
+Name: res/ja/StandardTarot21RomanyCards.xml
+SHA1-Digest: 6IhbhMAo/4gKt1VovANk8QuBSZA=
+
+Name: res/StandardTarotCards.Cards52/r38.png
+SHA1-Digest: 581C+LEIy5FRGixbjBRvaYxElkY=
+
+Name: res/fr/help13.jpg
+SHA1-Digest: mAzdnXLAIU7FIKpmYDgWUBzo2pc=
+
+Name: res/StandardTarotCards.RiderWaite/r51.jpg
+SHA1-Digest: mXuKJC8fmZMYGBA8AxJ7hsxrIDQ=
+
+Name: res/ja/StandardTarot5ActionCards.xml
+SHA1-Digest: Y72RjHB8FOEt3Od4Y2qa/0Hd6ms=
+
+Name: jtarot/jTarot$ExitAction.class
+SHA1-Digest: /xC2edbteP1gVx0DD9tzX1sT9yY=
+
+Name: res/StandardTarotCards.Minchiate/r67.jpg
+SHA1-Digest: p0L3tkLctWi9zSVImHxFI9Y556U=
+
+Name: src/jtarot/LogViewer.java
+SHA1-Digest: TOtNs8QNGDzv1Fg0EAM9S7y1P5k=
+
+Name: res/fr/StandardTarot15ThothCards.xml
+SHA1-Digest: ZXHuhMsA7rPsYBplelzaa7vmYDA=
+
+Name: res/fr/StandardTarot10SpiralCards.xml
+SHA1-Digest: uO+t28W60tYTS1Bt2WHU4p6Ffo4=
+
+Name: res/StandardTarotCards.Minchiate/r60.jpg
+SHA1-Digest: IouQva7cpDjAKKupPEuPY3HzguE=
+
+Name: res/ko/help15.jpg
+SHA1-Digest: ecPFUsVg22juvLrQM/rKoV6b/4c=
+
+Name: res/de/help0.jpg
+SHA1-Digest: WvkhCLwOxu51GGqGE0L3QQOkEuE=
+
+Name: res/ElderFutharkRunes.Pearl/r2.jpg
+SHA1-Digest: iHgH8GLK/UwrkGgHFpy3x+wFLdQ=
+
+Name: res/fr/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 61s8uqMH9fDTjxBTFjAUJ5Cm6hk=
+
+Name: res/sv/StandardTarot11KeyCards.xml
+SHA1-Digest: aHMdkQRUJAeTSY9IPVZIXcBjzgM=
+
+Name: res/zh/help.xml
+SHA1-Digest: RDDLnSkr4eLt+5JL9leyYo0yHQk=
+
+Name: res/StandardTarot11CupCards.xml
+SHA1-Digest: x8yaJwI8assa/JaDWRo3XgUhTv4=
+
+Name: res/ru/Translations.Menus.xml
+SHA1-Digest: VWOFWTLUolV+9tGeJOHlmnAKc00=
+
+Name: res/it/StandardTarot21RomanyCards.xml
+SHA1-Digest: MiI0OuvBqqxuqnNn63NHmepLqNE=
+
+Name: res/el/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: RIoSO8nmfJnPla2IErwwrrY4cBc=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r25.jpg
+SHA1-Digest: iiE0jv20g8VDgFBkIzx7Sr0NrSo=
+
+Name: res/it/StandardTarot5LeviCards.xml
+SHA1-Digest: wfx3LJL0qsfIMypDWT3tPhs1VLk=
+
+Name: res/zh/StandardTarot5LineCards.xml
+SHA1-Digest: jKR3UZW6w1aFsazdkz/mJU+OoTM=
+
+Name: res/StandardTarotCards.Marseilles/r36.jpg
+SHA1-Digest: BcI0RDMQN+EuQFSbcEtQfxbEkUc=
+
+Name: res/zh/StandardTarot6TrueLove.xml
+SHA1-Digest: AUKwTj3SZu/hsu94AxA4qNVME14=
+
+Name: jtarot/SelectedCard.class
+SHA1-Digest: 0JXt1SHfindy9shRWJlN7dcakPI=
+
+Name: res/de/help14.jpg
+SHA1-Digest: l9oN4FXpt0y4Fcb+uu38WjYaHy0=
+
+Name: res/sv/StandardTarot6TrueLove.xml
+SHA1-Digest: StP9wJ25Q/Xnkil2MCsJ7LnOPVo=
+
+Name: res/sv/StandardTarot12TrineCards.xml
+SHA1-Digest: 72dyEwGJo2mdTEPePNSDSVSZKos=
+
+Name: res/ja/help15.jpg
+SHA1-Digest: 8Xlc0EbzNRBK5Razvyw01Tu2L9Q=
+
+Name: res/el/StandardTarotCards.Thierens.xml
+SHA1-Digest: jvCMGw91lrnA5LjgtwV1j46s2qc=
+
+Name: res/zh/Translations.Menus.xml
+SHA1-Digest: etLNYgYgCALZmy1qGYjCq4UAT0g=
+
+Name: res/ru/StandardTarot8SeasonCards.xml
+SHA1-Digest: FTGGTJ7FO6kP4JgH7tJS820iyKA=
+
+Name: res/pt/StandardTarot49SolarCards.xml
+SHA1-Digest: Y1QyaRWOfs6iUjOIFEV5NIWOAcU=
+
+Name: res/fr/StandardTarot5ElementsCards.xml
+SHA1-Digest: eJGb5o8Rz0yuxMu0qyVjeMDCs3Q=
+
+Name: res/StandardTarotCards.Minchiate/r38.jpg
+SHA1-Digest: zOH0yIW7W+c337v3psdhGLiQFZ8=
+
+Name: res/StandardTarotCards.Cards52/r40.png
+SHA1-Digest: CkCiRZXOAhKtWxC+CAXMulB7DVE=
+
+Name: res/es/StandardTarot5LeviCards.xml
+SHA1-Digest: sB7zXMUmPodzNo+2w68r+s+QMGI=
+
+Name: res/zh/ElderFutharkRunesObj.xml
+SHA1-Digest: C3EtJ0exzGPIOtYq7PmDJnmX9CQ=
+
+Name: res/ru/ElderFutharkRunes3Lay.xml
+SHA1-Digest: TW8LcAVA7/mcKDpLpRVz6t18YGQ=
+
+Name: jtarot/TarBuffer.class
+SHA1-Digest: jGB90rdj8fgfUf7D86d0xW227Ks=
+
+Name: res/it/StandardTarot9AwenCards.xml
+SHA1-Digest: GAfgQn8XRCS2MCrcOG+eS4rQulc=
+
+Name: res/de/StandardTarot5LeviCards.xml
+SHA1-Digest: SLNze3Lh6FXtC09Ijzfk6s4DJRI=
+
+Name: res/zh2/StandardTarot5LeviCards.xml
+SHA1-Digest: pgRtiSS52uybVtD54nAydUggeS0=
+
+Name: res/de/StandardTarot3Cards.xml
+SHA1-Digest: 1qL8sOFSqy3OoqWNSSQgvm9PKAA=
+
+Name: res/zh2/StandardTarot10TreeDavis.xml
+SHA1-Digest: KsX+kilkT29se5XnkvMTkGbrfuQ=
+
+Name: nu/lazy8/oracle/engine/OracleReading.class
+SHA1-Digest: zIjPzn+nqJsKeudfVIYbXakINLI=
+
+Name: res/StandardTarotCards.RiderWaite/r43.jpg
+SHA1-Digest: KgdjuT3vyZiqyQ2bW3VSgevZzUQ=
+
+Name: res/StandardTarotCards.RiderWaite/r4.jpg
+SHA1-Digest: 778ywjOkEpdm9sDMNzyMP1Z12B0=
+
+Name: res/de/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: 7Mi6ryYIa5eiakP1B8ik4AMqxk8=
+
+Name: res/ru/help0.jpg
+SHA1-Digest: 8zZMfLGZ2QS/mE6Nvdppa27ezbE=
+
+Name: res/StandardTarotCards.Marseilles/r57.jpg
+SHA1-Digest: l6ORgHBE1I6isDuRnieECMWOYws=
+
+Name: res/en/StandardTarot9FanCards.xml
+SHA1-Digest: eDaOsmchN8M/quDUqOkWaadkaGU=
+
+Name: res/en/StandardTarot10TreeDavis.xml
+SHA1-Digest: LblABIRrKBbh3eI07Wk+1BeLkNE=
+
+Name: res/StandardTarotCards.RiderWaite/r0.jpg
+SHA1-Digest: b8u1XcmiSmE7qFNVwW+L9VcaRno=
+
+Name: res/StandardTarotCards.Minchiate/r56.jpg
+SHA1-Digest: Z4GWfSJBe9TNw9nn+UL8R0vGggA=
+
+Name: res/nl/ElderFutharkRunesObj.xml
+SHA1-Digest: 0YY5DM3LIe+hblw8PzKdYsXLaCs=
+
+Name: res/ElderFutharkRunes.Pearl/r22.jpg
+SHA1-Digest: 8CqZ5RlI0h2s1zBr2lS7f4mQQ18=
+
+Name: res/fr/StandardTarot.xml
+SHA1-Digest: 3/vqrlpYway9Ny9OxDUyKhg0nqc=
+
+Name: res/StandardTarot49SolarCards.xml
+SHA1-Digest: t8dMSFl/q/DyDOP1aJQy2f3IuCk=
+
+Name: res/StandardTarotCards.Marseilles/r9.jpg
+SHA1-Digest: ZRKLEr0ZMVT5oUTN7NeEocdLIm0=
+
+Name: res/StandardTarotCards.Minchiate/r9.jpg
+SHA1-Digest: UWxCZ6IQK2UekawbhyQ4hiM6Tlo=
+
+Name: res/nl/StandardTarot15FortuneCards.xml
+SHA1-Digest: F3JNJLP0C/hTKGtF4myniPRCuow=
+
+Name: res/pt/StandardTarot7MagicCards.xml
+SHA1-Digest: P1kORIDahShd0xj7eZtAXc3oh6Q=
+
+Name: res/zh2/StandardTarotCards.xml
+SHA1-Digest: oW0h+DuJTlucKhGh3t7OoCt65Mc=
+
+Name: res/es/StandardTarotCards.Mathers.xml
+SHA1-Digest: tlzW8G7o5+DkjIs0bsKXcu9hW2s=
+
+Name: res/es/StandardTarotCards.Waite.xml
+SHA1-Digest: DSJZyNnGvM+8RcNudvZtCwZddco=
+
+Name: res/ElderFutharkRunes.Pearl/r17.jpg
+SHA1-Digest: LheoGwj6rdF2xbmYugSWqn03aXg=
+
+Name: res/pt/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: ZqPFmi0fwzAOj1RCUC0++WdV9x8=
+
+Name: res/StandardTarotCards.RiderWaite/r34.jpg
+SHA1-Digest: Ew9pP1dU2QV7185YQNO0cApaV9s=
+
+Name: res/de/help10.jpg
+SHA1-Digest: biUh2g0Ts4mtX20afsBrcb+J71o=
+
+Name: res/de/StandardTarot21RomanyCards.xml
+SHA1-Digest: XaysiUZH1ULs+fxfIgiJEGx7vnw=
+
+Name: res/StandardTarot9FanCards.xml
+SHA1-Digest: uB2q6bfv+yA8RIntZKi6oMy6IgQ=
+
+Name: res/StandardTarotCards.RiderWaite/r29.jpg
+SHA1-Digest: 7wLLiC+v4r34cfPgqSmCAMT7Egg=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r65.jpg
+SHA1-Digest: LeKiiMxWxQlWLDOwyZYuAFf3x4I=
+
+Name: res/ko/StandardTarot10SpiralCards.xml
+SHA1-Digest: apKKWphwGVuswVrdJoMvAC69i/Y=
+
+Name: res/el/help.xml
+SHA1-Digest: 2j85gKr5uOEOVg8wTwCJqB12BRI=
+
+Name: res/ja/StandardTarot7HexCards.xml
+SHA1-Digest: 6OCTrGKbtVxcHQwpy2V56ayoZ7Y=
+
+Name: nu/lazy8/oracle/engine/Layout.class
+SHA1-Digest: dvktIhh0wIT542FVYGuYb7wZhpo=
+
+Name: res/sv/help11.jpg
+SHA1-Digest: JdYr1fNsONZdzGXkAdGnYVrZ1MM=
+
+Name: res/pt/help10.jpg
+SHA1-Digest: hxJzP7gqUD2xdWM0H6PXxCyHxj8=
+
+Name: res/StandardTarot12HouseCards.xml
+SHA1-Digest: Cq9hSNt7wJ7Q5DbsMvzEJjJKab8=
+
+Name: res/el/StandardTarot7DreamCards.xml
+SHA1-Digest: 8Fl++5bQikZ6IALgb1sLqrH+cxg=
+
+Name: res/pt/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: Qq4tpp+8KJkc5KbvEzbT2J0SDlY=
+
+Name: res/el/StandardTarot9AwenCards.xml
+SHA1-Digest: TPh1z1D7AkHYK/GMtRne+8p7k+0=
+
+Name: res/zh/StandardTarot10TreeDavis.xml
+SHA1-Digest: +q3RbYuw0CNQxT2oWktL+mNDALE=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r63.jpg
+SHA1-Digest: oSzT8o0Xfko0lqcib6tYiRCw8Ns=
+
+Name: res/StandardTarotCards.RiderWaite/r36.jpg
+SHA1-Digest: 8UjMPDFMv9CzKEsFz+KMTHy6ZaE=
+
+Name: res/el/ElderFutharkRunes.xml
+SHA1-Digest: XKHU4dSjjjdoIw+DhThA995OKDM=
+
+Name: res/sv/StandardTarot21RomanyCards.xml
+SHA1-Digest: VOHlm0YWSB7MSZ4b+YLWXuBIRu8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r78.jpg
+SHA1-Digest: RfFOA33jfZN003jamik1b45Lkpo=
+
+Name: res/StandardTarotCards.RiderWaite/r40.jpg
+SHA1-Digest: LWi5FEF2DTNjRi0Pu5kWsvjURfg=
+
+Name: res/StandardTarotCards.Cards52/r54.png
+SHA1-Digest: gB3aIOkI0mVpBj8qrkP7tqvIA58=
+
+Name: res/StandardTarotCards.Cards52/r37.png
+SHA1-Digest: SLpYB/3dBeRBRQ2Ic4eXObHoyR4=
+
+Name: res/it/StandardTarot5ElementsCards.xml
+SHA1-Digest: B6r5gXHJv8ulprekQmS8Iy/6dDs=
+
+Name: res/StandardTarotCards.Marseilles/r46.jpg
+SHA1-Digest: tI/YzSSD37eCShFM/xFX0DT6i5Y=
+
+Name: res/StandardTarot5LineCards.xml
+SHA1-Digest: D0J2K8T/C9EuC49TnjSt8A+H1kg=
+
+Name: res/StandardTarotCards.Marseilles/r67.jpg
+SHA1-Digest: fKOQ2Do9CO9a8cTBwtMmQwEHM08=
+
+Name: res/StandardTarotCards.RiderWaite/r71.jpg
+SHA1-Digest: vv8B3RGZHEihFt6+iFOylT1z4pk=
+
+Name: res/it/StandardTarot2Cards.xml
+SHA1-Digest: 3tb2Hj48y3j1YgUFx5GAmLzQ/Oo=
+
+Name: res/fr/ElderFutharkRunes9Lay.xml
+SHA1-Digest: TXB+U0nFLyPp7PFeXKQJYMMgX/U=
+
+Name: res/el/ElderFutharkRunes9Lay.xml
+SHA1-Digest: W0kBN8WCSkZbV0wdVKThDpWagj8=
+
+Name: res/de/StandardTarot7ChakraCards.xml
+SHA1-Digest: JNVkToQPIXXxKvOeG5MNC8vxnVQ=
+
+Name: res/StandardTarot21Cards.xml
+SHA1-Digest: TErMbRx/T3+C+ekZCk7RuNZVdRA=
+
+Name: res/StandardTarotCards.RiderWaite/r38.jpg
+SHA1-Digest: YSNmr9YBmOz6SMUBIJrYHnbMOpA=
+
+Name: jtarot/jTarot$ImagesAction.class
+SHA1-Digest: QNszI7+QDCBi6m55elQmuhKxx0U=
+
+Name: res/ru/StandardTarot13MandalaCards.xml
+SHA1-Digest: O1ArQoMQhS2rRPEH0/Z0kFCg4CM=
+
+Name: res/pt/StandardTarot2Cards.xml
+SHA1-Digest: tp+7orzI6z32OhupyUVB8yKl76k=
+
+Name: res/ElderFutharkRunes.Pearl/r6.jpg
+SHA1-Digest: hPqiwpWUKD14zir4XbbHly84l7s=
+
+Name: res/en/alltoonefile.sh
+SHA1-Digest: xeqeLcyKG/Z9T1geWObALEUXgC8=
+
+Name: res/StandardTarotCards.RiderWaite/r31.jpg
+SHA1-Digest: 8X1UpqwIveT92yw2HNvx3dvdI48=
+
+Name: res/StandardTarotCards.Cards52/r44.png
+SHA1-Digest: ADP9yrsrWd/uC6S+EMDNDAJecfs=
+
+Name: res/StandardTarotCards.RiderWaite/r76.jpg
+SHA1-Digest: VffVTp+8qw5m5+LFoRhmm63AF3Q=
+
+Name: res/it/StandardTarot13MandalaCards.xml
+SHA1-Digest: RDCxS4B+q3GPurIOzn+a8+SJA0c=
+
+Name: res/nl/help13.jpg
+SHA1-Digest: mWGqBQvIVCUGabJhJpaJA/L/RdU=
+
+Name: jtarot/StandardSetupPanel$ComparatorWithDigits.class
+SHA1-Digest: 1caND1CFrRXintayosZpFwXpEGg=
+
+Name: res/ElderFutharkRunes.Wood/r11.jpg
+SHA1-Digest: TlxY+KSezXGd4nhFaM1psmV90tk=
+
+Name: res/es/help13.jpg
+SHA1-Digest: XU9jaOjg5b8RfxF3Exw86wjHIhs=
+
+Name: res/sv/help15.jpg
+SHA1-Digest: vZBU2YQohHDKJHwIcX89dsk/ons=
+
+Name: res/zh2/ElderFutharkRunes2Lay.xml
+SHA1-Digest: lTmwpRF8tT6Xg+DfbMAPU51BFcA=
+
+Name: res/StandardTarotCelticCross.xml
+SHA1-Digest: 6LWtYNSx62/MpG4vxCE4GyFtdbM=
+
+Name: res/es/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: 49+XcRbZw9YTXTf3pozIE9778Ds=
+
+Name: res/StandardTarotCards.Minchiate/r24.jpg
+SHA1-Digest: Mg5Fs7qzQwfZxvFTO/EjiSyrOSY=
+
+Name: res/en/StandardTarot12TrineCards.xml
+SHA1-Digest: b8yHP5x2q49AmcYOYQNVhrxny1s=
+
+Name: res/fr/StandardTarot7MagicCards.xml
+SHA1-Digest: VvArqKSwRuZr0/9vVT6ADJ7+f9Q=
+
+Name: res/es/StandardTarot10SpiralCards.xml
+SHA1-Digest: hid280RAi5uyOjDcDhvK0veYY38=
+
+Name: res/StandardTarotCards.Cards52/r32.png
+SHA1-Digest: /NaTNw6I2CwHOJ7d22rUYWkcyqU=
+
+Name: res/ElderFutharkRunes.Blues/r12.jpg
+SHA1-Digest: IEeouVR1A3gE+tPkLHPsEqPXpUU=
+
+Name: res/it/StandardTarot10YesnoCards.xml
+SHA1-Digest: q+ay1gl64m6ssFcgIOb78I26vJE=
+
+Name: res/StandardTarotCards.Marseilles/r6.jpg
+SHA1-Digest: ruN+ZfHdnqW8KprZ6C9WWy3kwKE=
+
+Name: res/StandardTarotCards.Minchiate/r5.jpg
+SHA1-Digest: 4RosFVW2CaNv4Pm8lEGCaTrssq4=
+
+Name: res/it/StandardTarot15ThothCards.xml
+SHA1-Digest: COl1hPEcr1wfhWx/kj3J6XIU/Sk=
+
+Name: jtarot/LogViewer$ListHandler.class
+SHA1-Digest: zxncQsGypoSLw1dolwCXzlJ1bHc=
+
+Name: res/en/StandardTarot8SeasonCards.xml
+SHA1-Digest: /imMBp2Krr2pG47UYgAvRjxiTKg=
+
+Name: res/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: kKloUOrxfZoGYCvLYQqhThudYFI=
+
+Name: res/it/StandardTarot10TreeDoane.xml
+SHA1-Digest: QrSd1cnineAbG6GXrqx1QQK2NBU=
+
+Name: src/jtarot/TarConstants.java
+SHA1-Digest: dP7XKLsBZckSe31InBDtAE2eZjU=
+
+Name: src/jtarot/OracleLazy8IO.java
+SHA1-Digest: lKm269B5SWcJk/gh1/sHf1QLdwM=
+
+Name: res/nl/StandardTarot.xml
+SHA1-Digest: zI7yqFYg1EdTZeXZQozEEz/mxME=
+
+Name: res/htmlhelp.html
+SHA1-Digest: N0SfAmiDSJ1EIq7m8fc1r0j6+nI=
+
+Name: res/fr/StandardTarot3Cards.xml
+SHA1-Digest: omgTAZnnOPYttbQCMxyYvGTplOw=
+
+Name: jtarot/jTarot$LanguageAction$LanguageMenuWatcher.class
+SHA1-Digest: XnWTUBZowdEI8c7p8dXfn5uuB8s=
+
+Name: res/StandardTarotCards.RiderWaite/r74.jpg
+SHA1-Digest: 6vF0SYrmx3azYyMVw14qOQgNuMs=
+
+Name: res/ElderFutharkRunes.Wood/r7.jpg
+SHA1-Digest: vJXDb36oQ+Vqd+wX6Nnx9VAB6Es=
+
+Name: res/nl/StandardTarot7ChakraCards.xml
+SHA1-Digest: QyHPyIlsH75CtKhKiq1HrjEDyv8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/index.xml
+SHA1-Digest: H3eK20Rbk5nM+xM1olByEo3OKWM=
+
+Name: res/ElderFutharkRunes.Pearl/r23.jpg
+SHA1-Digest: KOFpQLVHpZKhYWXGWaf1PYRV6tc=
+
+Name: res/StandardTarotCards.Marseilles/r28.jpg
+SHA1-Digest: WhmtMt/3J7soWFQQ82G7IAWTMEs=
+
+Name: res/en/StandardTarot5LeviCards.xml
+SHA1-Digest: EXFu1NEE85JTaTnJrCNgjLydiig=
+
+Name: res/de/StandardTarot8HearthCards.xml
+SHA1-Digest: v7dXK1MaKr8RZeW8abbUkZ8FjAk=
+
+Name: res/ElderFutharkRunes.Wood/r4.jpg
+SHA1-Digest: XsHs916VKhQmY1dFY0YC+tztZkI=
+
+Name: res/el/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: 1q3cS7lxrTQ3aRCGEezr3fVFoJ0=
+
+Name: res/StandardTarotCards.RiderWaite/r49.jpg
+SHA1-Digest: 0jrwhZGGxU6uHFkVgDb9QT6wP3g=
+
+Name: res/StandardTarot8SeasonCards.xml
+SHA1-Digest: j8ZuEklLu3KFk0Oyl4h9I8e9gOk=
+
+Name: res/ru/StandardTarot15FortuneCards.xml
+SHA1-Digest: vvsn6kz4YfzWjvIe8K7skC31kuM=
+
+Name: res/ko/ElderFutharkRunes2Lay.xml
+SHA1-Digest: 5GfMvNdFabg731R6Q27V92YhLdI=
+
+Name: jtarot/PropertyTranslationPanel.class
+SHA1-Digest: cMbU9R7BfHfx/RrVraEXPVNX0sY=
+
+Name: res/ko/StandardTarot10TreeDavis.xml
+SHA1-Digest: zAnmDFuZxcGQonR6QDc6J6AmK4Y=
+
+Name: res/ElderFutharkRunes.Wood/r15.jpg
+SHA1-Digest: K90v8uy1aXuIVXVrcEtpbNoiu6A=
+
+Name: res/ru/StandardTarot12HouseCards.xml
+SHA1-Digest: RaYd00ewOsBuallyAVnVWoMOL8o=
+
+Name: res/nl/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: bKdd/wWEcifEt0ptm2BeeTIySfo=
+
+Name: res/StandardTarotCards.Minchiate/r3.jpg
+SHA1-Digest: JFjIgI+s4vhnffHP7vaB9Y9PEhY=
+
+Name: res/de/StandardTarot5ElementsCards.xml
+SHA1-Digest: DbJYR4s9OZDWQObpSMQ1ocE9VEo=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r28.jpg
+SHA1-Digest: uXICbkazUBOOPxoJu7YASu4OuPU=
+
+Name: res/ja/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: CAO1Im0Is8oegODUE17oUSBU13A=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r35.jpg
+SHA1-Digest: 4Kexjai7v4wvJyUxnDXZZkdVNZ4=
+
+Name: jtarot/LayoutWizard.class
+SHA1-Digest: LpsY9JLq01ExhaS9JFl+NisJtOw=
+
+Name: res/sv/StandardTarot10YesnoCards.xml
+SHA1-Digest: dNYzrwPY7kdygIKMKZodU9jLL7Q=
+
+Name: res/pt/ElderFutharkRunes1Lay.xml
+SHA1-Digest: x90MB1JHyIGQ+ai8VbWIvYrBYqM=
+
+Name: res/fr/StandardTarotCards.Mathers.xml
+SHA1-Digest: VwQBPIrcalWd9pXbNHkEw4eYIHQ=
+
+Name: res/en/StandardTarot11CupCards.xml
+SHA1-Digest: ZfzXzZwGxoN+FuhVFc4SHP5ECYw=
+
+Name: res/es/StandardTarot7ChakraCards.xml
+SHA1-Digest: Vk87QqmaDR+KdnETqglORWJkYEQ=
+
+Name: res/el/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: EamCcrKBiRtvFS3Q3qTzblr5E+Y=
+
+Name: res/fr/help14.jpg
+SHA1-Digest: VDtAWblL8ZASIhIX2dJCXhq4YVo=
+
+Name: res/pt/StandardTarot8SeasonCards.xml
+SHA1-Digest: g1SMoGyk9JB1wZc3GpnnxgStt9w=
+
+Name: res/zh/ElderFutharkRunes2Lay.xml
+SHA1-Digest: ZaxFr8VjdHwW6AlCNcHHvTSWq3M=
+
+Name: res/es/StandardTarot8SeasonCards.xml
+SHA1-Digest: EguqZWNfHP5sclDpn8XX6xJj16w=
+
+Name: res/StandardTarotCards.RiderWaite/r13.jpg
+SHA1-Digest: rO+99lWhhOqxmqmF4xSd9uakzyg=
+
+Name: res/zh2/StandardTarot10SpiralCards.xml
+SHA1-Digest: WNhhcHRkLGW8G2t8p1r3pgOZEwo=
+
+Name: res/ko/StandardTarot5ElementsCards.xml
+SHA1-Digest: mvcaK5CwcxE2FwLnU8kdgtNKhCI=
+
+Name: res/ja/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: RGA/IYoOY5JE2SA5xnA1EsTwWB4=
+
+Name: res/StandardTarotCards.Cards52/r35.png
+SHA1-Digest: MVAZk+s/LjykZD1iSKsSrXQnbwQ=
+
+Name: res/StandardTarotCards.Minchiate/index.xml
+SHA1-Digest: mLSZ8RcL2u3cJ2z18fhtul6n5QI=
+
+Name: res/ja/StandardTarot21GrandCards.xml
+SHA1-Digest: LOI8EzMr8/L10Im4p4hzQUxO30s=
+
+Name: res/StandardTarotCards.RiderWaite/r65.jpg
+SHA1-Digest: Mj3F4SS++MTfjjvmYiHNnsdPxHE=
+
+Name: res/StandardTarotCards.Cards52/r21.png
+SHA1-Digest: ajW77Lh2hM/rQrA+KiSg33d7aqE=
+
+Name: res/ko/help12.jpg
+SHA1-Digest: jca7PuPnPZ7FGvb5SXORwOpHC4U=
+
+Name: res/nl/StandardTarotCelticCross.xml
+SHA1-Digest: CyrnPuKtbgpzP5ZI1gibdBHr25Y=
+
+Name: res/de/StandardTarot11CupCards.xml
+SHA1-Digest: AECFie2s80HbIlr7qO75WZYKLkk=
+
+Name: res/StandardTarotCards.RiderWaite/r25.jpg
+SHA1-Digest: yMN0KAVav7GmlMlJI+3u/IbZLIc=
+
+Name: res/StandardTarotCards.RiderWaite/r62.jpg
+SHA1-Digest: 60GjcCq7JzEz7H0zwei8cwoy3zI=
+
+Name: res/ElderFutharkRunes.Wood/r19.jpg
+SHA1-Digest: R3b1c1us3if9GPtjlEaQaC6I47Q=
+
+Name: res/sv/StandardTarotCards.Thierens.xml
+SHA1-Digest: pCso1qFTr9ZHeaxXA8UTlEOHyTo=
+
+Name: res/ElderFutharkRunes.Pearl/r10.jpg
+SHA1-Digest: NPJZbB1FN802F4C4WW9N+z3xIGw=
+
+Name: res/StandardTarotCards.Marseilles/r68.jpg
+SHA1-Digest: iKTzNpSgbBJOXaxK7jmi2WH00wE=
+
+Name: res/sv/StandardTarot8HearthCards.xml
+SHA1-Digest: uQpjixIr9wCrt2RRHiFntCGE2Lw=
+
+Name: res/es/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: 3plvMQC+YyPhpXiY/lBw/Y5jgfs=
+
+Name: res/it/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: D0qDuADcGHVcZx1iNgDN1kMcHg8=
+
+Name: res/StandardTarotCards.Marseilles/r48.jpg
+SHA1-Digest: 8pVmsiiaiTYprOlGb1awPo8uI04=
+
+Name: res/ko/help14.jpg
+SHA1-Digest: OxnkZVnyuK4HC2i8AmEcRXYIH6A=
+
+Name: res/ru/StandardTarot6TrueLove.xml
+SHA1-Digest: xgm442q0EpdzFxbAfLK1g/6tqu8=
+
+Name: res/ru/ElderFutharkRunes9Lay.xml
+SHA1-Digest: Z2OaKqkflyEBifkfJNZz1+CboaQ=
+
+Name: nu/lazy8/oracle/engine/RandomExtended.class
+SHA1-Digest: goPLf3vFgKLr+NMh09E5Eoaywqw=
+
+Name: res/ko/StandardTarot21GrandCards.xml
+SHA1-Digest: 0rnIMo2y/ihaX+GiDapGFRHyjhw=
+
+Name: res/StandardTarotCards.Marseilles/r26.jpg
+SHA1-Digest: 5gTKJWgjnQJKNYi7NjVIUlQQStI=
+
+Name: res/StandardTarotCards.RiderWaite/r33.jpg
+SHA1-Digest: BQK5kpO8GuGU9NdV8aTcmxDbgz8=
+
+Name: res/fr/help10.jpg
+SHA1-Digest: KvqIfBbQN2CikWRqOdj2XvZaVSQ=
+
+Name: res/el/StandardTarot10TreeDavis.xml
+SHA1-Digest: YKh6BJPcZzW0QF63S9uquV6LN/A=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r67.jpg
+SHA1-Digest: gjHk/uuvx8dmAHmcqrUWjhIkseE=
+
+Name: res/pt/StandardTarotCards.Mathers.xml
+SHA1-Digest: kmFiJXhZ3pzysqRUhQFZHb7mgGc=
+
+Name: res/StandardTarotCards.Cards52/r61.png
+SHA1-Digest: pQ3wUDBVEnOkvC15x3hByBb7UqI=
+
+Name: src/jtarot/Log.java
+SHA1-Digest: 70K2t5518UChVsdijpyfUoDIzrY=
+
+Name: res/pt/StandardTarot5ElementsCards.xml
+SHA1-Digest: 01Aa+VCoVGW7lZnt7N8zI+ej/dw=
+
+Name: res/en/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: JT+8yW6sspn0MzLLsFk1ICcwcTM=
+
+Name: res/StandardTarotCards.RiderWaite/r59.jpg
+SHA1-Digest: vmdPFPrz+i+xCRD+vhDI7bxKzbs=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r75.jpg
+SHA1-Digest: yo7w5B1rbo72ey8Dse9HwayTiTM=
+
+Name: res/StandardTarotCards.Marseilles/r21.jpg
+SHA1-Digest: v8UkvQzHvV2zgRXcV/lox3KuV2Q=
+
+Name: res/ja/StandardTarot15FortuneCards.xml
+SHA1-Digest: HZpXglh6tajK5NJNkeXN88ORoOY=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r41.jpg
+SHA1-Digest: v8AbUdDm78usa+t7jei51iAaG04=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard$5.class
+SHA1-Digest: uOIFoCLbwtmJOx6CV348nkIATjg=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r47.jpg
+SHA1-Digest: NpJicVMVS5v5tcQBo7O8cKy/W98=
+
+Name: res/StandardTarotCards.RiderWaite/r69.jpg
+SHA1-Digest: 80NCcP4pLjNEi2jOBl1m+Y0VKlc=
+
+Name: res/en/StandardTarotCards.Mathers.xml
+SHA1-Digest: MEXPp6ObSukiBmSaOgE6E+4mZjA=
+
+Name: res/InternalFiles.xml
+SHA1-Digest: PbjAucnnKmmNyh3Q0U65Bgm8roc=
+
+Name: res/zh/StandardTarotCards.Thierens.xml
+SHA1-Digest: BAAA1bl224b9TYwUpV1nU4gMznc=
+
+Name: res/fr/StandardTarot10YesnoCards.xml
+SHA1-Digest: GT4XQCrQNl91UlUjr1TlxSFZOiU=
+
+Name: res/fr/StandardTarot5ActionCards.xml
+SHA1-Digest: 0/4ewtPrPYy+NiN3We1slEEqsrc=
+
+Name: jtarot/jTarot$RecentAction$1.class
+SHA1-Digest: CBuTe110m+x+Jw5lffUgFX6hiEA=
+
+Name: res/StandardTarotCards.Marseilles/r0.jpg
+SHA1-Digest: qetHVb4BciHw7r/G0PNHOKCfoRg=
+
+Name: res/StandardTarotCards.Marseilles/r17.jpg
+SHA1-Digest: B2N26wZ+AqG6ilEI2RSl/dVUC5Y=
+
+Name: res/StandardTarotCards.RiderWaite/r77.jpg
+SHA1-Digest: I3FmlZvxH/rYPAQ0pEhNGNEXWMs=
+
+Name: res/zh2/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: FwpbcwUqqF06VkJtkM4/LsUIMtY=
+
+Name: res/nl/StandardTarotCards.Thierens.xml
+SHA1-Digest: 3WedGdjufg/efti8xyaVqsAFGgA=
+
+Name: res/sv/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: KKQLM9Mhiaadwhhg6dX1LmkEVIg=
+
+Name: res/zh2/help15.jpg
+SHA1-Digest: XfH5Cwwp0lZwTEk95osZcaK69Hs=
+
+Name: res/en/help10.jpg
+SHA1-Digest: zf8Ro08gSG0zTH+bV0yItSfCbWA=
+
+Name: res/ru/StandardTarot11CupCards.xml
+SHA1-Digest: NVqVcUwGm/1kVPpa/p9VBcuACn0=
+
+Name: res/StandardTarotCards.Minchiate/r53.jpg
+SHA1-Digest: qggSoYl8M5ZfdeqfrGMeMyACENo=
+
+Name: res/StandardTarotCards.RiderWaite/r72.jpg
+SHA1-Digest: w+mmd2/zhsleEKm2SP8s7qkq8u4=
+
+Name: res/ko/StandardTarotCards.Mathers.xml
+SHA1-Digest: nP2uNeexVfOux617Y5cztUMb+10=
+
+Name: res/zh2/StandardTarot11CupCards.xml
+SHA1-Digest: jdje9M4uwZIKd0WqOerVTy4rdh8=
+
+Name: res/el/StandardTarot8HearthCards.xml
+SHA1-Digest: B+bjw8Sr9WZzhnG7aBwMlujZRpQ=
+
+Name: res/ko/StandardTarot5ActionCards.xml
+SHA1-Digest: h+81TqwJ6U16MOHKhimnZbaa3U0=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r43.jpg
+SHA1-Digest: fxNvSlj7Mefd45z1ZAN9ZNLsiFw=
+
+Name: res/StandardTarotCards.Marseilles/r77.jpg
+SHA1-Digest: xpfTstNGs91mgm+oD9/hAN9dlqk=
+
+Name: res/ElderFutharkRunes.Blues/r18.jpg
+SHA1-Digest: CFoUO5NimFHdMOLCE8WcdOqVEAc=
+
+Name: res/StandardTarotCards.Minchiate/r0.jpg
+SHA1-Digest: KP9vIQuc6qkR7qxz4PZctHTQ4lk=
+
+Name: res/StandardTarotCards.RiderWaite/r28.jpg
+SHA1-Digest: kS9AGXRYRF1C6IitKawUCkSDgVs=
+
+Name: res/ru/StandardTarot49SolarCards.xml
+SHA1-Digest: 21ymkqzha02sHrVYSkIRKZL0t4Y=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r6.jpg
+SHA1-Digest: X3uIFf11YGaVyzGDXVuavUjXgKM=
+
+Name: res/pt/ElderFutharkRunesObj.xml
+SHA1-Digest: 4r5qWpEqewJsacAq+7dabD6GKMU=
+
+Name: res/StandardTarotCards.Minchiate/r25.jpg
+SHA1-Digest: 0pXhprXMHozKaw59B3Z+2N7PqkI=
+
+Name: res/StandardTarotCards.Marseilles/r4.jpg
+SHA1-Digest: Ixn1m6JreQ4EjgeJIx4L5BKIom4=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r14.jpg
+SHA1-Digest: V567zs7ZI3SXh+SvXt6hwZa3X2k=
+
+Name: res/zh/StandardTarot21Cards.xml
+SHA1-Digest: 271TmmOp3dvdVp90kr2r+wUQkdA=
+
+Name: src/jtarot/TarBuffer.java
+SHA1-Digest: WbJCCLI8fJNZmu9f8gkSuQ1G0HI=
+
+Name: res/el/StandardTarot21RomanyCards.xml
+SHA1-Digest: 6EIqtG2zBUDhIxeuAvmEakWPYn0=
+
+Name: res/zh2/help13.jpg
+SHA1-Digest: Ni7WJE2UooJaJE/s6YKGsuqv6ec=
+
+Name: res/es/StandardTarot8PlanetCards.xml
+SHA1-Digest: 7W0DqdWBHvZcAnvUlukBYdTQWQU=
+
+Name: res/sv/StandardTarot7DreamCards.xml
+SHA1-Digest: 7Xjnlp6d47JErlWSRxop1CsCr7o=
+
+Name: res/el/help13.jpg
+SHA1-Digest: 2BSg9UmfLjMoBRY+HGKPNTBtyjg=
+
+Name: res/StandardTarotCards.Minchiate/r40.jpg
+SHA1-Digest: H7TLEBwFBcL2FqMSZxd0XiM4dG4=
+
+Name: res/StandardTarotCards.Minchiate/r59.jpg
+SHA1-Digest: ot0Tosolc7p5o0gBRx3FNLBaWzU=
+
+Name: res/de/StandardTarot5ActionCards.xml
+SHA1-Digest: ODLyf0X+9s4K91KROe/HuOkWGMw=
+
+Name: res/StandardTarotCards.Cards52/r67.png
+SHA1-Digest: 4Vt4NeWg5IW00F8EbgDGEg/90/o=
+
+Name: res/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: EjF2d+shUU+yc8zk/4Bv7tarei4=
+
+Name: res/fr/help0.jpg
+SHA1-Digest: dhh7QsGouv1FqT7RnqMCxFvcfII=
+
+Name: res/en/ElderFutharkRunes.xml
+SHA1-Digest: yfKE5UacJcG1nz/DV7DmIwqwCAg=
+
+Name: res/StandardTarotCards.RiderWaite/r67.jpg
+SHA1-Digest: cqMjvNcqgH7ISyDF6SFBgUhunDo=
+
+Name: res/ru/StandardTarot21GrandCards.xml
+SHA1-Digest: Q29XbdYVupGk/jMaQQ93pCRRQr0=
+
+Name: res/StandardTarotCards.Cards52/r24.png
+SHA1-Digest: UZu/SP+mkTbLO30q2ZsrkBt4/Z0=
+
+Name: res/en/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: yuYfBa/10skwDs6oianTxjDjRag=
+
+Name: res/fr/help.xml
+SHA1-Digest: Z7KO2yPmX3NaLARJX6CRHP5g29Y=
+
+Name: res/StandardTarotCards.Minchiate/r64.jpg
+SHA1-Digest: e6MRV9oz+YFjfBT1X+OPiWrmXGg=
+
+Name: res/StandardTarot2Cards.xml
+SHA1-Digest: y0Uzbd63R6mH9C9cfvqlf9jjs00=
+
+Name: res/ru/help14.jpg
+SHA1-Digest: xRTkwjjYaayoCnyY15J91rvhBP4=
+
+Name: res/StandardTarot6TrueLove.xml
+SHA1-Digest: aAuqzOhSu7VhkPR6Ss8RiRpKWrk=
+
+Name: src/jtarot/LayoutWizard.java
+SHA1-Digest: 6NZDdFYGlgpAQ1KX3NEn0BWtFhU=
+
+Name: res/zh2/StandardTarotCards.Thierens.xml
+SHA1-Digest: WL11/VoK4ashv3sOpg03J8yh184=
+
+Name: res/StandardTarotCards.Minchiate/r14.jpg
+SHA1-Digest: 36on1IjtZNYSpfdZkE/tZsi3AIM=
+
+Name: res/en/StandardTarot11KeyCards.xml
+SHA1-Digest: 8dJ5AZPl6a5Dayi8jTmFLaKC2QU=
+
+Name: res/pt/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: RIGfNbUIlcn/Rr8bytAX9dcnBkQ=
+
+Name: res/sv/StandardTarotCelticCross.xml
+SHA1-Digest: LRLwvFX/9EhK/S76enWJSoerb+k=
+
+Name: res/StandardTarotCards.RiderWaite/r53.jpg
+SHA1-Digest: HD1hDpRKBNZWQtU3BhBbe9UpQAY=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r64.jpg
+SHA1-Digest: BydWAN0DVidUE+RN2Pgx0dteT+U=
+
+Name: res/ElderFutharkRunes.Blues/r22.jpg
+SHA1-Digest: CEzkzeGEn97/HPM0SdgFdyVrKz4=
+
+Name: res/StandardTarotCards.Marseilles/r49.jpg
+SHA1-Digest: Ub4j+8J/9At+omIPh9Zlhx8+TdE=
+
+Name: res/ko/StandardTarot21Cards.xml
+SHA1-Digest: 114IOzWggyR814mN8zaNUB1MtsU=
+
+Name: res/ElderFutharkRunes.Wood/r14.jpg
+SHA1-Digest: N0rAqJU1J9f/lz/FIA4167oFtvE=
+
+Name: res/ja/StandardTarot7DreamCards.xml
+SHA1-Digest: uUW0llFXUJUJhgIY7Th+MfyVvUw=
+
+Name: jtarot/jTarot$SaveAction.class
+SHA1-Digest: J1af+4J4r2HfJOQNcTJd9C+lY+I=
+
+Name: res/StandardTarotCards.Marseilles/r13.jpg
+SHA1-Digest: 0WZ7ccLF+yLYkSqdtObLxrh/gag=
+
+Name: src/jtarot/Base64Encoder.java
+SHA1-Digest: mToGDt59NyKyFRl7J+xePfRxDpk=
+
+Name: res/it/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: wfLBxqAWOE/kvKjHip2u0vmjBts=
+
+Name: res/sv/ElderFutharkRunes9Lay.xml
+SHA1-Digest: CZNXpf6eAJL6HSqInoRIT11KJfs=
+
+Name: res/en/StandardTarot10SpiralCards.xml
+SHA1-Digest: Chgttb/CcN87BRim0sowjMRcFUU=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r5.jpg
+SHA1-Digest: ZFPDv59q1nvGLrm2hpdxR2an+EA=
+
+Name: res/nl/StandardTarot6TrueLove.xml
+SHA1-Digest: Fhlva0DmpBc3czyCvaZmr8kW1go=
+
+Name: res/el/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: X1xG0rBOOmPSdX4/Uyf9KENCBas=
+
+Name: res/sv/StandardTarot13MandalaCards.xml
+SHA1-Digest: +7cAPULzWe4PBT7qNzLOm+fV3As=
+
+Name: res/ko/StandardTarot.xml
+SHA1-Digest: LF6C6Jgklrma0OtegQOC26eEtr0=
+
+Name: res/el/StandardTarot49SolarCards.xml
+SHA1-Digest: Ai7ljbFg4y4fNjn6AtrKAhLIU+I=
+
+Name: res/sv/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: ka9RovlOo5Ih9AWTgASroE9TQtg=
+
+Name: res/pt/StandardTarot8HearthCards.xml
+SHA1-Digest: Gq1samdB0c9+/lt9W2/cVzY39jE=
+
+Name: src/nu/lazy8/oracle/engine/FileProperties.java
+SHA1-Digest: 0I2GOAPEt2fi8VCxD9auweLIcpU=
+
+Name: res/nl/ElderFutharkRunes1Lay.xml
+SHA1-Digest: lQ8f/rgSkpRxZGdVchmAfxHgzc8=
+
+Name: res/pt/StandardTarot11CupCards.xml
+SHA1-Digest: NZjSwvep3992Fzgf1WL85kg8hSw=
+
+Name: res/ko/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: GzcGeJdasM9pi7ZoAEbpIe/xu7Q=
+
+Name: res/StandardTarotCards.Marseilles/r63.jpg
+SHA1-Digest: DHydcQ4rAI2F9HToLCk9u6wp7GU=
+
+Name: res/it/help14.jpg
+SHA1-Digest: SyYgXvutq2VkXejY6tO/sabzQFc=
+
+Name: res/zh/StandardTarot9FanCards.xml
+SHA1-Digest: Q80+i+T2/JeXx0RupM1huIAWYjI=
+
+Name: res/zh2/StandardTarot2Cards.xml
+SHA1-Digest: l+R/1aFLBIB3/h4J8y2+m44TLa8=
+
+Name: res/StandardTarotCards.Marseilles/r31.jpg
+SHA1-Digest: irlUnpmsNudzm9h1C11AtL4cR9g=
+
+Name: res/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: qsazY+i0tIdYmU1/cG/Uay2Yq2s=
+
+Name: res/StandardTarotCards.Minchiate/r77.jpg
+SHA1-Digest: QbOKruZIfX0zv8vEc2iG7gtOSvQ=
+
+Name: res/it/StandardTarot8HearthCards.xml
+SHA1-Digest: k0x62x/IoZ4a8AlUkT/pv01otng=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r54.jpg
+SHA1-Digest: ZqkmscAM90O3x2r5mWe5u4yRoBE=
+
+Name: res/ko/StandardTarot10YesnoCards.xml
+SHA1-Digest: zC55FH/E7F475L4G/sJPQlV7ITw=
+
+Name: res/StandardTarotCards.Minchiate/r35.jpg
+SHA1-Digest: yK9hxbkIb/zQopPIGo2p8JykdV8=
+
+Name: res/ru/StandardTarot8HearthCards.xml
+SHA1-Digest: AqhuuKC+x84FKIKd5MWQRPaaji8=
+
+Name: res/it/StandardTarot7DreamCards.xml
+SHA1-Digest: rjxqNkH7zudnH48f2YZ5c7jCqu8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r59.jpg
+SHA1-Digest: Xh62UZkVQjIoClTlS3VijY986pw=
+
+Name: res/es/StandardTarot21RomanyCards.xml
+SHA1-Digest: /U/aN7KkqHuraRNLLc4pzgsmYbo=
+
+Name: jtarot/TarConstants.class
+SHA1-Digest: 3wUtmICQgSEBao9WqntrG9hH7Zg=
+
+Name: jtarot/FreeTextFrame.class
+SHA1-Digest: VW2xdxLAaVOfefD/QbnPU1aZ/hM=
+
+Name: res/StandardTarotCards.Minchiate/r11.jpg
+SHA1-Digest: gTckzLKzYvsDpW/K62ZVNSjIUSU=
+
+Name: res/ElderFutharkRunes.Blues/r15.jpg
+SHA1-Digest: Sp31u6wl7FMrB/GhPI9dWqbZsI8=
+
+Name: res/ko/StandardTarot9AwenCards.xml
+SHA1-Digest: socyVT8673a1DERUj23TE8urRn0=
+
+Name: res/it/ElderFutharkRunes3Lay.xml
+SHA1-Digest: TILLO2w3kuHM5nAYsts7fEZ4rHs=
+
+Name: res/el/StandardTarot1Cards.xml
+SHA1-Digest: 5Y3zjTAjNMwzTdCnno0P7DX1z3M=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r74.jpg
+SHA1-Digest: P4o/y8ramVuY2az91PKR6VPE+1s=
+
+Name: res/ElderFutharkRunes.Blues/r9.jpg
+SHA1-Digest: R1mcqQmjSk1Nufl+n3ubzm8csrQ=
+
+Name: res/nl/StandardTarot5ElementsCards.xml
+SHA1-Digest: iuSuCN75ZJ5ugRaYFGWWXApMnhA=
+
+Name: jtarot/jTarot$ExportHtmlAction.class
+SHA1-Digest: hHLEpLHmEdBKjcunmDeIrGWBe9Y=
+
+Name: res/ElderFutharkRunes.Pearl/r19.jpg
+SHA1-Digest: NIyYGI3NiDA3Z+JeQssmBV5ljmU=
+
+Name: res/ja/StandardTarot9FanCards.xml
+SHA1-Digest: /Spd035DyLbCaDoeO/JQJEk3slU=
+
+Name: res/it/help10.jpg
+SHA1-Digest: O6rswzvvpQx4YNstVWJ9hSJ9QtQ=
+
+Name: res/el/StandardTarot.xml
+SHA1-Digest: AZLRxEe6TAHBvR5fjEIV/aOrp2I=
+
+Name: res/fr/StandardTarot7ChakraCards.xml
+SHA1-Digest: m08++xOY8hLhob8d9xMyj1K+1l8=
+
+Name: res/StandardTarotCards.Cards52/r31.png
+SHA1-Digest: qWaEzRJuDqdnV+sjqAJVPKrEzho=
+
+Name: res/pt/StandardTarot21GrandCards.xml
+SHA1-Digest: CkQ6bBy+F7K9v//ZemFMwxblHqA=
+
+Name: jtarot/OracleLazy8IO.class
+SHA1-Digest: rehT/dGcbF6uAX/SluHGBhL8l4w=
+
+Name: res/StandardTarotCards.Minchiate/r8.jpg
+SHA1-Digest: j63v/JKfbg6we7t/fI96rMBvDvI=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r22.jpg
+SHA1-Digest: EPcpkC11kA5IWKdp5hKJ9rznL3s=
+
+Name: res/en/StandardTarotCards.Thierens.xml
+SHA1-Digest: KWnGAmwaYPtB25trMkdakaL1nqk=
+
+Name: res/sv/StandardTarot21Cards.xml
+SHA1-Digest: FKVQhWecMAfs6JkFlXobuqEQo78=
+
+Name: res/el/StandardTarot5LineCards.xml
+SHA1-Digest: C5WlQPNpKNGjQ8KP/Th0KJtd1J8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r8.jpg
+SHA1-Digest: EOP+b6J6QND+FKPWVHUv7lGAUMk=
+
+Name: res/fr/StandardTarot12TrineCards.xml
+SHA1-Digest: samuE4ALP+/Jrh6frL9a3qnFGPQ=
+
+Name: res/es/help0.jpg
+SHA1-Digest: KEH3BQ1lhIhfNArlg0jX4eWO2Ug=
+
+Name: res/pt/StandardTarot10TreeDoane.xml
+SHA1-Digest: Jo5YTcGvd4ybaV2lF9+GzYrKoqY=
+
+Name: res/zh/StandardTarot8SeasonCards.xml
+SHA1-Digest: k3AH1G0Vife7H449YGgzg/Tc9nc=
+
+Name: res/de/StandardTarot15ThothCards.xml
+SHA1-Digest: bzgS5qRkVPtzegYajTduSs2Jfxs=
+
+Name: res/StandardTarotCards.Cards52/r29.png
+SHA1-Digest: lVvOySlENCXgISUWZBtF4S0Xy6E=
+
+Name: res/en/help13.jpg
+SHA1-Digest: wWj43Ppr9SSIXzYMNOwUJDeQ5Uc=
+
+Name: res/StandardTarotCards.Marseilles/r60.jpg
+SHA1-Digest: vIWmLKDfMWBT1vnkou/c43LJLdk=
+
+Name: res/StandardTarotCards.Marseilles/r29.jpg
+SHA1-Digest: hnmqjJvl6pKGrljWCV80R/nrumQ=
+
+Name: res/pt/StandardTarot15ThothCards.xml
+SHA1-Digest: z2VGEuk4IPm1izMLXbAbyKwAm+0=
+
+Name: res/StandardTarotCards.Minchiate/r51.jpg
+SHA1-Digest: iPfq/BNPHFt+Ce00UIrhMSDmGDc=
+
+Name: res/ElderFutharkRunes1Lay.xml
+SHA1-Digest: WQrrRnBVquUW2cZVolxPfMnsYFw=
+
+Name: res/ru/StandardTarot5ElementsCards.xml
+SHA1-Digest: UHmF1qQChAqsh6KOBpD4+WUF5cw=
+
+Name: res/zh/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: w6BUannvCVyROoK86M65bl2ejqA=
+
+Name: res/StandardTarotCards.Cards52/r3.png
+SHA1-Digest: lyFQ0DWlNLFrK5DItHSoMGdQ8kE=
+
+Name: res/StandardTarotCards.Marseilles/r33.jpg
+SHA1-Digest: 7cHljuOgvWJtD1uI0Nh1VX8jkbI=
+
+Name: res/StandardTarotCards.Cards52/r22.png
+SHA1-Digest: UMx/MqbvUOghknUrmeP+obadO7E=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r44.jpg
+SHA1-Digest: PWQmC6OZo3YP/e+K+Ipc1XxiG3E=
+
+Name: res/it/StandardTarot7SpiritCards.xml
+SHA1-Digest: +18uczxPj9ooKhtdR/srV6sA47U=
+
+Name: res/el/help14.jpg
+SHA1-Digest: bdgqLwIcTwAX8TDW+UmU+iAHivc=
+
+Name: res/es/StandardTarot3Cards.xml
+SHA1-Digest: vO7wtCw+8k5u8hZ/lsyGPCpvZr4=
+
+Name: jtarot/jTarot$EditSetupAction.class
+SHA1-Digest: h2LNX9+Pr+sYANJ3gsl+RA2tTos=
+
+Name: res/StandardTarotCards.RiderWaite/r2.jpg
+SHA1-Digest: NBCyFsvI81X8dJKFLzOGdRCEOgo=
+
+Name: res/StandardTarotCards.Cards52/r20.png
+SHA1-Digest: c1xkgtNCuoclTGvhyx19HeRpsW4=
+
+Name: res/StandardTarotCards.Cards52/r57.png
+SHA1-Digest: 94Q4J9sttpkxmE1T3OJFgC3OGJ8=
+
+Name: res/ElderFutharkRunes.Blues/r3.jpg
+SHA1-Digest: Wbr7HqjchWUh6cfrC0Tay6SOnwo=
+
+Name: res/StandardTarotCards.Marseilles/r38.jpg
+SHA1-Digest: Qu652fM8XxNYxH4PxAAPN2+hixg=
+
+Name: res/nl/StandardTarot49SolarCards.xml
+SHA1-Digest: WTlawcf+8fi5gU0Hozff1+GgT0o=
+
+Name: res/zh2/help.xml
+SHA1-Digest: x79YH0jfuWO3QaLoWG69VAvrJvI=
+
+Name: res/StandardTarotCards.RiderWaite/r35.jpg
+SHA1-Digest: eQ26NH04kmsHP/665U3yFt87A3s=
+
+Name: res/en/help15.jpg
+SHA1-Digest: orBIHLrY545o5dYdxj3qIMwUGIo=
+
+Name: res/ru/StandardTarot3Cards.xml
+SHA1-Digest: w6dR4FbZKIiNgFHdKuPDomegKlA=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r7.jpg
+SHA1-Digest: s8Ud9oyEGtvQrHGtTldifhctSJM=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r72.jpg
+SHA1-Digest: QoF8VAPAAoCReYRBNSkLa1IFrFU=
+
+Name: src/jtarot/TarUtils.java
+SHA1-Digest: 7doLe+B1M5fxVK7kNusIdF+rLVw=
+
+Name: res/ja/StandardTarot5ElementsCards.xml
+SHA1-Digest: ITWHxm+KOfL5b9XFBvKTM1UpGLk=
+
+Name: res/nl/StandardTarot21GrandCards.xml
+SHA1-Digest: 5QSYcZcWq40DuE2w8/ERHycZ3MM=
+
+Name: res/es/help15.jpg
+SHA1-Digest: BT8fisN3c5MyEgNP6vFnaQFo+e4=
+
+Name: res/pt/StandardTarot7DreamCards.xml
+SHA1-Digest: 6dQ9bt3J8kxjygGl/HRK9dDOvjQ=
+
+Name: res/ElderFutharkRunes.Blues/r6.jpg
+SHA1-Digest: 9FGFi0m3OyGoLYMOqsTGz77xirc=
+
+Name: res/StandardTarotCards.RiderWaite/r45.jpg
+SHA1-Digest: dTbeEbJvP0vSCXsee71ddJ2rxM8=
+
+Name: res/de/StandardTarot2Cards.xml
+SHA1-Digest: dlg5pYKbe7CYqDCLzjomw9/juV8=
+
+Name: res/ElderFutharkRunes.xml
+SHA1-Digest: iRFQNCGumGl79cPuxcApRzkZKoY=
+
+Name: res/sv/StandardTarot49SolarCards.xml
+SHA1-Digest: 2JDP2Y9SSUFkgFgyEy0E/a2yrZE=
+
+Name: res/StandardTarotCards.Cards52/r49.png
+SHA1-Digest: uhl94NSy10ncF3RNUvqcKLCO6UM=
+
+Name: res/StandardTarotCards.RiderWaite/r61.jpg
+SHA1-Digest: ABNjadOifFz1TW95hWA2fNM+gAE=
+
+Name: res/pt/StandardTarotCards.Thierens.xml
+SHA1-Digest: iitPZ2g+Xo/sdlNTISUhG+/0kfM=
+
+Name: res/sv/Translations.Menus.xml
+SHA1-Digest: NzGHMpOi0du66GfJaaHlzSFxdmo=
+
+Name: res/StandardTarotCards.Marseilles/r18.jpg
+SHA1-Digest: txtuip4nZUey2wGlJCgPwE7gcMI=
+
+Name: res/pt/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: /wqyqWF5m0KP0yYic3vPbnggCG8=
+
+Name: res/es/StandardTarot6TrueLove.xml
+SHA1-Digest: PVPqRGIIbhA/dERpSsOsDZACY48=
+
+Name: res/en/help.xml
+SHA1-Digest: TNZ9W90jOe5ttW57MIbJr7OX7Wg=
+
+Name: res/zh/StandardTarot11CupCards.xml
+SHA1-Digest: faM2L1ChR+U++PBYXj+2KkZoU7I=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r29.jpg
+SHA1-Digest: 7qEVWVQKvO4AVKVCEiafr0qiTVQ=
+
+Name: jtarot/Browser$BrowserDialog$1.class
+SHA1-Digest: yFuSd7CSSv37F8r2tEtEjcyap/8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r26.jpg
+SHA1-Digest: pZp1xzpUJpPkGyYe3Di8NEx5S4Q=
+
+Name: res/StandardTarotCards.Marseilles/r34.jpg
+SHA1-Digest: zCUHa5XDHAFqBRykLRtpVJS0ai0=
+
+Name: res/zh2/ElderFutharkRunes3Lay.xml
+SHA1-Digest: tATglcNEu/qBsyXUo8wVzzba/jA=
+
+Name: res/zh/StandardTarot16WishCards.xml
+SHA1-Digest: 93nh5HEHjZ3g8Yp6kE2HJaR6Kqo=
+
+Name: res/es/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: ztTruvbVxPS+pcMdUr2zPJNGeOo=
+
+Name: jtarot/jTarot$ShowPositionNumbersAction.class
+SHA1-Digest: SaBEtxUP1sQRdSC7HfII/aE4ij4=
+
+Name: res/fr/help12.jpg
+SHA1-Digest: SwAUEKy/XIPagiJnAADQvV1aH20=
+
+Name: res/ElderFutharkRunes.Pearl/r4.jpg
+SHA1-Digest: UnN3cmk9wyH0XeceLjLvFEhc9hE=
+
+Name: res/ru/StandardTarot5LeviCards.xml
+SHA1-Digest: +/o51J4QWCke2AG2j3kfEUZYDoY=
+
+Name: res/StandardTarotCards.Marseilles/r12.jpg
+SHA1-Digest: DroIjRh2L48MKbADIDETCJBBRwE=
+
+Name: res/es/help.xml
+SHA1-Digest: vXw1qVD22h2Hc6XcZhd7wJcKFv4=
+
+Name: res/StandardTarotCards.Cards52/r10.png
+SHA1-Digest: RkCyguXmdOLdgWEY7TZmzWWZhls=
+
+Name: res/fr/StandardTarot8SeasonCards.xml
+SHA1-Digest: ADIYP0uyfS+fBqj2zkKI+zo3l7g=
+
+Name: res/StandardTarotCards.Cards52/r78.png
+SHA1-Digest: rqlM17BMGNDPHXO9ACMcn326GHI=
+
+Name: res/ElderFutharkRunes.Pearl/r9.jpg
+SHA1-Digest: JoBbXAd4qIwDKMJvTC84NcfIhcE=
+
+Name: res/StandardTarotCards.Marseilles/r3.jpg
+SHA1-Digest: hZjzm6BBgNgA/9B4wM81tgATV+Q=
+
+Name: res/StandardTarotCards.Minchiate/r42.jpg
+SHA1-Digest: JNQc0PJ+Rl3o7LiIVRcHqNNKITM=
+
+Name: res/nl/StandardTarot12TrineCards.xml
+SHA1-Digest: /vvbFZ/S79j3zCz4iegKiDlQKzU=
+
+Name: res/fr/StandardTarot6TrueLove.xml
+SHA1-Digest: vD0OsrpdhdX6idZLSM/OyzzDLQg=
+
+Name: res/ja/StandardTarotCards.Mathers.xml
+SHA1-Digest: z+iFtlRE931+su81flcm+opVDMM=
+
+Name: res/zh/StandardTarot3Cards.xml
+SHA1-Digest: W3tPLpOIiEpITKWojBQeOQfQh/U=
+
+Name: res/zh/StandardTarot2Cards.xml
+SHA1-Digest: OjbJLBbxzNAGey10d2KQQb4Q69Q=
+
+Name: res/it/StandardTarot1Cards.xml
+SHA1-Digest: hmxRbONIMg//9OFvYCZ7Gmv86ak=
+
+Name: res/sv/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: uSYOZ88vUcrVgRaAqFknFB0DDO4=
+
+Name: res/fr/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: 9LdpSsTvCqDWmdKjqt9FUnl/ODA=
+
+Name: res/ru/StandardTarot10YesnoCards.xml
+SHA1-Digest: GIGRwpcNCwYJzkI16JBYUiJPKbI=
+
+Name: jtarot/Browser.class
+SHA1-Digest: 5+csFOq6D0QF/tSpsDUznJqSTGE=
+
+Name: res/de/StandardTarotCards.Thierens.xml
+SHA1-Digest: K6CxjL4QbnIqx8NSD+urLPn42ok=
+
+Name: res/de/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: KqI6/7xRshff1DXeFLDfh5i6n78=
+
+Name: res/de/StandardTarot8SeasonCards.xml
+SHA1-Digest: eU8pcLBZfHVYhui4RwuwcHhSkIU=
+
+Name: res/en/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: UJcJuS+Wc2OuYNFm8KRMTYHJESA=
+
+Name: res/pt/StandardTarot9AwenCards.xml
+SHA1-Digest: ZWVrZSR89hFuYzEYwOoI1S4EV1s=
+
+Name: res/ja/StandardTarot6TrueLove.xml
+SHA1-Digest: pmwEa20MEWejYtPdioYvZElbO+A=
+
+Name: res/ja/help13.jpg
+SHA1-Digest: 9FsYieX/XmZnV2ZQzsm+B5YWVa8=
+
+Name: res/el/StandardTarot21Cards.xml
+SHA1-Digest: DAwgbqrPJWszGHYmZLK6G5NvBbU=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r49.jpg
+SHA1-Digest: 3LsmacKx1Z7bXJUykZCgKApQfxU=
+
+Name: res/el/StandardTarot16WishCards.xml
+SHA1-Digest: QYO+vAoU3RGnztBt3+aON2c1l8U=
+
+Name: res/zh2/StandardTarot15ThothCards.xml
+SHA1-Digest: m67SwULJhdsSYKT+lTzs65c2RR0=
+
+Name: res/StandardTarotCards.RiderWaite/r58.jpg
+SHA1-Digest: +UpoXG77OjlGHe/gQwPCx63bMSc=
+
+Name: jtarot/jTarot$CardLayoutAction.class
+SHA1-Digest: 50HgBxTQ5EaRuXGg1jJxGvP04Oc=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard.class
+SHA1-Digest: AdsHFq837kgjiEC617kMeBMgDC8=
+
+Name: res/ElderFutharkRunes.Wood/r16.jpg
+SHA1-Digest: O80CV899HBLVZt2QqItNU41CLw0=
+
+Name: res/el/StandardTarot15ThothCards.xml
+SHA1-Digest: oSQ352ymHj+cj92YriOK+33n1M0=
+
+Name: res/fr/StandardTarot5LineCards.xml
+SHA1-Digest: XQLVghNyXzqO2aWcgPFLETJuo4Y=
+
+Name: res/ja/StandardTarot1Cards.xml
+SHA1-Digest: mvJePZ9zP68e+zSMU69QOQpyj8Q=
+
+Name: res/StandardTarotCards.Cards52/r64.png
+SHA1-Digest: ej8cSaBvbJx9yizx064Ln67baR4=
+
+Name: res/StandardTarotCards.Cards52/r36.png
+SHA1-Digest: wCANIgiFpyyqiTF3hvxboUsgkPs=
+
+Name: res/sv/help14.jpg
+SHA1-Digest: zi0t5atmwbHXOkFBTrZlOldx5Vk=
+
+Name: res/ko/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: mj5XiDJWxfTmPHV0D4bwo0qWL7U=
+
+Name: res/ElderFutharkRunes.Blues/r10.jpg
+SHA1-Digest: gayfzuM5GpeBzS1tzOWSoRMyfas=
+
+Name: res/OracleIO.properties.static.xml
+SHA1-Digest: cXY6P5xWSR6NXimmoSl4ci1V/Gk=
+
+Name: res/it/ElderFutharkRunes2Lay.xml
+SHA1-Digest: KhM+G707GsGlkZ25wO4uNQ+e+o4=
+
+Name: res/en/StandardTarot7SpiritCards.xml
+SHA1-Digest: ZAoYMBoFnn6qWnT9278077ELebg=
+
+Name: res/StandardTarotCards.Marseilles/r42.jpg
+SHA1-Digest: 6uf8FMdbkXMm/coleeCdVv3Wxe0=
+
+Name: res/StandardTarotCards.RiderWaite/r64.jpg
+SHA1-Digest: PvobzzLc4KTklm5qKDCNvovhfAw=
+
+Name: res/StandardTarotCards.Minchiate/r16.jpg
+SHA1-Digest: ceF3ww73NvhseAqvA10QdsHcIJ8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r55.jpg
+SHA1-Digest: 8Jni2JYBM93SRNAH/79yexEHm1k=
+
+Name: res/StandardTarotCards.Cards52/r12.png
+SHA1-Digest: O+H8aPvtb+Ht0GuTtp7lsuq9RLI=
+
+Name: res/it/StandardTarot12TrineCards.xml
+SHA1-Digest: 2sCOQZPfSSCjJd7d4dqfbr/a54o=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r60.jpg
+SHA1-Digest: ey8g0z2QikAKWeHP3eVjBuaAcL8=
+
+Name: res/StandardTarotCards.Cards52/r30.png
+SHA1-Digest: RjBE3FTJeikRDCw/nNsgEFhLsnc=
+
+Name: res/zh2/StandardTarotCards.Waite.xml
+SHA1-Digest: H7Ji2Vmf5USE83hLmLp33Solq8Y=
+
+Name: res/sv/StandardTarot7HexCards.xml
+SHA1-Digest: 5aN0JRGghnLBcH8dQnhOcLlhSZE=
+
+Name: res/sv/StandardTarot10TreeDavis.xml
+SHA1-Digest: acwwK++DqX2ii2MnscYLsy7uPmE=
+
+Name: res/es/StandardTarot21Cards.xml
+SHA1-Digest: G+hOjW82rpkv7GgriNqpyCC7PRk=
+
+Name: res/en/help14.jpg
+SHA1-Digest: wQnxQKIt5JvGn9XxreVLmGN+EbA=
+
+Name: res/sv/StandardTarot5ActionCards.xml
+SHA1-Digest: xYcX1Rg//+bpJihjruo9M5nGoGk=
+
+Name: res/StandardTarotCards.Minchiate/r7.jpg
+SHA1-Digest: IyDa4X8SOjqHaQw9c52a428eGPM=
+
+Name: res/ElderFutharkRunes.Blues/r11.jpg
+SHA1-Digest: 2UgfYBMXM/PQnpRNmdPpMxmc0Ec=
+
+Name: res/sv/help10.jpg
+SHA1-Digest: jW8l66J34Av+a4I1WUviqxsA78A=
+
+Name: res/StandardTarotCards.RiderWaite/index.xml
+SHA1-Digest: HuIObY2YbRTWopMJJ3LqJ9anLp8=
+
+Name: res/it/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: 3MFTEV++MPrULOYH9nUXvXvEX88=
+
+Name: res/ko/StandardTarot7SpiritCards.xml
+SHA1-Digest: drk+xpTD/SZ9Haom6dc4OeMTzSo=
+
+Name: res/it/help0.jpg
+SHA1-Digest: HVVueAcOi5WES53JDomu8UVGyec=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r11.jpg
+SHA1-Digest: 0d4B2xdIMMtOpGnGteE/k3oz++w=
+
+Name: res/fr/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: MLA2/CcxtsQLQ6qg2aGeCSGVikQ=
+
+Name: res/zh2/help0.jpg
+SHA1-Digest: Fs7/1jWGb/usC4O9VCqmGUvT1So=
+
+Name: res/en/StandardTarot1Cards.xml
+SHA1-Digest: tXzE19zWmvEBD2bjpGw7vz69/CM=
+
+Name: res/es/StandardTarot5LineCards.xml
+SHA1-Digest: Y5NVlKwEXNpzGLhV1icD5UzGVRk=
+
+Name: res/ElderFutharkRunes.Pearl/r13.jpg
+SHA1-Digest: I0Y34AyzPO/Ft67I+PlpCt1kGk0=
+
+Name: res/ru/help10.jpg
+SHA1-Digest: hALJWH/OPvIMobctYzcdEe+GsA4=
+
+Name: res/nl/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 7wiy1YPBfeugHavMK6U90ZpXo6k=
+
+Name: res/es/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: 5/0nxCOeUnyVzj3scIB8kD79URc=
+
+Name: res/zh/StandardTarot7MagicCards.xml
+SHA1-Digest: EjJy6LNQDqB/hMuCcnonfEiby4M=
+
+Name: res/StandardTarot10TreeDoane.xml
+SHA1-Digest: QftYk7E5L2W+v2y+zU/0PPl0bP8=
+
+Name: res/sv/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: pCknhq+XDr87HJAlPCCtH5+De84=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r34.jpg
+SHA1-Digest: zBavD1FaDFWT2YAdcCYES51VELE=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r58.jpg
+SHA1-Digest: p/9H8s7NgAyCOB3BKIYeDF0ClXU=
+
+Name: res/fr/StandardTarot21RomanyCards.xml
+SHA1-Digest: 7lXOHrLrceDf7Vcrgc+tiakMpZQ=
+
+Name: res/pt/StandardTarot5LeviCards.xml
+SHA1-Digest: xTntziPYg8j4odtE86RcEbkfnzQ=
+
+Name: res/StandardTarotCards.Cards52/r4.png
+SHA1-Digest: Z+E7uphUjccC/vFBGT2H8eX4p6g=
+
+Name: res/StandardTarotCards.Minchiate/r58.jpg
+SHA1-Digest: VpYkHkXkWmklvYu0Wn9H0Yc/0qs=
+
+Name: res/StandardTarotCards.RiderWaite/r66.jpg
+SHA1-Digest: WSrzvNCypwbvAO7ysFxI5wSzbW8=
+
+Name: res/ElderFutharkRunes.Wood/r13.jpg
+SHA1-Digest: LJrakFHtjytcQGi9wS4uVHcNAr8=
+
+Name: res/ko/StandardTarot13MandalaCards.xml
+SHA1-Digest: vRyQC40hOid48dnFK51EgoXotl0=
+
+Name: res/StandardTarotCards.Minchiate/r55.jpg
+SHA1-Digest: DB7QrsO0mlSxzwaQoBifPnJXdSA=
+
+Name: res/es/StandardTarotCards.Thierens.xml
+SHA1-Digest: IWbBEaemDOT4Eq5dHvO7BiUz5kg=
+
+Name: res/ja/StandardTarot7ChakraCards.xml
+SHA1-Digest: VtrhpW24pz+kbRBFhPbjofdvYDg=
+
+Name: res/StandardTarotCards.RiderWaite/r15.jpg
+SHA1-Digest: /vj/rJzofl80tKP5buZXtEpCQ5Q=
+
+Name: res/ja/ElderFutharkRunes.xml
+SHA1-Digest: Frp7b3kJAaaU0VNCr3kWhuK+fSs=
+
+Name: res/StandardTarotCards.Minchiate/r73.jpg
+SHA1-Digest: SBamA7m0icCMIgR2HwpebvAsb0E=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard$3.class
+SHA1-Digest: EXRMh95d/ic6YnyVhIF5edZ5U2Q=
+
+Name: res/ko/StandardTarot7DreamCards.xml
+SHA1-Digest: oc/w4CpIQh0baockxJwLchBjdQg=
+
+Name: res/fr/Translations.Menus.xml
+SHA1-Digest: yo+QFPOVHcHYUeretqPGnfrXnlg=
+
+Name: res/zh2/StandardTarot15FortuneCards.xml
+SHA1-Digest: nlT9cXGn9Cm8fzra2bMGmya9O64=
+
+Name: src/nu/lazy8/oracle/engine/OracleParser.java
+SHA1-Digest: qGi4ILY/iEFmCwXgpTahuOX2MCI=
+
+Name: res/de/StandardTarot1Cards.xml
+SHA1-Digest: ccteTkRW9Q6rFLr52aeNtLv5OjM=
+
+Name: res/it/ElderFutharkRunes1Lay.xml
+SHA1-Digest: zVa1d55oCx7FGnDmTF2P6h8MnIs=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$7.class
+SHA1-Digest: QzXA1DoVAirD5cENRkfdOdGe7f0=
+
+Name: res/pt/help13.jpg
+SHA1-Digest: Zr4+wDCK0PLZNsRHaBh2HqEngUE=
+
+Name: res/ru/StandardTarot11KeyCards.xml
+SHA1-Digest: uXrKNxPjAgb2fSqbAtAy+IQc9Ec=
+
+Name: res/StandardTarotCards.Marseilles/r69.jpg
+SHA1-Digest: xm/pE9B7zwPMRVeyLyqjaZxpQCI=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r30.jpg
+SHA1-Digest: +jNN7sMLhWX/XxB3eJMuayYvxyM=
+
+Name: res/StandardTarotCards.Minchiate/r21.jpg
+SHA1-Digest: ju6v48iaTyHFiyphUJ7eVvFxyuY=
+
+Name: res/sv/ElderFutharkRunesObj.xml
+SHA1-Digest: bcEgbHWSl9+EdvOE5HF6luKW9Uo=
+
+Name: res/el/ElderFutharkRunes1Lay.xml
+SHA1-Digest: xKHIU7SIuTKY38GJJPlWdtU07ac=
+
+Name: res/StandardTarotCards.RiderWaite/r41.jpg
+SHA1-Digest: Tmh+K3Fp+SaAyS9og8TOTCiJfIk=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$5.class
+SHA1-Digest: qNmC8OV5EiQsiczcG2AQV8w8dCs=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r46.jpg
+SHA1-Digest: WD/oev3b+BU7kLZk1zwiJR867Ys=
+
+Name: res/StandardTarotCards.Cards52/r52.png
+SHA1-Digest: yYNuhDGZSSdcsf24pLnngETIf18=
+
+Name: res/el/StandardTarot10SpiralCards.xml
+SHA1-Digest: p2sx1veL/lHytEq4pUghVT08TZQ=
+
+Name: jtarot/jTarot$ShowAllImages.class
+SHA1-Digest: KbBDlXGC1cf5rPsnuCpCu+sfgdQ=
+
+Name: res/nl/StandardTarot3Cards.xml
+SHA1-Digest: S3C5GHfk7yrd/k+fjw8cQbix060=
+
+Name: res/StandardTarotCards.Cards52/r58.png
+SHA1-Digest: BW5mGs79VxbgmQ01KX/YcqjI6G8=
+
+Name: res/pt/StandardTarotCards.xml
+SHA1-Digest: s0F5egmWBYxExZoHME+d3uDDV+o=
+
+Name: res/StandardTarot10YesnoCards.xml
+SHA1-Digest: 7Eb95VjyxopSh65gWi6TRU0tyjU=
+
+Name: res/ja/StandardTarot10SpiralCards.xml
+SHA1-Digest: JIhIvlz1hGDeVnN31EVPneM4D1c=
+
+Name: res/pt/StandardTarot9FanCards.xml
+SHA1-Digest: OmdpumvvFlEYJgtmR6aAJkOT2kw=
+
+Name: res/el/StandardTarot5LeviCards.xml
+SHA1-Digest: 1JdHuZpI2ZIF+BSp5q58QvtkL1Q=
+
+Name: res/ja/StandardTarot9AwenCards.xml
+SHA1-Digest: VPkhnf0628an4bDIIfHaQagFTK4=
+
+Name: res/ja/StandardTarot15ThothCards.xml
+SHA1-Digest: chF2+weOswSiboBmb4aSZScIfqI=
+
+Name: res/en/StandardTarot15FortuneCards.xml
+SHA1-Digest: sxrkzvoQdodb1CJFEo+u3wtKmts=
+
+Name: res/StandardTarotCards.Minchiate/r17.jpg
+SHA1-Digest: jjiSmF5GkQIiTDj7MC+qLuC4Csc=
+
+Name: res/el/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 6ptS37skkrGGO9Jw/7cGF5Y6kCw=
+
+Name: res/es/StandardTarot7MagicCards.xml
+SHA1-Digest: B8dFaoje1IYTd0pj+y7h6fE/H68=
+
+Name: res/zh2/StandardTarot7MagicCards.xml
+SHA1-Digest: ITLsEySJgFIUoQIJoaxWtQS6YyY=
+
+Name: res/it/StandardTarot3Cards.xml
+SHA1-Digest: ExqnooNfc0AX4k4o3hzS8AN1j5c=
+
+Name: res/ja/ElderFutharkRunesObj.xml
+SHA1-Digest: 9Ic5/A1wYpeSW0DLBiDjCK3v0FM=
+
+Name: res/zh/StandardTarot49SolarCards.xml
+SHA1-Digest: D3uZ4Ys8ee3XozmL/dEiPBGF6A0=
+
+Name: res/en/StandardTarot21RomanyCards.xml
+SHA1-Digest: NntKSOUFDVljYVUmIxVsGgHvmwE=
+
+Name: res/StandardTarotCards.RiderWaite/r7.jpg
+SHA1-Digest: y/X8c5H47BD1zLrbLbOiaQhA/1Q=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard.class
+SHA1-Digest: b4PKS2lGLPPeAUNUca6dHPSp0+Y=
+
+Name: res/ElderFutharkRunes.Blues/r17.jpg
+SHA1-Digest: kz6VGK++lv+YWaeZfCWDaZAUrY8=
+
+Name: res/ElderFutharkRunes.Wood/r10.jpg
+SHA1-Digest: r03eZajpfkLt7HJ0Bk5E7GuVPPQ=
+
+Name: res/ru/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: hu5QK8Q3X1AWmKuHdC01ldEJWjE=
+
+Name: res/ElderFutharkRunes.Wood/r0.jpg
+SHA1-Digest: Ndo9kHmMKTsTiNYiV3xTTk5NfGI=
+
+Name: res/de/StandardTarot.xml
+SHA1-Digest: YTRMjJP7qAAY4ykZqDWnjRvVYUw=
+
+Name: res/ja/StandardTarot11CupCards.xml
+SHA1-Digest: oWECRjZanhQVnU1XKC9rcVGim1o=
+
+Name: res/ru/StandardTarot21RomanyCards.xml
+SHA1-Digest: Jo+Wi/z0KmL2wGRpQaDMjLn/v5c=
+
+Name: res/de/StandardTarot12TrineCards.xml
+SHA1-Digest: +yvSeXCaa1+MpiS16/wLB1Qsl9o=
+
+Name: res/StandardTarotCards.Marseilles/r2.jpg
+SHA1-Digest: SyO2DcL0H/QUXj8B3+NqWyNoFB8=
+
+Name: res/ja/help.xml
+SHA1-Digest: HM3e8QMd8XQkZqGdyIo/DAhAiWU=
+
+Name: res/en/StandardTarot7ChakraCards.xml
+SHA1-Digest: 8H2WGSI6bfduZqRSiBxEcT+EjNk=
+
+Name: res/StandardTarotCards.Minchiate/r68.jpg
+SHA1-Digest: e7ESbxsznpu9zZ9Oyi7lsa5Le00=
+
+Name: src/jtarot/TarOutputStream.java
+SHA1-Digest: cq/guXkXbAIFORY0cbmuY4RvzcE=
+
+Name: res/StandardTarotCards.Cards52/r16.png
+SHA1-Digest: anWKXng6auYWRmpU7/5OKymiZ2k=
+
+Name: res/de/StandardTarot9FanCards.xml
+SHA1-Digest: 1fKnAotdJPl+fHZnXwGWJPxpln4=
+
+Name: res/nl/StandardTarot12HouseCards.xml
+SHA1-Digest: 1ZlHmw8gcxQWE5mkp3N8SZOx9cc=
+
+Name: res/ElderFutharkRunes.Blues/r2.jpg
+SHA1-Digest: dbNN+vtO6cp9z1pmcbHFLc+axVs=
+
+Name: res/StandardTarotCards.Marseilles/r52.jpg
+SHA1-Digest: PvC3lfGxTtQaWiK0ABAxUKxkxTE=
+
+Name: res/zh/ElderFutharkRunes9Lay.xml
+SHA1-Digest: BPvXbhCOnzcfCWk+lmpdwMHvkOk=
+
+Name: res/ru/StandardTarot12TrineCards.xml
+SHA1-Digest: D1kqOXw01GlEE1BFF3FtM9fJ85E=
+
+Name: res/nl/StandardTarot5LineCards.xml
+SHA1-Digest: xlZ1x8dA09c+HGoI3tRbTGx2gbo=
+
+Name: res/ko/help13.jpg
+SHA1-Digest: kPDS1FhFy6EZd4DSqpIxY6s5cdA=
+
+Name: res/StandardTarotCards.Minchiate/r32.jpg
+SHA1-Digest: FixX25KUiXYQKgBIdipQK2FKr7w=
+
+Name: res/StandardTarot21GrandCards.xml
+SHA1-Digest: BniStPXmNKXi/EUD9/NOiVbuwMg=
+
+Name: res/en/StandardTarot8HearthCards.xml
+SHA1-Digest: dmQa7mNIXUMAX0bbEj6hOQPkcWo=
+
+Name: res/nl/StandardTarotCards.xml
+SHA1-Digest: wybWSaFj6apWD6gVA4cT0Bh3J+g=
+
+Name: res/StandardTarotCards.Minchiate/r66.jpg
+SHA1-Digest: o6PlP0ZDuD4vE/4rhDbnvjs/caY=
+
+Name: jtarot/jTarot$OpenAction.class
+SHA1-Digest: 34H+xxCRMsZxYw+j/s1u8meQX4Q=
+
+Name: res/ru/help.xml
+SHA1-Digest: ZaMoszKZZf69OXqGrj5dWWyqdck=
+
+Name: jtarot/HelpTranslationPanel.class
+SHA1-Digest: vEn0JClhlof6gtY2PpV4vFyrq54=
+
+Name: res/nl/StandardTarot11CupCards.xml
+SHA1-Digest: bRcdWlcdmYU8oOAoHtaRB7MLuek=
+
+Name: res/ja/StandardTarot8HearthCards.xml
+SHA1-Digest: UKXleFjk8ZDfdut8Gl/pNCSoZuI=
+
+Name: res/StandardTarotCards.RiderWaite/r17.jpg
+SHA1-Digest: mLGOGuc30WlZKHzzZIWCkVGlrAs=
+
+Name: src/jtarot.manifest
+SHA1-Digest: ouXElW49mu29eR9jXTHStd47Zz8=
+
+Name: res/zh/StandardTarot10SpiralCards.xml
+SHA1-Digest: ZTnRs86lVkJ2XvOwI3sGFlJowUc=
+
+Name: res/ko/StandardTarot21RomanyCards.xml
+SHA1-Digest: ON0PDGUjsxkI5rX99QoqNuzxPLI=
+
+Name: res/zh2/StandardTarot5LineCards.xml
+SHA1-Digest: bgLrf7dRcL4OxYqfYBz9nWN/K04=
+
+Name: jtarot/Browser$BrowserDialog.class
+SHA1-Digest: M7qsRAzWVktSe9yZIXA9KX+2CqI=
+
+Name: res/sv/StandardTarot3Cards.xml
+SHA1-Digest: T0o+G/nds3ku/Tr5JSEPUZQHLSU=
+
+Name: res/StandardTarot21RomanyCards.xml
+SHA1-Digest: eNqvSCVH63nc5kz0ryfNhGwK/+I=
+
+Name: res/de/StandardTarot9AwenCards.xml
+SHA1-Digest: VHUU7s6CLeq9QC5m3H3jlA7kIFg=
+
+Name: res/Browser.properties
+SHA1-Digest: nXlQvvUZC9fD9rOgVz2y96D2TEo=
+
+Name: res/pt/StandardTarot12HouseCards.xml
+SHA1-Digest: l/WoRRfnzrG878r+C4z/26ZS7Ag=
+
+Name: res/es/ElderFutharkRunes1Lay.xml
+SHA1-Digest: 6NejXzI10vwRHkza+VBACCybLXk=
+
+Name: res/sv/StandardTarot10SpiralCards.xml
+SHA1-Digest: BBkoeooJMFcma3Q599nQoNK8uc8=
+
+Name: res/fr/StandardTarot13MandalaCards.xml
+SHA1-Digest: Jrh+twQBJvf6dtQEW6XOwl8Sn3E=
+
+Name: res/el/help12.jpg
+SHA1-Digest: 0lsJ0H2xRpSjqLsc6HolWJKBBF4=
+
+Name: res/ja/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: tnmLQ9OOXrN31tKHOSJPuvGkOb0=
+
+Name: res/ru/StandardTarot5LineCards.xml
+SHA1-Digest: +/uuEzRqUARTE0obSSnGiJHvXZQ=
+
+Name: res/StandardTarotCards.Marseilles/r75.jpg
+SHA1-Digest: I7iMwsNS0xf5FtuyuLu/4oNavGI=
+
+Name: res/StandardTarotCards.RiderWaite/r9.jpg
+SHA1-Digest: e8aFaMJef1X9GG0crw801NX/gCs=
+
+Name: res/StandardTarotCards.Minchiate/r26.jpg
+SHA1-Digest: CVx5piOrhKdYPoL5dc+h5U3xJAg=
+
+Name: res/zh2/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: p98G82cVy99tKSm5j8hcvnqQZn8=
+
+Name: res/es/StandardTarot10YesnoCards.xml
+SHA1-Digest: gIwSb80VJ7uhik24MoaOC4fk6MI=
+
+Name: res/StandardTarotCards.RiderWaite/r57.jpg
+SHA1-Digest: m8C1yQ9Znbcan/q7NEfsoVUxVB0=
+
+Name: jtarot/LogViewer.class
+SHA1-Digest: 1vQykK0J9J+jG59+8gmtxb5ISmg=
+
+Name: res/icon.png
+SHA1-Digest: 07pUb1I4wSq7kus1GXP3ioBRBcY=
+
+Name: res/es/help12.jpg
+SHA1-Digest: k2QC5mU9e0kSnznzn/cs2K9qSLw=
+
+Name: res/ElderFutharkRunes.Blues/index.xml
+SHA1-Digest: Ln/7VS/MbQ1gJjoFg4vyI9nVWAU=
+
+Name: res/StandardTarotCards.Marseilles/r41.jpg
+SHA1-Digest: F2znKCJLpGZAlZpLIQ4vPxj7oAQ=
+
+Name: res/ko/StandardTarot16WishCards.xml
+SHA1-Digest: mrXSuGj4/XUjxZtjHXX87yTkTNc=
+
+Name: res/StandardTarotCards.Cards52/r13.png
+SHA1-Digest: n1xUx8FeG6O0LdhOgFJzIqQ3bb8=
+
+Name: res/en/StandardTarot.xml
+SHA1-Digest: 6Z8bFNpn3bf2zoKB2d8NfgxtSpw=
+
+Name: res/pt/StandardTarot12TrineCards.xml
+SHA1-Digest: y8mUd7xIuO03MGmtgpjitZjtwnY=
+
+Name: nu/lazy8/oracle/engine/SaveableReading.class
+SHA1-Digest: 3/KMSXjz8byXC8ieVQ1z+OgXsDM=
+
+Name: res/StandardTarotCards.Cards52/r26.png
+SHA1-Digest: LBJqMwmu63t3+O4eJDGSGAkikj4=
+
+Name: res/StandardTarotCards.Minchiate/r50.jpg
+SHA1-Digest: rs5cztNZZx+yCERMTPF4pJvBLFU=
+
+Name: res/StandardTarotCards.Minchiate/r6.jpg
+SHA1-Digest: I5bgGHFLPrqc/LqnMRJxZnktNZg=
+
+Name: res/zh2/StandardTarot21GrandCards.xml
+SHA1-Digest: h7LWVO8FQT3mA/mJ5Z/uypgNXv8=
+
+Name: res/ja/StandardTarotCards.Thierens.xml
+SHA1-Digest: zfho3dkTEQ3X8ngRiPfLgo7zl44=
+
+Name: res/StandardTarotCards.RiderWaite/r24.jpg
+SHA1-Digest: EEGYCfso26PnQp9lZBpFt6pge1Y=
+
+Name: res/StandardTarotCards.Minchiate/r62.jpg
+SHA1-Digest: yGGVCzK44pCMAE8au2im9eDDiuE=
+
+Name: jtarot/jTarot$ExportMhtmlAction.class
+SHA1-Digest: cD5pf8mJM5PoxppKT5KjjoNVJ8Q=
+
+Name: res/zh2/StandardTarot5ActionCards.xml
+SHA1-Digest: 3xpWm9L7OZ3ttnOZzl8D2/qPxIs=
+
+Name: res/StandardTarotCards.Minchiate/r20.jpg
+SHA1-Digest: 3tqMaopp2r4t7B9lsiElHcM8Kdw=
+
+Name: res/StandardTarotCards.Minchiate/r34.jpg
+SHA1-Digest: VmYj/xtzhDsb0SZyM8TlnVvLpAU=
+
+Name: res/it/StandardTarot6TrueLove.xml
+SHA1-Digest: 7V6uF45M9IIpmF52UnuZA18ZfFs=
+
+Name: res/StandardTarotCards.RiderWaite/r47.jpg
+SHA1-Digest: Wjf7ZJ/NunkME8mxkKOumDgoCh8=
+
+Name: res/ru/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: Z+weErzN3u6TmDw1pzCrgw9WxGo=
+
+Name: res/StandardTarotCards.RiderWaite/r27.jpg
+SHA1-Digest: gAiofgyPf6daYmm5otFX71bHVnA=
+
+Name: res/sv/StandardTarot12HouseCards.xml
+SHA1-Digest: /9V9sk0fOsobzB/YWbKzNcgdvvQ=
+
+Name: res/sv/help0.jpg
+SHA1-Digest: fRkfuMWKsOwbaqsvSXxYPZqJi9E=
+
+Name: res/ja/StandardTarotCelticCross.xml
+SHA1-Digest: 1c2ZY/x3ZMrOYjU/xFfHJPCFvH4=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r12.jpg
+SHA1-Digest: i5vO6GdKPoTKxw8w4NAMchTfs+k=
+
+Name: res/it/StandardTarotCards.Thierens.xml
+SHA1-Digest: hzRCwT9Tuwc5h6ww1h62EwGu7/Y=
+
+Name: res/StandardTarotCards.RiderWaite/r26.jpg
+SHA1-Digest: sT48heXVfdg3iQD1h8SUp7X6o7Q=
+
+Name: jtarot/TarEntry.class
+SHA1-Digest: eAmMwqGOUeDn/JuexJY5EKVe2aA=
+
+Name: res/StandardTarotCards.Marseilles/r8.jpg
+SHA1-Digest: /IsqsVWYkGfBa7w2bW8Q64AZvqg=
+
+Name: res/de/StandardTarotCelticCross.xml
+SHA1-Digest: DxBLmzNO0tCRxOfUdgHqODfx1GI=
+
+Name: res/zh/StandardTarot1Cards.xml
+SHA1-Digest: qHU3BUCIOmML/BMJXQzep/AS7yY=
+
+Name: res/StandardTarotCards.Cards52/r69.png
+SHA1-Digest: 43j/lIHTu+MD6b2BRJ/3NEJX9UY=
+
+Name: res/pt/ElderFutharkRunes3Lay.xml
+SHA1-Digest: sdrscbWW47++1C5NiwCWhH1WZ4c=
+
+Name: res/ru/StandardTarotCards.xml
+SHA1-Digest: OpMBUTFkJydklSUG4stOLYsA9jU=
+
+Name: res/zh2/StandardTarot9FanCards.xml
+SHA1-Digest: Hh8B7Wp5ylb1SRezyPMWxWw4xxI=
+
+Name: res/StandardTarotCards.Cards52/r56.png
+SHA1-Digest: KAqtRLxhvzN6bIN2vfDWdjFReJU=
+
+Name: res/el/StandardTarot7SpiritCards.xml
+SHA1-Digest: jSgkJSiSRmSHTygHAqbdllB0yek=
+
+Name: res/zh2/StandardTarot8HearthCards.xml
+SHA1-Digest: 375mSrBnmkrXOT7hdueek+vRFSI=
+
+Name: res/fr/StandardTarot2Cards.xml
+SHA1-Digest: TotjcwVKbQ8SCHMm9fkpdf50ayk=
+
+Name: res/ru/help11.jpg
+SHA1-Digest: SGggLUZKxJpxyeCTsyzRkYPfCvo=
+
+Name: res/el/StandardTarot7MagicCards.xml
+SHA1-Digest: QyzXDJFvzKG5vlDBg8ymONrFJK0=
+
+Name: res/ko/help0.jpg
+SHA1-Digest: QDTL0AuxjrEw2lxUPu0/wEYnuu4=
+
+Name: jtarot/jTarot$LoadSetupAction.class
+SHA1-Digest: grdLcjkyY6fH31WyXRtikxFKNbM=
+
+Name: res/StandardTarotCards.RiderWaite/r73.jpg
+SHA1-Digest: 4TFdb5wmBtHj/UUjNzNW49uDnD0=
+
+Name: LICENSE.txt
+SHA1-Digest: uCm+GbjrOaDdtM4CDos2XpBFEWI=
+
+Name: res/en/StandardTarot3Cards.xml
+SHA1-Digest: 50O8YLx2mQ4Fp5SxXAbrwZdYMzo=
+
+Name: jtarot/jTarot$ExportWarAction.class
+SHA1-Digest: x1fIRc76xIXWNrKpurzHH+EjDS8=
+
+Name: res/zh/help10.jpg
+SHA1-Digest: xaqNqRNTcXMAXF6CMQMSenXvDGs=
+
+Name: res/it/StandardTarot10TreeDavis.xml
+SHA1-Digest: 1QZS3WvjSw5yyx7PQnCmGoIEDi8=
+
+Name: res/pt/StandardTarot3Cards.xml
+SHA1-Digest: Nr7x6QJH0JOEQQZP0FrErPErHWw=
+
+Name: res/ElderFutharkRunes.Wood/r8.jpg
+SHA1-Digest: q60AV9PfyqDsBqW/VoLh8RFjOf0=
+
+Name: jtarot/jTarot$EditHelpAction.class
+SHA1-Digest: 7ihTPkX1V5CIyv1vmYzvnwlTLuk=
+
+Name: res/fr/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: qG0Ar3+ycp7mrTUFb/GxHM/m2j8=
+
+Name: res/de/StandardTarot21Cards.xml
+SHA1-Digest: KxA4QW71wwNrPPi9KcZYe/0dg9I=
+
+Name: res/de/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: O+J6Ft2QTkt00sEgQ48hz8PgUFA=
+
+Name: res/it/StandardTarot7HexCards.xml
+SHA1-Digest: fjxAddiRw70p7J3c75pjkdwhraA=
+
+Name: res/zh/StandardTarot7SpiritCards.xml
+SHA1-Digest: q3WZJIV/wrhaXqrEjcEdGEBf2XE=
+
+Name: res/es/help14.jpg
+SHA1-Digest: bHX2feBnop5sgvzPSr3wbz7tLRg=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r73.jpg
+SHA1-Digest: BIMRY44fdNwHUYE5GwoYFg+0md0=
+
+Name: res/en/help0.jpg
+SHA1-Digest: kYU1bQbLAcXpO3sRgxkO1fAcqU8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r24.jpg
+SHA1-Digest: Ub/purYH0a8VwPtZfON5xzsA5fo=
+
+Name: res/StandardTarotCards.Marseilles/r24.jpg
+SHA1-Digest: ySpjvR9vU6xCnEt6OB1DdGXwD2g=
+
+Name: res/sv/StandardTarot15FortuneCards.xml
+SHA1-Digest: QcV4VmSteTIOdftDFT7x67aQmU0=
+
+Name: res/ElderFutharkRunes.Pearl/r3.jpg
+SHA1-Digest: 2nDXCW1uwzyQpgvaz+2BDCV46ks=
+
+Name: src/jtarot/jTarot.java
+SHA1-Digest: trEniHhzPrAOtdpiD3Q5nWj8514=
+
+Name: res/it/help11.jpg
+SHA1-Digest: WdrvoQjYxfrTI0MMIvfKQMCBqQk=
+
+Name: res/StandardTarotCards.Minchiate/r47.jpg
+SHA1-Digest: w0hbTx2acqr9MVXhqVePKo4uNFQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r16.jpg
+SHA1-Digest: Ol9vf3HeaONqedXScaalO4q/2ug=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r39.jpg
+SHA1-Digest: rg9qh21nmoEra1eAemCfDb8/prc=
+
+Name: res/StandardTarotCards.Cards52/r7.png
+SHA1-Digest: YoiodlcrfWeRJ5itcbKn5q4sw7M=
+
+Name: res/ElderFutharkRunes.Pearl/r16.jpg
+SHA1-Digest: EiwziUD23MhxB8gsgwBG8SdcGbQ=
+
+Name: res/sv/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 6l6gSdtjhzBEuSfhFI3zp83eJdo=
+
+Name: res/ko/StandardTarot5LeviCards.xml
+SHA1-Digest: TXTrDJiZqjcgUARwklAnEepoPIU=
+
+Name: res/StandardTarotCards.RiderWaite/r75.jpg
+SHA1-Digest: UtSEshZ+jCwevmO7liCp5n14Dec=
+
+Name: res/StandardTarotCards.RiderWaite/r70.jpg
+SHA1-Digest: 9dPnWr29d5xCZ/tJKGcKcIstga4=
+
+Name: res/ElderFutharkRunes.Blues/r4.jpg
+SHA1-Digest: Bo24aQLqN6L3AYK5vpdPn7vqwng=
+
+Name: res/es/Translations.Menus.xml
+SHA1-Digest: BZhoJ2z2rvMY4Lw3BNBRkzM1g7o=
+
+Name: res/StandardTarotCards.Minchiate/r30.jpg
+SHA1-Digest: Od3prC6Bpy4IUoRKSmwvtr4z6xI=
+
+Name: res/StandardTarotCards.Minchiate/r45.jpg
+SHA1-Digest: HHLk8gVc3B9Y+kGAasbc+WX6ze4=
+
+Name: res/it/StandardTarot10SpiralCards.xml
+SHA1-Digest: GL2FM9/HlFRBGsFRAHkqOG70vsk=
+
+Name: res/de/StandardTarot10TreeDoane.xml
+SHA1-Digest: 8L3JeAKgJ9ZDpUaTdBaAmd1yTmI=
+
+Name: res/ElderFutharkRunes.Wood/r23.jpg
+SHA1-Digest: TPVmX4qa67Wio54AO1aeJ7uB5MA=
+
+Name: res/ko/help10.jpg
+SHA1-Digest: OjFMJiXJu8aJtj/qg9tF4xSwFHU=
+
+Name: res/StandardTarotCards.Marseilles/r5.jpg
+SHA1-Digest: JuUO2SYCuUByzTodPMDECBzCLjc=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r20.jpg
+SHA1-Digest: 2k9FknX0l8JxXz7AQGEve431I2E=
+
+Name: res/pt/StandardTarot10SpiralCards.xml
+SHA1-Digest: CpHyWbj6DP6Vet2hlr0Jnx1SwTM=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r52.jpg
+SHA1-Digest: kkSLE93NWWfpHh6JDQRaY3Ggs9U=
+
+Name: res/StandardTarotCards.Cards52/r33.png
+SHA1-Digest: g1TSF7HxkyO5ISeLrTxY5c6C19A=
+
+Name: res/fr/StandardTarotCards.Thierens.xml
+SHA1-Digest: fXqy1/lxJrM7zDWbqyoKyVrZXkE=
+
+Name: res/StandardTarotCards.RiderWaite/r3.jpg
+SHA1-Digest: 6E/6qv5DTBxzd/V+I4RG3jhtAfU=
+
+Name: res/nl/Translations.Menus.xml
+SHA1-Digest: 9fU10arT8ydr+wo8oss8mSWGQZ4=
+
+Name: res/el/StandardTarot3Cards.xml
+SHA1-Digest: hO37sEAMAw/GGMvuSlKNFQ9VzoQ=
+
+Name: res/zh/help14.jpg
+SHA1-Digest: f60nG6mpMMeox6Iiha9XwQVnJSM=
+
+Name: res/StandardTarotCards.Minchiate/r13.jpg
+SHA1-Digest: DcvI5rIEP74GkICS/D4daCEFtsU=
+
+Name: res/StandardTarotCards.Minchiate/r1.jpg
+SHA1-Digest: xwCeWo6sR80dhWmJ68P2Kpk1OkA=
+
+Name: res/StandardTarotCards.Minchiate/r41.jpg
+SHA1-Digest: 7bXpOlXwUq9JmGT3GxncYpBWrJ0=
+
+Name: res/sv/StandardTarot7MagicCards.xml
+SHA1-Digest: l0Nq1HknN+kbNcaAnOrNUNOVGpA=
+
+Name: res/es/ElderFutharkRunes.xml
+SHA1-Digest: n1DTzjOEAhNn1P+WeAoskEZTvdA=
+
+Name: res/it/StandardTarot.xml
+SHA1-Digest: 5xPmhLs4Ye6KGVMYHNrdxjwTgZQ=
+
+Name: res/ElderFutharkRunes.Blues/r21.jpg
+SHA1-Digest: UAh0i6MDiuURekuKe3HxuaVfEbg=
+
+Name: res/ElderFutharkRunes.Pearl/r18.jpg
+SHA1-Digest: iSgkfJEmkPHxtyZGGWvE12SY3fk=
+
+Name: res/it/help13.jpg
+SHA1-Digest: UY0IXbOR0ArjdyZyNzEK8v3EOCg=
+
+Name: res/de/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: nIVXnQ9SMNHEUMJ30MaSX5rFEp4=
+
+Name: res/StandardTarotCards.RiderWaite/r22.jpg
+SHA1-Digest: y1N0QB2RNOLty9IREs3SN3nrbq0=
+
+Name: res/ElderFutharkRunes.Pearl/r5.jpg
+SHA1-Digest: /hgFQo/3ya3JoUMaiCNA2N2xaTo=
+
+Name: res/ElderFutharkRunes.Blues/r20.jpg
+SHA1-Digest: QMj8iDHlJ9GfC3Q2DGn2xyyVXbc=
+
+Name: res/zh2/ElderFutharkRunesObj.xml
+SHA1-Digest: BBkuPNPq39z8R+SMEcSzelJvQzQ=
+
+Name: res/StandardTarot5ActionCards.xml
+SHA1-Digest: I3fyal8zvfwdjU2ebQt+4ZQzHsg=
+
+Name: res/StandardTarot15FortuneCards.xml
+SHA1-Digest: egAJJ8VCtl6rk1AXLHsewuZq40Y=
+
+Name: res/ja/Translations.Menus.xml
+SHA1-Digest: pkYCzIvP3r8aZwKchZsNiPF1gIk=
+
+Name: res/zh/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: 0AUSacqh4UhE2J35LdJ0r2vLYd4=
+
+Name: res/ElderFutharkRunes.Wood/r17.jpg
+SHA1-Digest: Vdo8ulCyzN4aTu2jvwMFeNWQNqk=
+
+Name: res/es/StandardTarot10TreeDoane.xml
+SHA1-Digest: FNKeWZGbxOtSTz90auYq0Prhtyg=
+
+Name: res/StandardTarotCards.Cards52/r25.png
+SHA1-Digest: LZ5yg7fbVPSdFVUY3W6FWoeTGC4=
+
+Name: res/el/StandardTarot10YesnoCards.xml
+SHA1-Digest: PIJ7z9boOzZclMRtZv19DIgwifo=
+
+Name: res/ru/StandardTarot2Cards.xml
+SHA1-Digest: zUTAQ1lHi3eIgX+2p0PWngvr1/M=
+
+Name: res/ko/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: xKvdER+0QyzQkRhO2xZbDrVmXms=
+
+Name: jtarot/TarUtils.class
+SHA1-Digest: eOpHdLBwVfY/a9HPTRLe7q3jBm0=
+
+Name: res/ko/StandardTarot6TrueLove.xml
+SHA1-Digest: fn9WTm65XxwWpYVYqJeIc0zkt5I=
+
+Name: res/el/StandardTarot2Cards.xml
+SHA1-Digest: w6GPIyJm0XVCQ31F/bgE7iV55w4=
+
+Name: res/StandardTarotCards.RiderWaite/r11.jpg
+SHA1-Digest: LITB1fwTxAouZSpyOlZUwQ5r7bE=
+
+Name: res/StandardTarotCards.RiderWaite/r44.jpg
+SHA1-Digest: wwIyIAQZbm9/+bmTFxQEm6hFzEk=
+
+Name: res/pt/StandardTarot21Cards.xml
+SHA1-Digest: tzJEFv3P1DpiyU91SEnUcOQC80Y=
+
+Name: jtarot/LogViewer$ActionHandler.class
+SHA1-Digest: ZEMge541gE94AAMm6Wi/rNsKeR0=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r68.jpg
+SHA1-Digest: MCXWuCuEo/eENgHFMovAWfH0w3c=
+
+Name: res/zh/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: HegJE3A1C1kuoPQptDaArY8wUws=
+
+Name: res/StandardTarotCards.Marseilles/r53.jpg
+SHA1-Digest: eWL3yvZkEPsYOLan3GwtbUDTVMM=
+
+Name: jtarot/jTarot.class
+SHA1-Digest: MGWaxQq74TXEIkvIcRvVxEFT0Jo=
+
+Name: res/es/StandardTarot13MandalaCards.xml
+SHA1-Digest: w8wizg7vp+UGUvBTjYhVFwHvUxY=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r1.jpg
+SHA1-Digest: MxSReH4N6qHmwPSOASj48Kb5hpI=
+
+Name: res/zh/StandardTarot10TreeDoane.xml
+SHA1-Digest: NVABsBPiVGDOhv7ix5i40yayevc=
+
+Name: res/StandardTarotCards.Marseilles/r20.jpg
+SHA1-Digest: 1fbGoiB6Ljyum7Y2gMprXJXSAYY=
+
+Name: res/StandardTarotCards.Cards52/r5.png
+SHA1-Digest: +T6Fc+P2oWAYbQ99rN1agenQ19c=
+
+Name: res/es/StandardTarotCelticCross.xml
+SHA1-Digest: 8iKij0GpVYoD1zaTT5G0lgcLy64=
+
+Name: res/en/StandardTarotCards.xml
+SHA1-Digest: YjTx9HtVgG/bhj4/o4oKWq3rrgc=
+
+Name: res/ru/StandardTarot7ChakraCards.xml
+SHA1-Digest: NjSM2JfJNj23sRrK6R63vh/X38g=
+
+Name: jtarot/Log$LogListModel$1.class
+SHA1-Digest: V5mLPV7cqXhYMwMFzF9dbLviw1s=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r42.jpg
+SHA1-Digest: DQDAp/sJkFDcHTsMJOSVsTm7Bno=
+
+Name: res/StandardTarotCards.Minchiate/r36.jpg
+SHA1-Digest: oYv/Oi8tQyHD9/r7DV6ueDwHqLs=
+
+Name: nu/lazy8/oracle/engine/FileProperties.class
+SHA1-Digest: tL2hPDR9YX/jHtHx4RtquGWG1eU=
+
+Name: res/en/StandardTarot8PlanetCards.xml
+SHA1-Digest: srpJHk/GX1/BHqw7ltBRMWe13BM=
+
+Name: res/StandardTarotCards.Marseilles/r27.jpg
+SHA1-Digest: l5uH6AEzBuXFNEARJ40+TQtGSrE=
+
+Name: res/ElderFutharkRunes.Wood/r18.jpg
+SHA1-Digest: VEICOLLLpupdQ7lh+Vza6r23APc=
+
+Name: res/de/help15.jpg
+SHA1-Digest: UxDnIbGb2VHVUqRx+QkecKBT+0Y=
+
+Name: res/de/Translations.Menus.xml
+SHA1-Digest: N023zUrPJ1vUVKC/Xawwnql33u8=
+
+Name: res/ko/StandardTarot12HouseCards.xml
+SHA1-Digest: m6eqcpGnxmBScA1PlaeHdvrzYs4=
+
+Name: res/pt/StandardTarotCards.Waite.xml
+SHA1-Digest: fCX0Fh7tqlfuW/7S8e7+BO9cWyE=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r36.jpg
+SHA1-Digest: 19FxvvQr3c1Y3fYOFmyE6wITyjo=
+
+Name: res/ElderFutharkRunes9Lay.xml
+SHA1-Digest: mEQ0vkncneSJG4fIOmSoFpHfA10=
+
+Name: jtarot/CardRandomizerPane$ButtonCard.class
+SHA1-Digest: hsE0DGCXgr39RHH9yy4kf4w3TQI=
+
+Name: res/StandardTarotCards.Minchiate/r76.jpg
+SHA1-Digest: NsH/oGgVsygV1T4H3RsPpPuPhQI=
+
+Name: res/StandardTarotCards.RiderWaite/r21.jpg
+SHA1-Digest: BgsqD43jyBvL98OFkGhk/FRd2tE=
+
+Name: res/pt/StandardTarot1Cards.xml
+SHA1-Digest: FPF9HN4/6nRAsKvvH8HUygvr3i4=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r40.jpg
+SHA1-Digest: hssTFPF8LDe7Rs2nLeX5n+mGZuM=
+
+Name: res/ru/StandardTarot21Cards.xml
+SHA1-Digest: ehqTBDsWucp5HZQhMMGBWx+UOJM=
+
+Name: res/StandardTarotCards.Minchiate/r49.jpg
+SHA1-Digest: pxsq3nanCtz3nNgggbPnRMszvTo=
+
+Name: res/it/ElderFutharkRunes.xml
+SHA1-Digest: Elm4Lf5W55/zhw3q9c9WwMUNROk=
+
+Name: res/StandardTarotCards.Minchiate/r27.jpg
+SHA1-Digest: zHI4g5olzzG4XmoeUSgW3V1sp98=
+
+Name: res/StandardTarot1Cards.xml
+SHA1-Digest: 8UrZaMLbkrVd05naobU8QhCPiuw=
+
+Name: res/StandardTarotCards.Cards52/r48.png
+SHA1-Digest: r20bowq6W8SQnas4uK+W8wltv08=
+
+Name: res/ru/StandardTarot15ThothCards.xml
+SHA1-Digest: TDE3gS/1Wf1tyZm2g452g9aMlEs=
+
+Name: res/StandardTarotCards.Minchiate/r22.jpg
+SHA1-Digest: ygezK0MAnEZbY+VAE1hbtVUZCow=
+
+Name: jtarot/jTarot$BrowserOptionsAction.class
+SHA1-Digest: 0yaRUy4FGYJVAvmUkW4Qqgs5ZU0=
+
+Name: res/StandardTarotCards.Minchiate/r2.jpg
+SHA1-Digest: bv7Q+9JeRk7KVj1r+WPMR6jcs9Q=
+
+Name: res/el/ElderFutharkRunes2Lay.xml
+SHA1-Digest: UPKTu8kbPBPin4jQVi8jeCpkWN4=
+
+Name: res/en/ElderFutharkRunes2Lay.xml
+SHA1-Digest: SG5jYLSphLkeOtEYEC0h+eUg6AA=
+
+Name: res/ru/ElderFutharkRunes.xml
+SHA1-Digest: lN1wq1/spgB3O8VNjhUCrziCudU=
+
+Name: res/StandardTarotCards.Marseilles/r54.jpg
+SHA1-Digest: x+iC8k1HpPStSlhkhOtmktJAb9o=
+
+Name: res/de/help13.jpg
+SHA1-Digest: e0H6i+vcqBvGjQw0OrtcIqQs4Rw=
+
+Name: res/fr/StandardTarot21Cards.xml
+SHA1-Digest: qZeJw2UEsp/1YHIN4VNSfKwm0YY=
+
+Name: res/ko/StandardTarot49SolarCards.xml
+SHA1-Digest: 5Tc6Dwbw7AADVNuuWrf4Qbejt5s=
+
+Name: res/fr/ElderFutharkRunes.xml
+SHA1-Digest: 3bUwEE4mWjiw++aVY9TS7juR6lk=
+
+Name: res/el/StandardTarotCards.Mathers.xml
+SHA1-Digest: GWJGTnZojZLr7xL+AK7KnU6LWI0=
+
+Name: res/el/StandardTarot11KeyCards.xml
+SHA1-Digest: RccmOR2KnKkOSyIUU8I1juo9kc8=
+
+Name: res/zh2/ElderFutharkRunes1Lay.xml
+SHA1-Digest: unyng5t8iET3lkaGQDmvHkcDtNE=
+
+Name: res/StandardTarotCards.Marseilles/r1.jpg
+SHA1-Digest: 7Lz2BMGhdgd8b0oRzSaIaAZdcWU=
+
+Name: res/StandardTarotCards.Marseilles/r14.jpg
+SHA1-Digest: DwzsPqdAhnbG7C0ArKL4v+SARaQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r69.jpg
+SHA1-Digest: t81bSOb4kURzZmdAn6eoTmFfNz4=
+
+Name: res/ja/StandardTarot3Cards.xml
+SHA1-Digest: de7oFPoYLVI2YDaScTaixoK4BXE=
+
+Name: res/ru/StandardTarot1Cards.xml
+SHA1-Digest: 1rSNXvafJnz5cAqu8sKR0LOl2mw=
+
+Name: res/ja/help11.jpg
+SHA1-Digest: p/WDSIPxIgXwj4V+Xh+Ri7ieWD8=
+
+Name: res/ko/StandardTarot7ChakraCards.xml
+SHA1-Digest: qpaj9G8pWsAHyn0iephs20KM5X4=
+
+Name: res/StandardTarotCards.Cards52/r9.png
+SHA1-Digest: Dpme8CyQ2SSoFq2Zbn85ho4EGUM=
+
+Name: res/sv/StandardTarot1Cards.xml
+SHA1-Digest: WGsc7OF/bhbLugNmUIUlxf++klo=
+
+Name: res/es/ElderFutharkRunes3Lay.xml
+SHA1-Digest: u7mORIpZ+uImjEmIu9xxrJ9MI8M=
+
+Name: res/ElderFutharkRunes.Blues/r0.jpg
+SHA1-Digest: EtoyUdzL6vUjCGWtDQQDqH6PTjY=
+
+Name: jtarot/jTarot$CreateSetupAction.class
+SHA1-Digest: yt6yIY9WODul4uG+AMHiOHrn91s=
+
+Name: res/it/StandardTarot8PlanetCards.xml
+SHA1-Digest: RTgrcnwgyV7B0hPI0lhCPHAAD2I=
+
+Name: res/StandardTarotCards.Marseilles/r73.jpg
+SHA1-Digest: VOhz1m9zcbuqwF/Wzvi0/9hZ+gc=
+
+Name: res/sv/StandardTarotCards.xml
+SHA1-Digest: ORfCXlVcH4wndSudfTL3K2fBGEg=
+
+Name: res/es/StandardTarot9FanCards.xml
+SHA1-Digest: Bmsedp4LOz6cw5EiGm9QOui10wY=
+
+Name: res/StandardTarotCards.Marseilles/r55.jpg
+SHA1-Digest: tWtDgE8wz8qBIgTfd0//mUNhKkA=
+
+Name: res/ja/StandardTarot13MandalaCards.xml
+SHA1-Digest: C3h74P+GO5jcVVeohA8FTdU2Ehw=
+
+Name: res/es/ElderFutharkRunesObj.xml
+SHA1-Digest: m2f7OXUuoToFf6PvGsp+Bis5uqw=
+
+Name: res/StandardTarotCards.Marseilles/r59.jpg
+SHA1-Digest: fTcunF41WvidhtsNxg6+oNpSCgk=
+
+Name: jtarot/CardLayout$1.class
+SHA1-Digest: DmLTG+Fj3/9wEMDr8NjT3oznP8M=
+
+Name: res/en/ElderFutharkRunesObj.xml
+SHA1-Digest: ZEYeo1ED8OyU5z+r38Y2nSNT2L8=
+
+Name: res/zh2/StandardTarotCards.Mathers.xml
+SHA1-Digest: 2jZHsKd9W/l3PvoUnHzol5v0s6U=
+
+Name: res/fr/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: fiNVgUfUxuK2IrouB/1+V4qrnms=
+
+Name: res/fr/StandardTarotCelticCross.xml
+SHA1-Digest: 356gwvnXRre2TSQK6wzvE4ohh8c=
+
+Name: res/StandardTarotCards.Cards52/r23.png
+SHA1-Digest: Aplpri1AQFlPlk6cIFEOoqMa6yU=
+
+Name: res/zh/StandardTarot5ActionCards.xml
+SHA1-Digest: xT9I2Zx5Q/qNz6P7H4DhmBm/X/k=
+
+Name: src/jtarot/Browser.java
+SHA1-Digest: Cww4iKlGcwmsFspsX5ZLpg1+v5g=
+
+Name: res/StandardTarot7MagicCards.xml
+SHA1-Digest: Ik+7k6+x5jIldboqAZJg1zoA200=
+
+Name: jtarot/jTarot$TroubleShootAction.class
+SHA1-Digest: nDfj+5vGBuCjloeAwz8yIB+lfOA=
+
+Name: src/jtarot/Browser.properties
+SHA1-Digest: 9Vjc9ryRMrRdMMOsdcqEc84aM8s=
+
+Name: res/ko/StandardTarot15ThothCards.xml
+SHA1-Digest: Jf2ng/GJnYhCKpc6eiuGT/G3u/Q=
+
+Name: res/nl/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: RW6wPQ+byUgtPMO0lf0gGH5rSUY=
+
+Name: res/pt/ElderFutharkRunes9Lay.xml
+SHA1-Digest: KC/mX/V81Crs0kjnKrDKHZUeElU=
+
+Name: res/StandardTarotCards.Marseilles/r22.jpg
+SHA1-Digest: VjMGYAkkFG0Cd+wKExzZO3To530=
+
+Name: res/nl/StandardTarot10SpiralCards.xml
+SHA1-Digest: wivtKERsPrrecL2ryb/dcYqvWs8=
+
+Name: res/sv/StandardTarot21GrandCards.xml
+SHA1-Digest: 0cbMCHFKNkzxRv6rPYtrCSY9Hhk=
+
+Name: res/StandardTarotCards.Cards52/r42.png
+SHA1-Digest: cFMqHVbN1AztDQHIR3uEyfCvnj0=
+
+Name: res/fr/StandardTarot12HouseCards.xml
+SHA1-Digest: 1+1W+XDuaPjfDHJ4XxbrwWry3jk=
+
+Name: res/ko/StandardTarot11CupCards.xml
+SHA1-Digest: aEaKgKMkiVXSllY0/TttQx2PpKc=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r10.jpg
+SHA1-Digest: tlY6ku6ytGqT9glQeAg+wd3E/64=
+
+Name: res/el/StandardTarot11CupCards.xml
+SHA1-Digest: oh5q/dHXkijP0ZbLgeOrRqBxRqM=
+
+Name: jtarot/Log$LogListModel.class
+SHA1-Digest: WWw/HRgE31fz+Hf9bvNk61ONKbw=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r66.jpg
+SHA1-Digest: 5hFFdi2zyTqVu+TDhiypwZHo4Zc=
+
+Name: res/ElderFutharkRunes.Wood/r24.jpg
+SHA1-Digest: QpYEXCToUwuPqNQ0JkrCIeky7dE=
+
+Name: res/es/StandardTarot16WishCards.xml
+SHA1-Digest: sph2p85eiU2GfUkCmY0+fWSF1TM=
+
+Name: res/StandardTarotCards.Cards52/r8.png
+SHA1-Digest: B8Q15IFjYuRqkW84jgG9YsqDW9s=
+
+Name: res/es/StandardTarot5ElementsCards.xml
+SHA1-Digest: 5Trq0/72ke8YLbKQEJqXpXTH0ow=
+
+Name: res/StandardTarotCards.RiderWaite/r1.jpg
+SHA1-Digest: HxUw1ic9TlXqcemdX8BoqXgwFfI=
+
+Name: res/ja/StandardTarot8PlanetCards.xml
+SHA1-Digest: b04cgmQUKkqGX1uTeYFAwbVR19E=
+
+Name: res/it/help15.jpg
+SHA1-Digest: aOCSDdHv0wI8Zq2/FIQYa5FAHvs=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r61.jpg
+SHA1-Digest: DPgjzCW7pivMQP/5ecFefjpjMUA=
+
+Name: res/fr/help11.jpg
+SHA1-Digest: JebX43DiTAsLHi1pwya0qNOwiPM=
+
+Name: res/ElderFutharkRunes.Pearl/r7.jpg
+SHA1-Digest: 1evblUn0oG0njPqDP10WBlgBGWQ=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$8.class
+SHA1-Digest: sr7Flr/jpPj28JkUh8OwM0W8tJE=
+
+Name: res/it/StandardTarotCelticCross.xml
+SHA1-Digest: NDbOfjJrbM87snR1eadcgoTorWk=
+
+Name: src/jtarot/LayoutDefinition.java
+SHA1-Digest: O278HTI/ljEYMc2s3Rzv7KsDwfs=
+
+Name: res/zh2/help11.jpg
+SHA1-Digest: X+nCXEYOX2nPOwP/r8BVdF5vAvo=
+
+Name: res/ElderFutharkRunes.Pearl/index.xml
+SHA1-Digest: rAqvfQxhRdxcOYob5nC8RNZreXs=
+
+Name: res/zh/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: RuU9LLae5gQd3OwxXVkx7JstHUo=
+
+Name: res/nl/StandardTarot7DreamCards.xml
+SHA1-Digest: Gcnrw3HyBufvUdUM1CkvJbeZyxk=
+
+Name: res/StandardTarotCards.Minchiate/r15.jpg
+SHA1-Digest: zYlhUKdTTEkKEMa72kLc66K/374=
+
+Name: res/sv/StandardTarot10TreeDoane.xml
+SHA1-Digest: yAts8oMwwghiKiu6iNKMwXm/fQY=
+
+Name: res/pt/help15.jpg
+SHA1-Digest: Ke3mo3kOZKLeMjotIVM1z9XTe90=
+
+Name: nu/lazy8/oracle/engine/OracleFileManager.class
+SHA1-Digest: VdO3u2tyE3zseb/7FSu/4r7cBOY=
+
+Name: res/zh/StandardTarot9AwenCards.xml
+SHA1-Digest: PKs8ljQ/BYMISWwBjhOb8lR+alA=
+
+Name: res/de/StandardTarot12HouseCards.xml
+SHA1-Digest: L3aYVVbzaOSvEQkp6Syn8D6oSVQ=
+
+Name: res/de/StandardTarot21GrandCards.xml
+SHA1-Digest: llaBTzPEqSr/KRxgV7ysixgO6c8=
+
+Name: res/en/StandardTarot5ActionCards.xml
+SHA1-Digest: rQ+0GaC4pxfV2c5V50dZW4FLDFc=
+
+Name: res/StandardTarotCards.Cards52/r19.png
+SHA1-Digest: bY7X7vkbxiJrgDXjGHp3hTsk9TA=
+
+Name: res/pt/ElderFutharkRunes2Lay.xml
+SHA1-Digest: vF/7FX1SltDEmNg0S3LipQuLZKU=
+
+Name: res/el/StandardTarot7HexCards.xml
+SHA1-Digest: F60L09//FlfLoQJTsQZIUyEmMZ4=
+
+Name: res/StandardTarot15ThothCards.xml
+SHA1-Digest: +g7O0lXUouAedAeJ+SzCLPF4woE=
+
+Name: res/es/StandardTarot2Cards.xml
+SHA1-Digest: aG/AB9lrqAy72imfC8ucgfNfWaI=
+
+Name: res/ElderFutharkRunes.Wood/r22.jpg
+SHA1-Digest: TFkmxsrD1EYAuClLPS9L9stdHzA=
+
+Name: res/StandardTarotCards.Cards52/r0.png
+SHA1-Digest: Jkt8ebv94VlgtusbCHIRTaZyXtc=
+
+Name: res/ko/help11.jpg
+SHA1-Digest: DHR359XHzqwQHHuH8hys9k+Z4GA=
+
+Name: res/zh2/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: vprzwIkD/wZBmqKoaWkpbu9GFk0=
+
+Name: res/es/StandardTarot21GrandCards.xml
+SHA1-Digest: lWM7qpfZS8nS9pebq/Oiu3bqce0=
+
+Name: res/sv/StandardTarot7SpiritCards.xml
+SHA1-Digest: vEqWRNM9F/3E6e6Zcj9S2gRxgds=
+
+Name: jtarot/jTarot$PrintToWebAction.class
+SHA1-Digest: Af+iFSRJzLuO6DdVbmILYrr7Nsw=
+
+Name: res/es/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: yLPwUWAwTNA6dcRoA5Wq47IzlYE=
+
+Name: res/StandardTarotCards.Minchiate/r31.jpg
+SHA1-Digest: aBkvECbk9ct4wobYx2piuaISAu4=
+
+Name: res/nl/StandardTarot5ActionCards.xml
+SHA1-Digest: Gwk0gtgyPkIO6foVtIYiePE+K+g=
+
+Name: res/StandardTarotCards.Cards52/r17.png
+SHA1-Digest: KNxxPhwuLV2yadJODZV1AfH7/pg=
+
+Name: res/StandardTarotCards.Marseilles/r25.jpg
+SHA1-Digest: AzbEb2Co5nic+1vkEEptiCBN63g=
+
+Name: res/ja/help12.jpg
+SHA1-Digest: HZSI+YmItM/RKnbq0Upr3JpNk9I=
+
+Name: res/en/StandardTarot21Cards.xml
+SHA1-Digest: R+80BpFgqmpazNTTa3bg6ULxssg=
+
+Name: res/sv/StandardTarot2Cards.xml
+SHA1-Digest: bX44q801eWNURVaRTCtHKSzoBc0=
+
+Name: res/es/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: TcgCrhF0B4XONus2wTpkYbwuWeM=
+
+Name: res/el/help10.jpg
+SHA1-Digest: TuCYLAZFRAYNqpKUeEfVuVvQUoA=
+
+Name: res/nl/help14.jpg
+SHA1-Digest: jZHyEs3HtJzkp6Oz4Ni569olo1E=
+
+Name: res/zh/StandardTarot21RomanyCards.xml
+SHA1-Digest: uPSTUrGwU1nQ4YW4NLJlDjVHKKs=
+
+Name: res/fr/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: al9uKeLdyfGzxKyU9Yvh8abKgHY=
+
+Name: res/de/StandardTarot7MagicCards.xml
+SHA1-Digest: 42AO2b4TW9ZwZsheni5309vxQIw=
+
+Name: res/nl/StandardTarot21Cards.xml
+SHA1-Digest: hzlAyEvD6LXXIFwZIUTCjMnOcFo=
+
+Name: res/fr/StandardTarotCards.Waite.xml
+SHA1-Digest: Urop9uvrr2vGfj0bQ9towBfagf0=
+
+Name: res/nl/help12.jpg
+SHA1-Digest: Iw7GKIRjL3Xx/rmPO+vzbSLmrFI=
+
+Name: res/nl/StandardTarot10TreeDoane.xml
+SHA1-Digest: LrCRWiQO/hwa7JgaANJtqbF6bus=
+
+Name: res/zh/StandardTarotCelticCross.xml
+SHA1-Digest: igy8vmQHUDxVNfQEhrDU3E1qYaQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r13.jpg
+SHA1-Digest: 8KdUde0c4ABFcXhFVFe1IugXLrM=
+
+Name: res/StandardTarotCards.Marseilles/r65.jpg
+SHA1-Digest: MRI7ciw1yqOv9ME76zDOuoq/ToM=
+
+Name: res/zh2/StandardTarot7HexCards.xml
+SHA1-Digest: R5VbsP+a8W83aI+tU+5Xe+lpgVM=
+
+Name: res/nl/help.xml
+SHA1-Digest: uRvofFA36y8r7i6CxbYg50OOn08=
+
+Name: res/de/ElderFutharkRunes2Lay.xml
+SHA1-Digest: nNfccLk10p6lJ7HzXRb1+TlqO6A=
+
+Name: res/StandardTarotCards.RiderWaite/r14.jpg
+SHA1-Digest: 12449WeMH2TJp/XDfeOto5Njsk0=
+
+Name: res/ja/StandardTarot7SpiritCards.xml
+SHA1-Digest: 3WGIPQHTrB+ahOPTBy1FrjsS8xA=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r51.jpg
+SHA1-Digest: J8LSq/u6hDZMMv3qUAawwawU8gs=
+
+Name: res/fr/StandardTarot11KeyCards.xml
+SHA1-Digest: E5COF0N0neSUnVABo1rwLLkM3Yo=
+
+Name: res/es/StandardTarot.xml
+SHA1-Digest: 6nTR3aM7+jd/v8fs/V6PB0RiF3M=
+
+Name: res/nl/help10.jpg
+SHA1-Digest: fO0skm//rJbXIPiyPq0mxCxpG6Y=
+
+Name: res/ko/StandardTarot10TreeDoane.xml
+SHA1-Digest: QMS/2CBnKwF8IdVanIBvsV6olYY=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r32.jpg
+SHA1-Digest: npagrUZxZ3H3WK9xymyi28wucNQ=
+
+Name: res/StandardTarotCards.Marseilles/index.xml
+SHA1-Digest: E0T5rWG/+mTR5sp9ekBG4Uq2jY8=
+
+Name: res/StandardTarotCards.Cards52/r72.png
+SHA1-Digest: 5LZRR+DpGfX1EJr7sCpHQf2rspI=
+
+Name: res/ElderFutharkRunes.Pearl/r24.jpg
+SHA1-Digest: paaJIZSmDUAW+HARsFtdnOU/XL8=
+
+Name: res/pt/StandardTarot7SpiritCards.xml
+SHA1-Digest: VPE81ZC0/aexN06GflpNzMwViD4=
+
+Name: jtarot/jTarot$4.class
+SHA1-Digest: nWK/q67ufUKoRcyFF+SytVe2yvA=
+
+Name: res/sv/StandardTarot16WishCards.xml
+SHA1-Digest: eWGefI5gmH/VfUgGcYmVyPeQBfc=
+
+Name: res/StandardTarot5ElementsCards.xml
+SHA1-Digest: c18zcuRgYFjjYf7b2ePdurbkdKQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r37.jpg
+SHA1-Digest: eXFsjaCd3zk4gfDtvTeDz12tFxw=
+
+Name: src/nu/lazy8/oracle/engine/OracleIO.java
+SHA1-Digest: Ch4iLVv0Wu6IpcVmEJx9/+7Nr7E=
+
+Name: res/nl/ElderFutharkRunes9Lay.xml
+SHA1-Digest: rRtxrQ2c/12ZFBkufv1uk2Kef0s=
+
+Name: jtarot/CardRandomizerPane$2.class
+SHA1-Digest: of1CGM/Yg/t1mdY/E9zsB2TCfsw=
+
+Name: res/nl/StandardTarot7MagicCards.xml
+SHA1-Digest: k4kQwV64dnYtDg8UTug03v+N/mQ=
+
+Name: res/ja/StandardTarot8SeasonCards.xml
+SHA1-Digest: KM/QUpL75Tec2iwPFvxG7/PS9Jg=
+
+Name: res/fr/ElderFutharkRunesObj.xml
+SHA1-Digest: urWSogLvQkZhYYGlkADlFsFX4mM=
+
+Name: res/StandardTarotCards.Cards52/r53.png
+SHA1-Digest: s3weqbKJUFZkyQmAx/0sisBJuSI=
+
+Name: res/StandardTarotCards.RiderWaite/r18.jpg
+SHA1-Digest: FJBUg5Y4JlxvB59piIEwHlNP/2E=
+
+Name: res/ElderFutharkRunes.Blues/r7.jpg
+SHA1-Digest: G/QPkz6anYmz7MxXMrQQ5T3Labg=
+
+Name: res/StandardTarotCards.Minchiate/r23.jpg
+SHA1-Digest: lhl8V7Lr9gmrGTIWBmzVeqWS5Bw=
+
+Name: res/pt/StandardTarot5ActionCards.xml
+SHA1-Digest: a/84proiZt/cZaR8YQJKU8LFva0=
+
+Name: res/fr/ElderFutharkRunes1Lay.xml
+SHA1-Digest: RxG3Au9UHVAVcwzJrp890WO03bU=
+
+Name: res/StandardTarotCards.Marseilles/r74.jpg
+SHA1-Digest: odOyBgCYWyNEbeHQlrUraoiPs+4=
+
+Name: res/ru/StandardTarotCards.Waite.xml
+SHA1-Digest: ZVXkK6AiEg0T3X3tMEpxO7YSDQ0=
+
+Name: res/StandardTarotCards.Marseilles/r30.jpg
+SHA1-Digest: /XExZXkrGaXYLubiB8xCJQ9Ri1I=
+
+Name: res/de/StandardTarot15FortuneCards.xml
+SHA1-Digest: lp2JIsW81bUqYa35XozEZviblhs=
+
+Name: res/zh/help11.jpg
+SHA1-Digest: b5kLgNQ8O/NvWa5LF+T2i5gOfeQ=
+
+Name: res/zh/StandardTarot13MandalaCards.xml
+SHA1-Digest: Yozw7/VfS5UCxzaISmGUdAxoHYg=
+
+Name: jtarot/jTarot$3.class
+SHA1-Digest: KK6k9p5t7zFZhXa4Zj4yGCebt9c=
+
+Name: res/zh/StandardTarot7DreamCards.xml
+SHA1-Digest: 5pWtUAp+nRn7OsSuiSLoy2xU5sA=
+
+Name: res/fr/StandardTarot9FanCards.xml
+SHA1-Digest: 8S0u3oufNIH/2E451IAsuhZVPJ4=
+
+Name: res/es/StandardTarot5ActionCards.xml
+SHA1-Digest: CSjnlaDVMwnCfnei7dpuYmPqdRM=
+
+Name: res/pt/help0.jpg
+SHA1-Digest: Lm0H9jFzX+G645LNtfhX5pEf5rU=
+
+Name: res/zh2/StandardTarot8PlanetCards.xml
+SHA1-Digest: YJa+jRu4FFASPqc4Qy6Qx+AChWc=
+
+Name: res/zh2/StandardTarot21RomanyCards.xml
+SHA1-Digest: r8USjpUTN+5gJ8Ui+CeJYgR4DUw=
+
+Name: res/StandardTarotCards.RiderWaite/r37.jpg
+SHA1-Digest: othMklOFLb4eclbPR9wjaQxKpqo=
+
+Name: res/StandardTarotCards.Cards52/r74.png
+SHA1-Digest: aFpuUmO2gwhM0R+DZovO5adRufM=
+
+Name: res/en/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: TeWv1zWETf/VMkf6HB9TN0bIF/0=
+
+Name: res/ja/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: JkoyXkFc8DMQJyApibYUMR0L4Cw=
+
+Name: res/StandardTarotCards.Marseilles/r72.jpg
+SHA1-Digest: B4gnmeeo+MYfUBAzSWU+FMEUxxk=
+
+Name: res/StandardTarotCards.RiderWaite/r42.jpg
+SHA1-Digest: gj70JQZkS9ICo9Gs3Yg9Jh+TtkU=
+
+Name: res/ru/help12.jpg
+SHA1-Digest: UZ8fbCsA4HB2BqKNrS3aO3efjCA=
+
+Name: res/el/StandardTarotCards.Waite.xml
+SHA1-Digest: xAAzWAHbWR9FGal34zrcMOypOzw=
+
+Name: res/ElderFutharkRunes.Wood/index.xml
+SHA1-Digest: nTy6z0b0qh6e3D7pB7yi07l64eg=
+
+Name: res/it/StandardTarot15FortuneCards.xml
+SHA1-Digest: jjuSJfuV58t5AM113CiFzrU+Jp0=
+
+Name: res/StandardTarotCards.Minchiate/r71.jpg
+SHA1-Digest: 5Bc5hZCODARBHcwcfZ4QiSdT34s=
+
+Name: res/ElderFutharkRunes.Wood/r12.jpg
+SHA1-Digest: UYJ28tbuIz/r1cUDNQe69H6dhXQ=
+
+Name: jtarot/Log$1.class
+SHA1-Digest: b9FATREAcePaXLpaw1qT0+8UlAk=
+
+Name: res/zh2/StandardTarot5ElementsCards.xml
+SHA1-Digest: U6BF9CbgMC8A9X9wNAT0z0eC1TM=
+
+Name: jtarot/jTarot$2.class
+SHA1-Digest: sHOmTZg65aE2tR1yk8Z2GL8/1cI=
+
+Name: jtarot/CardLayout.class
+SHA1-Digest: JdCL8mwX9BKFnHU1hcXe8pBUC9Q=
+
+Name: res/StandardTarot10TreeDavis.xml
+SHA1-Digest: lsjNCcMhBZ5bvVoZte0igAvlPE0=
+
+Name: res/ja/StandardTarot21Cards.xml
+SHA1-Digest: p9IEA1VDbz6WHGZjyiIz9mmMNP4=
+
+Name: src/jtarot/CardReadings.java
+SHA1-Digest: 74vsl+z7TaxOpW7T+NLA/5Wp89c=
+
+Name: res/ElderFutharkRunes.Pearl/r15.jpg
+SHA1-Digest: b+1lDpX0qLBt75UWp7xfx2AToZw=
+
+Name: res/StandardTarotCards.Marseilles/r62.jpg
+SHA1-Digest: yv9n5PekjJaNuaMI22q+uYZQWWU=
+
+Name: jtarot/TarOutputStream.class
+SHA1-Digest: Tl5Ng/oKNGKmB2cqCm6XmI9sA8A=
+
+Name: res/zh/StandardTarot5LeviCards.xml
+SHA1-Digest: xNx/QkT/N/Oubcka85lEa0O3FFE=
+
+Name: res/pt/StandardTarot8PlanetCards.xml
+SHA1-Digest: c73mkX7IgujmwJay3my6kC2up30=
+
+Name: res/zh2/StandardTarot7SpiritCards.xml
+SHA1-Digest: fhyIre5lKyswW6Q5WUF3CQ0EnXE=
+
+Name: res/es/help10.jpg
+SHA1-Digest: wQJfAai/kX7lazGtAv00pbyOBwg=
+
+Name: res/es/StandardTarotCards.xml
+SHA1-Digest: YkepgqwEHNzGBsIXQ7UiGpqIIJk=
+
+Name: res/StandardTarotCards.RiderWaite/r32.jpg
+SHA1-Digest: NSezqdhaVxAc2XOgsAJicXZMgBU=
+
+Name: res/nl/StandardTarotCards.Waite.xml
+SHA1-Digest: XtcYWHWVsHLc8gFcH0cXsVat2F0=
+
+Name: res/ja/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: 5A28omdZTBfe0Y9bo1Biyn0tljE=
+
+Name: res/zh/ElderFutharkRunes.xml
+SHA1-Digest: wTPuLRuW22cxUIfNdt71qoF5P6g=
+
+Name: res/StandardTarotCards.Cards52/r70.png
+SHA1-Digest: yncMuO6MF177tq6MfQ2bDHHgkIw=
+
+Name: res/fr/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: mpUIbZ6xKefsw5ZgIuD1NRGE91k=
+
+Name: res/fr/ElderFutharkRunes2Lay.xml
+SHA1-Digest: F+3RjAMf1bpDK/YVaswXRw5vQNQ=
+
+Name: res/de/StandardTarot5LineCards.xml
+SHA1-Digest: PlS3s1EEAkPAPV4whM2L5wrpab4=
+
+Name: res/it/StandardTarot9FanCards.xml
+SHA1-Digest: ExNXj/0zXe8jXJ8/F+Uj2/1nrL0=
+
+Name: res/pt/StandardTarot16WishCards.xml
+SHA1-Digest: bJcQifY/xzlOmY1SymO2BbXmFDE=
+
+Name: res/StandardTarotCards.Minchiate/r69.jpg
+SHA1-Digest: wziU4tQW1WllGt4zT3t2oEBE7sc=
+
+Name: jtarot/CardLayout$2.class
+SHA1-Digest: VzxaDwyBH7pF8dAGBgwN2EM/5F0=
+
+Name: res/it/StandardTarot11KeyCards.xml
+SHA1-Digest: cpnoiUQfFTlGw2FOzaZYx/v6IVU=
+
+Name: res/it/StandardTarot21GrandCards.xml
+SHA1-Digest: YrEGyEQQiEX5X0fVnQWfBt54XAs=
+
+Name: res/ja/StandardTarot10YesnoCards.xml
+SHA1-Digest: r4atgTd02G671Yo9OnNAEl5q/aQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r15.jpg
+SHA1-Digest: xCX+TmHdpwTRRNE+IfDl2Nn3HO0=
+
+Name: res/StandardTarotCards.RiderWaite/r50.jpg
+SHA1-Digest: ahDBZrQoBlNCjijfIS2hT3ljSIQ=
+
+Name: src/jtarot/CreateSetupFileDialog.java
+SHA1-Digest: /GuKARihoa6SVX1GlYx40+cSgXI=
+
+Name: res/StandardTarotCards.Cards52/r66.png
+SHA1-Digest: 5dABClbGuZStJ4HBxcqooa/Y5mQ=
+
+Name: res/es/StandardTarot7DreamCards.xml
+SHA1-Digest: v5f5vHDW/CBDFUV87OtylG823J4=
+
+Name: res/es/StandardTarot12TrineCards.xml
+SHA1-Digest: 4VKWhh0WuvFra2dpSAvzvXIeBZI=
+
+Name: res/StandardTarotCards.Cards52/r2.png
+SHA1-Digest: 31AmurAg9Wm1//tHgPEcsHwBtdM=
+
+Name: res/es/StandardTarot15FortuneCards.xml
+SHA1-Digest: r1xIgw7PooKMSdIzTWAesHAqj+8=
+
+Name: res/el/Translations.Menus.xml
+SHA1-Digest: Dvw28irBuTdJoebLlRXB3o7OEyg=
+
+Name: res/StandardTarotCards.Marseilles/r47.jpg
+SHA1-Digest: Vxc6G927Hbi1nYtak2kZZznCkjA=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r45.jpg
+SHA1-Digest: pSr3S5dBpoMj3IHgAWVADxIUCzo=
+
+Name: res/nl/StandardTarot15ThothCards.xml
+SHA1-Digest: wXgrtlZ1p3BSWI6FFnOTQs+NmNc=
+
+Name: res/en/help12.jpg
+SHA1-Digest: +PxYMbTSEYoI1twVJWVRnGZS+GM=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r9.jpg
+SHA1-Digest: +OAzwT5aHjdANE1IPuL/j9bgV3I=
+
+Name: res/StandardTarot5LeviCards.xml
+SHA1-Digest: iF2by6H+g5lYl7FxpYAPPA1zEaI=
+
+Name: res/ElderFutharkRunes.Pearl/r11.jpg
+SHA1-Digest: EMrpPjmsyRKZSvKCC+SDj46FiwM=
+
+Name: res/StandardTarotCards.Minchiate/r52.jpg
+SHA1-Digest: ZTUBcLU1S/+cfS466uMnMdYb8X8=
+
+Name: res/zh2/StandardTarot7DreamCards.xml
+SHA1-Digest: y3E2TMOd4Wmbrc/N88CkNaqf0XY=
+
+Name: jtarot/jTarot$ImagesAction$ImagesMenuWatcher.class
+SHA1-Digest: 5nOQLWqGXeUb8C8sRqE8+kpz9L4=
+
+Name: res/en/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: 6F2zTW49g+BiNPudK7drO+fppSI=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r76.jpg
+SHA1-Digest: HKsYrY4ucSHzzPdVk6PqmA5rLj0=
+
+Name: res/it/StandardTarot11CupCards.xml
+SHA1-Digest: dQg6eGSr+9jlRcrgqnkOlCuQ9KA=
+
+Name: res/fr/help15.jpg
+SHA1-Digest: ubv+ToKqHC4fpvHVuRUNJsWldcA=
+
+Name: res/StandardTarotCards.Marseilles/r64.jpg
+SHA1-Digest: g8CUxel5SVuEpQuv6vgNax6ysAk=
+
+Name: res/StandardTarotCards.Cards52/r62.png
+SHA1-Digest: sY6gOVIO0+5IDRzu6WZ0zXbA4+w=
+
+Name: res/it/Translations.Menus.xml
+SHA1-Digest: vT9130XBBKwJqNIivG8JnK/5HpY=
+
+Name: res/ru/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: TwXmP9h4Rtz2OiD6rDCKUF13Sj4=
+
+Name: res/el/StandardTarot21GrandCards.xml
+SHA1-Digest: VqONs92YNPIBmOr7+ndpP50RLCA=
+
+Name: jtarot/CardReadings.class
+SHA1-Digest: 6YyqzKdl8wzgnEgmAaPgCp8Pd0Y=
+
+Name: jtarot/Browser$1.class
+SHA1-Digest: uZ93+rWywJ3SVZmX9SL2ftQ4FCI=
+
+Name: jtarot/LayoutWizard$GetNextCardWizard$3.class
+SHA1-Digest: kvILnbpj4h0qQgOvNDnbLheGiGU=
+
+Name: res/StandardTarotCards.RiderWaite/r39.jpg
+SHA1-Digest: Jia3h4dPR2C3jkNQJenZUBIzOec=
+
+Name: res/ElderFutharkRunes.Wood/r5.jpg
+SHA1-Digest: wHz7WXvH8Wwu6ejESRc+0W+rUcs=
+
+Name: res/fr/StandardTarot7SpiritCards.xml
+SHA1-Digest: ysaIYgGTdOaNWleeyr4NNsnAKEg=
+
+Name: res/el/StandardTarot5ActionCards.xml
+SHA1-Digest: aFztwrBLxxHzX5lLvGkG4Xq/6ss=
+
+Name: src/nu/lazy8/oracle/engine/OracleReading.java
+SHA1-Digest: ew+P4OMZIRK+Z9f3HnnoA4eawnM=
+
+Name: jtarot/jTarot$AdvisorAction$AdvisorMenuWatcher.class
+SHA1-Digest: hNPmGWWv6naHz3PLiA7F/WE6zN0=
+
+Name: res/en/StandardTarotCards.Waite.xml
+SHA1-Digest: fouoAzfMFonfNU/5RAIx9OGUq5k=
+
+Name: res/ElderFutharkRunes8MentalLay.xml
+SHA1-Digest: UUImSRhu6wx2x3DWjIywQs35xP0=
+
+Name: res/StandardTarotCards.Minchiate/r65.jpg
+SHA1-Digest: uixpAD/VrkasHqApX15JWlOisYM=
+
+Name: res/StandardTarotCards.RiderWaite/r48.jpg
+SHA1-Digest: u9nXnyNSOGXFC04L4AydvSZufNo=
+
+Name: res/en/StandardTarot10YesnoCards.xml
+SHA1-Digest: WqNeZ0ni0A5EnPvaZ/0cEV5EUnU=
+
+Name: res/de/StandardTarotCards.xml
+SHA1-Digest: MOvVVbu1dL0heVH1SUAbqm/3fEc=
+
+Name: res/ru/ElderFutharkRunes2Lay.xml
+SHA1-Digest: 9WwlbvGWIFGkTj9ECl8logdBeG0=
+
+Name: res/nl/StandardTarot9FanCards.xml
+SHA1-Digest: IhSmQZD/+Jg2fmnZBLEV1IRFfQ0=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r19.jpg
+SHA1-Digest: 0EtouPVneruTTlEkAEgUVKCsvsM=
+
+Name: res/nl/StandardTarot13MandalaCards.xml
+SHA1-Digest: 6s7QloUqHAkT5+S+ibtMKAG5/c4=
+
+Name: build.xml
+SHA1-Digest: TyBz4pr7Ry2jMjshQ+GML8m8aoM=
+
+Name: res/ElderFutharkRunes.Pearl/r12.jpg
+SHA1-Digest: Pj7N05dI4w1T+d8hiqLcHw2ZDcw=
+
+Name: res/sv/StandardTarotCards.Mathers.xml
+SHA1-Digest: lM8HLifWu0AUcoKTowurJf77ngs=
+
+Name: res/ja/StandardTarot12HouseCards.xml
+SHA1-Digest: Twx6BmoNb6qWc1JgSFsRl91kFjM=
+
+Name: res/StandardTarotCards.Cards52/r11.png
+SHA1-Digest: aKDKzTv0iMTFAdItJn5bg1V+zp4=
+
+Name: res/zh2/StandardTarot10YesnoCards.xml
+SHA1-Digest: qPWtBhGCZi/2I/Y4KDRGA09ae5Y=
+
+Name: res/de/ElderFutharkRunes1Lay.xml
+SHA1-Digest: TxmEdSgEGA+tOQzxUHASoXkXhms=
+
+Name: res/el/StandardTarot15FortuneCards.xml
+SHA1-Digest: 5jEsBnsSHXityVPeFNzQHRYzZZg=
+
+Name: res/zh2/StandardTarot7ChakraCards.xml
+SHA1-Digest: pibmsJBjCP9f+g3QR1j08tGiVHA=
+
+Name: res/pt/StandardTarot7ChakraCards.xml
+SHA1-Digest: Sq+gt9+WRdqoyx9L3kkNH4fq3FM=
+
+Name: res/nl/StandardTarot16WishCards.xml
+SHA1-Digest: RMndATgfQEdkYa7q399lytxojmk=
+
+Name: res/ko/StandardTarot15FortuneCards.xml
+SHA1-Digest: nSYhq+G7sYIs9xaYlCyWR4ZMD6M=
+
+Name: res/de/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: f77ZajAU02kyTNAyDkWBXLAWlEk=
+
+Name: res/zh2/StandardTarot12HouseCards.xml
+SHA1-Digest: TgXN3LBkRLjRe+ULIKToM1ttMSo=
+
+Name: jtarot/Log.class
+SHA1-Digest: KjbWpENVEzwAYrBE+SzXx9+13d4=
+
+Name: jtarot/StandardSetupPanel$TransCell.class
+SHA1-Digest: Hdz/D/rt/FSGmRDEtPK8dalDqaQ=
+
+Name: res/zh/StandardTarot21GrandCards.xml
+SHA1-Digest: K13Xeom/nil6SDiug07Wer9sIXw=
+
+Name: res/ElderFutharkRunes.Wood/r9.jpg
+SHA1-Digest: wpldJiVFeuWzy8m1CgyAEQCOJlw=
+
+Name: res/nl/StandardTarot9AwenCards.xml
+SHA1-Digest: GkW3rj3b5zIgKOt5qxglYo7i5i0=
+
+Name: res/StandardTarot3Cards.sv.xml
+SHA1-Digest: vYlGgJ5D/oZwV7UMF+cOXTcfBm8=
+
+Name: src/jtarot/TarEntry.java
+SHA1-Digest: x8ZD7LzF2nef40x7iOmAiK16FkA=
+
+Name: res/StandardTarotCards.Minchiate/r48.jpg
+SHA1-Digest: ncBqSkT5mivFR0N6KeH6OQUofaU=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r38.jpg
+SHA1-Digest: R+aenlMTcAC3SvUC29Rni5U0Yc8=
+
+Name: jtarot/Base64Encoder.class
+SHA1-Digest: LtWA0TPF+nSKdYo2/+IkX2gdk9o=
+
+Name: res/StandardTarotCards.Minchiate/r19.jpg
+SHA1-Digest: V1/yTez468OrKpIvoqUc/3Htkjs=
+
+Name: res/ko/StandardTarot8PlanetCards.xml
+SHA1-Digest: +lFFL8KroeFPGIbG9cglhwNvbQ4=
+
+Name: res/ru/StandardTarotCelticCross.xml
+SHA1-Digest: lR19QTXFq2u3REAHVsDu+RSJB3g=
+
+Name: res/StandardTarotCards.Marseilles/r70.jpg
+SHA1-Digest: 2/Ys+ARpNBCqUrx8uAzRgJjRA2s=
+
+Name: jtarot/CreateSetupFileDialog$CreateSetupFilePanel$6.class
+SHA1-Digest: Fwt0/rZg+ZpSR37kaYJyoxXnKIE=
+
+Name: res/StandardTarot9AwenCards.xml
+SHA1-Digest: Bw3JcC8DTFXIp7ZOhTWfZDv5c+U=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r18.jpg
+SHA1-Digest: NYNqMlamWxnCcHB4pUG8Uny+N4Q=
+
+Name: res/it/ElderFutharkRunes9Lay.xml
+SHA1-Digest: YOFrEEcdKuTcQ22feN5aupbWs/I=
+
+Name: res/en/StandardTarot16WishCards.xml
+SHA1-Digest: EPMAsDW/VwWvK32+fmnd1ZmeifQ=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r48.jpg
+SHA1-Digest: 6nWpeMQr3EGABD0DCkYk/xDgmMY=
+
+Name: res/StandardTarotCards.Cards52/r60.png
+SHA1-Digest: +/bIPgPx7yM2fsv2iTqpRZwvxxQ=
+
+Name: res/de/ElderFutharkRunesObj.xml
+SHA1-Digest: 818nNnRXcqp/PO2xdPumZc2IrEs=
+
+Name: res/pt/StandardTarot10TreeDavis.xml
+SHA1-Digest: fx5NzbMZF+H7tqePpXNldu51Bo0=
+
+Name: res/zh/StandardTarot12HouseCards.xml
+SHA1-Digest: b1Z3sV3fq3vj2SZDj5HOe9BjkDk=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r0.jpg
+SHA1-Digest: v3zjHTYApfz/EaWSCyn+CglIu78=
+
+Name: res/ko/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: zZsiIG+IECM/MFbIO9dUhByMGps=
+
+Name: res/ru/ElderFutharkRunes1Lay.xml
+SHA1-Digest: MxuQ5zOvv/23gNqZhvgPCZvNgdQ=
+
+Name: res/nl/ElderFutharkRunes2Lay.xml
+SHA1-Digest: XZamtdpSOnTq6bdqPpnbRuDk4Ls=
+
+Name: res/ja/StandardTarot7MagicCards.xml
+SHA1-Digest: LUWzVg1GHZLMfFhZ/MwWFgsp+Wg=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r50.jpg
+SHA1-Digest: ieT77Jtn70iAkqkAeC39gVqnKCo=
+
+Name: res/nl/ElderFutharkRunes8RelationlLay.xml
+SHA1-Digest: IEwB/aa/30Ep2SNTtnl2XPDBMGU=
+
+Name: res/fr/StandardTarot9AwenCards.xml
+SHA1-Digest: 0nk7MbJxNaj1MwQwSjU+/sAtZ2c=
+
+Name: res/ko/StandardTarot8HearthCards.xml
+SHA1-Digest: Y88ELwu9BVz6JYKJBtFjyCUYfDU=
+
+Name: res/StandardTarotCards.Minchiate/r28.jpg
+SHA1-Digest: KluJp1Q4XcnXzQILlQqhL29Uv6U=
+
+Name: res/zh/StandardTarotCards.Waite.xml
+SHA1-Digest: tqKimjXFR3H6Q7G9D9o+8mdLFFQ=
+
+Name: res/nl/ElderFutharkRunes24RuneLay.xml
+SHA1-Digest: RVRtqxpZKpTvfGAZ5n1dDWl5cG8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r70.jpg
+SHA1-Digest: geHjaW+of/cQjIRewJprYJrPoP8=
+
+Name: res/en/StandardTarot21GrandCards.xml
+SHA1-Digest: FOUBH+wKN3LYHdtqPGUfoPkNGk8=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r62.jpg
+SHA1-Digest: bG1qrYWzy0wraMsP/zt4Dp0tyfY=
+
+Name: res/StandardTarot16WishCards.xml
+SHA1-Digest: S+lMFpsPN0xv+p6zqkO1BWWmwbQ=
+
+Name: res/de/StandardTarot10TreeDavis.xml
+SHA1-Digest: ZPVAc1Bb4ZLiDE+WZjXxSfrZOU0=
+
+Name: res/ja/StandardTarot10TreeDoane.xml
+SHA1-Digest: FscoPO1tFRKhToT6eKJrS8aaMv4=
+
+Name: res/ru/StandardTarot7SpiritCards.xml
+SHA1-Digest: EuR0cLgKOAjXRJMu1c4qp/i5v48=
+
+Name: res/es/StandardTarot12HouseCards.xml
+SHA1-Digest: MGg6JDwYxMuWKkgOJ2Zb+YvPLf8=
+
+Name: res/ElderFutharkRunes.Wood/r6.jpg
+SHA1-Digest: yDqYUoDGtilM87Q56IuThz9yTEc=
+
+Name: res/StandardTarotCards.Cards52/r14.png
+SHA1-Digest: fW2Mq9jsmqJ5lNEa904dnnu0GPI=
+
+Name: res/el/help15.jpg
+SHA1-Digest: Nyh2LBx+ad/f1YbDvsUda5vn1ms=
+
+Name: res/ko/ElderFutharkRunes8PracticalLay.xml
+SHA1-Digest: ufM0lD8PvawgJ6/vgw4tSXnAItA=
+
+Name: res/ElderFutharkRunes.Blues/r14.jpg
+SHA1-Digest: XKuwlGZ9yH17Ee9mjdbih+zrZ84=
+
+Name: res/en/StandardTarot6TrueLove.xml
+SHA1-Digest: vnDZztrNKF1agJwIIQWZhjeDQWA=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r4.jpg
+SHA1-Digest: Oi1rlbGTf3ZTthY5q7eUnifaqjQ=
+
+Name: res/ko/StandardTarot3Cards.xml
+SHA1-Digest: aZ5TC7x9L2T8w67AiVY2/fw/pYk=
+
+Name: res/StandardTarotCards.Marseilles/r44.jpg
+SHA1-Digest: Gvv8a4rZljlE9+as4cSu+I74Jt0=
+
+Name: res/StandardTarotCards.RiderWaite/r8.jpg
+SHA1-Digest: RJWaBziyYotWcx3cwLz3ufBuJhk=
+
+Name: res/StandardTarotCards.RiderWaite/r60.jpg
+SHA1-Digest: d6lNaZW1hvjiXHVgy7W85CjTP64=
+
+Name: res/ja/ElderFutharkRunes7RuneLay.xml
+SHA1-Digest: O5C8w5JhO9EpnHHWM8Qdq3Gv3ZY=
+
+Name: res/zh2/StandardTarot10TreeDoane.xml
+SHA1-Digest: zTqKmSji1olXJfKx5jI3lVxImUY=
+
+Name: res/StandardTarotCards.Minchiate/r63.jpg
+SHA1-Digest: wyXQS6hhEbXgxzpuCBCcATYRBUU=
+
+Name: res/StandardTarotCards.Marseilles/r51.jpg
+SHA1-Digest: wne0ovX7V7pIe+Z8JnCpfw9jw3Q=
+
+Name: res/it/StandardTarot5LineCards.xml
+SHA1-Digest: BG9IPNXfc2O5mIHmZaJaCfns4Ns=
+
+Name: jtarot/LayoutWizard$ChooseLayoutWizard$1.class
+SHA1-Digest: d0z9UMDq/pi+VvkW7fLAcxZxS70=
+
+Name: res/en/ElderFutharkRunes9Lay.xml
+SHA1-Digest: xEc3xH77oekDPCsaDxgGYfYzz4U=
+
+Name: res/ja/StandardTarot5LeviCards.xml
+SHA1-Digest: dLi4TEYZNdVQMJ7UZnZvckb2hmU=
+
+Name: res/ja/StandardTarot10TreeDavis.xml
+SHA1-Digest: gyS0iF706JBjTMU2qNzitAXBWIo=
+
+Name: res/ja/help0.jpg
+SHA1-Digest: d8MTqIyL9JpRwFvEdlXkXrzk3JM=
+
+Name: res/nl/StandardTarot5LeviCards.xml
+SHA1-Digest: CXO+ul+eLufmyIpBuHSuWBZne0Y=
+
+Name: res/ru/ElderFutharkRunes5RuneLay.xml
+SHA1-Digest: VDlnkSQbys0H6B1Jo8g4LcB3Sj4=
+
+Name: res/it/StandardTarotCards.Waite.xml
+SHA1-Digest: ymWt9ude9E7KuRpZl8mLmmUzsjQ=
+
+Name: res/de/ElderFutharkRunes.xml
+SHA1-Digest: NdBu/+BWxm156vCjGE22xTsCRiE=
+
+Name: res/ja/ElderFutharkRunes9Lay.xml
+SHA1-Digest: J2KbvkTGawMWrHYYCU0+KQ/9l3s=
+
+Name: res/StandardTarotCards.Minchiate/r10.jpg
+SHA1-Digest: SOY6Ut0o9NG5WddTY4GAXiWDX3c=
+
+Name: res/ru/StandardTarot10SpiralCards.xml
+SHA1-Digest: DHdlwCoIzAA6StD7ovLcUqR5ZeU=
+
+Name: res/zh2/StandardTarot11KeyCards.xml
+SHA1-Digest: n0I1gULOHd+pSD0SXuNpPDJrWhc=
+
+Name: res/StandardTarotCards.Minchiate/r61.jpg
+SHA1-Digest: vUnz7eQQugs3W+NIZIcw3v6E3+M=
+
+Name: res/en/StandardTarot5ElementsCards.xml
+SHA1-Digest: va3GxB/CPPwSo9F9D+WD2MyGvgE=
+
+Name: src/nu/lazy8/oracle/engine/OracleFileManager.java
+SHA1-Digest: zi6ywn12yQdFfiGBjvLsNYeXnAk=
+
+Name: res/StandardTarotCards.RiderWaiteBw/r31.jpg
+SHA1-Digest: MICyWLbw2CGvYBT+xgcyKvPUpWc=
+
+Name: res/StandardTarot8HearthCards.xml
+SHA1-Digest: ZQ/1LFJiEd675plR21PEcKevxSY=
+
+Name: res/StandardTarotCards.Minchiate/r29.jpg
+SHA1-Digest: ucSd6B1VrrWXpVvYOnTEGLnh508=
+
+Name: src/jtarot/PropertyTranslationPanel.java
+SHA1-Digest: 8zWOk+738si8ZJ3oEcBlq913Q6U=
+
+Name: res/ElderFutharkRunes3Lay.xml
+SHA1-Digest: 61wXiS97HwUe168atRTw+XD3tqE=
+
+Name: res/StandardTarotCards.RiderWaite/r56.jpg
+SHA1-Digest: JWnsD/Gs2zYZ/iryPLQh9nUAWYI=
+
+Name: res/nl/StandardTarot8PlanetCards.xml
+SHA1-Digest: v7inkAtK5rjPBdmew0VUuNoQ/X8=
+
+Name: res/ru/StandardTarot10TreeDavis.xml
+SHA1-Digest: rlvsVDkN46KW9Oh5WELSaZFje6o=
+
+Name: res/fr/StandardTarot10TreeDavis.xml
+SHA1-Digest: NawUh8Y/yTTC75d24gPfJ2zu1mE=
+
+Name: jtarot/CardRandomizerPane$1.class
+SHA1-Digest: 3Smy02DjjSBWL3gvKuKuN3hIW1o=
+
+Name: res/ko/ElderFutharkRunes3Lay.xml
+SHA1-Digest: izNu1Qv5z2CBUKUqBxV8b5JOOkY=
+
+Name: res/ru/StandardTarot7MagicCards.xml
+SHA1-Digest: CRpvSubNc+IxTazcx1F0NKOv2sk=
+
+Name: res/de/StandardTarot10YesnoCards.xml
+SHA1-Digest: zJRXDejJqc3ma3wmAjCX2aKRrtg=
+
+Name: res/zh2/StandardTarot1Cards.xml
+SHA1-Digest: pEGmks3UApaYq8RCL350310t+v4=
+
+Name: res/ru/StandardTarot16WishCards.xml
+SHA1-Digest: wd8uLkzZo67qxuHysNxa4wodwJQ=
+
+Name: res/ElderFutharkRunes.Wood/r1.jpg
+SHA1-Digest: /THdNOVyREwOcLZRNuL+ZrRPoiU=
+
+Name: res/ja/StandardTarot49SolarCards.xml
+SHA1-Digest: rjNj7oKD6m0yRdNFyKbZSbP+9IQ=
+
+Name: res/zh/help15.jpg
+SHA1-Digest: t8WUVFCxUIfaO8tSglhY5gmUHdA=
+
+Name: res/StandardTarotCards.RiderWaite/r63.jpg
+SHA1-Digest: DhF7wC2c3QLKBxzNzdfy7nGk7jY=
+
+Name: res/pt/StandardTarot15FortuneCards.xml
+SHA1-Digest: rMYmmc0RtOIp9rwSQ5kxLDmPng4=
+
+Name: res/de/help12.jpg
+SHA1-Digest: 099aHxpRCKuQB2Wp/oxp9k9pzhE=
+
+Name: res/ru/StandardTarot5ActionCards.xml
+SHA1-Digest: NowUk2FqN3RcrhIBVgUKl1bTcSA=
+

@@ -1,0 +1,21 @@
+Mambo Configuration:
+====================
+
+Mambo Installation:
+
+- MamboV4.5.1a-Stable.tar.gz
+
+
+Components:
+
+- Zoom 2.1.4_RC1:
+  - Config: 
+    - ImageMagick (autodetected)
+    - Max Size 1024 px
+  - Zoom Module with SQL upgrade !
+  
+- Simpleboard 1.0.4 Beta1
+  - simpleboard.discussbot installed
+  - mod_last5SBtopics installed
+  
+- Shoutit 1.3.1 Component & Module

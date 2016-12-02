@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">4 季節の広がり(Cortese/Reed)</entry>
+	<entry key="Description">"この広がりが計画または野心のための刺激を検査するのに使用されている。概念、進行、決断、および反射の4 つの段階を通して季節の進行およびあらゆる行為のまた進行または計画を気にするためにカードは呼ぶため。"整理される- Cortese</entry>
+	<entry key="PositionTitle0">ばね</entry><entry key="Meaning0">、行為の概念か開始または野心ばねの間支配的、種の植わること、従って話すため象徴する。ばねの修飾語はカード8 である。</entry>
+	<entry key="PositionTitle1">夏を変更する</entry><entry key="Meaning1">カード3 のための修飾語。</entry>
+	<entry key="PositionTitle2">夏</entry><entry key="Meaning2">、計画夏の間支配的、考えが開花する方法の進行を象徴する。夏の修飾語はカード2 である。</entry>
+	<entry key="PositionTitle3">秋を変更する</entry><entry key="Meaning3">カード5 のための修飾語。</entry>
+	<entry key="PositionTitle4">秋</entry><entry key="Meaning4">でき事"風自身が。" をいかに決定するか、計画の決断を象徴する秋の間支配的秋の修飾語はカード4 である。</entry>
+	<entry key="PositionTitle5">冬を変更する</entry><entry key="Meaning5">カード7 のための修飾語。</entry>
+	<entry key="PositionTitle6">冬</entry><entry key="Meaning6">冬の間支配的、行為または計画の後の反射の期間を象徴することはまたはquerent でき事の進行から学ぶために場合もあるか何を望む、完了した。冬の修飾語はカード6 である。</entry>
+	<entry key="PositionTitle7">ばねを変更する</entry><entry key="Meaning7">カード1 のための修飾語。</entry>
+</oracleio>

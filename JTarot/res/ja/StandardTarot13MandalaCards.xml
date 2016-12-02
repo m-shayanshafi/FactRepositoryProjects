@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">Mandala/Alchemical の広がり(Guiley)</entry>
+	<entry key="Description">最初の9 枚のカードだけが付いている読書をしてMandala の広がりと呼ばれる。4 枚の元素カードを加えることはAlchemical 広がりである</entry>
+	<entry key="PositionTitle0">自己</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">欲求</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">夢</entry><entry key="Meaning2">たいと思う何を達成し</entry>
+	<entry key="PositionTitle3">追求</entry><entry key="Meaning3">私達が積極的に達成することを試みる何を</entry>
+	<entry key="PositionTitle4">付属品</entry><entry key="Meaning4">私達の夢の達成から私達を握る追求。例えば、幸福の多くの人々の夢しかしそれを考える追求のお金はそれらを幸せにさせる。但し、それはお金についての心配、ない実際に幸福を防ぐそれの欠乏である。</entry>
+	<entry key="PositionTitle5">質</entry><entry key="Meaning5">querent についてのよい面</entry>
+	<entry key="PositionTitle6">悲哀</entry><entry key="Meaning6">改良する必要があるquerent の欠陥</entry>
+	<entry key="PositionTitle7">自己イメージ</entry><entry key="Meaning7">querent 眺めhim/herself いかに</entry>
+	<entry key="PositionTitle8">精神の衝動</entry><entry key="Meaning8">本当の目的およびdesitiny</entry>
+	<entry key="PositionTitle9">地球</entry><entry key="Meaning9">暗闇、ミステリー、および未知数</entry>
+	<entry key="PositionTitle10">空気</entry><entry key="Meaning10">精神的な照明および啓発</entry>
+	<entry key="PositionTitle11">火</entry><entry key="Meaning11">知性、理性的な思考、意志</entry>
+	<entry key="PositionTitle12">水</entry><entry key="Meaning12">創造性及び感情</entry>
+</oracleio>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Three Runes" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">3 Runes</entry>
+	<entry key="Description">これは簡単な過去の、現在及び未来のレイアウトである。実際に長く、深い分析を要求しない簡単な状態を記述するためにこのレイアウトは最もよい。時々これはより複雑なレイアウトをする前にあなたの考え、感じ、または質問を集中するのを助けるためにされる。複雑なレイアウトから残った特定の質問をまだ指定するために後より複雑なレイアウト更にまたこれはすることができた。</entry>
+	<entry key="PositionTitle0">を過ぎて</entry><entry key="Meaning0">起こった何が以前。既に知っている何を。この問題にあなたと持って来ている何を。</entry>
+	<entry key="PositionTitle1">現在</entry><entry key="Meaning1">である今ではところ。今感じている何に。今起こっている何があなたに。</entry>
+	<entry key="PositionTitle2">未来</entry><entry key="Meaning2">将来起こるだろう何が。一般にこれは余りに遠い未来でないが、時間枠は質問に左右される。</entry>
+</oracleio>

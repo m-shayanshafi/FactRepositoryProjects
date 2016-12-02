@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="pos" type="position"/>
+
+  <xs:element name="staticItems" type="staticItems"/>
+
+  <xs:complexType name="staticItems">
+    <xs:sequence>
+      <xs:element name="itemsMap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="key" minOccurs="0" type="position"/>
+                  <xs:element name="value" minOccurs="0" type="listWrapper"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="position">
+    <xs:all/>
+    <xs:attribute name="x" type="xs:short" use="required"/>
+    <xs:attribute name="y" type="xs:short" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="listWrapper">
+    <xs:sequence>
+      <xs:element name="item" type="itemDescription" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="itemDescription">
+    <xs:sequence>
+      <xs:element name="effects">
+        <xs:simpleType>
+          <xs:list itemType="xs:short"/>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="modifiers">
+        <xs:simpleType>
+          <xs:list itemType="xs:short"/>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="kind" type="itemKind" use="required"/>
+    <xs:attribute name="name" type="xs:string"/>
+    <xs:attribute name="type" type="xs:short" use="required"/>
+  </xs:complexType>
+
+  <xs:simpleType name="itemKind">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="WEAPON"/>
+      <xs:enumeration value="ARMOR"/>
+      <xs:enumeration value="OTHER"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
+

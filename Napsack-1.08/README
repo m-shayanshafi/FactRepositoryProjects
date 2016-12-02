@@ -1,0 +1,29 @@
+README
+======
+
+Special Notes
+-------------
+* The use of the servers_file property has changed, along with the recognized
+  format for a servers file.  See PROPERTIES and CHANGELOG for more
+  information.
+* main_size and main_location are no longer recognized, so they should be
+  removed from ~/.napsack.
+* The default value for error_messages has changed from On to Off.
+* Napsack now requires Java 1.3.  See src/napsack/gui/MainFrame.java,
+  /src/napsack/gu/MainFrameListener.java, and
+  /src/napsack/gui/results/ResultsTable.java for instructions on back-porting
+  Napsack to Java 1.2.2.
+* The format of the .napsack properties file has changed.  See PROPERTIES, or
+  the February 17 entry in CHANGELOG for details.
+
+Requirements
+------------
+1.  A Java 1.3 Runtime Environment.  
+
+Installation
+------------
+1.  No installation is required, just execute java -jar napsack.jar.
+    (Optionally, you may specify a query on the command line.)
+2.  You might like to keep your nick, password, and query in a properties file.
+    If this is the case, see PROPERTIES.
+

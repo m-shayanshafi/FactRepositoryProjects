@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Fortune Teller's Spread (Morison)" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+<entry key="numberofobjects">15</entry>
+<entry key="screenLayoutxy">
+4   1   0 
+3   1   0 
+5   1   0 
+4   0   0 
+3   0   0 
+5   0   0 
+4   2   0 
+3   2   0 
+5   2   0 
+7   1   0 
+6   1   0 
+8   1   0 
+1   1   0 
+0   1   0 
+2   1   0 
+</entry>
+<entry key="printoutxy">
+-1 -1 -1   4  3  5 -1 -1 -1 
+13 12 14  1  0  2  10  9  11 
+-1 -1 -1   7  6  8 -1 -1 -1 
+</entry>
+<entry key="printoutsize">9 3</entry>
+<entry key="screensize">9 3</entry>
+<entry key="showHiddenOrder">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14</entry>
+</oracleio>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="archetype" type="archetypeWrapper"/>
+
+  <xs:element name="res" type="resistance"/>
+
+  <xs:complexType name="archetypeWrapper">
+    <xs:all>
+      <xs:element name="agl" type="xs:byte" minOccurs="0"/>
+      <xs:element name="description" type="xs:string" nillable="true" minOccurs="0"/>
+      <xs:element name="fns" type="xs:byte" nillable="true" minOccurs="0"/>
+      <xs:element name="gender" type="gender" nillable="true" minOccurs="0"/>
+      <xs:element name="parentArchetypes" minOccurs="0">
+        <xs:simpleType>
+          <xs:list itemType="xs:short"/>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="proficiencies" minOccurs="0">
+        <xs:simpleType>
+          <xs:list itemType="xs:short"/>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="resMap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="key" minOccurs="0" type="damageType"/>
+                  <xs:element name="value" minOccurs="0" type="resistance"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="shortDescription" type="xs:string" nillable="true" minOccurs="0"/>
+      <xs:element name="str" type="xs:byte" minOccurs="0"/>
+      <xs:element name="wlp" type="xs:byte" minOccurs="0"/>
+    </xs:all>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="name" type="xs:string" use="required"/>
+    <xs:attribute name="persistent" type="xs:boolean" use="required"/>
+    <xs:attribute name="ver" type="xs:string"/>
+  </xs:complexType>
+
+  <xs:complexType name="resistance">
+    <xs:all>
+      <xs:element name="relative" type="xs:byte"/>
+      <xs:element name="threshold" type="xs:short"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:simpleType name="gender">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Male"/>
+      <xs:enumeration value="Female"/>
+      <xs:enumeration value="Neutral"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="damageType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CUTTING"/>
+      <xs:enumeration value="PIERCING"/>
+      <xs:enumeration value="BLUNT"/>
+      <xs:enumeration value="FROSTBITE"/>
+      <xs:enumeration value="BURN"/>
+      <xs:enumeration value="SHOCK"/>
+      <xs:enumeration value="POISON"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
+

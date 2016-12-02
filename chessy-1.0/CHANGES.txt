@@ -1,0 +1,7 @@
+2003/02/18 Dav
+- Added file menu with Open option
+- Altered class structure a bit
+- Fixed mirrored-board bug (previously the board was displayed reversed, as 
+  if you were looking from underneath the board, oops!, thanks Laura!)
+- Added a paste dialog option in the file menu, so you can copy and paste
+  the game history rather than saving to file first.

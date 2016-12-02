@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spirits of the Circle Spread(Carr-Gomm)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Geesten van de Uitgespreide Cirkel (carr-Gomm)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Voorvaderen</entry><entry key="Meaning1">Geest van de Voorvaderen - invloed van familieoudsten </entry>
+	<entry key="PositionTitle2">Stam</entry><entry key="Meaning2">Geest van de Stam - invloed van cultuur</entry>
+	<entry key="PositionTitle3">tijd</entry><entry key="Meaning3">Geest van Tijd</entry>
+	<entry key="PositionTitle4">Plaats</entry><entry key="Meaning4">Geest van Plaats - invloed van geboorteplaats en woonplaats</entry>
+	<entry key="PositionTitle5">Reis</entry><entry key="Meaning5">Geest van de Reis - invloed van het vorige leven</entry>
+	<entry key="PositionTitle6">Resultaat</entry><entry key="Meaning6">Awen - gifts/blessings/graces van de goden of de aard</entry>
+</oracleio>

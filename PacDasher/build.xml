@@ -1,0 +1,228 @@
+<!-- PacDasher build file for use with Ant -->
+<!-- Last updated: 09/2004 -->
+
+<project name="pacdasher" default="run" basedir=".">
+
+  <property file="build.properties"/>
+  
+  <target name="clean">
+    <delete dir="${classesdir}/com" />
+  </target>
+  
+  <target name="build" depends="clean"> <!-- remove clean to speed it up -->
+    <javac destdir="${classesdir}" 
+        srcdir="${srcdir}" 
+        includes="util/**,pacdasher/**,CodingStandards*.*"
+        source="1.5"
+        compiler="javac1.5"
+        classpath="jars/lib/jdom.jar"
+        debug="on">
+        <!-- <compilerarg value="-Xlint"/> -->
+    </javac>
+    <antcall target="jar"/>
+  </target>
+
+  <target name="jar">
+    <jar jarfile="jars/pacdasher.jar" basedir="${classesdir}" 
+      manifest="Manifest.mf" update="true"/>
+    <jar jarfile="jars/pacdasher_resources.jar" update="true">
+      <fileset dir=".">
+        <include name="images/**"/>
+        <include name="sounds/**"/>
+      </fileset>
+      <fileset file="pacdasher.xsd"/>
+      <fileset file="pacdasher.xml"/>
+      <fileset file="pacdasherVariety.xml"/>
+    </jar>
+  </target>
+  
+  <target name="build14">
+    <antcall target="build"/>
+    <antcall target="convert14"/>
+    <antcall target="jar14"/>
+  </target>
+    
+  <target name="convert14">
+    <!-- Retroweave all the classes in the classes dir -->
+    <java classname="com.rc.retroweaver.Weaver">
+      <arg line="-source ${classesdir}"/>
+      <classpath>
+        <pathelement location="${retroweaver_jar1}"/>
+        <pathelement location="${retroweaver_jar2}"/>
+        <pathelement location="${retroweaver_jar3}"/>
+        <pathelement location="${retroweaver_jar4}"/>
+      </classpath>
+    </java> 
+  </target>
+  
+  <target name="jar14">
+    <jar jarfile="jars/pacdasher14.jar" basedir="${classesdir}" 
+      manifest="Manifest.mf" update="true"/>
+    <jar jarfile="jars/pacdasher_resources.jar" update="true">
+      <fileset dir=".">
+        <include name="images/**"/>
+        <include name="sounds/**"/>
+      </fileset>
+      <fileset file="pacdasher.xsd"/>
+      <fileset file="pacdasher.xml"/>
+      <fileset file="pacdasherVariety.xml"/>
+    </jar>  
+  </target>
+  
+  <!-- keytool -genkey -alias JamesMcCabe -keystore pacdasher_keystore -->
+  <target name="signjars">  
+    <signjar jar="jars/pacdasher.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/> 
+    <signjar jar="jars/pacdasher14.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/pacdasher_resources.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/jaxp-api.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/sax.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/xercesImpl.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/xml-apis.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="${jdom_jar}"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/retroweaver.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/Regex.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/bcel-5.1.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+    <signjar jar="jars/lib/jace.jar"
+        storepass="abcabc"
+        alias="JamesMcCabe"
+        keystore="jars/pacdasher_keystore"/>
+  </target>
+
+  
+  <target name="package" depends="build, convert14, jar14"> 
+
+    <delete dir="${packagedir}/${version}"/>
+    <mkdir dir="${packagedir}/${version}"/>
+    <mkdir dir="${packagedir}/${version}/PacDasher"/>
+    <mkdir dir="${packagedir}/${version}/PacDasher/classes"/>
+    <mkdir dir="${packagedir}/${version}/PacDasher/src/com/oranda/pacdasher"/>
+
+    <copy todir="${packagedir}/${version}/PacDasher">
+      <fileset dir=".">
+        <exclude name="build.properties"/>
+        <exclude name="pacdasher.log"/>
+        <exclude name="setEnvJ14.bat"/>
+      </fileset>
+    </copy>
+    <copy todir="${packagedir}/${version}/PacDasher/src/com/oranda">
+      <fileset dir="${srcdir}">
+        <filename name="CodingStandards*.java"/>
+      </fileset>
+    </copy>
+    <copy todir="${packagedir}/${version}/PacDasher/src/com/oranda/util">
+      <fileset dir="${srcdir}/util">
+        <exclude name="**/.nbattrs"/>
+      </fileset>
+    </copy>
+    <copy todir="${packagedir}/${version}/PacDasher/src/com/oranda/pacdasher">
+      <fileset dir="${srcdir}/pacdasher">
+        <exclude name="**/.nbattrs"/>
+      </fileset>
+    </copy>
+    <copy todir="${packagedir}/${version}/PacDasher/licenses">
+      <fileset dir="${packagedir}/licenses"/>
+    </copy>
+    <copy tofile="${packagedir}/${version}/PacDasher/build.properties"
+          file="${packagedir}/build.properties"
+          overwrite="true"/> 
+    <copy todir="${packagedir}/${version}/PacDasher"
+          file="${packagedir}/logging.properties"
+          overwrite="true"/>   
+    <copy todir="${packagedir}/${version}/PacDasher"
+          file="${packagedir}/pac_data"
+          overwrite="true"/>  
+  </target>
+
+  <!-- For now this just deploys the test .jnlp to a local server -->
+  <target name="testDeployJNLP" depends="signjars">
+    <copy todir="${webserverdir}/jars" overwrite="true">
+      <fileset dir="./jars"/>
+    </copy>  
+    <copy file="pacdasherVariety.jnlp" overwrite="true"
+    	tofile="${webserverdir}/pacdasherVariety.jnlp"/>  
+    <copy file="pacdasher14.jnlp" overwrite="true"
+    	tofile="${webserverdir}/pacdasher14.jnlp"/>  
+  </target>
+        
+  <!-- This deploys the .jnlp to the local mirror of the web server docroot -->
+  <target name="deployJNLP" depends="signjars">
+    <copy todir="${webservermirrordir}/jars" overwrite="true">
+      <fileset dir="./jars"/>
+    </copy>  
+    <copy file="pacdasher.jnlp" overwrite="true"
+    	tofile="${webservermirrordir}/pacdasher.jnlp"/>
+    <copy file="pacdasherVariety.jnlp" overwrite="true"
+    	tofile="${webservermirrordir}/pacdasherVariety.jnlp"/> 
+    <copy file="pacdasher14.jnlp" overwrite="true"
+    	tofile="${webservermirrordir}/pacdasher14.jnlp"/>
+  </target>
+
+  <!-- For now this just deploys the test .jnlp to a local server -->
+  <target name="testReadUIModelJDOM">
+    <!-- Test that we can read the Maze with JDOM -->
+    <java classname="com.oranda.pacdasher.uimodel.UIModelReaderJDOM">
+      <classpath>
+        <pathelement location="${pacdasher_jar}"/>
+        <pathelement location="${jdom_jar}"/>
+        <pathelement location="${xerces_impl_jar}"/>
+      </classpath>
+    </java> 
+  </target>
+
+  <!-- For now this just deploys the test .jnlp to a local server -->
+  <target name="testMazeRaw">
+    <!-- Test that we can read the Maze with JDOM -->
+    <java classname="com.oranda.pacdasher.uimodel.MazeRaw">
+      <classpath>
+        <pathelement location="${pacdasher_jar}"/>
+        <pathelement location="${jdom_jar}"/>
+        <pathelement location="${xerces_impl_jar}"/>
+      </classpath>
+    </java> 
+  </target>
+  
+      
+  <!-- To deploy to a web server: 							-->
+  <!-- 														-->
+  <!-- 1. Call 'ant deployJNLP' 			               	-->
+  <!-- 2. Copy the contents of {webservermirrordir} to a    -->
+  <!--  directory called pacdasher in the docroot of you    -->
+  <!--  your webserver.									    -->
+  <!-- 3. Assuming J2SE 5.0 is installed, in a browser      -->
+  <!--  call up this URL:									-->
+  <!--  http://<web_server_path>pacdasher/pacdasher.jnlp	-->			
+  
+</project>

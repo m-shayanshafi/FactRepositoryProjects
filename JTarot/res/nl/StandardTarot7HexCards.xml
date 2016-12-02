@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Split Hexagram Spread (Kraig)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Gespleten Uitgespreide Hexagram (Kraig)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Onbekende geestelijke invloeden</entry><entry key="Meaning0">Kaart 1 zal sterkere affect dan Kaart 2 hebben
+</entry>
+	<entry key="PositionTitle1">Onbekende geestelijke invloeden</entry><entry key="Meaning1">Kaart 1 zal sterkere affect dan Kaart 2 hebben
+</entry>
+	<entry key="PositionTitle2">Geestelijke raad</entry><entry key="Meaning2">Geestelijke raad voor de kwestie</entry>
+	<entry key="PositionTitle3">Unconscous</entry><entry key="Meaning3">Onbewuste wensen</entry>
+	<entry key="PositionTitle4">Bewust</entry><entry key="Meaning4">Bewuste wensen</entry>
+	<entry key="PositionTitle5">Praktische raad</entry><entry key="Meaning5">Praktische raad voor de kwestie</entry>
+	<entry key="PositionTitle6">Definitief resultaat</entry><entry key="Meaning6">Definitief resultaat als u met kwestie op dit moment te werk 
+gaat</entry>
+</oracleio>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Чашка распространения отношений (Sagie)</entry>
+	<entry key="Description">Reccomends Sagie использующ дополнительные 
+модификаторы на карточке 11 если исход мутноват.</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Учредительство</entry><entry key="Meaning2">Учредительство отношения</entry>
+	<entry key="PositionTitle3">Недавнее Прошлый</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Настоящий момент</entry><entry key="Meaning4">Настоящее положение дел отношения</entry>
+	<entry key="PositionTitle5">Препоны</entry><entry key="Meaning5">Препоны они оба сторона</entry>
+	<entry key="PositionTitle6">Взгляды #1</entry><entry key="Meaning6">Взгляды #1 относительно отношения</entry>
+	<entry key="PositionTitle7">Взгляды #2</entry><entry key="Meaning7">Взгляды #2 относительно отношения</entry>
+	<entry key="PositionTitle8">Ожиданности #1</entry><entry key="Meaning8">Ожиданности #1 относительно отношения</entry>
+	<entry key="PositionTitle9">Ожиданности #2</entry><entry key="Meaning9">Ожиданности #2 относительно отношения</entry>
+	<entry key="PositionTitle10">Самый лучший Исход</entry><entry key="Meaning10"></entry>
+</oracleio>

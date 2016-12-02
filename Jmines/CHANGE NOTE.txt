@@ -1,0 +1,108 @@
+v 1.00
+
+First release.
+
+All the original mine sweeper features are implemented (except cheat code) plus
+the new buttons shapes (triangular, square, hexagonal and octogonal buttons).
+
+===============================================================================
+v 1.01
+
+Added features :
+	- Enable/disable anti-aliasing.
+	- Enable/disable "shadow" following the cursor.
+	- Change look and feel.
+	- Change background, buttons and LCD color.
+
+===============================================================================
+v 1.02
+
+Added features :
+	- Multi-languages support.
+
+===============================================================================
+v 1.03
+
+Added features :
+	- Configuration properties file encryption (without old configurations
+	  loosing).
+
+===============================================================================
+v 1.04
+
+Added features :
+	- smiley button cheat.
+	- Cheat code.
+
+Internal modifications :
+	- Better timer management.
+
+Bugs correction :
+	- Grid was not centered at beginner level.
+
+===============================================================================
+v 1.05
+
+Added features :
+	- Save screen shot.
+	- Save / load video.
+	- Save / load board.
+	- SplashScreen.
+	- New package containing the JRE.
+
+Internal modifications :
+	- About dialog.
+
+Bugs correction :
+	- Better first start language detection.
+	- Bugs at first launching.
+
+===============================================================================
+v 1.06
+
+Added features :
+	- A robot can now play the game (algorithms : random, trivial cases and
+	  schema search) !
+	- Possibility to set the name to the robot (name not yet used to save
+	  score).
+	- Possibility to view the robot statistics.
+	- Better feeling when resizing.
+	- Status text for each menu items
+	- Separation of the button shapes menu and the game menu.
+
+Bugs correction :
+	- Better best times management.
+	- After have played a video if the best times has been won, a dialog
+	  asking the name was displayed ... not now.
+	- Anti-alias bug while enabling / disabling colors.
+	- Without playing a game : press the smiley button, drag the mouse out of
+	  this button then release the mouse => timer started.
+
+===============================================================================
+v 1.07
+
+Added features :
+	- new shapes : triangular 14, parquet, pentagons.
+	- When starting the robot while game is already lost or won, the game is
+	  restarted.
+	- A thanks menu item.
+	- A module allowing to manage the configuration has been added.
+	- Now the user can allow/forbid the robot to play randomly.
+	- Help item in the robot menu. If enabled, the robot analyze the game and
+	  say if the next try is trivial, need a brain or must be randomly played.
+
+Internal modifications :
+	- Best times dialog.
+	- Now color chooser dialogs remind the last color set by the user.
+	- Simpler game drawing.
+	- A new persistence package has been added to manage input/output.
+	- An updater for configuration file has been created.
+
+Bugs correction :
+	- When changing the tiles shape or the game level, the smiley button didn't
+	  return to the "normal" smiley.
+	- In the dialogs allowing to choose where the video files, screenshot files
+	  or board files have to be saved, the directories were not allowed ...
+	- When changing the language after an ended game.
+	- Uncaught exception when loading an empty board or video.
+	- When an ended game board was load, the victory or defeat was unknown.

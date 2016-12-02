@@ -1,0 +1,22 @@
+TO RUN THE DEMO
+
+Windows 95/98/XP/Vista : launch run_flesh_snatcher.bat
+Windows 7 32 bits : launch run_flesh_snatcher_win7_32.bat
+Windows 7 64 bits : launch run_flesh_snatcher_win7_64.bat
+Unix / Linux / MacOS : launch run_flesh_snatcher.sh
+
+
+COMMANDS
+
+Mouse : direction / shoot
+E : forward
+D : backward
+S : left
+F : right
+Space : jump
+ESC : menu
+
+
+GOAL
+
+Kill 'em all !!

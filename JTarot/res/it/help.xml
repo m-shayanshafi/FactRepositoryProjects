@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jTarotHelp language="Italian" version="1.0">
+<Topic index="0" issubtopic="false" ><title>Che cosa è 'jTarot e Runes?</title><TopicText>
+&lt;p&gt;'il jTarot e Runes è il vostro proprio consigliere 
+personale basato sulla saggezza del tarot che può direttamente essere
+seguito al quindicesimo secolo (1420-1440), Italia del Nord. 
+Tuttavia, un certo tarot di reclamo è migliaia degli anni 
+vecchi con le radici nell'Egitto. Runes è un alfabeto germanico
+antico, usato per scrittura, divination e magia. Runes è stato 
+usato durante Europa, la Scandinavia, le isole britanniche e l'Islanda
+del Nord da circa 100 B.C.E. a 1600 C.E. La maggior parte 
+delle informazioni sui runes 'nel jTarot ed in Runes vengono da &lt;a href="http://www.sunnyway.com/runes/index_divination.html"&gt;Ingrid (Sunny) Halvorsen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;'il jTarot e la volontà del Runes fanno "una lettura" per
+voi ad un punto qualunque ritenete che potreste avere bisogno di un 
+certo consiglio. La lettura consiste di visualizzare un 
+determinato numero di schede in certo ordine ed allora che descrivere 
+che cosa queste schede significano. Allora dovete prendere i 
+desciptions delle schede e provare ad applicare i significati delle 
+schede alla vostra situazione attuale o problema.&lt;/p&gt;
+
+&lt;p&gt;'il jTarot e Runes è una scheda game/oracle progettata 
+per il vostro godimento. Non segua mai il consiglio 'di jTarot e
+di Runes se quel consiglio non è esattamente che cosa desiderate fare
+comunque. La vita è così complessa che non è possibile che un
+gioco di scheda semplice può esattamente dirvi che cosa dovete fare 
+per trovare il successo e la felicità. Le decisioni che 
+difficili dovete prendere nella vita sono che cosa dà il significato 
+di vita. 'il jTarot e la volontà del Runes soltanto 
+eventualmente vi danno alcune nuove comprensioni nel vostro problema o
+situazione particolare ma non è significato che 'il jTarot e la 
+volontà del Runes vi prendono le decisioni difficili per e così li 
+rubano dello scopo di vita.&lt;/p&gt;
+&lt;p&gt;'il jTarot e Runes è software libero e dovrebbe lavorare 
+alla maggior parte diadel tutti i calcolatore e sistema operativo. 
+Quello include Windows.xp, Windows NT, Windows 95,98,me, 
+Macintosh, Linux, Solaris e la maggior parte del qualunque altro 
+sistema basato UNIX.&lt;/p&gt;
+
+&lt;p&gt;Se avete le domande o osservazioni, email a 
+tarot@lazy8.nu&lt;/p&gt;
+
+</TopicText></Topic>
+<Topic index="1" issubtopic="false" ><title>'jTarot e Runes per il principiante</title><TopicText>
+Un principiante nel tarot apprezzerà quanto facile
+deve produrre una lettura del tarot ed ottenere il consiglio completo.
+Con appena alcuni scatti del mouse, la lettura compare. 
+Con tempo il principiante guadagnerà una sensibilità per le 
+molte disposizioni differenti, le piattaforme di scheda ed altre 
+possibilità in questo programma.
+</TopicText></Topic>
+<Topic index="2" issubtopic="false" ><title>'jTarot e Runes per il professionista</title><TopicText>
+'il jTarot e Runes contiene molte possibilità 
+avanzate per il professionista. Per esempio:
+</TopicText></Topic>
+<Topic index="3" issubtopic="true" ><title>Selezione manuale delle schede</title><TopicText>
+Se ritenete le schede di selezione scomode sul 
+calcolatore, potete porre le schede voi stessi ed allora fornire la 
+vostra disposizione nel calcolatore.
+</TopicText></Topic>
+<Topic index="4" issubtopic="true" ><title>Conservando e richiamando le letture</title><TopicText>
+Tutte le disposizioni che producete possono essere
+conservate ed allora essere richiamate in modo da potete avere "un 
+diario di Tarot" dove potete vedere facilmente se le vostre 
+interpretazioni delle disposizioni del tarot fossero esatte o non 
+ricordando su una vecchia lettura.
+</TopicText></Topic>
+
+<Topic index="5" issubtopic="true" ><title>Esporti una lettura</title><TopicText>
+Potete esportare una disposizione e le 
+interpretazioni ad un HTML colorful formattano o una di parecchie 
+altre disposizioni che potete allora trasmettere ai clienti. Il 
+tabulato delle letture è inoltre possibile nel colore completo con la
+capacità di aggiungere la vostra propria interpretazione personale ad
+ogni lettura.
+</TopicText></Topic>
+<Topic index="6" issubtopic="true" ><title>Faccia le vostre proprie definizioni per ogni scheda</title><TopicText>
+Se desiderate fare le vostre proprie definizioni 
+per ogni scheda, 'il jTarot e Runes fornisce tutti che dobbiate fare 
+questo ed allora potete diventare il vostro proprio editore del tarot 
+e perfino generare il vostro proprio libro auto-scritto del tarot con 
+questo programma.
+</TopicText></Topic>
+<Topic index="7" issubtopic="true" ><title>possibilità di Multi-lingua</title><TopicText>
+Tutto il testo che è publicato in questo 
+programma può essere tradotto facilmente in qualunque lingua in 
+grazie del mondo a Java ed a Unicode.
+</TopicText></Topic>
+<Topic index="8" issubtopic="true" ><title>Generi le vostre proprie disposizioni su ordinazione</title><TopicText>
+Se le disposizioni differenti 30+ incluse in 
+questo programma non sono abbastanza per voi, quindi avete la 
+possibilità per generare le vostre proprie disposizioni.
+</TopicText></Topic>
+<Topic index="9" issubtopic="false" ><title>Punti addetti a produrre una lettura del tarot</title><TopicText>
+
+Ad ogni inizio del programma, un dialogo sembrerà
+invitante li a fare una nuova lettura. Se allora desiderate 
+produrre ancora un altra lettura, potete andare al menu "Letture-&gt;Do 
+una nuova lettura." Allora avete le seguenti opzioni da 
+decidere.
+</TopicText></Topic>
+<Topic index="10" issubtopic="true" ><title>Fornisca la vostra domanda per 'jTarot e Runes</title><TopicText>
+Qui potete fornire una domanda per il tarot se 
+volete. Entrando in una domanda qui, la lettura del tarot potrà
+più esattamente dirvi che cosa desiderate conoscere. Per 
+esperienza posso dirvi che che se lasciate lo spazio in bianco di 
+domanda, dopo alcuni minuti di lettura rapida sopra la lettura, vi 
+dimentichiate esattamente che cosa la domanda era e cominciate a 
+formare la domanda dopo che cosa è voi desideri la risposta provenire
+da che cosa il tarot ha dato.
+</TopicText></Topic>
+<Topic index="11" issubtopic="true" ><title>Scelga l'oracolo e una disposizione</title><TopicText>
+Ciò è probabilmente la scelta più dura. 
+Qui dovete decidere quale oracolo da usare, Tarot o Runes. 
+Allora ci sono attualmente disposizioni differenti 30+. Vi
+occorrerà tempo molto molto ottenere aquainted con ogni disposizione.
+Li suggerisco atten alle prime 4 disposizioni nella lista se 
+siete un principiante. Scatti sopra la disposizione che volete e
+per alcune disposizioni, ci che è una descrizione della disposizione 
+indicata pure.
+</TopicText></Topic>
+<Topic index="12" issubtopic="true" ><title>Selezioni un consigliere e gli oggetti invertiti uso 
+oppure no</title><TopicText>
+A questo punto potete scegliere un consigliere per
+la vostra lettura ma realmente non importa così tanto perché dopo 
+che la lettura sia fatta, potete cambiare il consigliere. "l'uso
+ha invertito gli oggetti che l'opzione" significa che le immagini 
+possono comparire "sul lato giù." Generalmente, la gente 
+associa un'immagine inversa con qualche cosa di negativo o forse un 
+significato opposto all'immagine. Personalmente, penso che il 
+tarot sia così ricco con variazione che se allora gettate nella 
+funzione "invertita", io non può mantenere la pista alcun più lungo 
+di che cosa sta accendendo. Così, non mantenere le cose 
+semplici, prescelto "NO" "per usare ha invertito gli oggetti."
+</TopicText></Topic>
+<Topic index="13" issubtopic="true" ><title>Selezioni le immagini e un più piccolo gruppo delle 
+immagini</title><TopicText>
+
+A questo punto potete scegliere un insieme delle 
+immagini per la vostra lettura ma realmente non importa così tanto 
+perché dopo che la lettura sia fatta, potete cambiare il images.You 
+potete facoltativamente fare una lettura del tarot con appena "l'più 
+alto arcanna" o appena "il arcanna più basso". Una lettura con 
+appena l'più alto arcanna è abbastanza comune e dà una lettura più
+intensa ma è inoltre una lettura con molto meno variazione. 
+Qualche gente sceglie una lettura con appena il arcanna più 
+basso perché non gradiscono specialmente l'più alto arcanna o sono 
+usate a fare le disposizioni con un pacchetto normale del gioco delle 
+schede. Li suggerisco uso tutte le immagini e così non uso 
+neanche di queste opzioni.
+</TopicText></Topic>
+<Topic index="14" issubtopic="true" ><title>Selezioni manualmente ogni scheda</title><TopicText>
+Colpisca questo tasto se già avete fatto una 
+disposizione voi stessi con le schede reali del tarot ed allora 
+desiderate fornire la vostra disposizione in questo programma per 
+l'interpretazione, tabulato, esportante o risparmiante. Ciò è 
+specialmente per coloro che realmente non gradisce il tatto di una 
+selezione assistita dall'elaboratore della scheda. La maggior 
+parte della gente non desidererà questa possibilità ma sempre userà
+"la tecnica seguente delle schede a caso prescelte". Quando 
+colpite questo tasto, allora ottenete un dialogo con una lista di 
+tutte le schede nella casella di riepilogo di sinistra. 
+Selezioni una alla volta ogni scheda che già avete presentato. 
+Dopo la selezione della scheda allora colpisca "dopo" e continui
+alla scheda seguente. Dovete selezionare le schede nell'ordine 
+indicato nell'immagine nel centro del dialogo.
+</TopicText></Topic>
+<Topic index="15" issubtopic="true" ><title>Selezioni a caso le schede</title><TopicText>
+Colpisca questo tasto per continuare a caso a 
+selezionare le schede per la vostra disposizione. Sarete 
+indicati che un dialogo con tutte e 78 le schede (o forse un 
+sottoinsieme scelto della piattaforma) e voi devono scegliere una 
+scheda per ogni posizione nella disposizione. La posizione per 
+cui state scegliendo ogni scheda sarà indicata e descritta prima di 
+ogni selezione della scheda. Quando avete selezionato una scheda
+per ogni posizione della disposizione, la volontà di dialogo 
+dissapear e la vostra disposizione saranno prima di voi. Potete 
+ridimensionare lo schermo per vedere più efficacemente la vostra 
+disposizione.
+</TopicText></Topic>
+<Topic index="16" issubtopic="true" ><title>Selezioni le immagini ed il formato che di immagine 
+desiderate usare</title><TopicText>
+Ci è una grande varietà di piattaforme da 
+scegliere da e potete provare qualunque che desiderate per la vostra 
+lettura. Vada al menu "immagini" e scelga la piattaforma che 
+desiderate. La scelta del formato giusto dell'immagine li 
+aiuterà a vedere più chiaro tutta l'immagine. Questo formato 
+di immagine inoltre effettua il formato dell'immagine nel tabulato e 
+nelle esportazioni. Vada al menu "opzioni" e selezioni il 
+formato di percentuale che desiderate
+</TopicText></Topic>
+<Topic index="17" issubtopic="true" ><title>Mostri insieme i testi normali ed invertiti 
+dell'oggetto</title><TopicText>
+Nelle letture, avete un'opzione da potere mostrare
+soltanto il testo normale dell'oggetto quando l'oggetto non è 
+invertito e soltanto il testo invertito dell'oggetto quando l'oggetto 
+è invertito. Ciò può rendere la lettura più facile leggere. 
+Ma potrebbe essere interessante vedere insieme sia il normale 
+che i testi invertiti dell'oggetto in modo da potete imparare che cosa
+è la differenza fra i due. In quel caso, vada al menu "opzioni"
+e selezioni 'i testi normali ed invertiti di esposizione dell'oggetto 
+insieme '. Tuttavia, molte delle traduzioni non hanno alcuni 
+testi "invertiti" così soltanto che il testo normale mostri sempre.
+
+</TopicText></Topic>
+<Topic index="18" issubtopic="true" ><title>Mostri i numeri di posizione</title><TopicText>
+Vada al menu "numeri di postion della disposizione
+di Opzioni-&gt;Show." Se scegliete questa opzione, il numero di 
+postion di ogni scheda sarà indicato in fucsina sul angolo superiore 
+della mano sinistra di ogni scheda nella finestra principale di questo
+programma. Questo numero deve facilitarlo che trovate 
+l'interpretazione corretta della scheda nella finestra di 
+interpretazione a destra dello schermo principale. Semplicemente
+spostando il mouse sopra la scheda desiderate vedere l'interpretazione
+della volontà rendere quell'interpretazione delle schede visibile 
+nella finestra di interpretazione. Questo numero non sarà 
+indicato su alcun tabulato o esportazioni.  
+</TopicText></Topic>
+<Topic index="19" issubtopic="true" ><title>Selezioni che il consigliere voi desidera</title><TopicText>
+Vada al menu "consiglieri." Attualmente ci 
+è soltanto un consigliere disponibile. Così non c'è motivo di
+selezionare qualche cosa qui. Eventualmente ci saranno molti 
+consiglieri qui in avvenire quando la gente comincia trasmetterla più
+thier possiede le definizioni per ogni scheda. In quel caso, se 
+non gradite lo stile delle interpretazioni state ottenendo, voi potete
+selezionare un altro consigliere darvi una lettura generata nuovo 
+calcolatore.
+</TopicText></Topic>
+<Topic index="20" issubtopic="true" ><title>Stampa verso l'esterno la lettura</title><TopicText>
+Tutte le letture possono essere stampate in 
+grafici pieni e nel colore. Vada semplicemente al menu 
+"Letture-&gt;Print via un web browser" e le vostre letture allora 
+compariranno in vostro browser favorito. Nel vostro web browser,
+allora colpisca il menu "della stampa" o abbottonisi. Se avete 
+parecchi browsers di fotoricettore installati in vostro calcolatore 
+allora il browser errato potrebbe essere publicato. Se questo è
+il caso, potete provare a giocare con le regolazioni nel dialogo 
+trovato nel menu "dialogo Avanzato -&gt;Show di opzioni del browser."
+</TopicText></Topic>
+<Topic index="21" issubtopic="true" ><title>Risparmi la vostra lettura per il riferimento futuro.</title><TopicText>
+
+Il menu "Letture-&gt;Save la lettura corrente" conserverà la
+vostra lettura in moda da poterli vedere ancora voi in qualunque 
+momento in avvenire la vostra lettura. Potete persino 
+trasmettere queste letture conservate agli amici che inoltre hanno 
+questo programma da osservare se voluti. Allora vedere ancora la
+lettura, andare al menu "Letture-&gt;Open una lettura precedentemente 
+conservata" e selezionare la lima che voluta desiderate mostrare 
+ancora sullo schermo.
+</TopicText></Topic>
+<Topic index="22" issubtopic="true" ><title>Trasmetta la vostra lettura agli amici via il email o 
+altro tecniche dell'esportazione</title><TopicText>
+Nel menu "esportazione" avete 3 possibilità 
+differenti per esportare la vostra lettura: HTML, MHTML, o 
+WAR. Il HTML è la disposizione dell'esportazione che è il 
+più compatibile con tutti i browsers ma il problema con quella 
+disposizione è che è molte lime differenti che sono prodotte e tutte
+le lime differenti devono essere presenti per l'esportazione riuscire.
+Il MHTML è soltanto una lima e quindi è molto più desireable 
+allora la disposizione del HTML ma il MHTML è generalmente soltanto 
+compatibile con l'esploratore del Microsoft. MHTML è una 
+disposizione specificamente progettata per uso con il email. Se 
+usate soltanto i prodotti del microsoft allora questa è la 
+disposizione per voi. La disposizione di WAR è soltanto 
+compatibile con molto un poco mozilla clona. La disposizione di 
+WAR è semplicemente "gzipped la lima del catrame" così se 
+cambiate il tipo della lima "war" "tgz" allora che la 
+maggior parte dei programmi di compressione potranno ai uncompress 
+esso a molte lime allora leggibili da tutto il browser.
+</TopicText></Topic>
+<Topic index="23" issubtopic="false" ><title>Come genero le mie proprie definizioni per ogni immagine?</title><TopicText>
+Se desiderate fare le vostre proprie definizioni per ogni 
+immagine, 'il jTarot e Runes fornisce tutti che dobbiate fare questo 
+ed allora potete diventare il vostro proprio editore del tarot e 
+perfino generare il vostro proprio libro auto-scritto del tarot con 
+questo programma. Che cosa è più, potete allora trasmettere i 
+vostri defintions a tarot@lazy8.nu e diventare "un consigliere" per 
+'jTarot e Runes ed allora altri potranno usare i vostri defintions. 
+Segua i seguenti punti
+</TopicText></Topic>
+<Topic index="24" issubtopic="true" ><title>Punto 1: Generi un consigliere su 
+ordinazione</title><TopicText>
+Vada al menu "Ha avanzato -&gt;Create una messa a 
+punto di oracolo." Ci sono lotti dei tasti qui ed è importante 
+voi preme il tasto corretto. Al lato del testo "consigliere" 
+dovete premere il tasto "generate questa lima." Probabilmente 
+dovreste selezionare in primo luogo un consigliere che desiderate 
+usare come begining per le vostre traduzioni ma c'è ne lavoreranno. 
+Ci sono centinaia delle lime possibili da scegliere in questo 
+dialogo secondo la lingua che scegliete. Risparmi la lima in un 
+posto potete ricordarsi di e con un nome vi ricordate di.
+</TopicText></Topic>
+
+<Topic index="25" issubtopic="true" ><title>Punto 2: Pubblichi un consigliere su ordinazione</title><TopicText>
+Vada al menu "Ha avanzato -&gt;Edit una lima di messa
+a punto" e selezionano la lima che avete generato al punto precedente.
+Un dialogo voluminoso comparirà con le tonnellate delle 
+traduzioni di difetto per ogni immagine. Potete ora andare 
+dentro e fornire le vostre traduzioni per ogni immagine semplicemente 
+eraseing il testo attuale e sostituendo con il vostri propri. 
+Quando siete fatti che entrate nelle vostre definizioni, allora 
+chiuda la finestra ed i vostri cambiamenti saranno conservati.
+</TopicText></Topic>
+<Topic index="26" issubtopic="true" ><title>Punto 3: Carichi una lima di messa a punto</title><TopicText>
+Vada al menu "Ha avanzato -&gt;Load una lima di messa
+a punto per uso in questo programma" e selezionano la lima che avete 
+generato ai punti precedenti.
+</TopicText></Topic>
+<Topic index="27" issubtopic="true" ><title>Punto 4: Selezioni che il consigliere voi desidera</title><TopicText>
+Vada al menu "consiglieri". Il vostro 
+"consigliere" dovrebbe allora essere là nella lista. Se non è,
+quindi forse avete selezionato la lingua errata? La lingua deve 
+essere corretta per vedere il vostro consigliere nella lista.
+</TopicText></Topic>
+<Topic index="28" issubtopic="true" ><title>Punto 5: Il tabulato il vostri propri auto-ha fatto 
+il libro del tarot</title><TopicText>
+Vanno al menu "Opzioni-&gt;Show tutte le immagini per
+questo oracolo". Allora faccia un tabulato ed otterrete un libro
+illustrato piacevole di tutti i vostri defintions. Potete anche 
+allora "esportare" la piattaforma verso una disposizione del HTML che 
+può allora essere importata nella maggior parte dei programmi di 
+trattamento di testi per ulteriore pubblicazione del vostro libro.
+
+</TopicText></Topic>
+<Topic index="29" issubtopic="true" ><title>Punto 6: Ripartisca le vostre definizioni con il 
+resto del mondo</title><TopicText>
+Ciò è la parte importante. Parte che cosa 
+avete fatto con altri. Trasmetta la vostra lima su ordinazione 
+del consigliere a tarot@lazy8.nu in moda da poterli includerli noi nel
+rilascio seguente 'di jTarot e di Runes. Allora diventerete "un 
+consigliere" 'nel jTarot ed in Runes.
+</TopicText></Topic>
+<Topic index="30" issubtopic="false" ><title>Come traduco questo programma in altra lingua?</title><TopicText>
+'il jTarot e la latta del Runes mostrano tutto il testo in
+qualunque lingua. La maggior parte delle traduzioni sono state 
+fatte da un calcolatore. Ciò significa che sono qualità molto 
+povera. Abbiamo bisogno del vostro aiuto di tradurre in 
+altre lingue e di migliorare la qualità delle traduzioni correnti. 
+Faccia i seguenti punti per tradurre 'il jTarot e Runes:
+</TopicText></Topic>
+<Topic index="31" issubtopic="true" ><title>Traduca il consigliere su ordinazione</title><TopicText>
+Segua semplicemente le istruzioni nella sezione 
+"come genero le mie proprie definizioni per ogni immagine?" 
+quale la volontà ad un punto genera un difetto di tutte le 
+definizioni. Prenda quei defintions e semplicemente traduca alla
+vostra lingua (o agli errori corretti nelle traduzioni correnti) 
+invece di scrittura del defintions. completamente nuovo.
+</TopicText></Topic>
+<Topic index="32" issubtopic="true" ><title>Traduca i menu, le disposizioni e più</title><TopicText>
+Segua basicamente le stesse istruzioni che trovate
+nella sezione "come genero le mie proprie definizioni per ogni 
+immagine?" salvo che generate le lime "dalle traduzioni della 
+disposizione", "dalle traduzioni del messaggio e del menu" e "dalle 
+traduzioni di oracolo."
+</TopicText></Topic>
+
+<Topic index="33" issubtopic="true" ><title>Traduca 'l'aiuto '</title><TopicText>
+Vada al menu "Ha avanzato -&gt;Translate l'aiuto alla
+vostra lingua". La prima volta selezionate questo menu quindi ha
+colpito il tasto "dell'annullamento" nel primo dialogo che compare. 
+Quel senso, tutte le traduzioni in inglese di difetto allora 
+sembrerà in una finestra affinchè traduca. Quando siete 
+traduzione fatta, allora chiuda la finestra con la X nel angolo destro
+superiore (per la maggior parte dei sistemi operativi). Allora 
+otterrete un terzo dialogo vi che chiedete che affinchè un nome e un 
+posto mettano le traduzioni archivi. Assegni tutto il nome e un 
+posto che potete trovare facilmente ancora e colpire "GIUSTO". 
+Allora sarete chiesti se desiderate questo essere la vostra lima
+di lingua di difetto e probabilmente rispondete a "sì." Se 
+desiderate registrare ancora le vostre traduzioni, quindi l'and ancora
+una volta al menu "Ha avanzato -&gt;Translate l'aiuto alla vostra lingua"
+e seleziona la lima che avete conservato precedentemente appena.
+</TopicText></Topic>
+<Topic index="34" issubtopic="false" ><title>Casualità - come 'il jTarot e Runes seleziona una scheda</title><TopicText>
+'jTarot e disposizioni del Runes tutte le schede 
+nella piattaforma fuori per voi da scegliere per da ogni disposizione.
+Quel senso voi, o forse il vostro subcosciente, ha controllo 
+completo sopra cui cardano è selezionato per ogni posizione nella 
+disposizione. Il senso che le schede sono shuffeled prima della 
+presentazione "della faccia giù" sta usando la tecnica tradizionale 
+del calcolatore di afferrare il tempo corrente nei millisecondi e di 
+takeing quel volta come numero della radice in un numero che genera la
+procedura. Se avete choosen "permettono le schede d'inversione" 
+allora che la tecnica di selezione è poco un più complesso. Se
+o non una scheda "è invertita" dipende da quale millisecondo scattate
+sopra la scheda che desiderate per quella posizione. Dal momento
+che scattate sopra la scheda allora il tempo è afferrato, quel volta 
+è usato come radice al numero che genera la procedura, il primo 
+numero è ottenuto dalla procedura e se quel numero è in certa gamma,
+dalla scheda è invertito, se non nella gamma, la scheda non è 
+invertita. Di nuovo, questo è il senso che migliore potrei 
+fornire per assicurarsi il vostro subcosciente sia quello nel 
+controllo della procedura di selezione della scheda.
+</TopicText></Topic>
+<Topic index="35" issubtopic="false" ><title>Come posso contribuire il mio tempo a questo progetto?</title><TopicText>
+'il jTarot e la volontà del Runes non chiedono mai a 
+qualcuno soldi ma se realmente avete goduto questo programma e 
+desiderate contribuire al progetto, abbiamo bisogno del vostro aiuto! 
+Il seguenti sono suggerimenti a come potete aiutare.
+</TopicText></Topic>
+<Topic index="36" issubtopic="true" ><title>Faccia le vostre proprie definizioni della scheda</title><TopicText>
+Se li ritenete avere certa esperienza con tarot, 
+potete presentare a tarot@lazy8.nu le vostre proprie definizioni della
+scheda ed essere "un consigliere" 'nel jTarot ed in Runes. Segua
+semplicemente le istruzioni nella sezione "come genero le mie proprie 
+definizioni per ogni scheda?" per generare le vostre proprie 
+definizioni.
+
+</TopicText></Topic>
+<Topic index="37" issubtopic="true" ><title>Traduca 'il jTarot e Runes ad un'altra lingua</title><TopicText>
+Se siete fluenti in altra lingua oltre all'inglese
+allora li abbiamo bisogno di tradurre 'il jTarot e Runes nella vostra 
+altra lingua. Segua semplicemente i punti nella sezione "come 
+traduco questo programma un'altra lingua?" e trasmetta a 
+tarot@lazy8.nu le vostre lime che generate.
+</TopicText></Topic>
+<Topic index="38" issubtopic="true" ><title>Presenti una nuova piattaforma</title><TopicText>
+Con i menu avanzati, potete generare una 
+piattaforma di difetto come esempio a come una piattaforma può essere
+definita 'nel jTarot ed in Runes. Allora potete uno generare la 
+vostra propria piattaforma da quell'esempio o ottenere il permesso da 
+qualcuno esplorare le loro immagini per 'jTarot e Runes. Allora 
+trasmettali a tarot@lazy8.nu e saranno inclusi nella versione seguente
+'di jTarot e di Runes.
+</TopicText></Topic>
+<Topic index="39" issubtopic="true" ><title>Programmazione</title><TopicText>
+Se gradite Java che si programma e desiderate fare
+alcuni cambiamenti a questo programma. Trasmetta i vostri 
+cambiamenti a tarot@lazy8.nu. Il codice a questo programma è 
+incluso in questa lima del vaso.
+</TopicText></Topic>
+<Topic index="40" issubtopic="false" ><title>Come segnalare un errore di programma</title><TopicText>
+Se pensate il programma sta facendo male qualcosa,
+arrestandosi o congelando, allora potete aiutare segnalando il 
+problema. Vada al menu "Ha avanzato -&gt;Report un errore di 
+programma" e seguono le istruzioni nella finestra che compare.
+
+</TopicText></Topic>
+<Topic index="41" issubtopic="false" ><title>Codifichi Il Copyright</title><TopicText>
+Copyright © 2007 tarot@lazy8.nu Thomas 
+Dilts. Questo programma è software libero; potete 
+ridistribuirli e/o modificarli sotto i termini dell'autorizzazione del
+grande pubblico di GNU come pubblicati dal fondamento libero del 
+software; versione 2 dell'autorizzazione, o (alla vostra 
+opzione) qualsiasi versione successiva. Questo programma è 
+distribuito nella speranza che sarà utile, ma SENZA ALCUNA GARANZIA; 
+senza persino la garanzia implicita di MERCHANTABILITY o di 
+IDONEITÀ PER Uno SCOPO PRECISO. Veda l'autorizzazione del 
+grande pubblico di GNU per più particolari. Dovreste ricevere 
+una copia dell'autorizzazione del grande pubblico di GNU con questo 
+programma; se non, scriva ai Free Software Foundation, Inc., un 
+posto dei 59 tempiali, il suite 330, Boston, il mA 02111-1307 S.U.A. 
+per le più informazioni, il surf a http://www.tarot.lazy8.nu o il 
+email tarot@lazy8.nu
+</TopicText></Topic>
+<Topic index="42" issubtopic="false" ><title>Ora trasferisca il software dal sistema centrale 
+verso i satelliti!</title><TopicText>
+Segua con attenzione le seguenti istruzioni ora per 
+trasferire il software dal sistema centrale verso i satelliti:
+</TopicText></Topic>
+<Topic index="43" issubtopic="true" ><title>Dovete in primo luogo ottenere Java del sun</title><TopicText>
+&lt;p&gt;Dovete in primo luogo avere Java del sun. 
+Scatti sopra il seguente collegamento per il uno o il altro 
+controllo se avete soli Java o installarlo.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://java.com/">http://java.com/&lt;/a&gt;&lt;/p&gt;</TopicText></Topic>
+
+<Topic index="44" issubtopic="true" ><title>Trasferisca una dal sistema centrale verso i 
+satelliti di seguenti due versioni 'di jTarot e di Runes</title><TopicText>
+&lt;p&gt;Scatti sopra uno di seguenti due collegamenti per 
+trasferire 'il jTarot e Runes dal sistema centrale verso i satelliti:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jnlp">Costi la versione riservata libera. Scattandoli qui 
+accosenta per non copiare, non alterare o non ridistribuire 
+questa versione. Questa versione contiene l'illustrazione ed i 
+testi supplementari dagli artisti e dagli autori conosciuti che 
+desiderano proteggere il loro copyright.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotFree.jnlp">Le limitazioni liberano la versione. Scattandoli qui
+accosenta per copiare, alterare o ridistribuire soltanto questa
+versione secondo "l'autorizzazione del grande pubblico di GNU"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Quando scattate sopra uno dei collegamenti qui 
+sopra, il jTarot sarà trasferito ed iniziato da un programma chiamato
+"inizio di fotoricettore del Java." In avvenire dovete soltanto 
+iniziare "l'inizio di fotoricettore del Java" per iniziare il jTarot. 
+Se non potete trovare "l'inizio di fotoricettore del Java" nei 
+vostri menu, allora in finestre, potete trovare il programma "javaws" 
+dentro&lt;/p&gt;&lt;p&gt;
+c:\ProgramFiles\Java\jre1.5.0_0?\bin\javaws&lt;/p&gt;&lt;p&gt;  Si noti che il nome di ProgramFiles può cambiare
+secondo la vostra lingua. Faccia una scorciatoia a questo 
+programma sul vostro tavolo perché lo userete mólto: -)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Se preferiste provare a trasferire ed eseguire una lima 
+dal sistema centrale verso i satelliti "del vaso" anziché la tecnica 
+descritta precedentemente, scatti sopra uno dei due collegamenti 
+seguenti e conservi la lima al vostro tavolo. Windows proverà a
+cambiare il nome della lima trasferita all'estremità con "zip" ma 
+dovete andare manualmente dentro e cambiare il nome all'estremità con
+"jar" preferibilmente: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jar">Versione riservata libera di costo. Scattandoli qui 
+accosenta per non copiare, non alterare o non ridistribuire 
+questa versione. Questa versione contiene l'illustrazione ed i 
+testi supplementari dagli artisti e dagli autori conosciuti che 
+desiderano proteggere il loro copyright.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarot.jar">Le limitazioni liberano la versione. Scattandoli qui
+accosenta per copiare, alterare o ridistribuire soltanto questa
+versione secondo "l'autorizzazione del grande pubblico di GNU"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Per iniziare la lima del vaso del jTarot, 
+cominciare alla parte superiore di seguente lista e funzionare il 
+vostro senso giù ed arrestarsi quando infine avete iniziato il 
+jTarot.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Doppio scatti sopra la lima che avete trasferito. Se
+il jTarot non comincia, continui al punto seguente.
+&lt;/li&gt;&lt;li&gt;
+Radrizzi scattano sopra la lima che avete trasferito. 
+Vada al menu del popup "si aprono con" e selezionano la 
+piattaforma 2....."del Java del menu" (TM)  
+
+&lt;/li&gt;&lt;li&gt;Se il menu "Java (TM) 2 che la piattaforma....." 
+non è nel menu del popup "aperto con" allora sceglie il menu del 
+popup "si apre con" ed allora "scelga il programma" e continui 
+selezionare la piattaforma chiamata 2....."del Java di programma (nel 
+dialogo che compare)" (TM)
+&lt;/li&gt;&lt;li&gt; Se ritrovamento cant piattaforma 2....."del Java 
+di programma" (TM) nel dialogo, allora andate di nuovo "dovete in 
+primo luogo ottenere al punto del Java del sun" ed installare Java
+&lt;/li&gt;&lt;/ul&gt;</TopicText></Topic>
+<Topic index="45" issubtopic="true" ><title>Se il jTarot ancora non comincia</title><TopicText>
+&lt;p&gt;Che cosa dovrebbe accadere quando avete scattato 
+sopra uno ai dei due collegamenti superiori, è che avete trasferito 
+una lima dal sistema centrale verso i satelliti al vostro harddisk. 
+Allora quando avete seguito la lista delle istruzioni, il jTarot
+dovrebbe cominciare.&lt;/p&gt; 
+&lt;p&gt;Se avete il linux (o tutto altrimenti venuto a mancare in 
+finestre), potreste avere bisogno di di fare funzionare il seguente 
+ordine in una finestra di ordine:&lt;/p&gt;
+
+&lt;p&gt;(percorso a java/bin directory)/java -jar jTarot.jar&lt;/p&gt;
+
+&lt;p&gt;o forse&lt;/p&gt;
+
+&lt;p&gt;(percorso a java/bin directory)/java -jar jTarotNonFree.jar&lt;/p&gt;
+
+&lt;p&gt;secondo la versione di tarot avete trasferito.&lt;/p&gt;
+</TopicText></Topic>
+</jTarotHelp>

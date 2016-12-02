@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="contrib"/>
+	<classpathentry kind="src" path="lib/MpegAudioSPI1.9.4/src"/>
+	<classpathentry kind="src" path="lib/MpegAudioSPI1.9.4/srctest"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="lib/jogl/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jogl/jogl.jar"/>
+	<classpathentry kind="lib" path="lib/MpegAudioSPI1.9.4/lib/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/MpegAudioSPI1.9.4/lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/MpegAudioSPI1.9.4/mp3spi1.9.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

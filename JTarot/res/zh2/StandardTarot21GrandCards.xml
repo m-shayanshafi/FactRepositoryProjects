@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">盛大來源傳播(Cortese)</entry>
+	<entry key="Description">"這是好的一般使用傳播為給決議的一張整體圖片問題從前或未來。它買得起機會審查內在和外面影響在行動被採取之前, 行動, 行動, 決議的進步的開始或刺激, 並且什麼內在和外面作用這將有。它也許並且行動突出問題uppermost 在querent 的頭腦裡也許回答的過程, 雖然它不能給答復。" - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">內在影響1</entry><entry key="Meaning1">內在影響在工作, 刺激querent, 或什麼querent 願望學會</entry>
+	<entry key="PositionTitle2">內在影響2</entry><entry key="Meaning2">內在影響在工作, 刺激querent, 或什麼querent 願望學會</entry>
+	<entry key="PositionTitle3">內在影響3</entry><entry key="Meaning3">內在影響在工作, 刺激querent, 或什麼querent 願望學會</entry>
+	<entry key="PositionTitle4">外面影響1</entry><entry key="Meaning4">外面影響、或影響從人或事在querent 之外也許導致querent 問他們的問題</entry>
+	<entry key="PositionTitle5">外面影響2</entry><entry key="Meaning5">外面影響、或影響從人或事在querent 之外也許導致querent 問他們的問題</entry>
+	<entry key="PositionTitle6">外面影響3</entry><entry key="Meaning6">外面影響、或影響從人或事在querent 之外也許導致querent 問他們的問題</entry>
+	<entry key="PositionTitle7">種子</entry><entry key="Meaning7">將增長將被回答行動、種子, 或問題的_蒙</entry>
+	<entry key="PositionTitle8">起點1</entry><entry key="Meaning8">行動的最初的階段</entry>
+	<entry key="PositionTitle9">起點2</entry><entry key="Meaning9">修改卡片9 ' 起點1 ' 。它也許給querent 有在頭腦裡結果的一張朦朧的圖片, 或這也許簡單地是行動的起點的一次進一步考試在研究中。</entry>
+	<entry key="PositionTitle10">進展1</entry><entry key="Meaning10">結果達到的方法</entry>
+	<entry key="PositionTitle11">進展2</entry><entry key="Meaning11">修改卡片11 ' 進展1 ' 相似擬訂10 擬訂9
+。</entry>
+	<entry key="PositionTitle12">變動1</entry><entry key="Meaning12">可能的變化在計劃上, 或決議。這張卡片也許用於審查querent 意志必須改變路線在中途的所有方式。</entry>
+	<entry key="PositionTitle13">變動2</entry><entry key="Meaning13">修改卡片13 ' 變動1 ' 相似擬訂10 擬訂9
+。</entry>
+	<entry key="PositionTitle14">結果9-14</entry><entry key="Meaning14">過程的結果被概述在卡片9 - 14 。</entry>
+	<entry key="PositionTitle15">對querent 1 的作用</entry><entry key="Meaning15">決議的可能的作用對querent 的</entry>
+	<entry key="PositionTitle16">對querent 2 的作用</entry><entry key="Meaning16">決議的可能的作用對querent 的</entry>
+	<entry key="PositionTitle17">對querent 3 的作用</entry><entry key="Meaning17">決議的可能的作用對querent 的</entry>
+	<entry key="PositionTitle18">對環境的作用1</entry><entry key="Meaning18">決議的可能的作用對事不同於querent 或對querent 的關係對世界在him/her 附近。</entry>
+	<entry key="PositionTitle19">對環境的作用2</entry><entry key="Meaning19">決議的可能的作用對事不同於querent 或對querent 的關係對世界在him/her 附近。</entry>
+	<entry key="PositionTitle20">對環境的作用3</entry><entry key="Meaning20">決議的可能的作用對事不同於querent 或對querent 的關係對世界在him/her 附近。</entry>
+</oracleio>

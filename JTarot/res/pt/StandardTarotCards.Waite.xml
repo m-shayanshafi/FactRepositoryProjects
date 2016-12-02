@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="pt" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">tolo 0-The</entry><entry key="ObjectMeaning0">Folly, mania, extravagance, intoxication, delirium, 
+frenzy, bewrayment.</entry>
+	<entry key="ObjectTitle1">mágico 1-The</entry><entry key="ObjectMeaning1">Habilidade, diplomacy, endereço, subtlety; 
+doença, dor, perda, disastre, snares dos inimigos; 
+self-confidence, vontade; o Querent, se macho.</entry>
+	<entry key="ObjectTitle2">Priestess 2-The Elevado</entry><entry key="ObjectMeaning2">Os segredos, mistério, o futuro ainda unrevealed; 
+a mulher que interessa o Querent, se macho; o Querent ela 
+mesma, se fêmea; silêncio, tenacity; mistério, 
+sabedoria, ciência.</entry>
+	<entry key="ObjectTitle3">empress 3-The</entry><entry key="ObjectMeaning3">Fruitfulness, ação, iniciativa, comprimento dos dias;
+o desconhecido, clandestine; também dificuldade, dúvida,
+ignorance.</entry>
+	<entry key="ObjectTitle4">emperor 4-The</entry><entry key="ObjectMeaning4">Estabilidade, poder, proteção, realization; uma
+pessoa grande; dae (dispositivo automático de entrada), razão,
+convicção; também autoridade e vontade.</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">União, alliance, captiveiro, servitude; por um 
+outro cliente, mercê e goodness; inspiração; o homem a 
+quem o Querent tem o recourse.</entry>
+	<entry key="ObjectTitle6">amantes 6-The</entry><entry key="ObjectMeaning6">Atração, amor, beleza, experimentações superadas.</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Succour, providence também guerreia, triunfa, 
+presunção, vengeance, problema.</entry>
+	<entry key="ObjectTitle8">8-Forças</entry><entry key="ObjectMeaning8">Poder, energia, ação, coragem, magnanimity; 
+termine também o sucesso e as honras.</entry>
+	<entry key="ObjectTitle9">hermit 9-The</entry><entry key="ObjectMeaning9">Prudence, circumspection; também e especial 
+treason, dissimulation, roguery, corruption.</entry>
+	<entry key="ObjectTitle10">10-Wheel da fortuna</entry><entry key="ObjectMeaning10">Destiny, fortuna, sucesso, elevação, sorte, felicity.</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Equidade, rightness, probity, executivo; triunfo 
+do lado merecendo na lei.</entry>
+	<entry key="ObjectTitle12">12-The pendurou o homem</entry><entry key="ObjectMeaning12">Sabedoria, circumspection, discernment, 
+experimentações, sacrifício, intuition, divination, profecia.</entry>
+	<entry key="ObjectTitle13">13-Morte</entry><entry key="ObjectMeaning13">Extremidade, mortality, destruição, corruption 
+também, para um homem, a perda de um benfeitor para uma mulher, 
+muitas oposições; para uma empregada doméstica, a falha da 
+união projeta-se.</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Economia, moderation, frugality, gerência, 
+acomodação.</entry>
+	<entry key="ObjectTitle15">diabo 15-The</entry><entry key="ObjectMeaning15">Ravage, violência, vehemence, esforços 
+extraordinários, força, fatality; isso que predestined mas 
+não é para este evil da razão.</entry>
+	<entry key="ObjectTitle16">torre 16-The</entry><entry key="ObjectMeaning16">Miséria, aflição, indigence, adversity, calamity, 
+desonra, deception, ruína. É um cartão no detalhe de 
+catastrophe unforeseen.</entry>
+	<entry key="ObjectTitle17">estrela 17-The</entry><entry key="ObjectMeaning17">Perda, roubo, privation, abandono; uma outra 
+dig-esperança da leitura e prospetos brilhantes,</entry>
+	<entry key="ObjectTitle18">lua 18-The</entry><entry key="ObjectMeaning18">Inimigos escondidos, perigo, calumny, escuridão, 
+terror, deception, forças occult, erro.</entry>
+	<entry key="ObjectTitle19">sol 19-The</entry><entry key="ObjectMeaning19">Felicidade material, união afortunada, contentment.</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Mudança da posição, renovação, resultado. Um
+outro cliente especifica o lawsuit total da perda though.</entry>
+	<entry key="ObjectTitle21">mundo 21-The</entry><entry key="ObjectMeaning21">Sucesso assegurado, recompense, viagem, rota, 
+emigration, vôo, mudança do lugar.</entry>
+	<entry key="ObjectTitle22">Ace dos copos</entry><entry key="ObjectMeaning22">Casa do coração verdadeiro, alegria, índice, 
+domicílio, nourishment, abundância, fertilidade; Tabela holy, 
+felicity disto.</entry>
+	<entry key="ObjectTitle23">Dois dos copos</entry><entry key="ObjectMeaning23">Amor, paixão, friendship, afinidade, união, concord, 
+sympathy, o interrelation dos sexos, e -- como uma sugestão aparte de
+todos os escritórios do divination -- esse desejo que não está na 
+natureza, mas pelo que natureza é sanctified.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Favourable nas coisas do prazer e do negócio, as.well.as
+o amor; também riqueza e honra.</entry>
+	<entry key="ObjectTitle24">Três dos copos</entry><entry key="ObjectMeaning24">A conclusão de alguma matéria na abundância, na 
+perfeição e no merriment; edição feliz, vitória, 
+fulfilment, solace, healing,</entry>
+	<entry key="ObjectTitle25">Quatro dos copos</entry><entry key="ObjectMeaning25">Weariness, aversão, aversion, vexations imaginários, 
+como se o vinho deste mundo tinha causado o satiety somente; um 
+outro vinho, como se um presente fairy, é oferecido agora o wastrel, 
+mas não vê nenhum consolation nisso. Este é também um 
+cartão do prazer misturado.</entry>
+	<entry key="ObjectTitle26">Cinco dos copos</entry><entry key="ObjectMeaning26">É um cartão da perda, mas algo remanesce sobre; 
+três foram feitos exame, mas dois são deixados; é um 
+cartão do inheritance, patrimony, transmissão, mas não corresponder
+às expectativas; com alguns intérpretes é um cartão da 
+união, mas não sem bitterness ou frustração.</entry>
+	<entry key="ObjectTitle27">Seis dos copos</entry><entry key="ObjectMeaning27">Um cartão do passado e das memórias, olhando 
+traseiro, como -- para o exemplo -- na infância; felicidade, 
+apreciação, mas vinda rather do passado; coisas que 
+desapareceram. Uma outra leitura inverte esta, dando relações 
+novas, conhecimento novo, ambiente novo, e então as crianças 
+disporting em um precinct estranho.</entry>
+	<entry key="ObjectTitle28">Sete dos copos</entry><entry key="ObjectMeaning28">Favores fairy, imagens da reflexão, sentiment, 
+imaginação, coisas vistas no vidro do contemplation; alguma 
+realização nestes graus, mas nada permanente ou o substancial são 
+sugeridos.</entry>
+	<entry key="ObjectTitle29">Oito dos copos</entry><entry key="ObjectMeaning29">O cartão fala para se na superfície, mas outras 
+leituras são inteiramente antithetical -- dar a alegria, mildness, 
+timidity, honra, modesty. Na prática, encontra-se geralmente 
+que o cartão shews o declínio de uma matéria, ou que uma matéria 
+que seja pensada para ser importante é realmente da conseqüência 
+ligeira -- para bom ou evil.</entry>
+	<entry key="ObjectTitle30">Nove dos copos</entry><entry key="ObjectMeaning30">Concord, contentment, bien-?tre físico; também 
+vitória, sucesso, vantagem; satisfação para o Querent ou a 
+pessoa para quem o consultation é feito.</entry>
+	<entry key="ObjectTitle31">Dez dos copos</entry><entry key="ObjectMeaning31">Contentment, repose do coração inteiro; a 
+perfeição desse estado; também perfeição do amor e do 
+friendship humanos; se com diversos retrato-cartões, uma pessoa
+que esteja fazendo exame da carga dos interesses do Querent; 
+também a cidade, a vila ou o país habitada pelo Querent.</entry>
+	<entry key="ObjectTitle32">Página dos copos</entry><entry key="ObjectMeaning32">Homem novo justo, um impelled para render o serviço e 
+com quem o Querent será conectado; uma juventude estudiosa; 
+notícia, mensagem; aplicação, reflexão, meditation; 
+também estas coisas dirigidas ao negócio.</entry>
+	<entry key="ObjectTitle33">Knight dos copos</entry><entry key="ObjectMeaning33">Chegada, aproximação -- às vezes aquela de um 
+mensageiro; avanços, proposition, demeanour, invitation, 
+incitement.</entry>
+	<entry key="ObjectTitle34">Rainha dos copos</entry><entry key="ObjectMeaning34">Mulher boa, justa; mulher honesta, devotada, que 
+fará o serviço ao Querent; inteligência loving, e daqui o 
+presente da visão; sucesso, felicidade, prazer; também 
+sabedoria, virtue; um esposo perfeito e uma mãe boa.</entry>
+	<entry key="ObjectTitle35">Rei dos copos</entry><entry key="ObjectMeaning35">Homem justo, homem de negócio, lei, ou divinity; 
+responsável, disposto obrigar o Querent; também 
+equidade, arte e ciência, including aquelas que professam a ciência,
+a lei e a arte; inteligência creativa.</entry>
+	<entry key="ObjectTitle36">Ace de Pentacles</entry><entry key="ObjectMeaning36">Contentment perfeito, felicity, ecstasy; 
+inteligência também speedy; ouro &lt; p&gt;Additional 
+meanings:&lt;/p&gt;The o mais favorável de todos os cartões.</entry>
+	<entry key="ObjectTitle37">Dois de Pentacles</entry><entry key="ObjectMeaning37">Na uma mão é representado como um cartão da alegria,
+da recreação e das suas conexões, que é o assunto do projeto; 
+mas lê-se também como a notícia e as mensagens na escrita, 
+como obstáculos, agitation, problema, embroilment.</entry>
+	<entry key="ObjectTitle38">Três de Pentacles</entry><entry key="ObjectMeaning38">Comércio, trabalho hábil; geralmente, 
+entretanto, considerado como um cartão do nobility, aristocracy, 
+renown, glory.</entry>
+	<entry key="ObjectTitle39">Quatro de Pentacles</entry><entry key="ObjectMeaning39">O surety das possessões, cleaving àquele que uma tem,
+presente, legacy, inheritance.</entry>
+	<entry key="ObjectTitle40">Cinco de Pentacles</entry><entry key="ObjectMeaning40">O cartão foretells o problema material sobretudo, se 
+no formulário ilustrou -- isto é, destitution -- ou de outra 
+maneira. Para alguns cartomancists, é um cartão do amor e da 
+amante-esposa, marido, amigo, mistress; também concordância, 
+afinidaoes. Estas alternativas não podem harmonized.</entry>
+	<entry key="ObjectTitle41">Seis de Pentacles</entry><entry key="ObjectMeaning41">Presente, os presentes, o gratification um outro 
+cliente diz a atenção, vigilance são agora a prosperidade aceitada 
+do tempo, a atual, etc..</entry>
+	<entry key="ObjectTitle42">Sete de Pentacles</entry><entry key="ObjectMeaning42">Estes são exceedingly contradictory; no cano 
+principal, é um cartão do dinheiro, negócio, barter; mas uma 
+leitura dá o altercation, discussões -- e outro innocence, 
+ingenuity, purgation.</entry>
+	<entry key="ObjectTitle43">Oito de Pentacles</entry><entry key="ObjectMeaning43">Trabalho, emprego, commission, craftsmanship, 
+habilidade no ofício e negócio, talvez no estágio preparatório.</entry>
+	<entry key="ObjectTitle44">Nove de Pentacles</entry><entry key="ObjectMeaning44">Prudence, segurança, sucesso, realização, certitude,
+discernment.</entry>
+	<entry key="ObjectTitle45">Dez de Pentacles</entry><entry key="ObjectMeaning45">Ganho, riches; a família importa, arquivos, 
+extração, o domicílio de uma família.</entry>
+	<entry key="ObjectTitle46">Página de Pentacles</entry><entry key="ObjectMeaning46">Aplicação, estudo, scholarship, a reflexão uma outra
+leitura diz a notícia, as mensagens e o bringer disso; também 
+régua, gerência.</entry>
+	<entry key="ObjectTitle47">Knight de Pentacles</entry><entry key="ObjectMeaning47">Utilidade, serviceableness, interesse, 
+responsabilidade, rectitude-toda sobre o plano normal e externo.</entry>
+	<entry key="ObjectTitle48">Rainha de Pentacles</entry><entry key="ObjectMeaning48">Opulence, generosity, magnificence, segurança, 
+liberdade.</entry>
+	<entry key="ObjectTitle49">Rei de Pentacles</entry><entry key="ObjectMeaning49">Valour, realizando a inteligência, o negócio e 
+aptidão intelectual normal, presentes às vezes matemáticos e 
+realizações deste tipo; sucesso nestes trajetos.</entry>
+	<entry key="ObjectTitle50">Ace das espadas</entry><entry key="ObjectMeaning50">Triunfo, o grau excessivo em tudo, conquest, triunfo da
+força. É um cartão da força grande, no amor as.well.as no 
+hatred. A coroa pode carregar um significado muito mais elevado 
+do que vem geralmente dentro da esfera de fortuna-dizer.</entry>
+	<entry key="ObjectTitle51">Duas das espadas</entry><entry key="ObjectMeaning51">Conformity e o equipoise que sugere, coragem, 
+friendship, concord em um estado dos braços; uma outra leitura 
+dá o tenderness, afeição, intimacy. A sugestão da harmonia e
+outras leituras favoráveis devem ser consideradas em uma maneira 
+qualificada, porque as espadas não são geralmente symbolical de 
+forças beneficent em casos humanos.</entry>
+	<entry key="ObjectTitle52">Três das espadas</entry><entry key="ObjectMeaning52">A remoção, ausência, atrasa, divisão, ruptura, 
+dispersão, e tudo que o projeto significa naturalmente, sendo 
+demasiado simples e óbvio chamar-se para a enumeração específica.</entry>
+	<entry key="ObjectTitle53">Quatro das espadas</entry><entry key="ObjectMeaning53">Vigilance, recuo, solitude, repose do hermit, exile, 
+túmulo e caixão. É esta último que sugeriu o projeto.</entry>
+	<entry key="ObjectTitle54">Cinco das espadas</entry><entry key="ObjectMeaning54">Degradação, destruição, revogação, infamy, 
+dishonour, perda, com os variants e os analogues destes.</entry>
+	<entry key="ObjectTitle55">Seis das espadas</entry><entry key="ObjectMeaning55">Viaje pela água, rota, maneira, envoy, commissionary, 
+expediente.</entry>
+	<entry key="ObjectTitle56">Sete das espadas</entry><entry key="ObjectMeaning56">Projete, tente, deseje, espere, confiança; 
+também discutindo, uma planta que possa falhar, annoyance. 
+O projeto é incerto em sua importação, porque os 
+significations estão extensamente na variação com se.</entry>
+	<entry key="ObjectTitle57">Oito das espadas</entry><entry key="ObjectMeaning57">Notícia má, chagrin violento, crise, censure, poder 
+nos trammels, conflito, calumny; também doença.</entry>
+	<entry key="ObjectTitle58">Nove das espadas</entry><entry key="ObjectMeaning58">A morte, falha, miscarriage, atrasa, deception, 
+desapontamento, desespero.</entry>
+	<entry key="ObjectTitle59">Dez das espadas</entry><entry key="ObjectMeaning59">Qualquer intimated pelo projeto; também dor, 
+affliction, rasgos, sadness, desolation. Não é especial um 
+cartão da morte violenta.</entry>
+	<entry key="ObjectTitle60">Página das espadas</entry><entry key="ObjectMeaning60">Autoridade, overseeing, serviço secreto, vigilance, 
+espiar, examinação, e as qualidades que pertencem a isso.</entry>
+	<entry key="ObjectTitle61">Knight das espadas</entry><entry key="ObjectMeaning61">Habilidade, bravura, capacidade, defesa, endereço, 
+enmity, wrath, guerra, destruição, oposição, resistência, ruína.
+Há conseqüentemente um sentido em que o cartão significa a 
+morte, mas carrega este meaning somente em sua proximidade a outros 
+cartões do fatality.</entry>
+	<entry key="ObjectTitle62">Rainha das espadas</entry><entry key="ObjectMeaning62">Widowhood, sadness fêmea e embarrassment, ausência, 
+sterility, mourning, privation, separação.</entry>
+	<entry key="ObjectTitle63">Rei das espadas</entry><entry key="ObjectMeaning63">Qualquer levanta-se fora da idéia do julgamento e de 
+todo seu conexão-poder, comando, autoridade, inteligência militant, 
+lei, escritórios da coroa, e assim por diante.</entry>
+	<entry key="ObjectTitle64">Ace dos wands</entry><entry key="ObjectMeaning64">Criação, invenção, empresa, os poders que resultam 
+nestes; princípio, começo, fonte; nascimento, família, 
+origem, e em um sentido o virility que é atrás deles; o ponto 
+começar das empresas; de acordo com um outro cliente, dinheiro,
+fortuna, inheritance.</entry>
+	<entry key="ObjectTitle65">Dois dos wands</entry><entry key="ObjectMeaning65">Entre as leituras alternativas não há nenhuma união 
+possível; na uma mão, riches, fortuna, magnificence; no 
+outro, sofrimento físico, doença, chagrin, sadness, mortification. 
+O projeto dá uma sugestão; está aqui um senhor que 
+negligencia seu dominion e que contempla alternadamente um globo; 
+olha como o malady, o mortification, o sadness de Alexander 
+entre o grandeur de wealth.&lt;p&gt;Additional meanings:&lt;/p&gt;A que deste 
+mundo a senhora nova pode esperar desapontamentos trivial.</entry>
+	<entry key="ObjectTitle66">Três dos wands</entry><entry key="ObjectMeaning66">Symbolizes estabeleceu a força, empresa, esforço, 
+comércio, comércio, descoberta; aqueles são seus navios, 
+carregando sua mercadoria, que sailing sobre o mar. O cartão 
+significa também a cooperação capaz no negócio, como se o 
+príncipe mercante bem sucedido estava olhando de seu lado para seu 
+com uma vista para ajudar ao cartão muito bom de you.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;A; a colaboração favorecerá a empresa.</entry>
+	<entry key="ObjectTitle67">Quatro dos wands</entry><entry key="ObjectMeaning67">São para uma vez quase na superfície -- vida de 
+país, haven do refúgio, uma espécie do colheita-repouso doméstico,
+repose, concord, harmonia, prosperidade, paz, e o trabalho 
+aperfeiçoado destes.</entry>
+	<entry key="ObjectTitle68">Cinco dos wands</entry><entry key="ObjectMeaning68">Imitation, as, para o exemplo, a luta do sham, mas 
+também a competição e o esforço árduos da busca após riches e 
+fortuna. Neste sentido conecta com a batalha da vida. 
+Daqui alguns attributions dizem que é um cartão do ouro, 
+ganho, opulence.</entry>
+	<entry key="ObjectTitle69">Seis dos wands</entry><entry key="ObjectMeaning69">O cartão foi assim que projetou que pode cobrir 
+diversos significations; na superfície, é um vencedor que 
+triunfa, mas é também notícia grande, tal como pôde ser carregado 
+dentro indicam pelo correio do rei; é expectativa coroada com 
+seu próprio desejo, a coroa da esperança, e assim por diante.</entry>
+	<entry key="ObjectTitle70">Sete dos wands</entry><entry key="ObjectMeaning70">É um cartão do valour, para, na superfície, seis 
+está atacando um, que tem, entretanto, a posição vantage. No 
+plano intelectual, significa a discussão, strife wordy; no 
+negócio -- negociações, guerra do comércio, barter, competição. 
+É mais mais um cartão do sucesso, porque o combatente está no
+alto e seus inimigos podem ser incapazes de alcançar a criança da 
+obscuridade de him.&lt;p&gt;Additional meanings:&lt;/p&gt;A.</entry>
+	<entry key="ObjectTitle71">Oito dos wands</entry><entry key="ObjectMeaning71">Atividade nos empreendimentos, o trajeto de tal 
+atividade, swiftness, como aquele de um mensageiro expresso; 
+haste grande, esperança grande, velocidade para uma extremidade
+que prometa o felicity assegurado; geralmente, isso que está no
+movimento; também as setas de love.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Domestic disputam para uma pessoa casada.</entry>
+	<entry key="ObjectTitle72">Nove dos wands</entry><entry key="ObjectMeaning72">O cartão significa a força na oposição. Se 
+atacada, a pessoa encontrar-se-á com um onslaught corajosamente; 
+e sua configuração shews, isso que pode provar um antagonista 
+formidable. Com este significado principal há todos seus 
+adjuncts possíveis -- atrasa, a suspensão, adjournment.&lt;p&gt;Additional
+meanings:&lt;/p&gt;Generally que fala, um cartão mau.</entry>
+	<entry key="ObjectTitle73">Dez dos wands</entry><entry key="ObjectMeaning73">Um cartão de muitos significances, e alguns das 
+leituras não podem harmonized. Eu reservo aquele que o conecta 
+com a honra e a fé boa. O meaning principal é oppression 
+simplesmente, mas é também fortuna, ganho, qualquer tipo do sucesso,
+e então é o oppression destas coisas. É também um cartão de
+falso-parecer, disfarce, perfidy. O lugar que a figura está 
+aproximando pode sofrer das hastes que carrega. O sucesso é 
+stultified se as nove das espadas seguirem, e se for uma pergunta de 
+um lawsuit, haverá determinados loss.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Difficulties e contradictions, se perto de um cartão 
+bom.</entry>
+	<entry key="ObjectTitle74">Página dos wands</entry><entry key="ObjectMeaning74">Homem novo escuro, fiel, um amante, um envoy, um 
+postman. Ao lado de um homem, carregará o testimony favorável 
+a respeito dele. Um rival perigoso, se seguido pela página dos 
+copos. Tem as qualidades principais de seu terno. Pode 
+significar a inteligência da família.</entry>
+	<entry key="ObjectTitle75">Knight dos wands</entry><entry key="ObjectMeaning75">Partida, ausência, vôo, emigration. Um homem 
+novo escuro, amigável. Mudança de residência.</entry>
+	<entry key="ObjectTitle76">Rainha dos wands</entry><entry key="ObjectMeaning76">Uma mulher escura, countrywoman, amigável, chaste, 
+amar, honorável. Se o cartão ao lado dela significar um homem,
+está disposta bem para ele; se uma mulher, ela estiver 
+interessada no Querent. Também, amor do dinheiro, ou algum 
+sucesso no negócio.</entry>
+	<entry key="ObjectTitle77">Rei dos wands  </entry><entry key="ObjectMeaning77">Homem escuro, amigável, compatriota, casado 
+geralmente, honesto e consciencioso. O cartão significa sempre 
+o honesty, e pode significar a notícia a respeito de um heritage 
+inesperado cair dentro antes de muito por muito tempo.</entry>
+	<entry key="ReversedMeaning0">Negligence, ausência, distribuição, carelessness, apathy, 
+nullity, vanity.</entry>
+	<entry key="ReversedMeaning1">Médico, magus, doença mental, desonra, disquiet.</entry>
+	<entry key="ReversedMeaning2">Ardour da paixão, o moral ou o físico, conceit, conhecimento 
+de superfície.</entry>
+	<entry key="ReversedMeaning3">Luz, verdade, unravelling de matérias involvidas, rejoicings 
+públicos; de acordo com uma outra leitura, vacillation.</entry>
+	<entry key="ReversedMeaning4">Benevolence, compassion, crédito; também confusão aos 
+inimigos, obstrução, immaturity.</entry>
+	<entry key="ReversedMeaning5">Sociedade, compreensão boa, concord, overkindness, fraqueza.</entry>
+	<entry key="ReversedMeaning6">Falha, projetos foolish. Um outro cliente fala da união 
+frustrada e das oposições de todos os tipos.</entry>
+	<entry key="ReversedMeaning7">Motim, discussão, disputa, litigation, derrota.</entry>
+	<entry key="ReversedMeaning8">Despotism, abuso se poder, fraqueza, discord, às vezes mesmo 
+desonra.</entry>
+	<entry key="ReversedMeaning9">O concealment, disfarce, política, medo, unreasoned o cuidado.</entry>
+	<entry key="ReversedMeaning10">Aumento, abundância, superfluity.</entry>
+	<entry key="ReversedMeaning11">Lei em todos seus departamentos, complicações legais, bigotry,
+polarização, severidade excessiva.</entry>
+	<entry key="ReversedMeaning12">Selfishness, multidão, corpo politic.</entry>
+	<entry key="ReversedMeaning13">Inércia, sono, lethargy, petrifaction, somnambulism; a 
+esperança destruiu.</entry>
+	<entry key="ReversedMeaning14">As coisas conectaram com as igrejas, religiões, sects, o 
+priesthood, nivelam às vezes o priest que casará o Querent; 
+também disunion, combinações infelizes, interesses 
+competindo.</entry>
+	<entry key="ReversedMeaning15">Fatality evil, fraqueza, pettiness, blindness.</entry>
+	<entry key="ReversedMeaning16">De acordo com um cliente, o mesmos em pouco do grau oppression 
+também, aprisionamento, tyranny.</entry>
+	<entry key="ReversedMeaning17">Arrogance, haughtiness, impotence.</entry>
+	<entry key="ReversedMeaning18">Instabilidade, inconstancy, silêncio, poucos graus de deception
+e erro.</entry>
+	<entry key="ReversedMeaning19">O mesmos em pouco sentido.</entry>
+	<entry key="ReversedMeaning20">Fraqueza, pusillanimity, simplicity; também deliberation,
+decisão, sentença.</entry>
+	<entry key="ReversedMeaning21">Inércia, fixidez, stagnation, permanence.</entry>
+	<entry key="ReversedMeaning22">Mudança inesperada da posição.</entry>
+	<entry key="ReversedMeaning23">Paixão.</entry>
+	<entry key="ReversedMeaning24">Consolation, cura, fim do negócio.</entry>
+	<entry key="ReversedMeaning25">Presentiment.</entry>
+	<entry key="ReversedMeaning26">Retorno de algum parente que não foi visto para longo.</entry>
+	<entry key="ReversedMeaning27">Inheritance a cair dentro rapidamente.</entry>
+	<entry key="ReversedMeaning28">Sucesso, se acompanhado pelos três dos copos.</entry>
+	<entry key="ReversedMeaning29">Satisfação perfeita.</entry>
+	<entry key="ReversedMeaning30">Negócio bom.</entry>
+	<entry key="ReversedMeaning31">Sorrow; também uma discussão séria.</entry>
+	<entry key="ReversedMeaning32">Obstáculos de todos os tipos.</entry>
+	<entry key="ReversedMeaning33">Irregularidade.</entry>
+	<entry key="ReversedMeaning34">Uma união rica para um homem e distinta para uma mulher.</entry>
+	<entry key="ReversedMeaning35">Perda.</entry>
+	<entry key="ReversedMeaning36">O lado evil da riqueza, inteligência má; riches também 
+grandes. Em todo o caso que shews a prosperidade, 
+circunstâncias materiais confortáveis, mas se estes são da vantagem
+ao possessor dependerá sobre se o cartão está invertido ou não &lt; o
+p&gt;Additional meanings:&lt;/p &gt; uma parte em encontrar do tesouro.</entry>
+	<entry key="ReversedMeaning37">Omen mau, ignorance, injustice.</entry>
+	<entry key="ReversedMeaning38">Depende dos cartões neighbouring.</entry>
+	<entry key="ReversedMeaning39">Observação, hindrances.</entry>
+	<entry key="ReversedMeaning40">Problemas no amor.</entry>
+	<entry key="ReversedMeaning41">Uma verificação na ambição do Querent.</entry>
+	<entry key="ReversedMeaning42">Impatience, apprehension, suspeita.</entry>
+	<entry key="ReversedMeaning43">O Querent será comprometido em uma matéria de 
+dinheiro-emprestar.</entry>
+	<entry key="ReversedMeaning44">Esperanças vãs.</entry>
+	<entry key="ReversedMeaning45">Uma ocasião que possa ser afortunada ou de outra maneira.</entry>
+	<entry key="ReversedMeaning46">Às vezes degradação e às vezes pilhagem.</entry>
+	<entry key="ReversedMeaning47">Um homem bravo fora do emprego.</entry>
+	<entry key="ReversedMeaning48">Uma doença.</entry>
+	<entry key="ReversedMeaning49">Um homem velho e vicious.</entry>
+	<entry key="ReversedMeaning50">União partida, para uma mulher, com seu próprio imprudence.</entry>
+	<entry key="ReversedMeaning51">Transações com rogues.</entry>
+	<entry key="ReversedMeaning52">Uma reunião com uma quem o Querent comprometeu; também 
+um nun.</entry>
+	<entry key="ReversedMeaning53">Algum sucesso que segue a administração sábia.</entry>
+	<entry key="ReversedMeaning54">Um sinal do sorrow e de mourning.</entry>
+	<entry key="ReversedMeaning55">Introdução desfavorável do lawsuit.</entry>
+	<entry key="ReversedMeaning56">Conselho bom, negligenciado provavelmente.</entry>
+	<entry key="ReversedMeaning57">Partida de um parente.</entry>
+	<entry key="ReversedMeaning58">Terra boa para a suspeita de encontro a uma pessoa duvidosa.</entry>
+	<entry key="ReversedMeaning59">Vitória e fortuna conseqüente para um soldado na guerra.</entry>
+	<entry key="ReversedMeaning60">Notícia astonishing.</entry>
+	<entry key="ReversedMeaning61">Disputa com uma pessoa imbecile; para uma mulher, esforço
+com um rival, que seja conquistado.</entry>
+	<entry key="ReversedMeaning62">Uma mulher má, com ill-will para o Querent.</entry>
+	<entry key="ReversedMeaning63">Um homem mau; também um cuidado para pôr uma extremidade
+a um lawsuit ruinous.</entry>
+	<entry key="ReversedMeaning64">Um sinal do nascimento.</entry>
+	<entry key="ReversedMeaning65">Surpresa, maravilha, enchantment, emoção, problema, medo.</entry>
+	<entry key="ReversedMeaning66">O fim dos problemas, da suspensão ou da cessação do 
+adversity, da labuta e do desapontamento.</entry>
+	<entry key="ReversedMeaning67">Uma mulher casada terá crianças bonitas.</entry>
+	<entry key="ReversedMeaning68">As discussões podem ser giradas para a vantagem.</entry>
+	<entry key="ReversedMeaning69">Fulfilment da esperança adiada.</entry>
+	<entry key="ReversedMeaning70">Perplexity, embarrassments, ansiedade. É também um 
+cuidado de encontro ao indecision.</entry>
+	<entry key="ReversedMeaning71">Setas do jealousy, disputa interna, stingings do conscience, 
+discussões; e o domestic disputa para as pessoas que são 
+casadas.</entry>
+	<entry key="ReversedMeaning72">Obstáculos, adversity, calamity.</entry>
+	<entry key="ReversedMeaning73">Oposições, dificuldades, intrigues, e suas analogias.</entry>
+	<entry key="ReversedMeaning74">Notícia má.</entry>
+	<entry key="ReversedMeaning75">Para uma mulher, união, mas frustrado provavelmente.</entry>
+	<entry key="ReversedMeaning76">Goodwill para o Querent, mas sem a oportunidade de exercitá-la.</entry>
+	<entry key="ReversedMeaning77">Conselho que deve ser seguido.</entry>
+</oracleio>

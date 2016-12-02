@@ -1,0 +1,186 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:none; fill-opacity:100%; stroke:none; "
+   width="595.275591"
+   height="841.889764"
+   id="svg8"
+   sodipodi:docbase="/home/drake/prog/dragonchess-old/pics/"
+   sodipodi:docname="/home/drake/prog/dragonchess-old/pics/dwarf.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs10">
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#3f3fff"
+     gridopacity="1.000000"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.494118"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.494118">
+  </sodipodi:namedview>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 63.6072 286.679 L 63.7072 307.373 L 99.9322 307.273 L 99.9322 286.479 L 63.6072 286.679 z "
+     id="left boot part 2"
+     transform="matrix(0.373511 0 0 0.32083 31.4972 28.4176)"
+     sodipodi:nodetypes="ccccc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 58.0072 308.473 L 106.532 308.373 C 103.332 296.542 88.853 296.329 80.7322 296.279 C 72.6114 296.229 62.2489 297.142 58.0072 308.473 z "
+     id="right boot part 1"
+     transform="matrix(0.373511 0 0 0.32083 62.76 30.6955)"
+     sodipodi:nodetypes="cczc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 63.6072 286.679 L 63.7072 307.373 L 99.9322 307.273 L 99.9322 286.479 L 63.6072 286.679 z "
+     id="right boot part 2"
+     transform="matrix(0.373511 0 0 0.32083 62.76 28.4176)"
+     sodipodi:nodetypes="ccccc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 58.0072 308.473 L 106.532 308.373 C 103.332 296.542 88.853 296.329 80.7322 296.279 C 72.6114 296.229 62.2489 297.142 58.0072 308.473 z "
+     id="left boot part 1"
+     transform="matrix(0.373511 0 0 0.32083 31.4972 30.6955)"
+     sodipodi:nodetypes="cczc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 208.007 296.43 C 216.392 302.634 235.29 299.386 246.387 296.463 C 250.373 295.414 253.303 288.913 253.256 284.512 C 253.105 270.327 239.706 259.536 233.239 240.897 C 232.443 223.818 232.84 214.408 232.641 201.462 C 232.839 187.322 231.245 189.613 229.651 182.343 C 237.118 198.874 243.293 226.765 252.054 231.934 C 257.133 234.931 270.18 216.371 271.47 206.541 C 273.603 190.584 272.799 185.039 270.274 175.472 C 269.014 170.699 258.711 158.534 254.439 165.315 C 250.407 171.294 257.823 189.712 256.827 202.658 C 254.137 192.501 255.585 180.872 252.343 171.29 C 251.003 167.329 247.012 163.622 243.081 162.029 C 232.273 157.648 131.881 158.148 119.625 163.523 C 114.852 165.616 112.897 173.245 111.856 178.758 C 109.211 192.763 106.091 214.056 111.268 223.876 C 126.635 236.678 138.977 248.487 138.356 238.802 C 139.329 251.552 118.287 266.81 117.826 279.136 C 117.614 284.809 120.995 292.988 125.89 295.267 C 136.041 299.992 154.698 305.623 162.964 300.147 C 172.701 293.696 168.278 265.524 179.901 259.485 C 184.968 257.151 185.352 257.031 193.253 258.855 C 204.172 261.787 199.179 289.898 208.007 296.43 z M 138.582 182.528 C 139.279 194.477 125.599 202.427 127.529 210.41 C 129.985 220.162 138.948 210.778 138.357 239.688 C 138.357 229.232 138.582 192.984 138.582 182.528 z "
+     id="body"
+     transform="matrix(0.373511 0 0 0.32083 7.71387 25.7467)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 116.812 161.339 C 155.914 149.256 131.146 179.85 141.309 185.437 C 165.159 199.016 204.766 198.759 229.537 183.047 C 238.001 177.61 211.082 147.265 248.856 161.339 C 238.168 140.427 142.637 131.465 116.812 161.339 z "
+     id="Armor"
+     sodipodi:nodetypes="csscc"
+     transform="matrix(0.373511 0 0 0.32083 7.71387 25.7467)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 215.424 165.124 C 215.649 180.768 224.648 186.481 230.162 190.715 C 232.299 192.356 239.077 185.616 238.377 182.749 C 236.953 176.92 224.55 177.451 223.789 164.625 C 222.742 147.266 231.855 142.253 242.46 137.639 C 232.452 139.033 215.389 144.349 215.424 165.124 z "
+     id="horn 1"
+     sodipodi:nodetypes="cssscs"
+     transform="matrix(0.373511 0 0 0.32083 -16.6484 -4.73205)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 174.198 165.124 C 174.423 180.768 183.422 186.481 188.936 190.715 C 191.073 192.356 197.851 185.616 197.151 182.749 C 195.727 176.92 183.324 177.451 182.563 164.625 C 181.516 147.266 190.629 142.253 201.234 137.639 C 191.226 139.033 174.163 144.349 174.198 165.124 z "
+     id="horn 2"
+     sodipodi:nodetypes="cssscs"
+     transform="matrix(-0.373511 -0 0 0.32083 154.376 -4.73205)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 177.785 123.598 C 178.723 123.984 177.663 127.78 176.59 127.78 C 173.879 127.78 166.237 124.284 166.433 123.598 C 166.635 122.89 175.337 122.59 177.785 123.598 z M 188.995 123.697 C 188.057 124.083 189.117 127.879 190.19 127.879 C 192.901 127.879 200.543 124.383 200.347 123.697 C 200.145 122.989 191.443 122.689 188.995 123.697 z M 207.916 97.8067 C 205.451 89.9564 197.723 79.9477 183.668 80.2805 C 169.614 80.6132 161.263 90.2053 158.823 97.8066 C 156.583 105.408 156.267 106.171 158.873 110.354 C 155.769 128.544 159.543 153.55 167.885 163.928 C 180.206 179.007 188.381 177.087 201.941 162.335 C 210.97 152.646 210.804 127.979 207.917 109.557 C 210.273 105.74 210.381 105.657 207.916 97.8067 z "
+     id="Head"
+     sodipodi:nodetypes="cccccccccccccccc"
+     transform="matrix(0.373511 0 0 0.32083 7.71387 25.7467)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 158.066 201.371 C 158.962 221.286 157.468 191.313 167.028 181.952 C 162.896 196.491 182.363 207.744 184.205 221.984 C 186.147 207.744 203.922 199.18 202.877 181.355 C 213.432 192.707 214.129 216.607 213.034 201.371 C 210.295 179.563 209.3 141.658 183.907 141.622 C 158.513 141.586 159.509 177.073 158.066 201.371 z "
+     id="beard"
+     sodipodi:nodetypes="ccccczc"
+     transform="matrix(0.373511 0 0 0.32083 7.82545 23.2547)">
+  </path>
+  <path
+     style="stroke:#000000; fill:none; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 129.612 124.935 C 154.22 112.09 151.228 94.295 151.986 84.3 "
+     id="body_line1"
+     sodipodi:nodetypes="cc"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 27.8868 150.745)">
+  </path>
+  <path
+     style="stroke:#000000; fill:none; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 130.362 122.085 C 154.97 109.24 151.228 94.295 151.986 84.3 "
+     id="bedy_line2"
+     sodipodi:nodetypes="cc"
+     transform="matrix(1.60091e-16 -0.32083 -0.373511 -1.37511e-16 126.32 150.841)">
+  </path>
+  <path
+     style="stroke:#000000; fill:none; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 152.012 133.635 L 151.986 84.3 "
+     id="helmet_line2"
+     sodipodi:nodetypes="cc"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 35.3944 109.807)">
+  </path>
+  <path
+     style="stroke:#000000; fill:none; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 151.912 135.335 L 151.986 84.3 "
+     id="helmet_line1"
+     sodipodi:nodetypes="cc"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 35.2076 107.016)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 136.777 180.354 L 158.924 137.343 L 156.886 117.5 L 136.512 157.185 L 136.777 180.354 z "
+     id="axe handle 1"
+     sodipodi:nodetypes="ccccc"
+     transform="matrix(0.373511 0 0 0.32083 43.6436 42.6154)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 136.777 180.354 L 166.351 122.849 C 169.143 117.421 173.016 111.362 178.824 109.443 L 161.136 99.45 C 161.857 105.297 159.347 111.921 156.549 117.442 L 127.512 174.735 C 131.95 175.408 133.989 177.881 136.777 180.354 z "
+     id="axe handle 2"
+     sodipodi:nodetypes="csccscc"
+     transform="matrix(0.373511 0 0 0.32083 56.0664 21.9722)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 121.767 101.009 C 107.787 93.0992 86.2883 93.681 67.949 94.267 C 85.776 114.387 87.903 124.306 70.43 153.126 L 99.412 167.885 C 115.185 139.665 125.057 136.646 151.83 141.726 C 149.409 126.82 135.747 108.919 121.767 101.009 z "
+     id="axe blade 1"
+     sodipodi:nodetypes="cccccz"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 51.1566 92.6885)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 121.767 101.009 C 107.787 93.0992 86.2883 93.681 67.949 94.267 C 85.776 114.387 87.903 124.306 70.43 153.126 L 99.412 167.885 C 115.185 139.665 125.057 136.646 151.83 141.726 C 149.409 126.82 135.747 108.919 121.767 101.009 z "
+     id="axe blade 2"
+     sodipodi:nodetypes="cccccz"
+     transform="matrix(2.05831e-16 0.32083 -0.373511 1.768e-16 174.687 39.9909)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 115.917 110.684 C 107.405 105.902 99.1633 104.464 85.724 104.392 C 99.526 129.262 88.353 140.181 77.855 156.726 L 91.312 163.61 C 102.11 148.14 107.057 129.296 134.955 132.051 C 131.309 121.779 123.815 115.121 115.917 110.684 z "
+     id="axe inner blade 1"
+     sodipodi:nodetypes="cccccs"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 51.1566 92.6885)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 115.917 110.684 C 107.405 105.902 99.1633 104.464 85.724 104.392 C 99.526 129.262 88.353 140.181 77.855 156.726 L 91.312 163.61 C 102.11 148.14 107.057 129.296 134.955 132.051 C 131.309 121.779 123.815 115.121 115.917 110.684 z "
+     id="axe inner blade 2"
+     sodipodi:nodetypes="cccccs"
+     transform="matrix(2.05831e-16 0.32083 -0.373511 1.768e-16 174.537 40.2216)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 105.962 112.029 C 100.996 111.165 92.6711 124.266 96.03 127.713 C 106.609 138.568 132.431 152.265 147.775 154.935 C 152.765 155.803 160.496 141.883 157.03 138.326 C 146.558 127.581 121.329 114.703 105.962 112.029 z "
+     id="axe cover"
+     sodipodi:nodetypes="cssss"
+     transform="matrix(-1.60091e-16 -0.32083 0.373511 -1.37511e-16 63.3143 106.733)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 91.9536 276.192 L 63.7072 307.373 L 270.536 307.373 L 242.19 276.192 L 91.9536 276.192 z "
+     id="the base"
+     transform="matrix(0.373511 0 0 0.32083 15.6817 40.8121)"
+     sodipodi:nodetypes="ccccc">
+  </path>
+
+</svg>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--  PacDasher XML file allows one to define mazes without Java coding -->
+
+<game 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="pacdasher.xsd"
+    title="PacDasher" 
+    date="2004-05-08" 
+    author="James McCabe"
+    framesPerSecond="50"
+    framesLevelSpeedup="0"
+    numLevels="1">
+  
+    <maze>
+        <number>1</number>
+        <level>1 2 3 4 5 6 7 8 9 10</level>
+        <wallColor>128 32 192</wallColor> <!--  -->
+        <gateColor>255 140 210</gateColor> <!-- PINK -->
+        <defaultBackgroundObject class="com.oranda.pacdasher.uimodel.visualobjects.Background"/>
+        <defaultForegroundObject class="com.oranda.pacdasher.uimodel.visualobjects.Dot"/>
+        <clearAreaBounds> <!-- no dots, boundaries -->      
+            4,17 25,20
+        </clearAreaBounds> 
+        <pacDasher>14,30</pacDasher>          
+        <mazeObjects>
+            <visualObject class="com.oranda.pacdasher.uimodel.visualobjects.Wall" layer="background">
+                0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 9,0 10,0 11,0 12,0
+                  13,0 14,0 15,0 16,0 17,0 18,0 19,0 20,0 21,0 22,0 23,0
+                  24,0 25,0 26,0 27,0 28,0
+                0,1 28,1
+                0,2 28,2
+                11,3 14,3 17,3
+                11,4 14,4 17,4
+                0,5 11,5 12,5 13,5 14,5 15,5 16,5 17,5 28,5
+                0,6 11,6 12,6 13,6 14,6 15,6 16,6 17,6 28,6  
+                0,7 13,7 14,7 15,7 28,7
+                0,8 13,8 14,8 15,8 28,8
+                4,9 5,9 6,9 7,9 8,9 9,9 10,9 11,9 12,9 13,9 14,9
+                  15,9 16,9 17,9 18,9 19,9 20,9 21,9 22,9 23,9 24,9
+                4,10 5,10 6,10 7,10 8,10 9,10 10,10 11,10 12,10 13,10 
+                  14,10 15,10 16,10 17,10 18,10 19,10 20,10 21,10 22,10 
+                  23,10 24,10
+                0,11 4,11 5,11 9,11 10,11 11,11 12,11 13,11 
+                  14,11 15,11 16,11 17,11 18,11 19,11 23,11 24,11 28,11
+                0,12 4,12 5,12 9,12 10,12 11,12 12,12 13,12 
+                  14,12 15,12 16,12 17,12 18,12 19,12 23,12 24,12 28,12
+                0,13 4,13 5,13 9,13 10,13 11,13 12,13 13,13 
+                  14,13 15,13 16,13 17,13 18,13 19,13 23,13 24,13 28,13
+                0,14 4,14 5,14 9,14 10,14 11,14 12,14 13,14 
+                  14,14 15,14 16,14 17,14 18,14 19,14 23,14 24,14 28,14
+                4,15 5,15 9,15 10,15 11,15 12,15 13,15 
+                  14,15 15,15 16,15 17,15 18,15 19,15 23,15 24,15
+                4,16 5,16 9,16 10,16 11,16 12,16 13,16 
+                  14,16 15,16 16,16 17,16 18,16 19,16 23,16 24,16
+                0,17 3,17 6,17 9,17 10,17 11,17 12,17 13,17 
+                  14,17 15,17 16,17 17,17 18,17 19,17 22,17 25,17 28,17
+                0,18 3,18 6,18 9,18 10,18 11,18 12,18 13,18 
+                  14,18 15,18 16,18 17,18 18,18 19,18 22,18 25,18 28,18
+                0,19 3,19 6,19 9,19 10,19 11,19 12,19 13,19 
+                  14,19 15,19 16,19 17,19 18,19 19,19 22,19 25,19 28,19
+                0,20 9,20 10,20 11,20 12,20 13,20 
+                  14,20 15,20 16,20 17,20 18,20 19,20 28,20
+                11,21 12,21 16,21 17,21
+                11,22 12,22 16,22 17,22
+                0,23 11,23 12,23 16,23 17,23 28,23 
+                0,24 11,24 12,24 16,24 17,24 28,24
+                0,25 11,25 12,25 16,25 17,25 28,25
+                0,26 11,26 12,26 16,26 17,26 28,26
+                3,27 4,27 5,27 6,27 7,27 8,27 9,27 10,27 11,27 12,27
+                  16,27 17,27 18,27 19,27 20,27 21,27 22,27 23,27
+                  24,27 25,27
+                3,28 4,28 5,28 6,28 7,28 8,28 9,28 10,28 11,28 12,28
+                  16,28 17,28 18,28 19,28 20,28 21,28 22,28 23,28
+                  24,28 25,28
+                0,29 28,29
+                0,30 28,30
+                0,31 1,31 2,31 3,31 4,31 5,31 6,31 7,31 8,31 9,31 10,31
+                  11,31 12,31 13,31 14,31 15,31 16,31 17,31 18,31
+                  19,31 20,31 21,31 22,31 23,31 24,31
+                  25,31 26,31 27,31 28,31
+            </visualObject>                  
+            <visualObject class="com.oranda.pacdasher.uimodel.visualobjects.BoxWall" layer="background">
+            </visualObject>           
+            <visualObject class="com.oranda.pacdasher.uimodel.visualobjects.Gate" layer="foreground">
+                4,19 5,19 23,19 24,19                   
+            </visualObject>               
+            <visualObject class="com.oranda.pacdasher.uimodel.visualobjects.Energizer" layer="foreground">
+                13,4 16,4                   
+            </visualObject>              
+            <visualObject class="com.oranda.pacdasher.uimodel.ghosts.GhostPinky" layer="foreground">
+                5,18
+            </visualObject>
+            <visualObject class="com.oranda.pacdasher.uimodel.ghosts.GhostInky" layer="foreground">
+                24,18
+            </visualObject>
+        </mazeObjects>
+    </maze>
+</game>

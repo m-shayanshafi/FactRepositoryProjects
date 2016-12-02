@@ -1,0 +1,246 @@
+<html><head><title>Save/Load ScoreBoard Controller</title>
+
+<script src="../external/prototype/prototype.js"></script>
+<script src="../external/scriptaculous/scriptaculous.js"></script>
+<script src="../javascript/object-util.js"></script>
+<script src="../javascript/xml-util.js"></script>
+
+<script type="text/javascript">
+
+var SaveForm = null;
+var LoadForm = null;
+
+var isSaving = false;
+var isLoading = false;
+
+function updateDisabled() {
+  SaveForm.StartButton.disabled = (isSaving || isLoading || (SaveForm.Filename.value.length == 0));
+  SaveForm.StopButton.disabled = !isSaving;
+  SaveForm.Filename.disabled = isSaving || isLoading;
+
+  LoadForm.StartButton.disabled = (isSaving || isLoading || (LoadForm.Select.length == 0));
+  LoadForm.StopButton.disabled = !isLoading;
+  LoadForm.Select.disabled = (isSaving || isLoading || (LoadForm.Select.length == 0));
+  LoadForm.Update.disabled = isSaving || isLoading;
+}
+
+function startSave(filename) {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    if (this.status == 200) {
+      getLoadFiles();
+    } else {
+      isSaving = false;
+      updateDisabled();
+      alert("Error " + this.status + ": Could not start Saving to file " + filename + " : " + this.responseText);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/save?start=true&filename="+filename, true);
+  xmlHttp.send(null);
+
+  isSaving = true;
+  updateDisabled();
+}
+
+function stopSave(filename) {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    if (this.status != 200) {
+      isSaving = true;
+      updateDisabled();
+      alert("Error " + this.status + ": Could not stop Saving to file " + filename + " : " + this.responseText);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/save?start=false&filename="+filename, true);
+  xmlHttp.send(null);
+
+  isSaving = false;
+  updateDisabled();
+}
+
+function startLoad(filename) {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    if (this.status == 200) {
+      isLoading = true;
+      updateDisabled();
+    } else {
+      alert("Error " + this.status + ": Could not start Loading from file " + filename + " : " + this.responseText);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/load?start=true&filename="+filename, true);
+  xmlHttp.send(null);
+}
+
+function stopLoad(filename) {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    if (this.status == 200) {
+      isLoading = false;
+      updateDisabled();
+    } else {
+      alert("Error " + this.status + ": Could not stop Loading from file " + filename + " : " + this.responseText);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/load?start=false&filename="+filename, true);
+  xmlHttp.send(null);
+}
+
+function getLoadFiles() {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    try {
+      if (this.status == 200) {
+        var node = this.responseXML.documentElement.firstChild;
+        while (null != node) {
+          if (("Files" == node.nodeName) && ("Saved" == node.getAttribute("Id"))) {
+            var select = LoadForm.Select;
+            while (select.length > 0)
+              select.remove(0);
+            var file = node.firstChild;
+            while (null != file) {
+              if (file.nodeType == 1) {
+                var option = document.createElement("option");
+                option.text = file.getAttribute("Id");
+                option.value = file.getAttribute("Id");
+                try {
+                  select.add(option, null);
+                } catch (err) {
+                  //FIXME - IEBUG
+                  select.add(option);
+                }
+              }
+              file = file.nextSibling;
+            }
+            updateDisabled();
+            return;
+          }
+          node = node.nextSibling;
+        }
+      } else {
+        alert("Error status while getting Load Filenames : " + this.status);
+      }
+    } catch (err) {
+      alert("Error while getting Load Filenames : " + err);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/getFiles", true);
+  xmlHttp.send(null);
+}
+
+// FIXME - this is setup assuming only 1 save file is possible, when the servlet is updated to allow
+//         multiple save files this needs to be changed
+function getSaveFile() {
+  var xmlHttp = getXMLHttpRequest();
+  xmlHttp.onreadystatechange = function () {
+    if (this.readyState != 4)
+      return;
+
+    try {
+      if (this.status == 200) {
+        var node = this.responseXML.documentElement.firstChild;
+        while (null != node) {
+          if ("Files" == node.nodeName && "Saving" == node.getAttribute("Id")) {
+            var file = node.firstChild;
+            while (null != file) {
+              if (file.nodeType == 1) {
+                SaveForm.Filename.value = file.getAttribute("Id");
+                isSaving = true;
+                updateDisabled();
+                return;
+              }
+              file = file.nextSibling;
+            }
+            isSaving = false;
+            updateDisabled();
+            return;
+          }
+          node = node.nextSibling;
+        }
+      } else {
+        alert("Error status while getting Save Filenames : " + this.status);
+      }
+    } catch (err) {
+      alert("Error while getting Save Filenames : " + err);
+    }
+  }
+
+  xmlHttp.open("GET", "/XmlScoreBoard/getFiles", true);
+  xmlHttp.send(null);
+}
+
+function startAll() {
+  SaveForm = document.getElementById("SaveForm");
+  SaveForm.StartButton = document.getElementById("SaveStartButton");
+  SaveForm.StopButton = document.getElementById("SaveStopButton");
+  SaveForm.Filename = document.getElementById("SaveFilename");
+  LoadForm = document.getElementById("LoadForm");
+  LoadForm.StartButton = document.getElementById("LoadStartButton");
+  LoadForm.StopButton = document.getElementById("LoadStopButton");
+  LoadForm.Select = document.getElementById("LoadSelect");
+  LoadForm.Update = document.getElementById("LoadUpdate");
+
+  getLoadFiles();
+
+  getSaveFile();
+}
+
+</script>
+
+</head>
+
+<body onload="startAll();" >
+<center>
+
+<h2>XML Stream Save/Load ScoreBoard Controls</h2>
+
+<table border=solid >
+  <tr><th colspan=2>ScoreBoard Save/Load</th></tr>
+  <tr>
+    <td><a href="/XmlScoreBoard/scoreboard.xml">Save current ScoreBoard</a></td>
+    <td><form method=post enctype="multipart/form-data" action="/XmlScoreBoard/set" target="hiddeniframe" ><input type=file name="myfile" /><input type=submit value="Restore" </form><iframe style="display: none;" onload="return false;" name="hiddeniframe" ></iframe></td>
+  </tr>
+  <tr>
+    <form onsubmit="return false;" id="SaveForm" >
+    <td>
+      <input type=button id="SaveStartButton" value="Start Save to File" onclick="startSave(this.form.Filename.value);" disabled=true />
+      <input type=button id="SaveStopButton" value="Stop Saving to File" onclick="stopSave(this.form.Filename.value);" disabled=true />
+    </td>
+    <td><input type=text id="SaveFilename" size=12 value="" onkeyup="this.form.StartButton.disabled = (this.value.length == 0);" /></td>
+    </form>
+  </tr>
+  <tr>
+    <form onsubmit="return false;" id="LoadForm" >
+    <td>
+      <input type=button id="LoadStartButton" value="Start Loading" onclick="startLoad(this.form.Select.options[this.form.Select.selectedIndex].value);" disabled=true />
+      <input type=button id="LoadStopButton" value="Stop Loading" onclick="stopLoad(this.form.Select.options[this.form.Select.selectedIndex].value);" disabled=true />
+    </td>
+    <td><select id="LoadSelect" /><input type=button id="LoadUpdate" value="Refresh Restore Filename List" onclick="getLoadFiles();" /></td>
+    </form>
+  </tr>
+</table>
+
+</center>
+</body>
+
+</html>

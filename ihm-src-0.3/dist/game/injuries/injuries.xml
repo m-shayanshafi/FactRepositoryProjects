@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<INJURIES>
+  <INJURY MSGKEY="injury.dislocatedShoulder" MASTERTRANSLATION="Dislocated shoulder" DURATION="5" PROBABILITY="1" />
+  <INJURY MSGKEY="injury.ankleSprain" MASTERTRANSLATION="Ankle sprain" DURATION="3" PROBABILITY="1" />
+  <INJURY MSGKEY="injury.neckStrain" MASTERTRANSLATION="Neck strain" DURATION="7" PROBABILITY="1" />
+  <INJURY MSGKEY="injury.pulledGroin" MASTERTRANSLATION="Pulled groin" DURATION="10" PROBABILITY="1" />
+  <INJURY MSGKEY="injury.dentalInjury" MASTERTRANSLATION="Dental injury" DURATION="3" PROBABILITY="1" />
+  <INJURY MSGKEY="injury.chestContusion" MASTERTRANSLATION="Chest contusion" DURATION="7" PROBABILITY="1" />
+
+  
+  <INJURY MSGKEY="injury.abdominalPulln" MASTERTRANSLATION="Abdominal pulln" DURATION="10" PROBABILITY="2" />
+  <INJURY MSGKEY="injury.kneeTornMCL" MASTERTRANSLATION="Knee Torn MCL" DURATION="130" PROBABILITY="2" />
+  <INJURY MSGKEY="injury.concussion" MASTERTRANSLATION="Concussion" DURATION="45" PROBABILITY="2" />
+  <INJURY MSGKEY="injury.hipFlexor" MASTERTRANSLATION="Hip flexor" DURATION="18" PROBABILITY="2" />
+  
+  <INJURY MSGKEY="injury.detachedRetina" MASTERTRANSLATION="Detached retina" DURATION="150" PROBABILITY="3" />
+  <INJURY MSGKEY="injury.dislodgetVertebraeDisc" MASTERTRANSLATION="Dislodged vertebrae disc" DURATION="140" PROBABILITY="3" />
+</INJURIES>
+

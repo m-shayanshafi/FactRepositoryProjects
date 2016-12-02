@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="Development"
+	terrainSetId="1" sizeY="6" sizeX="5" segmentSizeY="10" segmentSizeX="10"
+	safeEntryZoneId="10" maxActors="100" id="1"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/MapTypeData-Development.xsd">
+	<description>room one</description>
+	<entryZoneList>
+		<entryZone id="2">
+			<desc>first description</desc>
+			<name>first</name>
+			<pos y="4" x="2" />
+		</entryZone>
+		<entryZone id="10">
+			<name>second</name>
+			<pos y="1" x="1" />
+			<pos y="1" x="2" />
+			<pos y="1" x="3" />
+			<pos y="2" x="1" />
+			<pos y="2" x="2" />
+			<pos y="2" x="3" />
+			<pos y="3" x="1" />
+			<pos y="3" x="2" />
+			<pos y="3" x="3" />
+		</entryZone>
+	</entryZoneList>
+	<exitZoneList>
+		<exitZone id="1" destMap="2" destEntryZone="1">
+			<pos y="5" x="2" />
+		</exitZone>
+	</exitZoneList>
+	<name>Map 1</name>
+	<tiles>//0AAP/9AAD//QAA//0AAP/9AAD//QAAAAEAAAABAAAAAQAA//0AAP/9AAAAAQAAAAEAAAABAAD//QAA//0AAAABAAAAAQAAAAEAAP/9AAD//QAA//0AAAACAAD//QAA//0AAP/9AAD//QAAAAIAAP/9AAD//QAA</tiles>
+</map>

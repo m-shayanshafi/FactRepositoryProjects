@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Κάρτα είκοσι ένα που διαδίδεται (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">άμεσο παρελθόν</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Παρών παράγοντας Inobvious</entry><entry key="Meaning2">Ένας σημαντικός παράγοντας στο παρόν. Inobvious.</entry>
+	<entry key="PositionTitle3">Κράτος του μυαλού</entry><entry key="Meaning3">Κατάσταση αναζητητών του μυαλού</entry>
+	<entry key="PositionTitle4">Αμεσο μέλλον</entry><entry key="Meaning4">Πλέον πιθανό άμεσο μέλλον</entry>
+	<entry key="PositionTitle5">Προφανής παρών παράγοντας</entry><entry key="Meaning5">Ένας σημαντικός παράγοντας στο παρόν. Πολύ προφανής</entry>
+	<entry key="PositionTitle6">Συναισθήματα εντέρων</entry><entry key="Meaning6">Συναισθήματα εντέρων αναζητητών.</entry>
+	<entry key="PositionTitle7">Τροποποιεί την κάρτα 2 προηγούμενο 1</entry><entry key="Meaning7">Επιρροές στο παρελθόν που είχε επιπτώσεις #2</entry>
+	<entry key="PositionTitle8">Τροποποιεί την κάρτα 2 προηγούμενα 2</entry><entry key="Meaning8">Επιρροές στο παρελθόν που είχε επιπτώσεις #2</entry>
+	<entry key="PositionTitle9">Τροποποιεί την κάρτα 3 τώρα 1</entry><entry key="Meaning9">Τρέχουσες επιρροές που έχουν επιπτώσεις # σε 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle10">Τροποποιεί την κάρτα 3 τώρα 2</entry><entry key="Meaning10">Τρέχουσες επιρροές που έχουν επιπτώσεις # σε 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle11">Τροποποιεί την κάρτα 5 μέλλον 1</entry><entry key="Meaning11">Πιθανές μελλοντικές επιρροές, που έχουν επιπτώσεις #5</entry>
+	<entry key="PositionTitle12">Τροποποιεί την κάρτα 5 μέλλον 2</entry><entry key="Meaning12">Πιθανές μελλοντικές επιρροές, που έχουν επιπτώσεις #5</entry>
+	<entry key="PositionTitle13">Τροποποιεί την κάρτα 6 τώρα 1</entry><entry key="Meaning13">Προφανείς τρέχουσες επιρροές, που έχουν επιπτώσεις #6</entry>
+	<entry key="PositionTitle14">Τροποποιεί την κάρτα 6 τώρα 2</entry><entry key="Meaning14">Προφανείς τρέχουσες επιρροές, που έχουν επιπτώσεις #6</entry>
+	<entry key="PositionTitle15">Φυσικός</entry><entry key="Meaning15">Φυσική κατάσταση αναζητητών. Πιθανή κατάσταση της 
+υγείας ή ζωής</entry>
+	<entry key="PositionTitle16">Ρίζα στο παρελθόν</entry><entry key="Meaning16">Η ρίζα του θέματος στο παρελθόν</entry>
+	<entry key="PositionTitle17">Τρέχον θέμα</entry><entry key="Meaning17">Ένα τρέχον θέμα. Μπορεί να κρυφτεί ή άγνωστος και 
+να αγνοηθεί, ή μπορεί να αντιπροσωπεύσει τις υποθέσεις, 
+ενδεχομένως ανακριβείς</entry>
+	<entry key="PositionTitle18">Το σπιρίτσουαλ</entry><entry key="Meaning18">Το σπιρίτσουαλ αναζητητών. Αυτό μπορεί να συγκρουστεί
+με ή να φωτίσει τις συνειδητές επιθυμίες του αναζητητή</entry>
+	<entry key="PositionTitle19">Μελλοντικό γεγονός</entry><entry key="Meaning19">Ένα πιθανό μελλοντικό γεγονός</entry>
+	<entry key="PositionTitle20">Αντανακλάσεις</entry><entry key="Meaning20">Τι ο αναζητητής πρέπει να σκεφτεί για</entry>
+</oracleio>

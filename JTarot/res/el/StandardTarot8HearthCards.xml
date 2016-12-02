@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Hearth spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Δάπεδο τζακιού που διαδίδεται (θαρρ- Gomm)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Ανατολή - αντιληπτό 1</entry><entry key="Meaning0">ο τρόπος querent αντιλαμβάνεται το ζήτημα</entry>
+	<entry key="PositionTitle1">Ανατολή - αντιληπτά 2</entry><entry key="Meaning1">ο τρόπος querent αντιλαμβάνεται το ζήτημα</entry>
+	<entry key="PositionTitle2">Νότος - παρατηρηθέν 1</entry><entry key="Meaning2">ο τρόπος άλλοι αντιλαμβάνεται το ζήτημα</entry>
+	<entry key="PositionTitle3">Νότος - παρατηρηθέντα 2</entry><entry key="Meaning3">ο τρόπος άλλοι αντιλαμβάνεται το ζήτημα</entry>
+	<entry key="PositionTitle4">Δύση - επιθυμητό 1</entry><entry key="Meaning4">querent ζήτημα επιθυμιών τρόπων για να είναι</entry>
+	<entry key="PositionTitle5">Δύση - επιθυμητά 2</entry><entry key="Meaning5">querent ζήτημα επιθυμιών τρόπων για να είναι</entry>
+	<entry key="PositionTitle6">Ο Βορράς - δυνατότητα 1</entry><entry key="Meaning6">το ζήτημα τρόπων θα μπορούσε να είναι</entry>
+	<entry key="PositionTitle7">Ο Βορράς - δυνατότητα 2</entry><entry key="Meaning7">το ζήτημα τρόπων θα μπορούσε να είναι</entry>
+</oracleio>

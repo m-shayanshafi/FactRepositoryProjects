@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weapon weight="15" version="Development" value="1" id="1"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/WeaponTypeData-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<attackMap>
+		<entry>
+			<key>THRUST</key>
+			<value type="PIERCING">
+				<attack>20</attack>
+				<critical>5</critical>
+				<damage>10</damage>
+				<cooldown>5</cooldown>
+				<range>1</range>
+				<strbonusmax>30</strbonusmax>
+				<strbonusmin>10</strbonusmin>
+				<strbonusstep>2</strbonusstep>
+			</value>
+		</entry>
+		<entry>
+			<key>SWING</key>
+			<value type="CUTTING">
+				<attack>30</attack>
+				<critical>2</critical>
+				<damage>15</damage>
+				<cooldown>2</cooldown>
+				<range>1</range>
+				<strbonusmax>30</strbonusmax>
+				<strbonusmin>10</strbonusmin>
+				<strbonusstep>2</strbonusstep>
+			</value>
+		</entry>
+	</attackMap>
+	<baseEffects />
+	<baseMofifiers />
+	<description>Test short sword</description>
+	<slot>ONE_HAND</slot>
+	<inventoryIcon>sword</inventoryIcon>
+	<name>Short Sword</name>
+	<reqstr>10</reqstr>	
+</weapon>

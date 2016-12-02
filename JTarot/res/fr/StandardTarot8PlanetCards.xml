@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Planetary Spread (Peach)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion Planétaire (Pêche)</entry>
+	<entry key="Description">des "cartes de ce bidon de diffusion et doivent être 
+appareillées et lire dedans la juxtaposition, c.-à-d., la carte en 
+position de la lune devrait être appareillée avec cela en position 
+du soleil ; la carte en position de Venus avec cela dans la 
+position de Mars, et ainsi de suite." - pêche</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Vous, où vous êtes maintenant. Situation 
+actuelle</entry>
+	<entry key="PositionTitle1">Lune</entry><entry key="Meaning1">Émotions, sentiments</entry>
+	<entry key="PositionTitle2">Mercure</entry><entry key="Meaning2">Pensées, intellect</entry>
+	<entry key="PositionTitle3">Venus</entry><entry key="Meaning3">Amour, rapports</entry>
+	<entry key="PositionTitle4">Le soleil</entry><entry key="Meaning4">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle5">Mars</entry><entry key="Meaning5">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle6">Jupiter</entry><entry key="Meaning6">Croissance et expansion. Chance. Influences
+positives</entry>
+	<entry key="PositionTitle7">Saturne</entry><entry key="Meaning7">Travail à faire. Influences de négatif à 
+surmonter</entry>
+</oracleio>

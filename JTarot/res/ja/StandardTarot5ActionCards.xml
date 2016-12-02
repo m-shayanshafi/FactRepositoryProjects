@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Five cards Action layout (Morison)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">5 枚のカードの行為のレイアウト(Morison)</entry>
+	<entry key="Description">5 枚のカードの行為のレイアウト(Morison)</entry>
+	<entry key="PositionTitle0">質問</entry><entry key="Meaning0">質問自体の質問の重要な面。</entry>
+	<entry key="PositionTitle1">を過ぎて</entry><entry key="Meaning1">でき事を過ぎて</entry>
+	<entry key="PositionTitle2">あなたの反作用</entry><entry key="Meaning2">問題により関連しているquerent 問題または特性の強さにいかに反応したか。</entry>
+	<entry key="PositionTitle3">環境</entry><entry key="Meaning3">質問に対するあなたの環境の効果。他が問題をいかに見るか</entry>
+	<entry key="PositionTitle4">解決</entry><entry key="Meaning4">問題への解決</entry>
+</oracleio>

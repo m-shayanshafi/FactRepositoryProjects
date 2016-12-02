@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:#000000;fill-opacity:0.5;stroke:none"
+   width="595.275591"
+   height="841.889764"
+   id="svg1"
+   sodipodi:docbase="/home/drake/prog/dragonchess-old/pics/"
+   sodipodi:docname="/home/drake/prog/dragonchess-old/pics/basilisk.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs3">    <linearGradient
+       id="linearGradient14">      <stop
+         style="stop-color:#000;stop-opacity:1;"
+         offset="0"
+         id="stop15">
+      </stop>
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop16">
+      </stop>
+
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient14"
+       id="linearGradient17">
+    </linearGradient>
+
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#3f3fff"
+     gridopacity="1.000000"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.498039"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.498039"
+     snaptogrid="true">
+  </sodipodi:namedview>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 95.4765 59.6927 C 97.8352 63.5651 120.878 58.8217 128.138 53.2322 C 130.201 52.0033 127.082 47.2701 124.549 46.7717 C 115.992 44.7285 93.4882 56.7309 95.4765 59.6927 z M 85.0394 303.307 L 56.6929 331.653 L 297.638 331.653 L 272.126 303.307 C 263.802 291.104 244.271 279.21 247.153 266.697 C 253.943 237.216 291.245 209.737 301.142 177.326 C 305.877 160.285 306.172 141.775 303.806 126.719 C 297.324 90.9021 272.423 59.242 231.966 36.2711 C 235.845 27.1785 254.44 28.1356 251.14 11.8646 C 210.633 21.6751 163.115 13.9802 124.234 26.5803 C 102.2 33.7207 73.1569 56.5141 68.3945 72.522 C 65.3619 82.7153 87.4673 100.617 100.849 105.184 C 118.316 111.145 140.91 104.466 160.94 104.107 C 157.88 131.624 131.49 136.888 118.38 137.486 C 125.489 151.723 137.183 154.374 147.245 155.073 C 157.862 155.81 172.949 146.339 184.006 141.793 C 180.707 173.857 184.668 211.258 170.518 237.625 C 155.711 265.216 110.587 269.569 93.5433 303.307 L 85.0394 303.307 z "
+     id="basilisk"
+     transform="matrix(0.402505 0 0 0.312707 127.417 77.7071)">
+  </path>
+  <path
+     style="fill:#7f7f7f; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 119.055 345.827 L 297.638 345.827 "
+     id="base_line"
+     sodipodi:nodetypes="cc"
+     transform="matrix(0.402505 0 0 0.312707 117.148 64.4107)">
+  </path>
+
+</svg>

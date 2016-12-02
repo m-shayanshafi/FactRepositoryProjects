@@ -1,0 +1,17 @@
+Troubleshooting PacDasher
+-------------------------
+
+
+1. If, when running the run script, you get errors like ClassDefNotFoundError,
+make sure your classpath does not contain anything that conflict with the
+jars in the run script.
+
+
+Reporting Issues
+----------------
+
+Mail code@oranda.com with a description of the problem. Attach the
+pacdasher.log (in the same directory where you ran PacDasher). Tell
+me the video card you are using, the speed of the machine, and any
+other details you think might be relevant.
+

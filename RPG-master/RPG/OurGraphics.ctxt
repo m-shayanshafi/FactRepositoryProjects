@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OurGraphics()
+comment1.params=e
+comment1.target=void\ addEntity(Entity)
+comment2.params=chapterNum
+comment2.target=javax.swing.JLayeredPane\ getGraphics(int)
+numComments=3

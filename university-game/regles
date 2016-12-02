@@ -1,0 +1,21 @@
+Regles :
+
+Roi :
+- Peut aller sur toutes les cases
+- Peut permettre la capture d'un pion adverse
+- Gagne dans un angle
+- Peut retourner sur le konakis
+- Ne peut Ãªtre capturer sur le konakis
+
+Soldats :
+- Ne peut pas aller sur le konakis ou dans les angles
+- Peut passer a travers le konakis
+- Peuvent capturer le roi en :
+	- L'entourant avec 4 soldats
+	- L'entourant avec 3 soldats et un bord ou le konakis
+	- L'entourant avec 2 soldats et un bord et un angle
+- Peuvent capturer un soldats seulement en l'entourant à 2
+
+- Deplacement vertical et horizontal
+- Aucun pion ne peut sauter un autre pion
+

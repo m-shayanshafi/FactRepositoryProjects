@@ -1,0 +1,54 @@
+JDiveLog
+========
+
+main user site: http://www.jdivelog.org/
+bug reports site: http://sf.net/tracker/?group_id=134952&atid=731465
+developer site: http://sf.net/projects/jdivelog/
+
+Authors:
+- Pascal Pellmont <pellmont@users.sourceforge.net>
+Founder, Developer
+- Volker Holthaus <onlinervolker@users.sourceforge.net>
+Developer
+- André Schenk <andre_schenk@users.sourceforge.net>
+Developer
+- David Szerman <szdavid1@users.sourceforge.net>
+French translations, Documentation
+- Mikko Sjöblom <sjomik@users.sourceforge.net>
+Finnish translations
+- Silvio Dragone <sdragone@users.sourceforge.net>
+Developer
+- Vladislav Korecký <vkorecky@users.sourceforge.net>
+Czech translations, Developer
+- Uri Kogan <urk@users.sourceforge.net>
+Developer
+- Piet de Vries <shorty365@users.sourceforge.net>
+Dutch translations
+
+------------------------------------------------------------------------------------
+JDiveLog is a logbook for scuba dives written in Java.
+It features import of dive profile data from dive computers or via UDCF files,
+management of pictures from the dive and creation of web pages with the dive data,
+statistics, diveplanning, Dive Computer Configuration and flashing new firmare.
+
+Compiling
+---------
+To compile JDiveLog just call 'ant build'
+
+For compiling J2SE 5 is required.
+
+Running
+-------
+To run JDiveLog go to the bin directory and call './jdivelog'
+
+Make sure JAVA_HOME is setup correctly and is pointing to a Java 5 JRE.
+
+For systems with Java 5 but without bash call 'java -jar jdivelog-<version>.jar'
+To change the language to german use -Duser.language=de
+To change the units to imperial (feet, °F, ...) use -Dsystem=display-imperial
+You can change these settings also in the SettingsWindow
+
+Requirements
+------------
+- Java 5: http://java.sun.com/j2se/1.5.0/index.jsp
+- RXTX-2.1: http://rxtx.qbang.org/pub/rxtx/rxtx-2.1-7-bins-r2.zip

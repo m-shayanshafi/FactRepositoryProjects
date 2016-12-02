@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Three cards" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">三张卡片</entry>
+	<entry key="Description">这是一种简单的过去, 今后布局。这种布局是最佳描述真正地不要求长和深刻的分析的简单的情况。有时这做在做一种更加复杂的布局之前为了帮助您聚焦您的想法、感觉, 或问题。并且这可能做在一种更加复杂的布局进一步指定一个具体问题残余从复杂布局之后。</entry>
+	<entry key="PositionTitle0">通过</entry><entry key="Meaning0">什么从前发生过。什么您已经知道。什么您带来与您入这个问题。</entry>
+	<entry key="PositionTitle1">礼物</entry><entry key="Meaning1">那里您是现在。什么您现在感觉。什么现在发生在您身上。</entry>
+	<entry key="PositionTitle2">未来</entry><entry key="Meaning2">什么在将来发生。这通常不是太遥远的未来但是期限取决于问题。</entry>
+</oracleio>

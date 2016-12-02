@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+"
+  codebase="http://www.oranda.com/java/pacdasher"
+  href="pacdasher14.jnlp">
+  <information>
+    <title>PacDasher</title>
+    <vendor>James McCabe</vendor>
+    <homepage href="."/>
+    <description>PacDasher (for Java 1.4)</description>
+    <description kind="short">PacDasher (for Java 1.4)</description>
+    <icon href="images/pacLeft.gif"/>
+    <icon kind="splash" href="images/pacLeft.gif"/>
+    <offline-allowed/>
+  </information>
+  <security>
+    <!-- all permission necessary for full-screen exclusive mode -->
+    <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.4+" initial-heap-size="32m"/>
+    <jar href="jars/pacdasher14.jar"/>
+    <jar href="jars/pacdasher_resources.jar"/>
+    <jar href="jars/lib/jaxp-api.jar"/>
+    <jar href="jars/lib/sax.jar"/>
+    <jar href="jars/lib/xercesImpl.jar"/>
+    <jar href="jars/lib/xml-apis.jar"/>
+    <jar href="jars/lib/jdom.jar"/>
+    <jar href="jars/lib/retroweaver.jar"/>
+    <jar href="jars/lib/Regex.jar"/>
+    <jar href="jars/lib/bcel-5.1.jar"/>
+    <jar href="jars/lib/jace.jar"/>
+  </resources>
+  <application-desc
+    main-class="com.oranda.pacdasher.PacDasherMain"/>
+</jnlp>

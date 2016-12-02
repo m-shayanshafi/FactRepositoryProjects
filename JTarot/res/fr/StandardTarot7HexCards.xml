@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Split Hexagram Spread (Kraig)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion Fendue De Hexagram (Kraig)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Influences inconnues de chant religieux</entry><entry key="Meaning0">La carte 1 fera affecter un plus fort que la carte 2
+</entry>
+	<entry key="PositionTitle1">Influences inconnues de chant religieux</entry><entry key="Meaning1">La carte 1 fera affecter un plus fort que la carte 2
+</entry>
+	<entry key="PositionTitle2">Conseil spirituel</entry><entry key="Meaning2">Conseil spirituel pour la matière</entry>
+	<entry key="PositionTitle3">Unconscous</entry><entry key="Meaning3">Désirs sans connaissance</entry>
+	<entry key="PositionTitle4">Conscient</entry><entry key="Meaning4">Désirs conscients</entry>
+	<entry key="PositionTitle5">Conseil pratique</entry><entry key="Meaning5">Conseil pratique pour la matière</entry>
+	<entry key="PositionTitle6">Résultats finals</entry><entry key="Meaning6">Résultats finals si vous poursuivez la matière 
+actuellement</entry>
+</oracleio>

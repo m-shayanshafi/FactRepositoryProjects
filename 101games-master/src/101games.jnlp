@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="" href="">
+    <information>
+        <title>101 Games</title>
+        <vendor>Institutt for informatikk, Universitetet i Bergen</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6+"
+              href="http://java.sun.com/products/autodl/j2se" />
+        <jar href="101games.jar" main="true" />
+
+    </resources>
+    <applet-desc 
+         name="101 Games"
+         main-class="inf101.games.Main101Games"
+         width="600"
+         height="500">
+     </applet-desc>
+     <update check="background"/>
+</jnlp>					

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" classification="OracleTranslations" subclass="" language="fr" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Cartes De la Norme 78 De Tarot</entry>
+	<entry key="description">La plate-forme standard de tarot avec 22 cartes dans 
+l'arcanna de higer et 56 cartes dans l'arcanna inférieur. 
+L'arcanna inférieur est identique à un paquet de normale 
+jouant aux cartes excepté l'addition de l'"page" dans les cartes de 
+visage. En outre, au lieu des coeurs, des cosses, des clubs et 
+des diamants ; c'est des tasses, des épées, des baguettes 
+magiques et des pentagrammes.</entry>
+	<entry key="subgroup0">Plus haut Arcanna</entry>
+	<entry key="subgroup1">Abaissez Arcanna</entry>
+	<entry key="subgroup2">Plate-forme de 52 cartes de jeu</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Plus haut Arcanna</entry>
+	<entry key="grouping1">Tasses</entry>
+	<entry key="grouping2">Pentagrammes</entry>
+	<entry key="grouping3">Épées</entry>
+	<entry key="grouping4">Baguettes magiques</entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Français</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+</oracleio>

@@ -1,0 +1,104 @@
+                    
+                               ACOUSTIC-MEMORY
+                    
+                    http://acoustic-memory.sourceforge.net
+           (c) 2005 Markus Bauer <markusbauer@users.sourceforge.net>
+
+
+
+DESCRIPTION
+===========
+Acoustic-Memory is a memory game with sound.
+The goal of the game is to find all pairs of cards with the same sound.
+
+
+
+LICENSE
+======= 
+This program is distributed under the term of GNU GENERAL PUBLIC LICENSE.
+For details see COPYING file.
+
+
+
+PREREQUISITES
+=============
+A Java Runtime Environment is needed to run the program.
+A free download for your platform is available from http://www.java.com.
+At least a JRE version 5.0 is required.
+
+
+
+SOUNDS
+======
+There are no sounds provided with the game, so you must use your own sound.
+Place them in the sound directory or configure the path to your sound directory
+in the game preferences.
+You can only use sounds that can be played by the Java Sound API (mainly 
+standard .wav files).
+
+
+
+STARTING
+========
+The program consists of a single .jar file: Acoustic-Memory-<version>.jar
+(replace <version> with the appropriate version of the game).
+
+If jar files are associated with java (like on MS-Windows), the program can be
+started by doubleclicking it.
+Alternatively, you can type the following at a command line console:
+  java -jar Acoustic-Memory-<version>.jar
+
+
+
+GUI
+===
+The game provides to equivalent GUI implementation. One implemententation uses a
+SWT gui, the other a Swing GUI.
+The SWT GUI requires additional libraries. For details and downloads see 
+http://www.eclipse.org/swt.
+The Swing GUI comes with the default library from SUN but may not run with free
+Java virtual machines.
+
+The game will first try to create a SWT GUI. If it fails (e.g. because SWT is
+not installed), the game will create the Swing GUI.
+
+You can also explicitly control, which GUI to create by setting the 
+"acoustic-memory.gui" property. If it set to "swt" the SWT GUI will be created, 
+if it is set to "swing", the Swing GUI will be created.
+
+Examples:
+  SWT:
+    java -cp <path to your>/swt.jar -Dacoustic-memory.gui=swt 
+      -Djava.library.path=<path to your>/<swt library> 
+      -jar acoustic-memory-0.2.jar
+  
+  Swing:
+    java -Dacoustic-memory.gui=swing -jar acoustic-memory-<version>.jar
+
+
+
+CONFIGURATION
+=============
+In the preferences dialog the size of the field and the directory containing
+the sound files can be selected.
+The program will only accept sound files that can be read by the Java sound API.
+Note that there will only be displayd a maximum number of cards limited by the 
+available sound files.
+In order a changed configuration to take effect a new game must be started.
+
+
+
+BUGS and FEATURE REQUESTS
+=========================
+If you find bugs or want to have new features you can fill the appropriate
+forms on the homepage or simply send me an e-mail.
+
+
+
+CONTACT
+=======
+http://acoustic-memory.sourceforge.net
+Markus Bauer <markusbauer@users.sourceforge.net>
+
+
+Have fun!

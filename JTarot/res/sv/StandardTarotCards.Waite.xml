@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="sv" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">0-The Fool</entry><entry key="ObjectMeaning0">Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.</entry>
+	<entry key="ObjectTitle1">1-The Magician</entry><entry key="ObjectMeaning1">Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.</entry>
+	<entry key="ObjectTitle2">2-The High Priestess</entry><entry key="ObjectMeaning2">Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.</entry>
+	<entry key="ObjectTitle3">3-The Empress</entry><entry key="ObjectMeaning3">Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.</entry>
+	<entry key="ObjectTitle4">4-The Emperor</entry><entry key="ObjectMeaning4">Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.</entry>
+	<entry key="ObjectTitle6">6-The Lovers</entry><entry key="ObjectMeaning6">Attraction, love, beauty, trials overcome.</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Succour, providence also war, triumph, presumption, vengeance, trouble.</entry>
+	<entry key="ObjectTitle8">8-Strength</entry><entry key="ObjectMeaning8">Power, energy, action, courage, magnanimity; also complete success and honours.</entry>
+	<entry key="ObjectTitle9">9-The Hermit</entry><entry key="ObjectMeaning9">Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.</entry>
+	<entry key="ObjectTitle10">10-Wheel of Fortune</entry><entry key="ObjectMeaning10">Destiny, fortune, success, elevation, luck, felicity.</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Equity, rightness, probity, executive; triumph of the deserving side in law.</entry>
+	<entry key="ObjectTitle12">12-The hanged man</entry><entry key="ObjectMeaning12">Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.</entry>
+	<entry key="ObjectTitle13">13-Death</entry><entry key="ObjectMeaning13">End, mortality, destruction, corruption also, for a man, the loss of a benefactor for a woman, many contrarieties; for a maid, failure of marriage projects.</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Economy, moderation, frugality, management, accommodation.</entry>
+	<entry key="ObjectTitle15">15-The Devil</entry><entry key="ObjectMeaning15">Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.</entry>
+	<entry key="ObjectTitle16">16-The Tower</entry><entry key="ObjectMeaning16">Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.</entry>
+	<entry key="ObjectTitle17">17-The Star</entry><entry key="ObjectMeaning17">Loss, theft, privation, abandonment; another reading says-hope and bright prospects,</entry>
+	<entry key="ObjectTitle18">18-The Moon</entry><entry key="ObjectMeaning18">Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.</entry>
+	<entry key="ObjectTitle19">19-The Sun</entry><entry key="ObjectMeaning19">Material happiness, fortunate marriage, contentment.</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Change of position, renewal, outcome. Another account specifies total loss though lawsuit.</entry>
+	<entry key="ObjectTitle21">21-The World</entry><entry key="ObjectMeaning21">Assured success, recompense, voyage, route, emigration, flight, change of place.</entry>
+	<entry key="ObjectTitle22">Ace of Cups</entry><entry key="ObjectMeaning22">House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.</entry>
+	<entry key="ObjectTitle23">Two of Cups</entry><entry key="ObjectMeaning23">Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.&lt;p&gt;Additional meanings:&lt;/p&gt;Favourable in things of pleasure and business, as well as love; also wealth and honour.</entry>
+	<entry key="ObjectTitle24">Three of Cups</entry><entry key="ObjectMeaning24">The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing,</entry>
+	<entry key="ObjectTitle25">Four of Cups</entry><entry key="ObjectMeaning25">Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.</entry>
+	<entry key="ObjectTitle26">Five of Cups</entry><entry key="ObjectMeaning26">It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.</entry>
+	<entry key="ObjectTitle27">Six of Cups</entry><entry key="ObjectMeaning27">A card of the past and of memories, looking back, as--for example--on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.</entry>
+	<entry key="ObjectTitle28">Seven of Cups</entry><entry key="ObjectMeaning28">Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.</entry>
+	<entry key="ObjectTitle29">Eight of Cups</entry><entry key="ObjectMeaning29">The card speaks for itself on the surface, but other readings are entirely antithetical--giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence--either for good or evil.</entry>
+	<entry key="ObjectTitle30">Nine of Cups</entry><entry key="ObjectMeaning30">Concord, contentment, physical bien-�tre; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.</entry>
+	<entry key="ObjectTitle31">Ten of Cups</entry><entry key="ObjectMeaning31">Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.</entry>
+	<entry key="ObjectTitle32">Page of Cups</entry><entry key="ObjectMeaning32">Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.</entry>
+	<entry key="ObjectTitle33">Knight of Cups</entry><entry key="ObjectMeaning33">Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.</entry>
+	<entry key="ObjectTitle34">Queen of Cups</entry><entry key="ObjectMeaning34">Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.</entry>
+	<entry key="ObjectTitle35">King of Cups</entry><entry key="ObjectMeaning35">Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.</entry>
+	<entry key="ObjectTitle36">Ace of Pentacles</entry><entry key="ObjectMeaning36">Perfect contentment, felicity, ecstasy; also speedy intelligence; gold. &lt;p&gt;Additional meanings:&lt;/p&gt;The most favourable of all cards.</entry>
+	<entry key="ObjectTitle37">Two of Pentacles</entry><entry key="ObjectMeaning37">On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.</entry>
+	<entry key="ObjectTitle38">Three of Pentacles</entry><entry key="ObjectMeaning38">Trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.</entry>
+	<entry key="ObjectTitle39">Four of Pentacles</entry><entry key="ObjectMeaning39">The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.</entry>
+	<entry key="ObjectTitle40">Five of Pentacles</entry><entry key="ObjectMeaning40">The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.</entry>
+	<entry key="ObjectTitle41">Six of Pentacles</entry><entry key="ObjectMeaning41">Presents, gifts, gratification another account says attention, vigilance now is the accepted time, present prosperity, etc.</entry>
+	<entry key="ObjectTitle42">Seven of Pentacles</entry><entry key="ObjectMeaning42">These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrels--and another innocence, ingenuity, purgation.</entry>
+	<entry key="ObjectTitle43">Eight of Pentacles</entry><entry key="ObjectMeaning43">Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.</entry>
+	<entry key="ObjectTitle44">Nine of Pentacles</entry><entry key="ObjectMeaning44">Prudence, safety, success, accomplishment, certitude, discernment.</entry>
+	<entry key="ObjectTitle45">Ten of Pentacles</entry><entry key="ObjectMeaning45">Gain, riches; family matters, archives, extraction, the abode of a family.</entry>
+	<entry key="ObjectTitle46">Page of Pentacles</entry><entry key="ObjectMeaning46">Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management.</entry>
+	<entry key="ObjectTitle47">Knight of Pentacles</entry><entry key="ObjectMeaning47">Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane.</entry>
+	<entry key="ObjectTitle48">Queen of Pentacles</entry><entry key="ObjectMeaning48">Opulence, generosity, magnificence, security, liberty.</entry>
+	<entry key="ObjectTitle49">King of Pentacles</entry><entry key="ObjectMeaning49">Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.</entry>
+	<entry key="ObjectTitle50">Ace of Swords</entry><entry key="ObjectMeaning50">Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.</entry>
+	<entry key="ObjectTitle51">Two of Swords</entry><entry key="ObjectMeaning51">Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.</entry>
+	<entry key="ObjectTitle52">Three of Swords</entry><entry key="ObjectMeaning52">Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.</entry>
+	<entry key="ObjectTitle53">Four of Swords</entry><entry key="ObjectMeaning53">Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.</entry>
+	<entry key="ObjectTitle54">Five of Swords</entry><entry key="ObjectMeaning54">Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.</entry>
+	<entry key="ObjectTitle55">Six of Swords</entry><entry key="ObjectMeaning55">Journey by water, route, way, envoy, commissionary, expedient.</entry>
+	<entry key="ObjectTitle56">Seven of Swords</entry><entry key="ObjectMeaning56">Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.</entry>
+	<entry key="ObjectTitle57">Eight of Swords</entry><entry key="ObjectMeaning57">Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.</entry>
+	<entry key="ObjectTitle58">Nine of Swords</entry><entry key="ObjectMeaning58">Death, failure, miscarriage, delay, deception, disappointment, despair.</entry>
+	<entry key="ObjectTitle59">Ten of Swords</entry><entry key="ObjectMeaning59">Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.</entry>
+	<entry key="ObjectTitle60">Page of Swords</entry><entry key="ObjectMeaning60">Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.</entry>
+	<entry key="ObjectTitle61">Knight of Swords</entry><entry key="ObjectMeaning61">Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.</entry>
+	<entry key="ObjectTitle62">Queen of Swords</entry><entry key="ObjectMeaning62">Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.</entry>
+	<entry key="ObjectTitle63">King of Swords</entry><entry key="ObjectMeaning63">Whatsoever arises out of the idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth.</entry>
+	<entry key="ObjectTitle64">Ace of Wands</entry><entry key="ObjectMeaning64">Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.</entry>
+	<entry key="ObjectTitle65">Two of Wands</entry><entry key="ObjectMeaning65">Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.&lt;p&gt;Additional meanings:&lt;/p&gt;A young lady may expect trivial disappointments.</entry>
+	<entry key="ObjectTitle66">Three of Wands</entry><entry key="ObjectMeaning66">He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.&lt;p&gt;Additional meanings:&lt;/p&gt;A very good card; collaboration will favour enterprise.</entry>
+	<entry key="ObjectTitle67">Four of Wands</entry><entry key="ObjectMeaning67">They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.</entry>
+	<entry key="ObjectTitle68">Five of Wands</entry><entry key="ObjectMeaning68">Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.</entry>
+	<entry key="ObjectTitle69">Six of Wands</entry><entry key="ObjectMeaning69">The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.</entry>
+	<entry key="ObjectTitle70">Seven of Wands</entry><entry key="ObjectMeaning70">It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.&lt;p&gt;Additional meanings:&lt;/p&gt;A dark child.</entry>
+	<entry key="ObjectTitle71">Eight of Wands</entry><entry key="ObjectMeaning71">Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.&lt;p&gt;Additional meanings:&lt;/p&gt;Domestic disputes for a married person.</entry>
+	<entry key="ObjectTitle72">Nine of Wands</entry><entry key="ObjectMeaning72">The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment.&lt;p&gt;Additional meanings:&lt;/p&gt;Generally speaking, a bad card.</entry>
+	<entry key="ObjectTitle73">Ten of Wands</entry><entry key="ObjectMeaning73">A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.&lt;p&gt;Additional meanings:&lt;/p&gt;Difficulties and contradictions, if near a good card.</entry>
+	<entry key="ObjectTitle74">Page of Wands</entry><entry key="ObjectMeaning74">Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.</entry>
+	<entry key="ObjectTitle75">Knight of Wands</entry><entry key="ObjectMeaning75">Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.</entry>
+	<entry key="ObjectTitle76">Queen of Wands</entry><entry key="ObjectMeaning76">A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.</entry>
+	<entry key="ObjectTitle77">King of Wands  </entry><entry key="ObjectMeaning77">Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.</entry>
+	<entry key="ReversedMeaning0">Negligence, absence, distribution, carelessness, apathy, nullity, vanity.</entry>
+	<entry key="ReversedMeaning1">Physician, Magus, mental disease, disgrace, disquiet.</entry>
+	<entry key="ReversedMeaning2">Passion, moral or physical ardour, conceit, surface knowledge.</entry>
+	<entry key="ReversedMeaning3">Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.</entry>
+	<entry key="ReversedMeaning4">Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.</entry>
+	<entry key="ReversedMeaning5">Society, good understanding, concord, overkindness, weakness.</entry>
+	<entry key="ReversedMeaning6">Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.</entry>
+	<entry key="ReversedMeaning7">Riot, quarrel, dispute, litigation, defeat.</entry>
+	<entry key="ReversedMeaning8">Despotism, abuse if power, weakness, discord, sometimes even disgrace.</entry>
+	<entry key="ReversedMeaning9">Concealment, disguise, policy, fear, unreasoned caution.</entry>
+	<entry key="ReversedMeaning10">Increase, abundance, superfluity.</entry>
+	<entry key="ReversedMeaning11">Law in all its departments, legal complications, bigotry, bias, excessive severity.</entry>
+	<entry key="ReversedMeaning12">Selfishness, the crowd, body politic.</entry>
+	<entry key="ReversedMeaning13">Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.</entry>
+	<entry key="ReversedMeaning14">Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.</entry>
+	<entry key="ReversedMeaning15">Evil fatality, weakness, pettiness, blindness.</entry>
+	<entry key="ReversedMeaning16">According to one account, the same in a lesser degree also oppression, imprisonment, tyranny.</entry>
+	<entry key="ReversedMeaning17">Arrogance, haughtiness, impotence.</entry>
+	<entry key="ReversedMeaning18">Instability, inconstancy, silence, lesser degrees of deception and error.</entry>
+	<entry key="ReversedMeaning19">The same in a lesser sense.</entry>
+	<entry key="ReversedMeaning20">Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.</entry>
+	<entry key="ReversedMeaning21">Inertia, fixity, stagnation, permanence.</entry>
+	<entry key="ReversedMeaning22">Unexpected change of position.</entry>
+	<entry key="ReversedMeaning23">Passion.</entry>
+	<entry key="ReversedMeaning24">Consolation, cure, end of the business.</entry>
+	<entry key="ReversedMeaning25">Presentiment.</entry>
+	<entry key="ReversedMeaning26">Return of some relative who has not been seen for long.</entry>
+	<entry key="ReversedMeaning27">Inheritance to fall in quickly.</entry>
+	<entry key="ReversedMeaning28">Success, if accompanied by the Three of Cups.</entry>
+	<entry key="ReversedMeaning29">Perfect satisfaction.</entry>
+	<entry key="ReversedMeaning30">Good business.</entry>
+	<entry key="ReversedMeaning31">Sorrow; also a serious quarrel.</entry>
+	<entry key="ReversedMeaning32">Obstacles of all kinds.</entry>
+	<entry key="ReversedMeaning33">Irregularity.</entry>
+	<entry key="ReversedMeaning34">A rich marriage for a man and a distinguished one for a woman.</entry>
+	<entry key="ReversedMeaning35">Loss.</entry>
+	<entry key="ReversedMeaning36">The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not. &lt;p&gt;Additional meanings:&lt;/p&gt; A share in the finding of treasure.</entry>
+	<entry key="ReversedMeaning37">Bad omen, ignorance, injustice.</entry>
+	<entry key="ReversedMeaning38">Depends on neighbouring cards.</entry>
+	<entry key="ReversedMeaning39">Observation, hindrances.</entry>
+	<entry key="ReversedMeaning40">Troubles in love.</entry>
+	<entry key="ReversedMeaning41">A check on the Querent's ambition.</entry>
+	<entry key="ReversedMeaning42">Impatience, apprehension, suspicion.</entry>
+	<entry key="ReversedMeaning43">The Querent will be compromised in a matter of money-lending.</entry>
+	<entry key="ReversedMeaning44">Vain hopes.</entry>
+	<entry key="ReversedMeaning45">An occasion which may be fortunate or otherwise.</entry>
+	<entry key="ReversedMeaning46">Sometimes degradation and sometimes pillage.</entry>
+	<entry key="ReversedMeaning47">A brave man out of employment.</entry>
+	<entry key="ReversedMeaning48">An illness.</entry>
+	<entry key="ReversedMeaning49">An old and vicious man.</entry>
+	<entry key="ReversedMeaning50">Marriage broken off, for a woman, through her own imprudence.</entry>
+	<entry key="ReversedMeaning51">Dealings with rogues.</entry>
+	<entry key="ReversedMeaning52">A meeting with one whom the Querent has compromised; also a nun.</entry>
+	<entry key="ReversedMeaning53">A certain success following wise administration.</entry>
+	<entry key="ReversedMeaning54">A sign of sorrow and mourning.</entry>
+	<entry key="ReversedMeaning55">Unfavourable issue of lawsuit.</entry>
+	<entry key="ReversedMeaning56">Good advice, probably neglected.</entry>
+	<entry key="ReversedMeaning57">Departure of a relative.</entry>
+	<entry key="ReversedMeaning58">Good ground for suspicion against a doubtful person.</entry>
+	<entry key="ReversedMeaning59">Victory and consequent fortune for a soldier in war.</entry>
+	<entry key="ReversedMeaning60">Astonishing news.</entry>
+	<entry key="ReversedMeaning61">Dispute with an imbecile person; for a woman, struggle with a rival, who will be conquered.</entry>
+	<entry key="ReversedMeaning62">A bad woman, with ill-will towards the Querent.</entry>
+	<entry key="ReversedMeaning63">A bad man; also a caution to put an end to a ruinous lawsuit.</entry>
+	<entry key="ReversedMeaning64">A sign of birth.</entry>
+	<entry key="ReversedMeaning65">Surprise, wonder, enchantment, emotion, trouble, fear.</entry>
+	<entry key="ReversedMeaning66">The end of troubles, suspension or cessation of adversity, toil and disappointment.</entry>
+	<entry key="ReversedMeaning67">A married woman will have beautiful children.</entry>
+	<entry key="ReversedMeaning68">Quarrels may be turned to advantage.</entry>
+	<entry key="ReversedMeaning69">Fulfilment of deferred hope.</entry>
+	<entry key="ReversedMeaning70">Perplexity, embarrassments, anxiety. It is also a caution against indecision.</entry>
+	<entry key="ReversedMeaning71">Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.</entry>
+	<entry key="ReversedMeaning72">Obstacles, adversity, calamity.</entry>
+	<entry key="ReversedMeaning73">Contrarieties, difficulties, intrigues, and their analogies.</entry>
+	<entry key="ReversedMeaning74">Bad news.</entry>
+	<entry key="ReversedMeaning75">For a woman, marriage, but probably frustrated.</entry>
+	<entry key="ReversedMeaning76">Goodwill towards the Querent, but without the opportunity to exercise it.</entry>
+	<entry key="ReversedMeaning77">Advice that should be followed.</entry>
+</oracleio>
+

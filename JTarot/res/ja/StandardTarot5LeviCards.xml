@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">Eliphas リーバイズの車輪の広がり(Guiley)</entry>
+	<entry key="Description">レイアウトは版がライダーWaite のデッキの切札10 で見られるEliphas リーバイズの車輪に基づいているので従って示されてある; リーバイズはこのレイアウトを発明しなかった。リーバイズの車輪は上示されている4 つの位置のそれぞれにTetragramaton (Yod の彼、Vau の彼、それぞれ) の手紙を割り当てた。リーバイズの車輪はまた4 つのtarot のスーツのある付加的な解釈、絵札の4 つのランク、および手紙T 、O 、R 、およびA の意味を提供する。</entry>
+	<entry key="PositionTitle0">現在</entry><entry key="Meaning0">現状</entry>
+	<entry key="PositionTitle1">衰退の影響</entry><entry key="Meaning1">既に克服される障害。以前起こった変更。</entry>
+	<entry key="PositionTitle2">隠される</entry><entry key="Meaning2">隠されるか、または意識不明の影響</entry>
+	<entry key="PositionTitle3">出現</entry><entry key="Meaning3">出現の影響。</entry>
+	<entry key="PositionTitle4">統合</entry><entry key="Meaning4">他の4 つの影響を一緒に引く。</entry>
+</oracleio>

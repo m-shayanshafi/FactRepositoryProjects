@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">6 карточек, когда я найду поистине влюбленность?</entry>
+	<entry key="Description">Когда я найду поистине влюбленность? План для находить ваш
+соучастника жизни</entry>
+	<entry key="PositionTitle0">Почему</entry><entry key="Meaning0">ПОЧЕМУ вы пока не находили ваш совершенный соучастника</entry>
+	<entry key="PositionTitle1">Как</entry><entry key="Meaning1">КАК вы можете отжать любые вопросы выраженные в первой 
+карточке</entry>
+	<entry key="PositionTitle2"></entry><entry key="Meaning2">Будет самой положительной вещью вы можете сделать для 
+того чтобы найти ваш соучастника</entry>
+	<entry key="PositionTitle3"></entry><entry key="Meaning3">Who был бы правой персоной для вас</entry>
+	<entry key="PositionTitle4">Где</entry><entry key="Meaning4">ГДЕ вы найдете ваш соучастника</entry>
+	<entry key="PositionTitle5">Когда</entry><entry key="Meaning5">КОГДА вы найдете ваш соучастника</entry>
+</oracleio>

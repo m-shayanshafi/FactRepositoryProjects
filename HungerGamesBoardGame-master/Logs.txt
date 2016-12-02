@@ -1,0 +1,13 @@
+
+---------------------
+On 4/7/2013 9:55:19 AM,
+Luis Moorer won the game in 32 turns.
+Player Kills:  1
+Player Damage Dealt:  73
+Player Damage Taken:  42
+---------------------
+On 4/7/2013 9:56:19 AM,
+Gerald Barrow lost the game in 12 turns.
+Player Kills:  1
+Player Damage Dealt:  74
+Player Damage Taken:  65

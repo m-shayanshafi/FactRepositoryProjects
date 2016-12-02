@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">21 のカードの広がり(Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">即時の過去</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Inobvious の現在の要因</entry><entry key="Meaning2">現在の重要な要因。Inobvious 。</entry>
+	<entry key="PositionTitle3">精神状態</entry><entry key="Meaning3">シーカーの精神状態</entry>
+	<entry key="PositionTitle4">即時の未来</entry><entry key="Meaning4">本当らしい即時の未来</entry>
+	<entry key="PositionTitle5">明らかな現在の要因</entry><entry key="Meaning5">現在の重要な要因。非常に明らか</entry>
+	<entry key="PositionTitle6">腸感じ</entry><entry key="Meaning6">シーカーの腸感じ。</entry>
+	<entry key="PositionTitle7">カード2 過去の1 を変更する</entry><entry key="Meaning7">#2 に影響を与えた以前影響</entry>
+	<entry key="PositionTitle8">カード2 過去の2 を変更する</entry><entry key="Meaning8">#2 に影響を与えた以前影響</entry>
+	<entry key="PositionTitle9">カード3 1 を今変更する</entry><entry key="Meaning9">流れは# 3 つの影響を与えに影響を及ぼす。Inobvious 。</entry>
+	<entry key="PositionTitle10">カード3 2 を今変更する</entry><entry key="Meaning10">流れは# 3 つの影響を与えに影響を及ぼす。Inobvious 。</entry>
+	<entry key="PositionTitle11">カード5 未来1 を変更する</entry><entry key="Meaning11">#5 に影響を与える可能な未来の影響</entry>
+	<entry key="PositionTitle12">カード5 未来2 を変更する</entry><entry key="Meaning12">#5 に影響を与える可能な未来の影響</entry>
+	<entry key="PositionTitle13">カード6 1 を今変更する</entry><entry key="Meaning13">#6 に影響を与える明らかな現在の影響</entry>
+	<entry key="PositionTitle14">カード6 2 を今変更する</entry><entry key="Meaning14">#6 に影響を与える明らかな現在の影響</entry>
+	<entry key="PositionTitle15">物理的</entry><entry key="Meaning15">シーカーの身体検査の状態。可能な健康か生命状態</entry>
+	<entry key="PositionTitle16">根</entry><entry key="Meaning16">以前問題の根</entry>
+	<entry key="PositionTitle17">現在の問題</entry><entry key="Meaning17">現在の問題。それは及び見落とされて隠されるか、または未知であるかもしれないか、または不正確な仮定を、多分表すかもしれない</entry>
+	<entry key="PositionTitle18">霊歌は</entry><entry key="Meaning18">シーカーの霊歌は。これはと対立するか、またはシーカーの意識した欲求を照らすかもしれない</entry>
+	<entry key="PositionTitle19">未来のでき事</entry><entry key="Meaning19">本当らしい未来のでき事</entry>
+	<entry key="PositionTitle20">反射</entry><entry key="Meaning20">シーカーが考えなければならない何について</entry>
+</oracleio>

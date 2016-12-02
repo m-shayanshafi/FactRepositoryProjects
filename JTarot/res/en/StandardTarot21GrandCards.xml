@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Grand Source Spread (Cortese)</entry>
+	<entry key="Description">"This is a good general-use spread for giving an overall
+picture of the resolution to a problem in the past or future.  It
+affords an opportunity to examine inner and outer influences before
+an action is taken, the inception or motivation of the action, the
+progression of the action, the resolution, and what inner and outer
+effects this will have.  It may also act to highlight the process
+by which a question uppermost in the querent's mind may be
+answered, though it may not give the answer." - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Inner influences 1</entry><entry key="Meaning1">Inner influences at work, the motivations of the 
+     querent, or what the querent wishes to learn</entry>
+	<entry key="PositionTitle2">Inner influences 2</entry><entry key="Meaning2">Inner influences at work, the motivations of the 
+     querent, or what the querent wishes to learn</entry>
+	<entry key="PositionTitle3">Inner influences 3</entry><entry key="Meaning3">Inner influences at work, the motivations of the 
+     querent, or what the querent wishes to learn</entry>
+	<entry key="PositionTitle4">Outer influences 1</entry><entry key="Meaning4">Outer influences, or the influences from people or
+     things outside of the querent that may have caused the querent
+     to ask their question</entry>
+	<entry key="PositionTitle5">Outer influences 2</entry><entry key="Meaning5">Outer influences, or the influences from people or
+     things outside of the querent that may have caused the querent
+     to ask their question</entry>
+	<entry key="PositionTitle6">Outer influences 3</entry><entry key="Meaning6">Outer influences, or the influences from people or
+     things outside of the querent that may have caused the querent
+     to ask their question</entry>
+	<entry key="PositionTitle7">Seed</entry><entry key="Meaning7">Initiation of the action, the seed that will grow, or the
+     question that will be answered</entry>
+	<entry key="PositionTitle8">Beginnings 1</entry><entry key="Meaning8">The initial stages of the actions</entry>
+	<entry key="PositionTitle9">Beginnings 2</entry><entry key="Meaning9">modifies card 9 'Beginnings 1'.  It may give a hazy picture of the
+          outcome that the querent has in mind, or it may simply be
+          a further examination of the beginnings of the action
+          under consideration.</entry>
+	<entry key="PositionTitle10">Progress 1</entry><entry key="Meaning10">The way that the outcome is achieved</entry>
+	<entry key="PositionTitle11">Progress 2</entry><entry key="Meaning11">modifies card 11 'Progress 1' in the same way card 10 does card 9.</entry>
+	<entry key="PositionTitle12">Changes 1</entry><entry key="Meaning12">Possible changes in plan, or resolution.  This card
+          may serve to examine any ways that the querent will have
+          to change course in midstream.</entry>
+	<entry key="PositionTitle13">Changes 2</entry><entry key="Meaning13">modifies card 13 'Changes 1' in the same way card 10 does card 9.</entry>
+	<entry key="PositionTitle14">Outcome 9-14</entry><entry key="Meaning14">Outcome of the process outlined in cards 9 - 14.</entry>
+	<entry key="PositionTitle15">Effects on querent 1</entry><entry key="Meaning15">Possible effects of the resolution on the querent</entry>
+	<entry key="PositionTitle16">Effects on querent 2</entry><entry key="Meaning16">Possible effects of the resolution on the querent</entry>
+	<entry key="PositionTitle17">Effects on querent 3</entry><entry key="Meaning17">Possible effects of the resolution on the querent</entry>
+	<entry key="PositionTitle18">Effects on environment 1</entry><entry key="Meaning18">Possible effects of the resolution on things 
+     other than the querent or on the querent's relationship to the
+     world around him/her.</entry>
+	<entry key="PositionTitle19">Effects on environment 2</entry><entry key="Meaning19">Possible effects of the resolution on things 
+     other than the querent or on the querent's relationship to the
+     world around him/her.</entry>
+	<entry key="PositionTitle20">Effects on environment 3</entry><entry key="Meaning20">Possible effects of the resolution on things 
+     other than the querent or on the querent's relationship to the
+     world around him/her.</entry>
+</oracleio>

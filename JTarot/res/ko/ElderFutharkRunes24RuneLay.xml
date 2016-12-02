@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="ko" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">EdredThorsson의Runecaster's수첩.</entry>
+		<entry key="Title">Rune24의Futhark배치</entry>
+		<entry key="Description">모든runes의미는 여기 보인다 그래서 너는 
+다른rune의 의미로 떨어지는 1개의rune에 의미의 
+혼합물을 얻는다.</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">돈은 중요하다. 초자연적인 에너지.
+현재 및 가까운 장래의 재정적인 힘 
+그리고 번영.</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">신체 건강. 생명 에너지.</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">너를 반대한 무엇이 (아마 육체). 
+호전적인 성격의 충돌 그리고 복합성; 
+심리학 문제.</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">감흥과 지적인 표정의 근원. 
+커뮤니케이션과 전송; 과거안에 
+근원등을맞댄 점 것.</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">안 외부 여행 -. 우측 우측 이는 
+무엇이; 만들는 무슨 움직임; 결정; 
+반환.</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">독창성. 색정적인 관계. 
+새로운 방법의 열음; 기회; 정보.</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">줄 것이다 무엇이 너에게. 교환 
+성격의 모든 사정; 계약체결; 사적인
+관계.</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">관계, 친구. 너에게 행복을 줄 
+것이다 무엇이. 이익; 성취; 바라는 
+저것.</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">전이에 지도하는 가능한 위기의 지역. 
+흔하게 이는 분열시키는 성격의 과거안에 
+흔하게 기인하곡엇 안에 억제되지 않는 힘.</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">너를 저항하는 무엇이 (심령으로). 
+불평분자의 근원. 것 안에 제한하는 
+힘; 공포, 불안; 죄의식.</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">너를 강요하고 있는 무엇이. 구획; 
+조건을 어리석어 뵈게 했다; 소원수리; 
+개인이 떠나보내는 준비하지 않는 아무거나; 
+개성의 대형; 조절.</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">사례금이 예기될 수 있는 곳에. 
+자연적인 환경에 관계. 희망과 
+기대; 전환점; 점차적인 변화; 더 
+이른 활동의 결과.</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">숨긴 영향, 전체 있는의 국가. 
+신비한 환경에 관계. 것 안에 
+원동력; 동기부여; 목적 의식.</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">너가 기쁨을 발견할 것이다 까 라고. 
+것 의 가장 깊은 창조적인 부분; 
+성취와 출생에 오기 위하여 기다리고 있는 더
+높은 물자의 숨긴 영역; 숨긴 재능; 
+신비로운 심령 능력.</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">주의를 필요로 하는 것. 신에게 
+방법. 것 안에 강한 방호 측; 너를 
+보호할 것이다 영향; 종교적인 포부.</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">너를 인도할 것이다 무엇이. 것 에 
+관계안에 더 높은 각자의 위치; 너가 더 높을 
+각자에의해 인도될 것이다 방향; 더 높은 
+각자왁엇 사이 접촉을 설치하는 능력.</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">인식 국가. 법률 문제. 이상. 
+군 감안에 창조적인 에너지; 너의 힘이 
+속이는 곳에; 기선을 가지고 가기안에 너의 
+에너지를 지시하기 위하여 어디에; 명예 및 
+공정, 지도력 및 권위.</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">성장과 아름다움을 제공하는 무엇이. 
+비옥; 출생'중생; 성장; 
+모성; 가정 생활; 여성 신비.</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">일해야 무엇 또는 너가 한다 누구를에. 
+색정적인 관계. 적응성; 다른 
+사람에 관계; 공동 조력; 협력; 
+성적 상태.</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">전부 심령 국가. 죽음으로 태도. 
+큰에 사람; 다른 사람으로 태도; 너로 
+사람에게 태도; 법률 문제, 친구 및 적; 
+지력.</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">감정적인 균형의 국가. 너를 
+시험할 것이다 무엇이. 정서; 안정성; 
+상상; 심령 사정; 애정.</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">관조하면 너가 무엇을. 통합; 
+임신 기간; 기대; 자손.</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">의외 synchr온잊XXy의 지역. 전송; 
+반대말; 빛과 어두움사이 위치; 개시;
+외계 시간과 공간사이 균형; 우주 
+의식; 그것의 반대말으로 1개의 것에서 변화; 
+새로운 처음.</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">더 중대한 가족은 중요하다. 
+동포 또는 지역 사회issues.Home생활; 
+나라; 영적인 유산; 경험; 기초; 
+기본적인 가치; 설치.</entry>
+</oracleio>

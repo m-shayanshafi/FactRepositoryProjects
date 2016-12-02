@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects
+END
+EEnemyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/towerdefence-engine/src/org/mysoft/td/engine/objects/EEnemyState.java
+END
+GenericObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/GenericObject.java
+END
+GenericBullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/GenericBullet.java
+END
+MassiveEnemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/MassiveEnemy.java
+END
+AimingTurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/AimingTurrent.java
+END
+ETurrentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24/towerdefence-engine/src/org/mysoft/td/engine/objects/ETurrentState.java
+END
+GenericEnemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/GenericEnemy.java
+END
+GenericTurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/objects/GenericTurrent.java
+END

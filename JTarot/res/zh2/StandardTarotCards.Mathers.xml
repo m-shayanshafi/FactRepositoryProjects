@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="de" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">公共領域</entry>
+	<entry key="ObjectTitle0">0-The 傻瓜</entry><entry key="ObjectMeaning0">愚蠢, 贖罪, 搖擺</entry>
+	<entry key="ObjectTitle1">1-The 魔術師</entry><entry key="ObjectMeaning1">意志, 自我克制力, 手巧</entry>
+	<entry key="ObjectTitle2">2-The 高的女教士</entry><entry key="ObjectMeaning2">科學, 智慧, 知識, 教育</entry>
+	<entry key="ObjectTitle3">3-The 女皇</entry><entry key="ObjectMeaning3">行動, 計劃, 承擔的運動在事情, 主動性</entry>
+	<entry key="ObjectTitle4">4-The 皇帝</entry><entry key="ObjectMeaning4">認識, 作用, 發展</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">慈悲, 善行仁慈, 善良</entry>
+	<entry key="ObjectTitle6">6-The 戀人</entry><entry key="ObjectMeaning6">明智的性格, 證明, 試驗被戰勝</entry>
+	<entry key="ObjectTitle7">7-The 運輸車</entry><entry key="ObjectMeaning7">勝利, 勝利, 克服障礙</entry>
+	<entry key="ObjectTitle8">8 力量</entry><entry key="ObjectMeaning8">力量, 威力, 力量, 力量, 剛毅</entry>
+	<entry key="ObjectTitle9">9-The 隱士</entry><entry key="ObjectMeaning9">慎重, 小心, 研討</entry>
+	<entry key="ObjectTitle10">時運10 輪子</entry><entry key="ObjectMeaning10">好運, 成功, 意想不到的運氣</entry>
+	<entry key="ObjectTitle11">11 正義</entry><entry key="ObjectMeaning11">平衡, 平衡, 正義</entry>
+	<entry key="ObjectTitle12">12-The 垂懸了人</entry><entry key="ObjectMeaning12">自我犧牲, 犧牲, 獻身, 區域</entry>
+	<entry key="ObjectTitle13">13 死亡</entry><entry key="ObjectMeaning13">死亡, 變動, 變革, 改變為更壞</entry>
+	<entry key="ObjectTitle14">14 節制</entry><entry key="ObjectMeaning14">組合, 相應一致, 團結</entry>
+	<entry key="ObjectTitle15">15-The 惡魔</entry><entry key="ObjectMeaning15">致命永遠</entry>
+	<entry key="ObjectTitle16">16-The 塔</entry><entry key="ObjectMeaning16">廢墟, 中斷, 推翻, 損失, 破產</entry>
+	<entry key="ObjectTitle17">17-The 星</entry><entry key="ObjectMeaning17">希望, 期望, 明亮的諾言</entry>
+	<entry key="ObjectTitle18">18-The 月亮</entry><entry key="ObjectMeaning18">微明, 欺騙, 錯誤</entry>
+	<entry key="ObjectTitle19">19-The 太陽</entry><entry key="ObjectMeaning19">幸福, 內容, 喜悅</entry>
+	<entry key="ObjectTitle20">20 評斷</entry><entry key="ObjectMeaning20">更新, 結果, 事情的決心</entry>
+	<entry key="ObjectTitle21">21-The 世界</entry><entry key="ObjectMeaning21">完成, 好獎勵</entry>
+	<entry key="ObjectTitle22">杯子一點</entry><entry key="ObjectMeaning22">赴宴, 宴會, 好歡呼</entry>
+	<entry key="ObjectTitle23">二杯子</entry><entry key="ObjectMeaning23">愛, 附件, 友誼, 真誠, 喜愛</entry>
+	<entry key="ObjectTitle24">三杯子</entry><entry key="ObjectMeaning24">成功, 勝利, 勝利, 有利問題</entry>
+	<entry key="ObjectTitle25">四杯子</entry><entry key="ObjectMeaning25">倦怠, 不快, 牢騷, 不滿情緒</entry>
+	<entry key="ObjectTitle26">五杯子</entry><entry key="ObjectMeaning26">聯合, 連接點, 婚姻, 繼承</entry>
+	<entry key="ObjectTitle27">六杯子</entry><entry key="ObjectMeaning27">過去, 通過, 褪色, 消失, 消失</entry>
+	<entry key="ObjectTitle28">七杯子</entry><entry key="ObjectMeaning28">想法, 情緒, 反射, 項目</entry>
+	<entry key="ObjectTitle29">八杯子</entry><entry key="ObjectMeaning29">一個公正的女孩, 友誼, 附件, 柔軟</entry>
+	<entry key="ObjectTitle30">九杯子</entry><entry key="ObjectMeaning30">勝利, 好處, 成功, 勝利, 困難被戰勝</entry>
+	<entry key="ObjectTitle31">十倍杯子</entry><entry key="ObjectMeaning31">鎮你居住, 尊敬, 考慮, 聲望, 賢良, 榮耀,
+名譽</entry>
+	<entry key="ObjectTitle32">杯子頁</entry><entry key="ObjectMeaning32">一個公正的青年時期, 信心, 誠實, 謹慎, 正直</entry>
+	<entry key="ObjectTitle33">杯子的騎士</entry><entry key="ObjectMeaning33">到來, 方法, 前進</entry>
+	<entry key="ObjectTitle34">杯子的女王/王后</entry><entry key="ObjectMeaning34">一名公正的婦女, 成功, 幸福, 好處, 樂趣</entry>
+	<entry key="ObjectTitle35">杯子的國王</entry><entry key="ObjectMeaning35">一個公正的人, 善良, 仁慈, 心胸, 寬厚</entry>
+	<entry key="ObjectTitle36">Pentacles 一點</entry><entry key="ObjectMeaning36">完善的自得, 幸福, 繁榮, 勝利</entry>
+	<entry key="ObjectTitle37">二Pentacles</entry><entry key="ObjectMeaning37">窘態, 憂慮, 困難</entry>
+	<entry key="ObjectTitle38">三Pentacles</entry><entry key="ObjectMeaning38">貴族, 海拔, 尊嚴, 等級, 力量</entry>
+	<entry key="ObjectTitle39">四Pentacles</entry><entry key="ObjectMeaning39">樂趣, 歡樂, 享受, 滿意</entry>
+	<entry key="ObjectTitle40">五Pentacles</entry><entry key="ObjectMeaning40">戀人或女主人、愛、甜, 喜愛, 純淨和純潔愛</entry>
+	<entry key="ObjectTitle41">六Pentacles</entry><entry key="ObjectMeaning41">禮物, 禮物, 稱心:</entry>
+	<entry key="ObjectTitle42">七Pentacles</entry><entry key="ObjectMeaning42">金錢, 財務, 珍寶, 獲取, 贏利</entry>
+	<entry key="ObjectTitle43">八Pentacles</entry><entry key="ObjectMeaning43">一個黑暗的女孩, 秀麗, 公正, 貞潔, 無罪, 謙遜</entry>
+	<entry key="ObjectTitle44">九Pentacles</entry><entry key="ObjectMeaning44">謹慎, 慎重, 慎重, 法眼</entry>
+	<entry key="ObjectTitle45">十倍Pentacles</entry><entry key="ObjectMeaning45">議院, 住宅, 居住, 家庭</entry>
+	<entry key="ObjectTitle46">Pentacles 頁</entry><entry key="ObjectMeaning46">一個黑暗的青年時期, 經濟, 命令, 規則, 管理</entry>
+	<entry key="ObjectTitle47">Pentacles 的騎士</entry><entry key="ObjectMeaning47">一個有用的人, 信得過, 智慧, 經濟, 次序, 章程</entry>
+	<entry key="ObjectTitle48">Pentacles 的女王/王后</entry><entry key="ObjectMeaning48">一名黑暗的婦女, 一名慷慨的婦女, 心胸, 靈魂, 寬厚的偉大</entry>
+	<entry key="ObjectTitle49">Pentacles 的國王</entry><entry key="ObjectMeaning49">一個黑暗的人, 勝利, 勇敢, 勇氣, 成功</entry>
+	<entry key="ObjectTitle50">劍一點</entry><entry key="ObjectMeaning50">勝利, 肥沃, 生育力, 繁榮</entry>
+	<entry key="ObjectTitle51">二劍</entry><entry key="ObjectMeaning51">友誼, Valour, 剛硬, 勇氣</entry>
+	<entry key="ObjectTitle52">三劍</entry><entry key="ObjectMeaning52">尼姑, 分離, 撤除, 破裂, 爭吵</entry>
+	<entry key="ObjectTitle53">四劍</entry><entry key="ObjectMeaning53">孑然, 撤退, 放棄, 孤零零, 隱士</entry>
+	<entry key="ObjectTitle54">五劍</entry><entry key="ObjectMeaning54">哀悼, 悲傷, 苦惱</entry>
+	<entry key="ObjectTitle55">六劍</entry><entry key="ObjectMeaning55">使節, 信使, 遠航, 旅行</entry>
+	<entry key="ObjectTitle56">七劍</entry><entry key="ObjectMeaning56">希望, 信心, 慾望, 企圖, 願望</entry>
+	<entry key="ObjectTitle57">八劍</entry><entry key="ObjectMeaning57">憔悴, 誹謗, 批評, 責備</entry>
+	<entry key="ObjectTitle58">九劍</entry><entry key="ObjectMeaning58">Ecclesiastic, 教士, 良心。誠實, 良好信譽誠意, 正直</entry>
+	<entry key="ObjectTitle59">十倍劍</entry><entry key="ObjectMeaning59">淚花, 苦惱, 哀情, 哀痛</entry>
+	<entry key="ObjectTitle60">劍頁</entry><entry key="ObjectMeaning60">間諜, 俯視, 當局</entry>
+	<entry key="ObjectTitle61">劍的騎士</entry><entry key="ObjectMeaning61">戰士, 行業是胳膊的一個人, Skilfulness, 容量, 地址, Promptitude</entry>
+	<entry key="ObjectTitle62">劍的女王/王后</entry><entry key="ObjectMeaning62">Widowhood, 損失, 缺乏, 缺席, 分離</entry>
+	<entry key="ObjectTitle63">劍的國王</entry><entry key="ObjectMeaning63">律師, 法律, 力量, 命令, 優勢, 當局的一個人</entry>
+	<entry key="ObjectTitle64">鞭子一點</entry><entry key="ObjectMeaning64">誕生, 開始, 起點, 起源, 來源</entry>
+	<entry key="ObjectTitle65">二鞭子</entry><entry key="ObjectMeaning65">Riches, 時運, 富裕, 壯麗, 偉大</entry>
+	<entry key="ObjectTitle66">三鞭子</entry><entry key="ObjectMeaning66">企業, 事業, 商務, 貿易, 交涉</entry>
+	<entry key="ObjectTitle67">四鞭子</entry><entry key="ObjectMeaning67">社會, 聯合, 協會, 一致, 和諧</entry>
+	<entry key="ObjectTitle68">五鞭子</entry><entry key="ObjectMeaning68">金子, 富裕, 獲取, 遺產, Riches, 時運, 金錢</entry>
+	<entry key="ObjectTitle69">六鞭子</entry><entry key="ObjectMeaning69">企圖, 希望, 慾望, 願望, 期望</entry>
+	<entry key="ObjectTitle70">七鞭子</entry><entry key="ObjectMeaning70">成功, 獲取, 好處, 贏利, 勝利</entry>
+	<entry key="ObjectTitle71">八鞭子</entry><entry key="ObjectMeaning71">理解, 觀察, 方向</entry>
+	<entry key="ObjectTitle72">九鞭子</entry><entry key="ObjectMeaning72">命令, 學科, 好安排, 性格</entry>
+	<entry key="ObjectTitle73">十倍鞭子</entry><entry key="ObjectMeaning73">信心, 安全, 榮譽, 良好信譽誠意</entry>
+	<entry key="ObjectTitle74">鞭子頁</entry><entry key="ObjectMeaning74">一個好陌生人, 好消息, 樂趣, 滿意</entry>
+	<entry key="ObjectTitle75">鞭子的騎士</entry><entry key="ObjectMeaning75">離開, 分離, Disunion</entry>
+	<entry key="ObjectTitle76">鞭子的女王/王后</entry><entry key="ObjectMeaning76">婦女居住在國家, 莊園的愛, 貪婪, 高利貸夫人, 金錢</entry>
+	<entry key="ObjectTitle77">鞭子的國王  </entry><entry key="ObjectMeaning77">人居住在國家, 國家紳士, 知識, 教育</entry>
+	<entry key="ReversedMeaning0">猶豫, 不穩定, 麻煩升起的herefrom 。</entry>
+	<entry key="ReversedMeaning1">意志嚮邪惡的末端被申請, 意志, 狡猾, Knavishness 的弱點。</entry>
+	<entry key="ReversedMeaning2">自負, 無知, Unskilfulness, 表面知識。</entry>
+	<entry key="ReversedMeaning3">不活動, 浪費力量, 要集中猶豫不決。</entry>
+	<entry key="ReversedMeaning4">停止, 檢查, 發育未全, 未成熟。</entry>
+	<entry key="ReversedMeaning5">在仁慈, 弱點, 寬厚愚蠢鍛煉。</entry>
+	<entry key="ReversedMeaning6">不明智的計劃, 失敗當投入對測試。</entry>
+	<entry key="ReversedMeaning7">推翻, 由Obstacles 征服在最後一分鐘。</entry>
+	<entry key="ReversedMeaning8">濫用職權, Overbearingness, 要剛毅。</entry>
+	<entry key="ReversedMeaning9">在慎重, Timorousness, 恐懼。</entry>
+	<entry key="ReversedMeaning10">不適時運, 失敗, 意想不到的不適運氣。</entry>
+	<entry key="ReversedMeaning11">頑固, 要平衡, 正義, 在嚴肅, 不平等, 偏心惡習。</entry>
+	<entry key="ReversedMeaning12">自私, 未捆綁, 部份犧牲。</entry>
+	<entry key="ReversedMeaning13">死亡逃脫了, 部份變動, 改變為更好。</entry>
+	<entry key="ReversedMeaning14">輕率組合、Disunion 、撞擊的興趣, 等。</entry>
+	<entry key="ReversedMeaning15">致命為罪惡。</entry>
+	<entry key="ReversedMeaning16">這些在更或較不部份程度。</entry>
+	<entry key="ReversedMeaning17">希望沒被履行, 期望失望或被履行在較小程度。</entry>
+	<entry key="ReversedMeaning18">波動, 輕微的欺騙, Trifling 差錯。</entry>
+	<entry key="ReversedMeaning19">這些在較小程度。</entry>
+	<entry key="ReversedMeaning20">結果, 延遲, 問題的延擱以後再開。</entry>
+	<entry key="ReversedMeaning21">邪惡的獎勵, 或報償。</entry>
+	<entry key="ReversedMeaning22">變動, 新奇, 變形, 反覆無常。</entry>
+	<entry key="ReversedMeaning23">橫渡的慾望, 障礙, 反對, 妨礙。</entry>
+	<entry key="ReversedMeaning24">事務, 快速, 迅速, 警惕性的遠征。</entry>
+	<entry key="ReversedMeaning25">新相識, 臆想, 標誌, Presentiment 。</entry>
+	<entry key="ReversedMeaning26">到來, 回歸, 新聞, 驚奇, 假的項目。</entry>
+	<entry key="ReversedMeaning27">未來, 那將來, 突然, 很快。</entry>
+	<entry key="ReversedMeaning28">計劃, 設計, 決議, 決定。</entry>
+	<entry key="ReversedMeaning29">歡樂, 赴宴, 喜悅, 樂趣。</entry>
+	<entry key="ReversedMeaning30">缺點, 錯誤, 差錯, 缺點。</entry>
+	<entry key="ReversedMeaning31">作戰, 衝突, 反對, 區別, 爭執。</entry>
+	<entry key="ReversedMeaning32">奉承者, 欺騙, 策略。</entry>
+	<entry key="ReversedMeaning33">奸詐, 信任濫用, 欺騙, 狡猾。</entry>
+	<entry key="ReversedMeaning34">一名婦女在好位置, 但intermeddling, 和懷疑; 成功, 但以一些伴隨麻煩。</entry>
+	<entry key="ReversedMeaning35">好位置的人, 但狡猾在他的往來, Distrust, 疑義, 懷疑。</entry>
+	<entry key="ReversedMeaning36">錢包金子, 金錢, 獲取, 幫助, 贏利, Riches 。</entry>
+	<entry key="ReversedMeaning37">信件, Missive, 書信, 消息。</entry>
+	<entry key="ReversedMeaning38">孩子, 兒子, 女兒, 青年時期, 開始。</entry>
+	<entry key="ReversedMeaning39">障礙, 妨礙。</entry>
+	<entry key="ReversedMeaning40">可恥的愛, 不檢點, 執照, Profligacy 。</entry>
+	<entry key="ReversedMeaning41">志向, 慾望, 激情, 目標, 渴望。</entry>
+	<entry key="ReversedMeaning42">干擾, 憂慮, 憂慮, 憂鬱。</entry>
+	<entry key="ReversedMeaning43">奉承, 高利貸, 偽善, 狡猾。</entry>
+	<entry key="ReversedMeaning44">欺騙, 壞信念, 策略, 欺騙。</entry>
+	<entry key="ReversedMeaning45">賭博, 散逸, 盜案, 損失。</entry>
+	<entry key="ReversedMeaning46">Prodigality, 大量, 廢物, 散逸。</entry>
+	<entry key="ReversedMeaning47">一個勇敢的人, 但出於就業, 懶惰, 失業者, 疏忽。</entry>
+	<entry key="ReversedMeaning48">某一罪惡, 一名可疑婦女, 婦女被看待以懷疑, 疑義, 不信任。</entry>
+	<entry key="ReversedMeaning49">一個老和狠毒人, 一個危險人, 疑義, 恐懼, 危險, 危險。</entry>
+	<entry key="ReversedMeaning50">窘態, 愚蠢和絕望的愛, 障礙, 妨礙。</entry>
+	<entry key="ReversedMeaning51">假的朋友, 倒戈, 說謊。</entry>
+	<entry key="ReversedMeaning52">錯誤, 混亂, Misrule, 混亂。</entry>
+	<entry key="ReversedMeaning53">經濟, 防備措施, 開支的章程。</entry>
+	<entry key="ReversedMeaning54">損失麻煩(同樣意義, 不管怎樣扭轉。)</entry>
+	<entry key="ReversedMeaning55">聲明, 愛提議, 揭示, 驚奇。</entry>
+	<entry key="ReversedMeaning56">明智的忠告, 好忠告, 智慧, 慎重, 慎重。</entry>
+	<entry key="ReversedMeaning57">倒戈從前, 事件, 事故, 卓越的事件。</entry>
+	<entry key="ReversedMeaning58">明智的distrust, 懷疑, 恐懼, 疑義, 遮蔭字符。</entry>
+	<entry key="ReversedMeaning59">通過成功, 短暫好處。</entry>
+	<entry key="ReversedMeaning60">那是未預見到的, 警惕性, 支持。</entry>
+	<entry key="ReversedMeaning61">一個自負的傻瓜, 天真, 樸素。</entry>
+	<entry key="ReversedMeaning62">一壞婦女, 壞脾氣和bigoted, Riches 和紛爭, 豐盈與憂慮, 充滿哀情喜悅一起。</entry>
+	<entry key="ReversedMeaning63">一個邪惡的人, 惱怒, 憂慮, 哀情, 恐懼, 干擾。</entry>
+	<entry key="ReversedMeaning64">迫害, 追求Voilence, 煩惱, 慘暴, 暴政。</entry>
+	<entry key="ReversedMeaning65">驚奇, 驚訝, 事件, 非凡發生。</entry>
+	<entry key="ReversedMeaning66">希望, 慾望, 企圖, 願望。</entry>
+	<entry key="ReversedMeaning67">繁榮, 成功, 幸福, 好處。</entry>
+	<entry key="ReversedMeaning68">法律訴訟, 評斷, 法律, 律師, 法庭。</entry>
+	<entry key="ReversedMeaning69">無宗教信仰, 倒戈, 不忠, 背信棄義。</entry>
+	<entry key="ReversedMeaning70">猶豫不決, 疑義, 猶豫, 窘態, 憂慮。</entry>
+	<entry key="ReversedMeaning71">爭吵, 肚腑爭執, 紛爭。</entry>
+	<entry key="ReversedMeaning72">障礙, 十字架, 延遲, 不快。</entry>
+	<entry key="ReversedMeaning73">倒戈, Subterfuge, 奸詐, 酒吧。</entry>
+	<entry key="ReversedMeaning74">不適的新聞, 不快, 惱怒, 憂慮。</entry>
+	<entry key="ReversedMeaning75">破裂, 紛爭, 爭吵。</entry>
+	<entry key="ReversedMeaning76">好一貞潔婦女, 但嚴密和經濟, 障礙, 抵抗, 反對。</entry>
+	<entry key="ReversedMeaning77">一個自然地好但嚴厲人, 律師, 忠告, 研討。</entry>
+</oracleio>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="zh" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">Edred Thorsson, Runecaster 的手册。</entry>
+		<entry key="Title">24 Rune Futhark 布局</entry>
+		<entry key="Description">所有runes 意思被显示得这里因此您得到意思混合物以一rune 分成其它rune 的意思。</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">金钱事态。精神能量。礼物和不久的将来的财政力量和繁荣。</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">身体健康。重要能量。</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">什么反对您(或许物理) 。进取的自然的冲突和复杂; 心理问题。</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">源泉的启发和智力表示。通信和传输; 指向事回到来源从前。</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">旅行- 内在或外面。什么是不错或不不错; 什么移动做; 决定; 回归。</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">创造性。色情关系。开放新方式; 机会; 信息。</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">什么将被给您。交换的自然的所有问题; 合同; 私人关系。</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">关系, 朋友。什么将给您幸福。获取; 成就; 那被祝愿。</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">可能的危机区域导致变革。未管制的力量在不自觉, 通常是有一种破裂品质并且通常发起于过去。</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">什么抵抗您(精神) 。源泉的牢骚。限制性力量在不自觉; 恐惧, 忧虑; 罪恶感。</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">什么压抑您。块; 显得荒谬情况; 委屈; 任何个体不准备着放弃; 个性的形成; 适应。</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">那里奖励可能被期望。与自然环境的关系。希望和期望; 转折点; 逐渐变动; 更加早期的行动的结果。</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">暗藏的影响, 状态整体是。与numinous 环境的关系。驱动力在不自觉; 刺激; 目的感觉。</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">怎么您将发现喜悦。最深刻的创造性的部份的不自觉; 等待成熟和诞生更高的材料的暗藏的领土; 暗藏的天分; 隐密或精神能力。</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">需要注意的事。方式对神。强的防护边在不自觉; 将保护您的影响; 宗教志向。</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">什么将引导您。更高的自已的位置在联系对不自觉; 您将由更高的自已引导的方向; 能力建立联络在更高的自已和不自觉之间。</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">认知状态。法律问题。理想。创造性的能量在军事感觉; 那里您的力量说谎; 在哪里指挥您的能量在采取主动性; 荣誉和正义、领导和当局。</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">什么提供成长和秀丽。生育力; 诞生' 重生; 成长; 母道; 家庭生活; 女性奥秘。</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">与什么或谁您应该工作。色情联系。伸缩性; 与其他人的关系; 共同努力; 合作; 性别。</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">整体精神状态。对于死亡的态度。人们整个; 对于其他人的态度; 对于您的人民的态度; 法律问题、朋友和敌人; 智力。</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">情感平衡状态。什么将测试您。情感; 稳定; 想像力; 精神事态; 喜爱。</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">什么您应该冥想。综合化; 怀孕; 期望; 后裔。</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">意想不到的synchronicity 区域。传输; 对面; 位置在明与暗之间; 启蒙; 平衡在海外时间和空间之间; 宇宙知觉; 改变从一件事到它的对面; 新起点。</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">更加巨大的家庭事态。国民或社区issues.Home 生活; 国家; 精神遗产; 经验; 基础; 根本价值; 建立。</entry>
+</oracleio>

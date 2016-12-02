@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="fr" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Des Runes Plus anciennes De Futhark</entry>
+	<entry key="description">Le Futhark plus ancien est pensé pour être la version
+la plus ancienne de l'alphabet runic, et a été employé dans les 
+parties de l'Europe qui étaient à la maison aux peuples germaniques,
+y compris la Scandinavie. D'autres versions se sont probablement
+développées à partir de lui.</entry>
+	<entry key="subgroup0">Airt (Ætt) de Freya</entry>
+	<entry key="subgroup1">Airt (Ætt) de Heimdall</entry>
+	<entry key="subgroup2">Airt (Ætt) de Tyr</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Airt (Ætt) de Freya</entry>
+	<entry key="grouping1">Airt (Ætt) de Heimdall</entry>
+	<entry key="grouping2">Airt (Ætt) de Tyr</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Français</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+</oracleio>

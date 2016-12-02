@@ -1,0 +1,195 @@
+PROPERTIES
+==========
+
+Napsack will look for a properties file in ${HOME}/.napsack.  This properties
+file may be used to pass information to Napsack (as an alternative to the
+command-line).
+
+The properties file should contain one key/value pair per line; keys and values
+may be separated with any combination of whitespace, =, or :.  Blank lines,
+lines starting with #, and lines starting with ! are ignored.
+
+Recognized properties are given below.
+
+11 February 2002
+----------------
+
+Server Selection
+
+These properties tell Napsack which servers to query.  Note that Napsack
+chooses servers based on the logical AND of all server-selection properties.
+That is, a server must meet all server-selection criteria before it is
+considered for querying by Napsack.
+
+excluded_networks:  Napsack will not query servers connected to the networks
+                    listed in excluded_networks.  excluded_networks may
+                    contain a list of servers separated by delimiter (see
+                    delimiter under General System Behaviour).  As an example
+                    excluded_networks=n/a>Napster.
+
+min_users:  Napsack will only query servers with at least min_users users
+            logged in.  As an example, min_users=100.
+
+min_files:  Napsack will only query servers indexing at least min_files files.
+            As an example, min_files=100000.
+
+min_gigs:  Napsack will only query servers indexing at least min_gigs gigs of
+           files.  As an example, min_gigs=12.
+
+servers_file:  This property directs Napsack to look at the specified file for
+               server information, instead of asking www.napigator.com for it.
+					The file should be in the same format as
+               client1.napigator.com/servers.php.  As an example of using the
+               servers_file property, servers_file=my_napster_servers.txt.
+
+Server Querying
+
+The fundamental searching property is query, which is described below.
+
+queries:  Napsack will launch a query on each server for each criterion listed
+          in query.  query may contain a list of queries separated by delimiter
+          (see delimiter under General System Behaviour).  As an example,
+          queries=dr dre>decss>metallica.
+
+The remaining searching properties will be applied to each query (named in the
+query property) before it is sent to a server.  For example, if bit_rate= at
+least>128 property is present, Napsack will only return files with a bit
+rate greater than or equal to 128 Kbps for _all queries_ listed in query.
+
+bit_rate:  This restriction takes the form <comparison>delimiter<bit rate>,
+           where <comparison> is one of At Least, Equal To, or At Most; and
+           <bit rate> is an integer bit-rate greater than zero.  (Refer to
+           General System Behaviour for a description of delimiter.)  As an
+           example, bit_rate=At Least>128.
+
+frequency:  This restriction takes the form <comparison>delimiter<frequency>,
+            where <comparison> is one of At Least, Equal To, or At Most; and
+            <frequency> is an integer frequency greater than zero.  (Refer to
+            General System Behaviour for a description of delimiter.)  For
+            example, frequency=At Least>44100.
+
+connection:  This restriction takes the form <comparison>delimiter<connection>,
+             where <comparison> is one of At Least, Equal To, or At Most; and
+             <connection> is one of Unknown, 14.4 Kbps, 28.8 Kbps, 33.6 Kbps,
+             56.7 Kbps, 64 Kbps, 128 Kbps, Cable, DSL, T1, or T3+.  (Refer to
+             General System Behaviour for a description of delimiter.)  For
+             example, connection=At Least>Cable.
+
+General System Behaviour
+
+application_identifier:  This property is sent to each Napster server upon
+                         connection.  It is used by a server to identify the
+                         type of client that is connecting to it.  An example
+                         of using application_identifier is
+                         application_identifier=Napsack.  The default value
+                         for application_identifier is v2.0 BETA 5.
+
+nick:  This is the nickname used to login to each Napster server.  Note that
+       while most servers will accept any nick (that isn't already logged in, I
+       assume), the official Napster servers insist that the nick has been
+       previously registered (you can use your favourite general-purpose
+       Napster client to register a nick).
+
+password:  The password for nick.
+
+max_threads:  Napsack starts a new thread for each server queried, up to a
+              maximum of max_threads.  As an example, max_threads=15.
+              max_threads has a default value of 10.
+
+sort_by:  Napsack will initially sort each set of search results (for a given
+          query on a given Napster service) as specified by the search-result
+          properties in sort_by.  Note that a search-result property does not
+          have to appear Napsack's output to be used as a sorting criterion.
+          Valid values for sort_by are File Name, MD5, Size, Bit Rate,
+          Frequency, Length, User, Connection, and Weight.  As an example,
+          sort_by=User>File Name>Bit Rate.
+
+          If only one search-result property is listed under sort_by, it may
+          by prefixed with a "-".  Such a "-"  indicates that the sort should
+          appear in reverse order.
+
+gui:  Toggles Napsack between graphical and classic (console) mode.  For
+      example gui=Off.  By default, gui=on.
+
+error_messages:  If Napsack encounters a problem while communicating with
+                 a Napster service, it may output an error message.  These
+                 error messages may be suppressed with the error_messages
+                 property.  As an example, error_messages=Off.  error_messages
+                 has a default value of On.
+
+delimiter:  delimiter is used to separate multi-valued properties (such as
+            excluded_networks, query, and bit_rate).  As an example,
+            delimiter=#.  delimiter has a default value of >.
+
+command_attempts:  Napsack will attempt to execute a command until it is
+                   successful, up to a maximum of command_attempts times.
+                   Currently, Napsack only executes a song-search command; in
+                   the future it may execute other commands (a user-query
+                   command, for example).  An example of command_attempts=5.
+                   By default, command_attempts=1.
+
+command_attempt_interval:  After the first (failed) attempt at executing
+                           a command, Napsack will wait
+                           command_attempt_interval seconds before each
+                           subsequent attempt.  For example,
+                           command_attempt_interval=30.  By default,
+                           command_attempt_interval=10.
+
+Console Interface
+
+output_format:  Napsack will output its search results as outlined by the
+                output_format property.  The output_format property consists
+                of a format string followed by zero or more result-field
+                identifiers, all separated by delimiter.  (See later in this
+                section for a description of delimiter.)
+
+                The format string contains zero or more place-holder
+                sequences.  Each such sequence is replaced by a search-result
+                property (file name, user, frequency, etc.) when the result is
+                printed by Napsack.  A place-holder sequence consists of the ^
+                character followed by zero or more consecutive alignment
+                characters.  In turn, an alignment character is one of l, r, c,
+                or 0; for left, right, center, or zero-padded right alignment,
+                respectively.  The width of the outputed field is equal to the
+                width of the place-holder sequence.  There is currently no
+                support for a literal ^ character in the format string.
+
+                Each place-holder sequence must be matched by exactly one
+                result-field identifier later in the output_format property.
+                Place-holder sequences and result-field identifiers are
+                matched as they appear.  That is, the first sequence in the
+                format string is matched with the first identifier in
+                output_format, the second sequence is matched with the second
+                identifier, and so on.
+
+                Valid result-field identifiers are Service, File Name, MD5,
+                Size, Bit Rate, Frequency, Length, User, Connection, and
+                Weight.
+
+                As an example, output_format=^lllllll has
+                ^lllllllllllllllllllllllll (^rr) on ^llllllllllllllllllll.>
+                User>File Name>Bit Rate>Service.  By default, output_format=
+                ^llllllllllllllllllll
+                ^llllllllllllllllllllllllllllllllllllllllllllll ^llll ^rr>
+                Service>File Name>Length>Quality
+
+Graphical Interface
+
+flip_results_tree:   This option re-orients the results tree, so that results
+                     are grouped first by service and then by query
+                     (flip_results_tree=On).  By default, results are grouped
+                     first by query and then by service
+                     (flip_results_tree=Off).
+
+table_columns:  Napsack will display the columns named by table_columns in 
+                its search-results table. Valid column identifiers are File
+                Name, MD5, Size, Bit Rate, Frequency, Length, User, Connection,
+                and Weight.  As an example, table_columns=File Name>MD5>
+                Quality>Weight>Size.  By default, table_columns=File Name>
+                Connection>User>Size>Length>Quality. 
+
+save_on_exit:   Napsack will save settings between invocations as indicated
+                by the save_on_exit property.  Some of the saved settings are
+                queries, displayed columns, and sort order.  As an example,
+                save_on_exit=On.  save_on_exit is Off by default. 
+

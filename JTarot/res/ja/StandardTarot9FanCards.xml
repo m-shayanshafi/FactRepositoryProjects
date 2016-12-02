@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Amanda's Fan (Davis)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">Amanda のファン(デービス)</entry>
+	<entry key="Description">"これはケルト族の十字および剣に明らかに基づいている; それは私達が両方ケルト族十字-- どうしても* と流れ* 論理的に不満を抱いたので開発された。そう私は改めたそれを。" (デービスは) 。人デービスがに時開発されて話していた後示される。</entry>
+	<entry key="PositionTitle0">質問者</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">交差</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">基礎</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">を過ぎて</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">現在</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">未来</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">結果</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">内部の影響</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">外の影響</entry><entry key="Meaning8"></entry>
+</oracleio>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">杯子关系传播(Sagie)</entry>
+	<entry key="Description">Sagie reccomends 使用另外的修饰词在卡片11 如果结果是不明的。</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">基础</entry><entry key="Meaning2">关系的基础</entry>
+	<entry key="PositionTitle3">最近过去</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">礼物</entry><entry key="Meaning4">关系的现状</entry>
+	<entry key="PositionTitle5">障碍</entry><entry key="Meaning5">障碍他们两面孔</entry>
+	<entry key="PositionTitle6">#1 看法</entry><entry key="Meaning6">#1 看法关于关系</entry>
+	<entry key="PositionTitle7">#2 看法</entry><entry key="Meaning7">#2 看法关于关系</entry>
+	<entry key="PositionTitle8">#1 的期望</entry><entry key="Meaning8">#1 的期望关于关系</entry>
+	<entry key="PositionTitle9">#2 的期望</entry><entry key="Meaning9">#2 的期望关于关系</entry>
+	<entry key="PositionTitle10">最佳的结果</entry><entry key="Meaning10"></entry>
+</oracleio>

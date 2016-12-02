@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Tree of Life Spread (Doane)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts 
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Δέντρο της ζωής που διαδίδεται (Doane)</entry>
+	<entry key="Description">Οι κάρτες 3 ..5, και 7 αποτελούν το δέντρο του κακού ή 
+του δυσμενούς δέντρου. Οι κάρτες 2 ..4, και 8 αποτελούν 
+το δέντρο καλού ή του ευνοϊκού δέντρου. Παραμένει κάρτες
+κάρτες έκβασης.</entry>
+	<entry key="PositionTitle0">Πνευματική έκβαση</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Φρόνηση</entry><entry key="Meaning1">Επιρροή της φρόνησης</entry>
+	<entry key="PositionTitle2">Νοημοσύνη</entry><entry key="Meaning2">Επιρροή της νοημοσύνης</entry>
+	<entry key="PositionTitle3">Δικαιοσύνη</entry><entry key="Meaning3">Επιρροή της δικαιοσύνης (και η αναζήτηση από το)</entry>
+	<entry key="PositionTitle4">Έλεος</entry><entry key="Meaning4">Επιρροή του ελέους</entry>
+	<entry key="PositionTitle5">Αγάπη</entry><entry key="Meaning5">Αγάπη της ομορφιάς, αγάπη, και ζωή</entry>
+	<entry key="PositionTitle6">Επιθυμία</entry><entry key="Meaning6">Επιθυμία για τη νίκη</entry>
+	<entry key="PositionTitle7">Splendor</entry><entry key="Meaning7">Επιρροή Splendor</entry>
+	<entry key="PositionTitle8">Περιβάλλον</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Φυσική έκβαση</entry><entry key="Meaning9">Φυσική δύναμη ή υλική έκβαση</entry>
+</oracleio>

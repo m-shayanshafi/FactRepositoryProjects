@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=time
+comment0.target=void\ delay(int)
+comment0.text=\n\ delay\ sleeps\ the\ thread\ for\ a\ passed-in\ time.\ Exceptions\ are\ caught\ but\ not\ dealt\ with.\n
+comment1.params=
+comment1.target=void\ clear()
+comment1.text=\n\ For\ ease\ of\ use\ when\ writing\ the\ story,\ made\ clear\ command.\ Seems\ this\ only\ works\ RELIABLY\ on\ BlueJ.\n
+comment2.params=time\ dialogue
+comment2.target=void\ dramatic(int,\ java.lang.String)
+comment2.text=\n\ Dramatic\ is\ used\ for\ when\ a\ line\ has\ to\ be\ outputted\ and\ then\ cleared.\ Saves\ lines\ in\ the\ grand\ scheme\n\ of\ things,\ regardless\ of\ how\ frivolous\ it\ seems\ now.\n
+comment3.params=dialogue
+comment3.target=void\ say(java.lang.Object)
+comment3.text=\n\ A\ simpler\ way,\ rather\ than\ typing\ out\ System.out.println()\ every\ time.\n
+comment4.params=lines
+comment4.target=void\ blank(int)
+comment4.text=\n\ Mainly\ used\ for\ logos,\ blank()\ offers\ a\ simple\ way\ of\ entering\ spaces.\n
+comment5.params=question
+comment5.target=int\ getInt(java.lang.String)
+comment5.text=\n\ Because\ I\ don't\ want\ to\ create\ a\ new\ scanner\ every\ time\ in\ every\ class.\n
+comment6.params=question
+comment6.target=java.lang.String\ getString(java.lang.String)
+numComments=7

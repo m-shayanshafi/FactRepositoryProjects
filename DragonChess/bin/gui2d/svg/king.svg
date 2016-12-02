@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:#000000;fill-opacity:0.5;stroke:none"
+   width="595.275591"
+   height="841.889764"
+   id="svg1"
+   sodipodi:docbase="/home/drake/prog/dragonchess-old/pics/"
+   sodipodi:docname="/home/drake/prog/dragonchess-old/pics/king.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs57">
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#020207"
+     gridopacity="0.709804"
+     guidetolerance="5.000000"
+     guidecolor="#000077"
+     guideopacity="0.811765"
+     guidehicolor="#b30000"
+     guidehiopacity="0.847059"
+     snaptogrid="true"
+     showgrid="true">
+  </sodipodi:namedview>
+  <path
+     style="stroke:#000000; fill:#fff561; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 246.614 340.157 L 269.291 320.315 L 291.969 340.157 L 291.969 300.473 L 334.488 300.472 L 334.489 260.788 L 291.969 260.788 L 291.969 226.772 L 249.449 226.772 L 249.449 260.787 L 206.929 260.787 L 206.929 300.473 L 246.614 300.472 L 246.614 340.157 z M 269.291 360 L 235.276 388.346 L 178.583 342.992 L 178.583 456.378 L 362.835 456.378 L 362.835 342.992 L 303.307 388.346 L 269.291 360 z M 204.095 396.851 L 204.095 433.701 L 249.449 433.701 L 204.095 396.851 z M 337.323 396.851 L 337.323 433.701 L 291.969 433.701 L 337.323 396.851 z "
+     id="king"
+     transform="matrix(0.542735 0 0 0.435529 81.6598 257.612)">
+  </path>
+
+</svg>

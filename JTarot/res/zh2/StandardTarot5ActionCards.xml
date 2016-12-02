@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Five cards Action layout (Morison)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">五張卡片行動佈局(Morison)</entry>
+	<entry key="Description">五張卡片行動佈局(Morison)</entry>
+	<entry key="PositionTitle0">問題</entry><entry key="Meaning0">問題, 問題的重要方面。</entry>
+	<entry key="PositionTitle1">通過</entry><entry key="Meaning1">通過事件</entry>
+	<entry key="PositionTitle2">您的反應</entry><entry key="Meaning2">怎麼querent 起了反應對問題或字符力量與問題是相關的。</entry>
+	<entry key="PositionTitle3">環境</entry><entry key="Meaning3">您的對問題的環境作用。怎麼其他人看問題</entry>
+	<entry key="PositionTitle4">解答</entry><entry key="Meaning4">對問題的解決辦法</entry>
+</oracleio>

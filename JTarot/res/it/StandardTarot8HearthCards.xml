@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Hearth spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione del focolare (Carr-Gomm)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Orientale - 1 Percepito</entry><entry key="Meaning0">il senso querent percepisce l'edizione</entry>
+	<entry key="PositionTitle1">Orientale - 2 Percepiti</entry><entry key="Meaning1">il senso querent percepisce l'edizione</entry>
+	<entry key="PositionTitle2">Del sud - 1 Osservato</entry><entry key="Meaning2">il senso altri percepisce l'edizione</entry>
+	<entry key="PositionTitle3">Del sud - 2 Osservati</entry><entry key="Meaning3">il senso altri percepisce l'edizione</entry>
+	<entry key="PositionTitle4">Ad ovest - 1 Voluto</entry><entry key="Meaning4">edizione querent di desideri di senso da essere</entry>
+	<entry key="PositionTitle5">Ad ovest - 2 Voluti</entry><entry key="Meaning5">edizione querent di desideri di senso da essere</entry>
+	<entry key="PositionTitle6">Del nord - Potenziale 1</entry><entry key="Meaning6">l'edizione di senso ha potuto essere</entry>
+	<entry key="PositionTitle7">Del nord - Potenziale 2</entry><entry key="Meaning7">l'edizione di senso ha potuto essere</entry>
+</oracleio>

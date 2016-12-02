@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Kop Uitgespreide Verhoudingen (Sagie)</entry>
+	<entry key="Description">Sagie die reccomends extra bepalingen op kaart 11 gebruikt als 
+het resultaat onduidelijk is.</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Stichting</entry><entry key="Meaning2">De Stichting van de Verhouding</entry>
+	<entry key="PositionTitle3">Recent Verleden</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Heden</entry><entry key="Meaning4">Huidige Staat van de Verhouding</entry>
+	<entry key="PositionTitle5">Hindernissen</entry><entry key="Meaning5">Hindernissen zij beide gezicht</entry>
+	<entry key="PositionTitle6">Meningen van #1</entry><entry key="Meaning6">Meningen van #1 betreffende de verhouding</entry>
+	<entry key="PositionTitle7">Meningen van #2</entry><entry key="Meaning7">Meningen van #2 betreffende de verhouding</entry>
+	<entry key="PositionTitle8">Verwachtingen van #1</entry><entry key="Meaning8">Verwachtingen van #1 betreffende de verhouding</entry>
+	<entry key="PositionTitle9">Verwachtingen van #2</entry><entry key="Meaning9">Verwachtingen van #2 betreffende de verhouding</entry>
+	<entry key="PositionTitle10">Beste Resultaat</entry><entry key="Meaning10"></entry>
+</oracleio>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="Bundle" default="compress">
+	<property name="dist" location="../build/packages/" />
+	<property name="bundle.name" value="Stigma-Bundle" />
+	<property name="bundle.dir" value="${dist}/${bundle.name}" />
+	<property name="bundle.doc" value="../doc/${bundle.name}" />
+
+	<property file="versions/${bundle.name}.properties" prefix="version" />
+	<property name="version.full" value="${version.major.number}.${version.minor.number}.${version.patch.number}" />
+	<property name="release_dir" value="../build/releases/${bundle.name}/${version.full}/" />
+
+	<target name="clean">
+		<echo>Cleaning old builds</echo>
+		<delete dir="${dist}">
+			<include name="${bundle.name}**" />
+		</delete>
+		<delete dir="${bundle.dir}" />
+	</target>
+
+	<target name="build" depends="clean">
+		<echo>Building releases</echo>
+		<echo>Building Stigma-Client</echo>
+		<ant antfile="client.xml" inheritall="false" inheritrefs="false" />
+		<echo>Building Stigma-Server</echo>
+		<ant antfile="server.xml" inheritall="false" inheritrefs="false" />
+		<echo>Building Stigma-Editor</echo>
+		<ant antfile="editor.xml" inheritall="false" inheritrefs="false" />
+	</target>
+
+	<target name="copy" depends="build">
+		<echo>Copying needed files</echo>
+		<mkdir dir="${bundle.dir}" />
+
+		<move file="${dist}/Stigma-Client" todir="${bundle.dir}" />
+		<move file="${dist}/Stigma-Server" todir="${bundle.dir}" />
+		<move file="${dist}/Stigma-Editor" todir="${bundle.dir}" />
+
+		<delete dir="${bundle.dir}">
+			<include name="*\LICENSE.*" />
+			<include name="*\gpl-3.0.*" />
+		</delete>
+
+		<copy todir="${bundle.dir}">
+			<fileset dir="${bundle.doc}">
+				<include name="*.*" />
+			</fileset>
+			<fileset dir="../">
+				<include name="LICENSE.*" />
+				<include name="gpl-3.0.*" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="compress" depends="copy">
+		<echo>Compressing</echo>
+		<mkdir dir="${release_dir}" />
+
+		<tstamp>
+			<format property="rel_date" pattern="yyyy/MM/dd" />
+		</tstamp>
+		<replace file="${bundle.doc}/ChangeLog.txt" token="&lt;not released yet&gt;" value="${rel_date}" />
+		<copy file="${bundle.doc}/ChangeLog.txt" todir="${release_dir}" />
+
+		<tar tarfile="${release_dir}/${bundle.name}_${version.full}.tar" basedir="${bundle.dir}" />
+		<bzip2 src="${release_dir}/${bundle.name}_${version.full}.tar" destfile="${release_dir}/${bundle.name}_${version.full}.tar.bz2" />
+		<delete file="${release_dir}/${bundle.name}_${version.full}.tar" />
+
+		<zip zipfile="${release_dir}/${bundle.name}_${version.full}.zip" basedir="${bundle.dir}" />
+
+	</target>
+
+
+</project>

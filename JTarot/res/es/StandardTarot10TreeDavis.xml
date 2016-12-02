@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Tree of Life Spread (Davis)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Árbol de la extensión de la vida (Davis)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Paso siguiente</entry><entry key="Meaning0"> Donde su etapa siguiente del desarrollo le conducirá</entry>
+	<entry key="PositionTitle1">Puente</entry><entry key="Meaning1">Puente a un cosmos más alto</entry>
+	<entry key="PositionTitle2">Secretos</entry><entry key="Meaning2">Conocimiento de Unmanifest</entry>
+	<entry key="PositionTitle3">Tierra de prueba</entry><entry key="Meaning3">las cosas dejaron para ir de</entry>
+	<entry key="PositionTitle4">Edificio</entry><entry key="Meaning4">Construcción de la piedra angular del cosmocity dentro
+del uno mismo</entry>
+	<entry key="PositionTitle5">Alma</entry><entry key="Meaning5">Alma como debe ser -- experiencia de la mutación y de 
+aprendizaje</entry>
+	<entry key="PositionTitle6">Femenino</entry><entry key="Meaning6">Belleza del uno mismo, inspiración, pasión</entry>
+	<entry key="PositionTitle7">Masculino</entry><entry key="Meaning7">Inspiración intelectual</entry>
+	<entry key="PositionTitle8">Dirección interna</entry><entry key="Meaning8">Dirección interna, intuición</entry>
+	<entry key="PositionTitle9">Presente</entry><entry key="Meaning9"></entry>
+</oracleio>

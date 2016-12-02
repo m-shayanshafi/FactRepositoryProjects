@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Sei schede, quando troverò l'amore allineare?</entry>
+	<entry key="Description">Quando troverò l'amore allineare? La disposizione per 
+l'individuazione del socio della vostra vita</entry>
+	<entry key="PositionTitle0">Perchè</entry><entry key="Meaning0">PERCHÈ ancora non avete trovato il vostro socio 
+perfetto</entry>
+	<entry key="PositionTitle1">Come</entry><entry key="Meaning1">COME potete sormontare tutte le edizioni espresse nella
+prima scheda</entry>
+	<entry key="PositionTitle2">Che cosa</entry><entry key="Meaning2">CHE COSA è la cosa più positiva potete fare per 
+trovare il vostro socio</entry>
+	<entry key="PositionTitle3">Chi</entry><entry key="Meaning3">Il WHO sarebbe la persona giusta per voi</entry>
+	<entry key="PositionTitle4">Dove</entry><entry key="Meaning4">DOVE troverete il vostro socio</entry>
+	<entry key="PositionTitle5">Quando</entry><entry key="Meaning5">QUANDO troverete il vostro socio</entry>
+</oracleio>

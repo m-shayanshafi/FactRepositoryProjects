@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Solar Spread (Doane)</entry>
+	<entry key="Description">In each row, the middle card (4, 11, 18, 25, etc) represents
+present conditions or influences.  The three cards to the right
+represent the past; the three to the left, the future.  Each row
+will relate to either a certain aspect of life or certain people
+(or perhaps both)</entry>
+	<entry key="PositionTitle0">Moon 1 Past</entry><entry key="Meaning0">Emotions, feelings</entry>
+	<entry key="PositionTitle1">Moon 2 Past</entry><entry key="Meaning1">Emotions, feelings</entry>
+	<entry key="PositionTitle2">Moon 3 Past</entry><entry key="Meaning2">Emotions, feelings</entry>
+	<entry key="PositionTitle3">Moon 4 Present</entry><entry key="Meaning3">Emotions, feelings</entry>
+	<entry key="PositionTitle4">Moon 5 Future</entry><entry key="Meaning4">Emotions, feelings</entry>
+	<entry key="PositionTitle5">Moon 6 Future</entry><entry key="Meaning5">Emotions, feelings</entry>
+	<entry key="PositionTitle6">Moon 7 Future</entry><entry key="Meaning6">Emotions, feelings</entry>
+	<entry key="PositionTitle7">Mercury 1 Past</entry><entry key="Meaning7">Thoughts, intellect</entry>
+	<entry key="PositionTitle8">Mercury 2 Past</entry><entry key="Meaning8">Thoughts, intellect</entry>
+	<entry key="PositionTitle9">Mercury 3 Past</entry><entry key="Meaning9">Thoughts, intellect</entry>
+	<entry key="PositionTitle10">Mercury 4 Present</entry><entry key="Meaning10">Thoughts, intellect</entry>
+	<entry key="PositionTitle11">Mercury 5 Future</entry><entry key="Meaning11">Thoughts, intellect</entry>
+	<entry key="PositionTitle12">Mercury 6 Future</entry><entry key="Meaning12">Thoughts, intellect</entry>
+	<entry key="PositionTitle13">Mercury 7 Future</entry><entry key="Meaning13">Thoughts, intellect</entry>
+	<entry key="PositionTitle14">Venus 1 Past</entry><entry key="Meaning14">Love, relationships</entry>
+	<entry key="PositionTitle15">Venus 2 Past</entry><entry key="Meaning15">Love, relationships</entry>
+	<entry key="PositionTitle16">Venus 3 Past</entry><entry key="Meaning16">Love, relationships</entry>
+	<entry key="PositionTitle17">Venus 4 Present</entry><entry key="Meaning17">Love, relationships</entry>
+	<entry key="PositionTitle18">Venus 5 Future</entry><entry key="Meaning18">Love, relationships</entry>
+	<entry key="PositionTitle19">Venus 6 Future</entry><entry key="Meaning19">Love, relationships</entry>
+	<entry key="PositionTitle20">Venus 7 Future</entry><entry key="Meaning20">Love, relationships</entry>
+	<entry key="PositionTitle21">Sun 1 Past</entry><entry key="Meaning21">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle22">Sun 2 Past</entry><entry key="Meaning22">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle23">Sun 3 Past</entry><entry key="Meaning23">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle24">Sun 4 Present</entry><entry key="Meaning24">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle25">Sun 5 Future</entry><entry key="Meaning25">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle26">Sun 6 Future</entry><entry key="Meaning26">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle27">Sun 7 Future</entry><entry key="Meaning27">Energy, the ego, the central point</entry>
+	<entry key="PositionTitle28">Mars 1 Past</entry><entry key="Meaning28">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle29">Mars 2 Past</entry><entry key="Meaning29">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle30">Mars 3 Past</entry><entry key="Meaning30">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle31">Mars 4 Present</entry><entry key="Meaning31">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle32">Mars 5 Future</entry><entry key="Meaning32">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle33">Mars 6 Future</entry><entry key="Meaning33">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle34">Mars 7 Future</entry><entry key="Meaning34">Conflict, war. Also may represent the solution or answer to the 
+          matter which is why it is called the reconciler</entry>
+	<entry key="PositionTitle35">Jupiter 1 Past</entry><entry key="Meaning35">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle36">Jupiter 2 Past</entry><entry key="Meaning36">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle37">Jupiter 3 Past</entry><entry key="Meaning37">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle38">Jupiter 4 Present</entry><entry key="Meaning38">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle39">Jupiter 5 Future</entry><entry key="Meaning39">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle40">Jupiter 6 Future</entry><entry key="Meaning40">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle41">Jupiter 7 Future</entry><entry key="Meaning41">Growth and expansion. Luck. Positive influences</entry>
+	<entry key="PositionTitle42">Saturn 1 Past</entry><entry key="Meaning42">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle43">Saturn 2 Past</entry><entry key="Meaning43">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle44">Saturn 3 Past</entry><entry key="Meaning44">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle45">Saturn 4 Present</entry><entry key="Meaning45">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle46">Saturn 5 Future</entry><entry key="Meaning46">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle47">Saturn 6 Future</entry><entry key="Meaning47">Work to be done. Negative influences to overcome</entry>
+	<entry key="PositionTitle48">Saturn 7 Future</entry><entry key="Meaning48">Work to be done. Negative influences to overcome</entry>
+</oracleio>

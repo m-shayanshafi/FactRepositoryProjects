@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+<html><head><title>Lineups Controller</title>
+
+<script type="text/javascript" src="../external/prototype/prototype.js"></script>
+<script type="text/javascript" src="../external/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="../javascript/object-util.js"></script>
+<script type="text/javascript" src="../javascript/xml-util.js"></script>
+<script type="text/javascript" src="../javascript/window-util.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-viewer.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-controller.js"></script>
+<script type="text/javascript" src="../javascript/viewer.js"></script>
+<script type="text/javascript" src="../javascript/controller.js"></script>
+
+<script type="text/javascript">
+
+function createPositionTd(skater, position) {
+  var a = Builder.node("a", [ position ]);
+  var td = Builder.node("td", [ a ]);
+  td.style.cursor = "default";
+  var setTDColor = function (pos) { td.style.backgroundColor = (pos == position ? "#00ff00" : "#dddddd"); };
+  skater.Position.observe("content:change", function (event) { setTDColor(event.memo.value); });
+  setTDColor(skater.Position.getContent());
+  td.observe("click", function (event) { skater.Position.setContent(position); });
+  return td;
+}
+
+function createFieldTd(skater, field, name) {
+  var box = field.createHelper("input", { type: "checkbox", style: "display: none;" });
+  var td = Builder.node("td", [ name, box ]);
+  td.style.cursor = "default";
+  var setTDColor = function (b) { td.style.backgroundColor = (b == "true" ? "#00ff00" : "#dddddd"); };
+  field.observe("content:change", function (event) { setTDColor(event.memo.value); });
+  setTDColor(field.getContent());
+  td.observe("click", function (event) { box.click(); });
+  return td;
+}
+
+function addSkater(table, skater) {
+  var removeButton;
+  var row = Builder.node("tr", [
+    Builder.node("td", [ removeButton = Builder.node("button", [ "X" ]) ]),
+    Builder.node("td", [ skater.Name.createElement("a") ]),
+    Builder.node("td", [ skater.Number.createElement("a") ]),
+    createPositionTd(skater, "Bench"),
+    createPositionTd(skater, "Blocker1"),
+    createPositionTd(skater, "Blocker2"),
+    createPositionTd(skater, "Blocker3"),
+    createPositionTd(skater, "Pivot"),
+    createPositionTd(skater, "Jammer"),
+    createFieldTd(skater, skater.LeadJammer, "Lead"),
+    createFieldTd(skater, skater.PenaltyBox, "Box"),
+  ]);
+  removeButton.observe("click", function(event) {
+    if (confirm("Remove Skater '"+skater.Name.getContent()+"'?"))
+      skater.parentNode.removeSkater(skater.getId());
+  });
+  row.getStorage().set("rowId", skater.getId());
+  row.getStorage().set("rowNumber", skater.Number.getContent());
+  var beforeRow = $A(table.rows).detect(function (r) {
+    var rowNumber = r.getStorage().get("rowNumber");
+    var skaterNumber = skater.Number.getContent();
+    var rowN = new Number(rowNumber);
+    var skaterN = new Number(skaterNumber);
+    if (!isNaN(rowN) && !isNaN(skaterN))
+      return rowN > skaterN;
+    else if (isNaN(rowN) && isNaN(skaterN))
+      return rowNumber.toLowerCase() > skaterNumber.toLowerCase();
+    else
+      return isNaN(rowN);
+  });
+  if (Object.isUndefined(beforeRow))
+    table.insert(row);
+  else
+    beforeRow.insert({before:row});
+}
+
+function removeSkater(table, skater) {
+  var row = $A(table.rows).detect(function (r) { return r.getStorage().get("rowId") == skater.getId(); });
+  if (!Object.isUndefined(row))
+    row.remove();
+}
+
+function setupWindow() {
+  ScoreBoard.Team("1").get("Skater", "").each(function (s) { addSkater($("team1Skaters"), s); });
+  ScoreBoard.Team("2").get("Skater", "").each(function (s) { addSkater($("team2Skaters"), s); });
+  ScoreBoard.Team("1").observe("Skater:add", function(event) {
+    addSkater($("team1Skaters"), event.memo.node);
+  });
+  ScoreBoard.Team("2").observe("Skater:add", function(event) {
+    addSkater($("team2Skaters"), event.memo.node);
+  });
+  ScoreBoard.Team("1").observe("Skater:remove", function(event) {
+    removeSkater($("team1Skaters"), event.memo.node);
+  });
+  ScoreBoard.Team("2").observe("Skater:remove", function(event) {
+    removeSkater($("team2Skaters"), event.memo.node);
+  });
+}
+
+function startAll() {
+  startScoreBoard("controls/lineups.html", 500, "setupWindow();");
+}
+
+function createNewSkater(team, name, number) {
+  team.addSkater(name.value, name.value, number.value);
+  name.value = "";
+  number.value = "";
+  name.focus();
+}
+
+</script>
+
+<style type="text/css" >
+table {
+  border: 5px solid;
+  width: 100%;
+}
+
+th {
+  border: 1px;
+  background-color: #eeeeee;
+}
+
+td {
+  border: 1px solid;
+  text-align: center;
+}
+
+</style>
+
+</head>
+
+<body onload="startAll();" >
+<center>
+
+<table style="border: 0;" >
+<col style="width: 50%" />  <col style="width: 50%" />
+<tr>
+<td style="border: 0; vertical-align: top;" >
+
+<table id="team1Table" >
+  <thead>
+    <tr>
+      <th colspan="100%" ><a sbelement="ScoreBoard.Team(1).Name" /></th>
+    </tr>
+    <tr>
+      <th colspan="100%" >
+        Name:<input type="text" size="20" id="team1NewSkaterName" />
+        Number:<input type="text" size="2" id="team1NewSkaterNumber" />
+        <input type="button" value="New Skater" onclick="createNewSkater(ScoreBoard.Team('1'), $('team1NewSkaterName'), $('team1NewSkaterNumber')); return false;" />
+      </th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Name</th>
+      <th>#</th>
+      <th colspan=6 >Position</th>
+      <th >Lead</th>
+      <th >Box</th>
+    </tr>
+  </thead>
+  <tbody id="team1Skaters" >
+  </tbody>
+</table>
+
+</td>
+<td style="border: 0; vertical-align: top;" >
+
+<table id="team2Table" >
+  <thead>
+    <tr>
+      <th colspan="100%" ><a sbelement="ScoreBoard.Team(2).Name" /></th>
+    </tr>
+    <tr>
+      <th colspan="100%" >
+        Name:<input type="text" size="20" id="team2NewSkaterName" />
+        Number:<input type="text" size="2" id="team2NewSkaterNumber" />
+        <input type="button" value="New Skater" onclick="createNewSkater(ScoreBoard.Team('2'), $('team2NewSkaterName'), $('team2NewSkaterNumber'));" />
+      </th>
+    </tr>
+    <tr>
+      <th>X</th>
+      <th>Name</th>
+      <th>#</th>
+      <th colspan=6 >Position</th>
+      <th >Lead</th>
+      <th >Box</th>
+    </tr>
+  </thead>
+  <tbody id="team2Skaters" >
+  </tbody>
+</table>
+
+</td>
+</tr>
+</table>
+
+</center>
+</body>
+
+</html>

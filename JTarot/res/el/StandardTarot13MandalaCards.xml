@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Mandala/alhimjko's που διαδίδεται (Guiley)</entry>
+	<entry key="Description">Να κάνει την ανάγνωση με μόνο τις πρώτες εννέα κάρτες 
+καλείται Mandala που διαδίδεται. Η προσθήκη των τεσσάρων 
+στοιχειωδών καρτών είναι η αλχημική διάδοση</entry>
+	<entry key="PositionTitle0">Ο μόνος</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Επιθυμίες</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Όνειρα</entry><entry key="Meaning2">Αυτό που θέλετε να επιτύχετε</entry>
+	<entry key="PositionTitle3">Αναζητήσεις</entry><entry key="Meaning3">Τι προσπαθούμε ενεργά να επιτύχουμε</entry>
+	<entry key="PositionTitle4">Συνδέσεις</entry><entry key="Meaning4">Αναζητήσεις που μας κρατούν πίσω από την επίτευξη των 
+ονείρων μας. Παραδείγματος χάριν, το όνειρο πολλών 
+ανθρώπων της ευτυχίας αλλά των χρημάτων αναζήτησης που σκέφτεται
+αυτό θα τους κάνει ευτυχησμένους. Εντούτοις, είναι η 
+ανησυχία για τα χρήματα, όχι η έλλειψη από το, η οποία 
+αποτρέπει πραγματικά την ευτυχία.</entry>
+	<entry key="PositionTitle5">Ιδιότητες</entry><entry key="Meaning5">Καλές πτυχές για τον querent</entry>
+	<entry key="PositionTitle6">Θλίψεις</entry><entry key="Meaning6">Ελαττώματα του querent που χρειάζεται τη βελτίωση</entry>
+	<entry key="PositionTitle7">Μόνος-εικόνα</entry><entry key="Meaning7">Πώς οι querent απόψεις εαυτό του/της</entry>
+	<entry key="PositionTitle8">Ώθηση ψυχής</entry><entry key="Meaning8">Ο αληθινός σκοπός κάποιου και desitiny</entry>
+	<entry key="PositionTitle9">Γη</entry><entry key="Meaning9">Σκοτάδι, μυστήριο, και ο άγνωστος</entry>
+	<entry key="PositionTitle10">Αέρας</entry><entry key="Meaning10">Πνευματικοί φωτισμός και Διαφωτισμός</entry>
+	<entry key="PositionTitle11">Πυρκαγιά</entry><entry key="Meaning11">Ο διάνοια, λογική σκέψη,</entry>
+	<entry key="PositionTitle12">Ύδωρ</entry><entry key="Meaning12">Δημιουργικότητα και συγκινήσεις</entry>
+</oracleio>

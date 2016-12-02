@@ -1,0 +1,131 @@
+/**
+ *   Stigma - Multiplayer online RPG - http://stigma.sourceforge.net
+ *   Copyright (C) 2005-2009 Minions Studio
+ *
+ *   This program is free software: you can redistribute it and/or modify
+ *   it under the terms of the GNU General Public License as published by
+ *   the Free Software Foundation, either version 3 of the License, or
+ *   (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be useful,
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details.
+ *
+ *   You should have received a copy of the GNU General Public License
+ *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *   
+ */
+package pl.org.minions.utils.logger;
+
+import java.net.URL;
+
+/**
+ * Log class stub used to disable logger functionality on client side
+ * without duplicating code of classes common to client and server side
+ */
+public abstract class Log
+{
+	public static Logger logger = new Logger();
+
+	public static class Logger
+	{
+		public void fatal(Object o, Throwable t)
+		{
+		}
+
+		public void fatal(Object o)
+		{
+		}
+
+		public void error(Object o, Throwable t)
+		{
+		}
+
+		public void error(Object o)
+		{
+		}
+
+		public void warn(Object o, Throwable t)
+		{
+		}
+
+		public void warn(Object o)
+		{
+		}
+
+		public void info(Object o, Throwable t)
+		{
+		}
+
+		public void info(Object o)
+		{
+		}
+
+		public void debug(Object o, Throwable t)
+		{
+		}
+
+		public void debug(Object o)
+		{
+		}
+
+		public void trace(Object o, Throwable t)
+		{
+		}
+
+		public void trace(Object o)
+		{
+		}
+
+		public boolean isDebugEnabled()
+		{
+			return false;
+		}
+
+		public boolean isInfoEnabled()
+		{
+			return false;
+		}
+
+		public boolean isTraceEnabled()
+		{
+			return false;
+		}
+	}
+
+    public static void initialize(URL url)
+    {
+    }
+
+	public static void initialize(URL url, String programName)
+	{
+	}
+
+	public static void initialize(String path, String programName)
+	{
+	}
+
+    public static void initialize(String path)
+    {
+    }
+
+	public static boolean isDebugEnabled()
+	{
+		return false;
+	}
+
+	public static boolean isInfoEnabled()
+	{
+		return false;
+	}
+
+	public static boolean isTraceEnabled()
+	{
+		return false;
+	}
+	
+	private Log()
+	{
+	}
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terrainset version="Development" id="1"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/TerrainSetData-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<terrainList>
+		<!-- Empty space (black) -->
+		<terrain priority="0" passable="false" id="0" color="#000000">
+			<tileList>
+				<tile id="0" />
+			</tileList>
+		</terrain>
+
+		<!-- Room floor -->
+		<terrain priority="2" passable="true" id="1" color="#666666"
+			imageFileName="dungeon_room_floor">
+			<tileList>
+				<tile id="0" />
+			</tileList>
+		</terrain>
+
+		<!-- Passageway -->
+		<terrain priority="1" passable="true" id="2" color="#222222"
+			imageFileName="dungeon_passageway">
+			<tileList>
+				<tile id="0" />
+			</tileList>
+		</terrain>
+
+		<!-- Wall -->
+		<terrain priority="4" passable="false" id="-3" color="#cccccc"
+			imageFileName="dungeon_wall">
+			<tileList>
+				<tile id="0" />
+			</tileList>
+		</terrain>
+
+		<!-- Object (column or monument) -->
+		<terrain priority="3" passable="false" id="-2" color="#666600"
+			imageFileName="dungeon_statue">
+			<tileList>
+				<tile id="0" />
+			</tileList>
+		</terrain>
+	</terrainList>
+	<name>BasicTerrains</name>
+	<desc>BasicTerrains</desc>
+</terrainset>

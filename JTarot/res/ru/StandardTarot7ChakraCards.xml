@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">План chakra 7 карточек</entry>
+	<entry key="Description">Каждая карточка соответствует до одно из 7 
+chakras тела. Правильное изучение вопроса было бы о когда 
+использование этого плана и списка ниже будет предназначено только как
+указатель справочника извлеченный от книги Guiley's. 
+Толкования каждого положения могут поменять зависеть на ваших 
+learnings</entry>
+	<entry key="PositionTitle0">Chakra корня</entry><entry key="Meaning0">Самосохранение и инстинкты</entry>
+	<entry key="PositionTitle1">Chakra Sacral</entry><entry key="Meaning1">Sexuality</entry>
+	<entry key="PositionTitle2">Солнечный плекс</entry><entry key="Meaning2">Взволнованности</entry>
+	<entry key="PositionTitle3">Сердце chakral</entry><entry key="Meaning3">Более высокое сознавание, безусловная влюбленность</entry>
+	<entry key="PositionTitle4">Chakra горла</entry><entry key="Meaning4">Выражение creativity и собственной личности</entry>
+	<entry key="PositionTitle5">Третье chakra глаза</entry><entry key="Meaning5">Psychic способности, духовное прозрение</entry>
+	<entry key="PositionTitle6">Chakra кроны</entry><entry key="Meaning6">Индивидуальный уровень сознательного evoluion</entry>
+</oracleio>

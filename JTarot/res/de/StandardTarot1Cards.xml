@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="One card" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+	<entry key="Title">Eine Karte</entry>
+	<entry key="Description">Der ein Karte Plan ist groß, da ein Starter, damit Sie
+ein Gefühl von was er ist, Ihnen möchten um um tarot bitten 
+erhalten. Er hilft Ihnen, zu konzentrieren auf, was für Sie im 
+Augenblick wichtig ist. Dieses kann nachdem ein komplizierter 
+Plan an spezifischer Antwort auch gewöhntSEIN eine unkomplizierte 
+Frage oder mehr infomation über eine Karte im komplizierten Plan 
+geben, daß Sie von unsicher sind.</entry>
+	<entry key="PositionTitle0">Sie, hier und jetzt</entry><entry key="Meaning0">Wo Sie jetzt sind. Dieses kann auf eine bestimmte
+Situation zeigen, die Sie innen sich jetzt oder eine Qualität finden,
+die Sie für Ihre Entwicklung an im Augenblick konzentrieren müssen.</entry>
+</oracleio>

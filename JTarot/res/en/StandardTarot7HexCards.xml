@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Split Hexagram Spread (Kraig)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Split Hexagram Spread (Kraig)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Unknown spiritual influences</entry><entry key="Meaning0">Card 1 will have a 
+               stronger affect than Card 2
+</entry>
+	<entry key="PositionTitle1">Unknown spiritual influences</entry><entry key="Meaning1">Card 1 will have a 
+               stronger affect than Card 2
+</entry>
+	<entry key="PositionTitle2">Spiritual advice</entry><entry key="Meaning2">Spiritual advice for the matter</entry>
+	<entry key="PositionTitle3">Unconscous</entry><entry key="Meaning3">Unconscious desires</entry>
+	<entry key="PositionTitle4">Conscious</entry><entry key="Meaning4">Conscious desires</entry>
+	<entry key="PositionTitle5">Practical advice</entry><entry key="Meaning5">Practical advice for the matter</entry>
+	<entry key="PositionTitle6">Final outcome</entry><entry key="Meaning6">Final outcome if you proceed with matter at this time</entry>
+</oracleio>

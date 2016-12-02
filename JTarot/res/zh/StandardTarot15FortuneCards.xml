@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Fortune Teller's Spread (Morison)" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">算命者的传播(Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">结果1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">结果2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">结果3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Querent 的想法1</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Querent 的想法2</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Querent 的想法3</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">选择1</entry><entry key="Meaning6">您控制的事, 可能的选择</entry>
+	<entry key="PositionTitle7">选择2</entry><entry key="Meaning7">您控制的事, 可能的选择</entry>
+	<entry key="PositionTitle8">选择3</entry><entry key="Meaning8">您控制的事, 可能的选择</entry>
+	<entry key="PositionTitle9">力量1</entry><entry key="Meaning9">给您力量的事</entry>
+	<entry key="PositionTitle10">力量2</entry><entry key="Meaning10">给您力量的事</entry>
+	<entry key="PositionTitle11">力量3</entry><entry key="Meaning11">给您力量的事</entry>
+	<entry key="PositionTitle12">惊奇1</entry><entry key="Meaning12">事对querent 没已知或没被忽略</entry>
+	<entry key="PositionTitle13">惊奇2</entry><entry key="Meaning13">事对querent 没已知或没被忽略</entry>
+	<entry key="PositionTitle14">惊奇2</entry><entry key="Meaning14">事对querent 没已知或没被忽略</entry>
+</oracleio>

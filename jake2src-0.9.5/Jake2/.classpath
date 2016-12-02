@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="patch"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="patch/|src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/ant/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="lib/ant/ant.jar"/>
+	<classpathentry kind="lib" path="lib/izpack/standalone-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/joal/linux/joal.jar"/>
+	<classpathentry kind="lib" path="lib/joal/osx/joal.jar"/>
+	<classpathentry kind="lib" path="lib/joal/windows/joal.jar"/>
+	<classpathentry kind="lib" path="lib/jogl/jogl.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xerces/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

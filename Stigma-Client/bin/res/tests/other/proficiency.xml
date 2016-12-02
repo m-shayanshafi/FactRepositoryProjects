@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<proficiencyWrapper version="Development"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ProficiencyWrapper-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <list>
+        <proficiency>
+            <id>1</id>
+            <name>Heavy weapon</name>
+        </proficiency>
+        <proficiency>
+            <id>2</id>
+            <name>Heavy armor</name>
+        </proficiency>
+        <proficiency>
+            <id>3</id>
+            <name>Double weapon</name>
+        </proficiency>
+        <proficiency>
+            <id>4</id>
+            <name>Shield</name>
+        </proficiency>
+        <proficiency>
+        	<id>5</id>
+        	<name>Buttoned</name>
+        </proficiency>
+    </list>
+</proficiencyWrapper>

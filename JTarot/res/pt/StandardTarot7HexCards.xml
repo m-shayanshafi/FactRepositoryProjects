@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Split Hexagram Spread (Kraig)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação Rachada De Hexagram (Kraig)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Influências desconhecidas do espiritual</entry><entry key="Meaning0">O cartão 1 mandará um mais forte afetar do que o 
+cartão 2
+</entry>
+	<entry key="PositionTitle1">Influências desconhecidas do espiritual</entry><entry key="Meaning1">O cartão 1 mandará um mais forte afetar do que o 
+cartão 2
+</entry>
+	<entry key="PositionTitle2">Conselho espiritual</entry><entry key="Meaning2">Conselho espiritual para a matéria</entry>
+	<entry key="PositionTitle3">Unconscous</entry><entry key="Meaning3">Desejos inconscientes</entry>
+	<entry key="PositionTitle4">Conscious</entry><entry key="Meaning4">Desejos conscious</entry>
+	<entry key="PositionTitle5">Conselho prático</entry><entry key="Meaning5">Conselho prático para a matéria</entry>
+	<entry key="PositionTitle6">Resultado final</entry><entry key="Meaning6">Resultado final se você proseguir com matéria neste 
+tempo</entry>
+</oracleio>

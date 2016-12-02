@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Celtic cross" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts 1960 -" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+		<entry key="Title">Det keltiska korset</entry>
+		<entry key="Description">Korset kan tillämpas på i stort sett alla typer av frågor. Det består av tio kort, sex grupperade i ett kors och fyra i form av en "stege". Ett kors sägs representera människans oändliga utvecklingsmöjligheter på alla plan. Korsets vertikala linje symboliserar det inre livet, det andliga planet. Det horisontella står för det yttre livet, det materiella planet. (Korset, som symbol betraktat, står dessutom för lidande och smärta men också för hopp och återfödelse). 1 läggningen pekar själva korset på ditt dilemma, din situation, medan "stegen" representerar hur situationen kan lösas.
+Låt oss gå igenom de olika placeringarna i Det keltiska korset. Som du ser nedan finns det flera aspekter på
+varje position, precis som det gör när varje kort skall tolkas. Se detta som öppningar av flera möjligheter i stället för något "besvärligt".</entry>
+	<entry key="PositionTitle0">Vad du är</entry><entry key="Meaning0">De två första korten berättar om vad som just nu är viktigast att bli medveten om, "pudelns kärna". Detta position är vad du är, vad du har skapat. Vad du tänker på. Det inre jaget.</entry>
+	<entry key="PositionTitle1">Vad som håller på att skapas</entry><entry key="Meaning1">Vad som håller på att skapas, att ta form. Komplettering till/reaktioner på/utmaning till det första kortet. Det som skapar utveckling. Det yttre jaget.</entry>
+	<entry key="PositionTitle2">Det underliggande</entry><entry key="Meaning2">Det underliggande, ursprunget till den nuvarande situationen. Undermedvetna drivkrafter. Något du inte vill se/din skugga.</entry>
+	<entry key="PositionTitle3">Det förgångna</entry><entry key="Meaning3">Det förgångna, det du redan har. Det som erbjuds, vad du kan acceptera eller lämna bakom dig. Det som hjälper eller hindrar dig. Din "input". Din kvinnliga, passiva sida.</entry>
+	<entry key="PositionTitle4">Dina mål</entry><entry key="Meaning4">Vad du redan är medveten om. Dina mål, dina ideal, det högre jaget. Det bästa du kan skapa under nuvarande förutsättningar. Den atmosfär under vilken du kan skapa.</entry>
+	<entry key="PositionTitle5">Den närmaste händelseutvecklingen</entry><entry key="Meaning5">Den närmaste händelseutvecklingen. Det du ger ut, din "output". Din manliga, aktiva sida, din handlingsförmåga.</entry>
+	<entry key="PositionTitle6">Hur du ser dig själv</entry><entry key="Meaning6">Hur du ser dig själv (och din framtid) och behandlar dig själv. Den nivå du fungerar på.</entry>
+	<entry key="PositionTitle7">Påverkan från omgivningen</entry><entry key="Meaning7">Din påverkan från omgivningen. Hur den ser på dig (och din framtid).</entry>
+	<entry key="PositionTitle8">Lärdomen</entry><entry key="Meaning8">Den lärdom du kommer att göra. Det som är olöst och måste lösas. Vad som sker i ett större perspektiv. Dina förhoppningar och din rädsla.</entry>
+	<entry key="PositionTitle9">Slutresultatet</entry><entry key="Meaning9">Själva slutresultatet. Belöningen, lösningen. Vad du kommer att få ut av situationen. Den inre kraften som kommer att växa i betydelse.</entry>
+</oracleio>
+

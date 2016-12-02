@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <extension
+         id="application"
+         name="Magic Cards"
+         point="org.eclipse.core.runtime.applications">
+      <application
+            icon="icons/m.gif">
+         <run
+               class="com.reflexit.magiccards_rcp.MAApplication">
+         </run>
+      </application>
+   </extension>
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="com.reflexit.magiccards_rcp.application"
+            name="Magic Assistant">
+         <property
+               name="windowImages"
+               value="icons/m16.gif,icons/m.gif,icons/m48.gif">
+         </property>
+         <property
+               name="appName"
+               value="Magic Assistant">
+         </property>
+         <property
+               name="startupForegroundColor"
+               value="000000">
+         </property>
+         <property
+               name="startupMessageRect"
+               value="100,25,420,20">
+         </property>
+         <property
+               name="startupProgressRect"
+               value="100,10,420,15">
+         </property>
+         <property
+               name="aboutText"
+               value="%aboutText">
+         </property>
+         <property
+               name="cssTheme"
+               value="com.reflexit.magiccards.light">
+               <!-- "org.eclipse.e4.ui.css.theme.e4_classic" -->
+         </property>
+         <property
+               name="aboutImage"
+               value="splash.png">
+         </property>
+         <property
+               name="preferenceCustomization"
+               value="plugin_customization.ini">
+         </property>
+      </product>
+   </extension>
+ <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            name="%PreferencePages.Workbench"
+            class="org.eclipse.ui.ExtensionFactory:workbenchPreferencePage"
+            id="org.eclipse.ui.preferencePages.Workbench">
+         <keywordReference id="org.eclipse.ui.ide.general"/>
+      </page>
+      <page
+            name="%PreferencePages.Views"
+            category="org.eclipse.ui.preferencePages.Workbench"
+            class="org.eclipse.ui.ExtensionFactory:appearancePreferencePage"
+            id="org.eclipse.ui.preferencePages.Views">
+         <keywordReference id="org.eclipse.ui.ide.appearance"/>
+         <keywordReference id="org.eclipse.ui.ide.colorlabels"/>
+         <keywordReference id="org.eclipse.ui.ide.themes"/>
+         <keywordReference id="org.eclipse.ui.ide.tabs"/>
+         <keywordReference id="org.eclipse.ui.ide.apearancepage"/>
+         <keywordReference
+               id="org.eclipse.ui.ide.animations">
+         </keywordReference>
+      </page>
+      <page
+            name="%PreferencePages.ColorsAndFonts"
+            category="org.eclipse.ui.preferencePages.Views"
+            class="org.eclipse.ui.ExtensionFactory:colorsAndFontsPreferencePage"
+            id="org.eclipse.ui.preferencePages.ColorsAndFonts">
+         <keywordReference id="org.eclipse.ui.ide.appearance"/>
+         <keywordReference id="org.eclipse.ui.ide.themes"/>
+      </page>
+      <page
+            name="%PreferencePages.Decorators"
+            category="org.eclipse.ui.preferencePages.Views"
+            class="org.eclipse.ui.ExtensionFactory:decoratorsPreferencePage"
+            id="org.eclipse.ui.preferencePages.Decorators">
+         <keywordReference id="org.eclipse.ui.ide.appearance"/>
+      </page>
+      
+      
+      <page
+            name="%PreferencePages.NewKeys"
+            category="org.eclipse.ui.preferencePages.Workbench"
+            class="org.eclipse.ui.ExtensionFactory:newKeysPreferencePage"
+            id="org.eclipse.ui.preferencePages.Keys">
+         <keywordReference id="org.eclipse.ui.ide.keys"/>
+      </page>
+      <page
+            name="%PreferencePages.Capabilities"
+            category="org.eclipse.ui.preferencePages.Workbench"
+        
+            id="org.eclipse.sdk.capabilities">
+            <class     class="org.eclipse.ui.activities.ActivityCategoryPreferencePage">
+             <parameter name="allowAdvanced" value="true"/>
+            </class>
+      </page>
+   </extension>
+ <extension
+       point="org.eclipse.core.runtime.preferences">
+    <initializer
+          class="com.reflexit.magiccards_rcp.MAPreferenceInitializer">
+    </initializer>
+ </extension>
+
+
+<extension
+         point="org.eclipse.e4.ui.css.swt.theme">
+
+      <theme
+            basestylesheeturi="css/dark.css"
+            id="com.reflexit.magiccards.dark"
+            label="Magic Assistant Dark">
+      </theme>
+      <theme
+            basestylesheeturi="css/light.css"
+            id="com.reflexit.magiccards.light"
+            label="Magic Assistant Light">
+      </theme>
+      
+         <stylesheet
+         uri="css/magic-dark_preferencestyle.css">
+      <themeid
+            refid="org.eclipse.e4.ui.css.theme.e4_dark"></themeid>
+   </stylesheet>
+            <stylesheet
+         uri="css/magic-dark_preferencestyle.css">
+      <themeid
+            refid="com.reflexit.magiccards.dark"></themeid>
+   </stylesheet>
+   <stylesheet
+         uri="css/magic.css">
+   </stylesheet>
+</extension>
+
+
+   <extension
+
+         point="org.eclipse.ui.activities">
+
+      <category
+
+            description="Magic Assistant Activities. To Enable/Disable Features Use &quot;Advanced&quot; Button."
+
+            id="com.reflexit.magiccards.activity.category"
+
+            name="Magic Assistant">
+
+      </category>
+
+
+   </extension>
+</plugin>

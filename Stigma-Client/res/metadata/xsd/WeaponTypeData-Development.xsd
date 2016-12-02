@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="weapon" type="weaponTypeData"/>
+
+  <xs:element name="weaponAttack" type="weaponAttackData"/>
+
+  <xs:complexType name="weaponTypeData">
+    <xs:all>
+      <xs:element name="attackMap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="key" minOccurs="0" type="attackType"/>
+                  <xs:element name="value" minOccurs="0" type="weaponAttackData"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="baseEffects" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="baseeffect" type="xs:short" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="baseMofifiers" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="basemodifier" type="xs:short" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="description" type="xs:string" minOccurs="0"/>
+      <xs:element name="slot" type="logicalSlotType"/>
+      <xs:element name="inventoryIcon" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="onGroundIcon" type="xs:string" minOccurs="0"/>
+      <xs:element name="reqagl" type="xs:byte" minOccurs="0"/>
+      <xs:element name="reqfn" type="xs:byte" minOccurs="0"/>
+      <xs:element name="profList" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="reqprof" type="xs:short" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="reqstr" type="xs:byte" minOccurs="0"/>
+      <xs:element name="reqwp" type="xs:byte" minOccurs="0"/>
+    </xs:all>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="value" type="xs:int"/>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+    <xs:attribute name="weight" type="xs:short"/>
+  </xs:complexType>
+
+  <xs:complexType name="weaponAttackData">
+    <xs:all>
+      <xs:element name="agibonusmax" type="xs:short" minOccurs="0"/>
+      <xs:element name="agibonusmin" type="xs:short" minOccurs="0"/>
+      <xs:element name="agibonusstep" type="xs:short" minOccurs="0"/>
+      <xs:element name="attack" type="xs:short"/>
+      <xs:element name="damage" type="xs:short"/>
+      <xs:element name="cooldown" type="xs:short"/>
+      <xs:element name="critical" type="xs:short" minOccurs="0"/>
+      <xs:element name="finbonusmax" type="xs:short" minOccurs="0"/>
+      <xs:element name="finbonusmin" type="xs:short" minOccurs="0"/>
+      <xs:element name="finbonusstep" type="xs:short" minOccurs="0"/>
+      <xs:element name="range" type="xs:short"/>
+      <xs:element name="strbonusmax" type="xs:short" minOccurs="0"/>
+      <xs:element name="strbonusmin" type="xs:short" minOccurs="0"/>
+      <xs:element name="strbonusstep" type="xs:short" minOccurs="0"/>
+      <xs:element name="wpwbonusmax" type="xs:short" minOccurs="0"/>
+      <xs:element name="wpwbonusmin" type="xs:short" minOccurs="0"/>
+      <xs:element name="wpwbonusstep" type="xs:short" minOccurs="0"/>
+    </xs:all>
+    <xs:attribute name="type" type="damageType" use="required"/>
+  </xs:complexType>
+
+  <xs:simpleType name="attackType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="THRUST"/>
+      <xs:enumeration value="SWING"/>
+      <xs:enumeration value="THROW"/>
+      <xs:enumeration value="FIRE"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="damageType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CUTTING"/>
+      <xs:enumeration value="PIERCING"/>
+      <xs:enumeration value="BLUNT"/>
+      <xs:enumeration value="FROSTBITE"/>
+      <xs:enumeration value="BURN"/>
+      <xs:enumeration value="SHOCK"/>
+      <xs:enumeration value="POISON"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="logicalSlotType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="ONE_HAND"/>
+      <xs:enumeration value="TWO_HANDS"/>
+      <xs:enumeration value="SHIELD"/>
+      <xs:enumeration value="FULL_HELMET"/>
+      <xs:enumeration value="OPEN_HELMET"/>
+      <xs:enumeration value="MASK"/>
+      <xs:enumeration value="AMULET"/>
+      <xs:enumeration value="RING"/>
+      <xs:enumeration value="GLOVES"/>
+      <xs:enumeration value="ARMOR"/>
+      <xs:enumeration value="TROUSERS"/>
+      <xs:enumeration value="BOOTS"/>
+      <xs:enumeration value="ROBE"/>
+      <xs:enumeration value="FULL_ARMOR"/>
+      <xs:enumeration value="NO_SLOT_TYPE"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
+

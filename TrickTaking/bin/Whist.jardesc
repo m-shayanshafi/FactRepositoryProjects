@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<jardesc>
+  <jar path="/media/winlinux/projets/workspace/tricktakinggame/rules/Whist.jar"/>
+  <options overwrite="false" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/tricktakinggame/Whist.jardesc" useSourceFolders="false" buildIfNeeded="true" includeDirectoryEntries="false" storeRefactorings="false"/>
+  <storedRefactorings structuralOnly="false" deprecationInfo="true"/>
+  <selectedProjects/>
+  <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="true" manifestLocation="/manille/client-manifest.mf">
+    <sealing sealJar="false">
+      <packagesToSeal/>
+      <packagesToUnSeal/>
+    </sealing>
+  </manifest>
+  <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{StopgapAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistAuction.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{ContractSoloAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{MiseryAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{SoloAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistProvider.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.contracts{MiseryContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{TrumpAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{PackAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{ContractAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{DuoMiseryAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{VarSoloAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.contracts{NoContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{AnnounceValues.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{PassAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistRules.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.contracts{SoloContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{WaitAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{NoAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.contracts{PackContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistSuitComparator.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist{WhistContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{DuoContractAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.contracts{DuoMiseryContract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{GapAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.whist.announces{ProposeAnnounce.java"/>
+  </selectedElements>
+</jardesc>

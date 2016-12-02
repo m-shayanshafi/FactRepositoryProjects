@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NitsLoch>
+	<!-- Scenario name -->
+	<name>Test Scenario 1.0</name>
+
+	<map path="maps/Test Map"/>
+	
+	<!-- Custom ending message -->
+	<endingMessage>The world is now free of the NitsLoch monster!  Good job!</endingMessage>
+	
+	<!-- Hit point threshold that enemy will start running -->
+	<runHitPointAmount>30</runHitPointAmount>
+	
+	<!-- Chance that enemy will run when the threshold is hit (between 0 and 1) -->
+	<runChance>0</runChance>
+	
+	<!-- Chance that enemy will spawn when resting in the city (between 0 and 1) -->
+	<spawnChanceCity>.007</spawnChanceCity>
+	
+	<!-- Chance that enemy will spawn when in a dungeon (between 0 and 1) -->
+	<spawnChanceDungeon>.02</spawnChanceDungeon>
+	
+	<!-- Chance that an item will drop when an enemy dies (between 0 and 1) -->
+	<itemDropChance>.03</itemDropChance>
+
+	<!-- Difficulty scales -->
+	<difficulty>
+		<health>.85</health>
+		<ability>.6</ability>
+		<damage>.8</damage>
+	</difficulty>
+	
+	<!-- Inventory Item Limits.  Types 0-10 are possible. (all are required) (0 = no limit) -->
+	<inventoryLimits>
+		<item type="0">
+			<limit>0</limit>
+		</item>
+		<item type="1">
+			<limit>10</limit>
+		</item>
+		<item type="2">
+			<limit>10</limit>
+		</item>
+		<item type="3">
+			<limit>10</limit>
+		</item>
+		<item type="4">
+			<limit>0</limit>
+		</item>
+		<item type="5">
+			<limit>0</limit>
+		</item>
+		<item type="6">
+			<limit>0</limit>
+		</item>
+		<item type="7">
+			<limit>50</limit>
+		</item>
+		<item type="8">
+			<limit>50</limit>
+		</item>
+		<item type="9">
+			<limit>50</limit>
+		</item>
+		<item type="10">
+			<limit>5</limit>
+		</item>
+	</inventoryLimits>
+	
+	<!-- Inventory the player will start with. -->
+	<startingInventory>
+		<bandaids>1</bandaids>
+		<grenades>1</grenades>
+		<dynamite>0</dynamite>
+		<bullets>0</bullets>
+		<rockets>0</rockets>
+		<flamePacks>0</flamePacks>
+		<laddersUp>3</laddersUp>
+		<laddersDown>3</laddersDown>
+		<mapViewers>3</mapViewers>
+		<exports>1</exports>
+	</startingInventory>
+
+	<!-- Explosion damages. Types 0-2 are required-->
+	<explosionDamage>
+		<explosion type="0">
+			<damage>65</damage>
+		</explosion>
+		<explosion type="1">
+			<damage>90</damage>
+		</explosion>
+		<explosion type="2">
+			<damage>500</damage>
+		</explosion>
+	</explosionDamage>
+	
+	<!-- Weapons.  Types 0-24 are possible. Types 0-16 are possible for damageTypes. (at least one weapon required) 
+		type 0 can never be broken -->
+	<weapons>
+		<weapon type="0">
+			<itemName>Bare Hands</itemName>
+			<secondName>bare hands</secondName>
+			<damage>12</damage>
+			<damageType>0</damageType>
+			<canBreak>false</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="1">
+			<itemName>Brass Knuckles</itemName>
+			<secondName>brass knuckles</secondName>
+			<damage>16</damage>
+			<damageType>0</damageType>
+			<canBreak>false</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="2">
+			<itemName>Staff</itemName>
+			<secondName>a staff</secondName>
+			<damage>32</damage>
+			<damageType>5</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="3">
+			<itemName>Knife</itemName>
+			<secondName>a knife</secondName>
+			<verb>stabbed</verb>
+			<damage>20</damage>
+			<damageType>0</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="4">
+			<itemName>Dagger</itemName>
+			<secondName>a dagger</secondName>
+			<verb>stabbed</verb>
+			<damage>40</damage>
+			<damageType>0</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="5">
+			<itemName>Nunchucks</itemName>
+			<secondName>nunchucks</secondName>
+			<damage>45</damage>
+			<damageType>5</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="6">
+			<itemName>Pistol</itemName>
+			<secondName>a pistol</secondName>
+			<verb>shot</verb>
+			<damage>85</damage>
+			<damageType>8</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="7">
+			<itemName>Sawed-Off Shotgun</itemName>
+			<secondName>a sawed-off shotgun</secondName>
+			<verb>shot</verb>
+			<damage>140</damage>
+			<damageType>8</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="8">
+			<itemName>Sniper Rifle</itemName>
+			<secondName>a sniper rifle</secondName>
+			<verb>shot</verb>
+			<damage>125</damage>
+			<damageType>8</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="9">
+			<itemName>Flame Thrower</itemName>
+			<secondName>a flame thrower</secondName>
+			<verb>burned</verb>
+			<damage>150</damage>
+			<damageType>12</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>true</usesFlamePacks>
+		</weapon>
+		<weapon type="10">
+			<itemName>Chainsaw</itemName>
+			<secondName>a chainsaw</secondName>
+			<verb>tore into</verb>
+			<damage>250</damage>
+			<damageType>2</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="11">
+			<itemName>Rocket Launcher</itemName>
+			<secondName>a rocket launcher</secondName>
+			<verb>fires at</verb>
+			<damage>400</damage>
+			<damageType>14</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>true</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="12">
+			<itemName>Broken Bottle</itemName>
+			<secondName>a broken bottle</secondName>
+			<damage>17</damage>
+			<damageType>1</damageType>
+			<canBreak>false</canBreak>
+			<usesRockets>true</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="13">
+			<itemName>SPNKR</itemName>
+			<secondName>a SPNKR</secondName>
+			<verb>fires at</verb>
+			<damage>400</damage>
+			<damageType>14</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>true</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+		<weapon type="14">
+			<itemName>Laser Sword</itemName>
+			<secondName>a laser sword</secondName>
+			<damage>310</damage>
+			<damageType>3</damageType>
+			<canBreak>false</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>true</usesFlamePacks>
+		</weapon>
+		<weapon type="15">
+			<itemName>Loch</itemName>
+			<secondName>a loch sound</secondName>
+			<verb>confused</verb>
+			<damage>15</damage>
+			<damageType>16</damageType>
+			<canBreak>true</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+	</weapons>
+	
+	<!-- Armor.  Types 0-24 are possible (at least one required) Type 0 can never be broken -->
+	<defense>
+		<armor type="0">
+			<itemName>Street Clothes</itemName>
+			<secondName>street clothes</secondName>
+			<melee>0</melee>
+			<martialArts>0</martialArts>
+			<marksman>0</marksman>
+			<flame>0</flame>
+			<other>0</other>
+			<canBreak>false</canBreak>
+		</armor>
+		<armor type="1">
+			<itemName>Leather</itemName>
+			<secondName>a leather vest</secondName>
+			<melee>20</melee>
+			<martialArts>15</martialArts>
+			<marksman>5</marksman>
+			<flame>0</flame>
+			<other>5</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="2">
+			<itemName>Metal</itemName>
+			<secondName>a metal vest</secondName>
+			<melee>30</melee>
+			<martialArts>25</martialArts>
+			<marksman>15</marksman>
+			<flame>5</flame>
+			<other>15</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="3">
+			<itemName>Bullet Proof</itemName>
+			<secondName>a bullet proof vest</secondName>
+			<melee>30</melee>
+			<martialArts>35</martialArts>
+			<marksman>25</marksman>
+			<flame>10</flame>
+			<other>15</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="4">
+			<itemName>Flame Retardant</itemName>
+			<secondName>a flame retardant vest</secondName>
+			<melee>15</melee>
+			<martialArts>15</martialArts>
+			<marksman>15</marksman>
+			<flame>35</flame>
+			<other>20</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="5">
+			<itemName>Bullet / Flame</itemName>
+			<secondName>a bullet proof / flame retardant vest</secondName>
+			<melee>30</melee>
+			<martialArts>30</martialArts>
+			<marksman>35</marksman>
+			<flame>35</flame>
+			<other>30</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="6">
+			<itemName>Raincoat</itemName>
+			<secondName>a raincoat</secondName>
+			<melee>5</melee>
+			<martialArts>0</martialArts>
+			<marksman>0</marksman>
+			<flame>0</flame>
+			<other>0</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="7">
+			<itemName>Environment Suit</itemName>
+			<secondName>an environment suit</secondName>
+			<melee>15</melee>
+			<martialArts>15</martialArts>
+			<marksman>15</marksman>
+			<flame>30</flame>
+			<other>70</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="8">
+			<itemName>Flame Retardant +2</itemName>
+			<secondName>a flame retardant vest +2</secondName>
+			<melee>30</melee>
+			<martialArts>30</martialArts>
+			<marksman>30</marksman>
+			<flame>55</flame>
+			<other>35</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="9">
+			<itemName>Bullet Proof +2</itemName>
+			<secondName>a bullet proof / flame retardant vest</secondName>
+			<melee>40</melee>
+			<martialArts>40</martialArts>
+			<marksman>55</marksman>
+			<flame>40</flame>
+			<other>40</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="10">
+			<itemName>Armor Hotdogs</itemName>
+			<secondName>a vest made out of armor hotdogs</secondName>
+			<melee>5</melee>
+			<martialArts>5</martialArts>
+			<marksman>0</marksman>
+			<flame>0</flame>
+			<other>5</other>
+			<canBreak>true</canBreak>
+		</armor>
+		<armor type="11">
+			<itemName>Reflect Suit</itemName>
+			<secondName>a reflect suit</secondName>
+			<melee>55</melee>
+			<martialArts>55</martialArts>
+			<marksman>45</marksman>
+			<flame>55</flame>
+			<other>75</other>
+			<canBreak>false</canBreak>
+		</armor>
+	</defense>
+	
+	<!-- Enemies. Types 0-199 are possible (optional) -->
+	<enemies>
+		<enemy type="0">
+			<name>Pickpocket</name>
+			<leftImage>images/Pickpocket-L.png</leftImage>
+			<rightImage>images/Pickpocket-R.png</rightImage>
+			<dungeonImage>images/Pickpocket-dun.png</dungeonImage>
+			<hitPoints>40</hitPoints>
+			<ability>60</ability>
+			<weaponType>15</weaponType>
+			<armorType>10</armorType>
+			<behavior>2</behavior>
+			<minMoney>0</minMoney>
+			<maxMoney>4</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>true</thief>
+		</enemy>
+		<enemy type="1">
+			<name>Bum</name>
+			<leftImage>images/bum-L.png</leftImage>
+			<rightImage>images/bum-R.png</rightImage>
+			<dungeonImage>images/bum-dun.png</dungeonImage>
+			<hitPoints>50</hitPoints>
+			<ability>50</ability>
+			<weaponType>0</weaponType>
+			<armorType>0</armorType>
+			<behavior>1</behavior>
+			<minMoney>0</minMoney>
+			<maxMoney>4</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="2">
+			<name>Coyote</name>
+			<leftImage>images/coyote-L.png</leftImage>
+			<rightImage>images/coyote-R.png</rightImage>
+			<dungeonImage>images/coyote-dun.png</dungeonImage>
+			<hitPoints>80</hitPoints>
+			<ability>55</ability>
+			<weaponType>1</weaponType>
+			<armorType>0</armorType>
+			<behavior>2</behavior>
+			<minMoney>3</minMoney>
+			<maxMoney>7</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="3">
+			<name>Warrior</name>
+			<leftImage>images/warrior-L.png</leftImage>
+			<rightImage>images/warrior-R.png</rightImage>
+			<dungeonImage>images/warrior-dun.png</dungeonImage>
+			<hitPoints>90</hitPoints>
+			<ability>50</ability>
+			<weaponType>2</weaponType>
+			<armorType>1</armorType>
+			<behavior>2</behavior>
+			<minMoney>5</minMoney>
+			<maxMoney>10</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="4">
+			<name>Street King Leader</name>
+			<leftImage>images/streetKingLeader-L.png</leftImage>
+			<rightImage>images/streetKingLeader-R.png</rightImage>
+			<dungeonImage>images/streetKingLeader-dun.png</dungeonImage>
+			<hitPoints>30</hitPoints>
+			<ability>30</ability>
+			<weaponType>3</weaponType>
+			<armorType>1</armorType>
+			<behavior>2</behavior>
+			<minMoney>20</minMoney>
+			<maxMoney>35</maxMoney>
+			<leader>true</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="5">
+			<name>LochNits Monster</name>
+			<leftImage>images/LochNitsMonster-L.png</leftImage>
+			<rightImage>images/LochNitsMonster-R.png</rightImage>
+			<dungeonImage>images/LochNitsMonster-dun.png</dungeonImage>
+			<hitPoints>50</hitPoints>
+			<ability>50</ability>
+			<weaponType>15</weaponType>
+			<armorType>1</armorType>
+			<behavior>2</behavior>
+			<minMoney>5</minMoney>
+			<maxMoney>7</maxMoney>
+			<leader>true</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="6">
+			<name>Shopkeeper</name>
+			<leftImage>images/Shopkeeper-L.png</leftImage>
+			<rightImage>images/Shopkeeper-R.png</rightImage>
+			<dungeonImage>images/Shopkeeper-dun.png</dungeonImage>
+			<hitPoints>80</hitPoints>
+			<ability>60</ability>
+			<weaponType>12</weaponType>
+			<armorType>1</armorType>
+			<behavior>0</behavior>
+			<minMoney>5</minMoney>
+			<maxMoney>7</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>true</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+		<enemy type="7">
+			<name>Innocent Lady</name>
+			<leftImage>images/lady-L.png</leftImage>
+			<rightImage>images/lady-R.png</rightImage>
+			<dungeonImage>images/lady-dun.png</dungeonImage>
+			<hitPoints>80</hitPoints>
+			<ability>40</ability>
+			<weaponType>0</weaponType>
+			<armorType>0</armorType>
+			<behavior>0</behavior>
+			<minMoney>5</minMoney>
+			<maxMoney>7</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>false</thief>
+		</enemy>
+	</enemies>
+	
+	<!-- NPCs.  Types 0-199 are possible (optional) -->
+	<NPCs>
+		<npc type="0">
+			<name>Bob</name>
+			<message>Hi there!</message>
+			<image>images/bob.png</image>
+		</npc>
+		<npc type="1">
+			<name>Ashakanar</name>
+			<message>You don't deserve anything you have.</message>
+			<image>images/ashakanar.png</image>
+		</npc>
+		<npc type="2">
+			<name>Crazy Man</name>
+			<message>They say there's a LochNits monster in the dungeon to the south.  People call me crazy, but they'll be the ones talking nonesense if they run across that thing.  Take my advice and stay out of there.</message>
+			<image>images/crazyMan.png</image>
+		</npc>
+	</NPCs>
+	
+	<!-- GroundItems.  Types 0-6 are possible (all are required) -->
+	<items>
+		<item type="0">
+			<image>images/grenade.png</image>
+		</item>
+		<item type="1">
+			<image>images/dynamite.png</image>
+		</item>
+		<item type="2">
+			<image>images/bandaids.png</image>
+		</item>
+		<item type="3">
+			<image>images/bullets.png</image>
+		</item>
+		<item type="4">
+			<image>images/rockets.png</image>
+		</item>
+		<item type="5">
+			<image>images/money.png</image>
+		</item>
+		<item type="6">
+			<image>images/grave.png</image>
+		</item>
+	</items>
+	
+	<!-- Shops.  Types 0-13 are possible (all are required) -->
+	<shops>
+		<shop type="0">
+			<image>images/Ammo_Color_L.png</image>
+		</shop>
+		<shop type="1">
+			<image>images/Ammo_Color_R.png</image>
+		</shop>
+		<shop type="2">
+			<image>images/Armor_Color_L.png</image>
+		</shop>
+		<shop type="3">
+			<image>images/Armor_Color_R.png</image>
+		</shop>
+		<shop type="4">
+			<image>images/Bar_Color_L.png</image>
+		</shop>
+		<shop type="5">
+			<image>images/Bar_Color_R.png</image>
+		</shop>
+		<shop type="6">
+			<image>images/Hospital_Color_L.png</image>
+		</shop>
+		<shop type="7">
+			<image>images/Hospital_Color_R.png</image>
+		</shop>
+		<shop type="8">
+			<image>images/Weapon_Color_L.png</image>
+		</shop>
+		<shop type="9">
+			<image>images/Weapon_Color_R.png</image>
+		</shop>
+		<shop type="10">
+			<image>images/Magic_L.png</image>
+		</shop>
+		<shop type="11">
+			<image>images/Magic_R.png</image>
+		</shop>
+		<shop type="12">
+			<image>images/Generic_L.png</image>
+		</shop>
+		<shop type="13">
+			<image>images/Generic_R.png</image>
+		</shop>
+	</shops>
+	
+	<!-- Weapon shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<weaponPresets>
+  		<preset type="0">
+      		<shopItem>
+				<itemID>weapon1</itemID>
+				<price>10</price>
+      		</shopItem>
+      		<shopItem>
+				<itemID>weapon3</itemID>
+				<price>20</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon4</itemID>
+				<price>30</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon6</itemID>
+				<price>70</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon7</itemID>
+				<price>100</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon8</itemID>
+				<price>150</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon9</itemID>
+				<price>200</price>
+			</shopItem>
+		</preset>
+		<preset type="1">
+			<shopItem>
+				<itemID>weapon1</itemID>
+				<price>10</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon2</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon3</itemID>
+				<price>20</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon4</itemID>
+				<price>30</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon5</itemID>
+				<price>130</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon6</itemID>
+				<price>70</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon7</itemID>
+				<price>100</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon8</itemID>
+				<price>150</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon9</itemID>
+				<price>200</price>
+			</shopItem>
+		</preset>
+		<preset type="2">
+			<shopItem>
+				<itemID>weapon1</itemID>
+				<price>10</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon2</itemID>
+				<price>20</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon10</itemID>
+				<price>30</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon11</itemID>
+				<price>70</price>
+			      </shopItem>
+			<shopItem>
+				<itemID>weapon12</itemID>
+				<price>100</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon13</itemID>
+				<price>150</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon14</itemID>
+				<price>200</price>
+			</shopItem>
+		</preset>
+  </weaponPresets>
+  
+  	<!-- Armor shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<armorPresets>
+		<preset type="0">
+      		<shopItem>
+				<itemID>armor1</itemID>
+				<price>25</price>
+			</shopItem>
+      		<shopItem>
+				<itemID>armor2</itemID>
+				<price>45</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor3</itemID>
+				<price>130</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor4</itemID>
+				<price>50</price>
+			</shopItem>
+		</preset>
+		<preset type="1">
+			<shopItem>
+				<itemID>armor1</itemID>
+				<price>25</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor2</itemID>
+				<price>45</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor3</itemID>
+				<price>130</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor4</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor5</itemID>
+				<price>250</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor6</itemID>
+				<price>300</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor7</itemID>
+				<price>350</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor8</itemID>
+				<price>400</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor9</itemID>
+				<price>30</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor10</itemID>
+				<price>450</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor11</itemID>
+				<price>1500</price>
+			</shopItem>
+		</preset>
+	</armorPresets>
+  
+  	<!-- Ammo shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<ammoPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>grenade</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>dynamite</itemID>
+				<price>75</price>
+			</shopItem>
+			<shopItem>
+				<itemID>bullets</itemID>
+				<price>10</price>
+			</shopItem>
+			<shopItem>
+				<itemID>flame packs</itemID>
+				<price>40</price>
+			</shopItem>
+    	</preset>
+    	<preset type="1">
+			<shopItem>
+				<itemID>grenade</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>dynamite</itemID>
+				<price>75</price>
+			</shopItem>
+			<shopItem>
+				<itemID>bullets</itemID>
+				<price>10</price>
+			</shopItem>
+			<shopItem>
+				<itemID>flame packs</itemID>
+				<price>40</price>
+			</shopItem>
+			<shopItem>
+				<itemID>rockets</itemID>
+				<price>300</price>
+			</shopItem>
+    	</preset>
+  	</ammoPresets>
+  
+  	<!-- Magic shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<magicPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>ladder up</itemID>
+				<price>75</price>
+			</shopItem>
+			<shopItem>
+				<itemID>ladder down</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>map viewer</itemID>
+				<price>15</price>
+			</shopItem>
+    	</preset>
+    	<preset type="1">
+			<shopItem>
+				<itemID>ladder up</itemID>
+				<price>120</price>
+			</shopItem>
+			<shopItem>
+				<itemID>ladder down</itemID>
+				<price>95</price>
+			</shopItem>
+			<shopItem>
+				<itemID>map viewer</itemID>
+				<price>30</price>
+			</shopItem>
+			<shopItem>
+				<itemID>export</itemID>
+				<price>600</price>
+			</shopItem>
+		</preset>
+  	</magicPresets>
+  
+  	<!-- Generic shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<genericPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>grenade</itemID>
+				<price>25</price>
+			</shopItem>
+			<shopItem>
+				<itemID>ladder up</itemID>
+				<price>75</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon2</itemID>
+				<price>30</price>
+			</shopItem>
+		</preset>
+		<preset type="1">
+			<shopItem>
+				<itemID>armor4</itemID>
+				<price>25</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor9</itemID>
+				<price>45</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon9</itemID>
+				<price>130</price>
+			</shopItem>
+			<shopItem>
+				<itemID>weapon14</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>map viewer</itemID>
+				<price>250</price>
+			</shopItem>
+			<shopItem>
+				<itemID>bandaids</itemID>
+				<price>10</price>
+			</shopItem>
+    	</preset>
+  	</genericPresets>
+	
+	<!-- Enemies that will spawn at the different levels in the dungeons. Levels 1-50 are possible (optional) -->
+	<dungeonSpawns>
+		<dungeon level="1">
+			<enemy>0</enemy>
+			<enemy>0</enemy>
+			<enemy>0</enemy>
+		</dungeon>
+		<dungeon level="2">
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="3">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="4">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="5">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="6">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="7">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="8">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="9">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+		<dungeon level="10">
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+	</dungeonSpawns>
+
+	<!-- Enemies that can spawn at the different cities in the world.  (spawns are required for every city in the scenario) -->
+	<citySpawns>
+		<city level="0">
+			<enemy>2</enemy>
+		</city>
+		<city level="1">
+			<enemy>3</enemy>
+		</city>
+	</citySpawns>
+	
+	<!-- Shopkeeper spawns.  One must be defined per city in the map file -->
+	<shopkeeperSpawns>
+		<city level="0">
+			<shopkeeper>6</shopkeeper>
+		</city>
+		<city level="1">
+			<shopkeeper>6</shopkeeper>
+		</city>
+	</shopkeeperSpawns>
+
+	<!-- Streets.  Types 0-199 are possible. (type 0 is required) -->
+	<streets>
+		<street type="0">
+			<name>Street</name>
+			<image>images/street.png</image>
+		</street>
+		<street type="1">
+			<name>Dirt</name>
+			<image>images/dirt.png</image>
+		</street>
+		<street type="2">
+			<name>Grass</name>
+			<image>images/grass.png</image>
+		</street>
+		<street type="3">
+			<name>GrassNW</name>
+			<image>images/grassNW.png</image>
+		</street>
+		<street type="4">
+			<name>GrassNE</name>
+			<image>images/grassNE.png</image>
+		</street>
+		<street type="5">
+			<name>GrassSE</name>
+			<image>images/grassSE.png</image>
+		</street>
+		<street type="6">
+			<name>GrassSW</name>
+			<image>images/grassSW.png</image>
+		</street>
+		<street type="7">
+			<name>Tire</name>
+			<image>images/tire.bmp</image>
+		</street>
+	</streets>
+	
+	<!-- Monster spawn trigger types.  Types 200-209 are possible. (optional) -->
+	<triggers>
+		<trigger index="200">
+			<name>Weak monster spawn</name>
+			<image>images/trigger1.png</image>
+			<chance>20.0</chance>
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>2</enemy>
+		</trigger>
+	</triggers>
+
+	<!-- Exit type image locations. Types 0-3 are possible.  (all are required) -->
+	<exits>
+		<exit type="0">
+			<openImage>images/exit.png</openImage>
+			<closedImage>images/exitClosed.png</closedImage>
+		</exit>
+		<exit type="1">
+			<openImage>images/dungeon.png</openImage>
+			<closedImage>images/dungeonClosed.png</closedImage>
+		</exit>
+		<exit type="2">
+			<openImage>images/ladderUp.png</openImage>
+			<closedImage>images/ladderUp.png</closedImage>
+		</exit>
+		<exit type="3">
+			<openImage>images/ladderDown.png</openImage>
+			<closedImage>images/ladderDown.png</closedImage>
+		</exit>
+	</exits>
+	
+	<!-- Obstruction Images.  Types 0-199 are possible.  (First two are required)  type 0 is always the "outside" -->
+	<obstructionImages>
+		<obstruction type="0">
+			<image>images/outside.png</image>
+			<destroyable>false</destroyable>
+			<name>Outside</name>
+		</obstruction>
+		<obstruction type="1">
+			<image>images/wall.png</image>
+			<destroyable>true</destroyable>
+			<name>Regular Wall</name>
+		</obstruction>
+		<obstruction type="2">
+			<image>images/wall_color.png</image>
+			<destroyable>true</destroyable>
+			<name>Brick Wall</name>
+		</obstruction>
+		<obstruction type="3">
+			<image>images/trash.png</image>
+			<destroyable>true</destroyable>
+			<name>Trash</name>
+		</obstruction>
+		<obstruction type="4">
+			<image>images/trash_color.png</image>
+			<destroyable>true</destroyable>
+			<name>Trash (Color)</name>
+		</obstruction>
+		<obstruction type="5">
+			<image>images/mountain.png</image>
+			<destroyable>false</destroyable>
+			<name>Mountain</name>
+		</obstruction>
+		<obstruction type="6">
+			<image>images/outside_color.png</image>
+			<destroyable>false</destroyable>
+			<name>Tree (Color)</name>
+		</obstruction>
+	</obstructionImages>
+
+	<!-- Player images.  Types 0-25 are possible.  (one image is required for each weapon the player can carry) 
+	Type 25 is always required, it is the image when you die.-->
+	<playerImages>
+		<plrImage index="0">
+			<leftImage>images/plrHands-L.png</leftImage>
+			<rightImage>images/plrHands-R.png</rightImage>
+		</plrImage>
+		<plrImage index="1">
+			<leftImage>images/plrHands-L.png</leftImage>
+			<rightImage>images/plrHands-R.png</rightImage>
+		</plrImage>
+		<plrImage index="2">
+			<leftImage>images/plrStaff-L.png</leftImage>
+			<rightImage>images/plrStaff-R.png</rightImage>
+		</plrImage>
+		<plrImage index="3">
+			<leftImage>images/plrKnife-L.png</leftImage>
+			<rightImage>images/plrKnife-R.png</rightImage>
+		</plrImage>
+		<plrImage index="4">
+			<leftImage>images/plrDagger-L.png</leftImage>
+			<rightImage>images/plrDagger-R.png</rightImage>
+		</plrImage>
+		<plrImage index="5">
+			<leftImage>images/plrNunchucks-L.png</leftImage>
+			<rightImage>images/plrNunchucks-R.png</rightImage>
+		</plrImage>
+		<plrImage index="6">
+			<leftImage>images/plrPistol-L.png</leftImage>
+			<rightImage>images/plrPistol-R.png</rightImage>
+		</plrImage>
+		<plrImage index="7">
+			<leftImage>images/plrShotgun-L.png</leftImage>
+			<rightImage>images/plrShotgun-R.png</rightImage>
+		</plrImage>
+		<plrImage index="8">
+			<leftImage>images/plrRifle-L.png</leftImage>
+			<rightImage>images/plrRifle-R.png</rightImage>
+		</plrImage>
+		<plrImage index="9">
+			<leftImage>images/plrFlameThrower-L.png</leftImage>
+			<rightImage>images/plrFlameThrower-R.png</rightImage>
+		</plrImage>
+		<plrImage index="10">
+			<leftImage>images/plrChainsaw-L.png</leftImage>
+			<rightImage>images/plrChainsaw-R.png</rightImage>
+		</plrImage>
+		<plrImage index="11">
+			<leftImage>images/plrRocketLauncher-L.png</leftImage>
+			<rightImage>images/plrRocketLauncher-R.png</rightImage>
+		</plrImage>
+		<plrImage index="12">
+			<leftImage>images/plrBrokenBottle-L.png</leftImage>
+			<rightImage>images/plrBrokenBottle-R.png</rightImage>
+		</plrImage>
+		<plrImage index="13">
+			<leftImage>images/plrSPNKR-L.png</leftImage>
+			<rightImage>images/plrSPNKR-R.png</rightImage>
+		</plrImage>
+		<plrImage index="14">
+			<leftImage>images/plrLaserSword-L.png</leftImage>
+			<rightImage>images/plrLaserSword-R.png</rightImage>
+		</plrImage>
+		<plrImage index="15">
+			<leftImage>images/plrLoch-L.png</leftImage>
+			<rightImage>images/plrLoch-R.png</rightImage>
+		</plrImage>
+		<plrImage index="25">
+			<leftImage>images/plrDead.png</leftImage>
+			<rightImage>images/plrDead.png</rightImage>
+		</plrImage>
+	</playerImages>
+	
+	<!-- Hit image pictures.  Types 0-4 are possible.  (at least one is required) -->
+	<hitImages>
+		<hit type="0">
+			<image>images/hitImage1.png</image>
+		</hit>
+		<hit type="1">
+			<image>images/hitImage2.png</image>
+		</hit>
+	</hitImages>
+
+	<!-- Explosion Images.  Types 0-8 are possible.  (All are required) -->
+	<explosionImages>
+		<explosion type="0">
+			<image>images/explosionC.png</image>
+		</explosion>
+		<explosion type="1">
+			<image>images/explosionN.png</image>
+		</explosion>
+		<explosion type="2">
+			<image>images/explosionNE.png</image>
+		</explosion>
+		<explosion type="3">
+			<image>images/explosionE.png</image>
+		</explosion>
+		<explosion type="4">
+			<image>images/explosionSE.png</image>
+		</explosion>
+		<explosion type="5">
+			<image>images/explosionS.png</image>
+		</explosion>
+		<explosion type="6">
+			<image>images/explosionSW.png</image>
+		</explosion>
+		<explosion type="7">
+			<image>images/explosionW.png</image>
+		</explosion>
+		<explosion type="8">
+			<image>images/explosionNW.png</image>
+		</explosion>
+	</explosionImages>
+
+	<!-- Bar text (number of bar types must match the number of types placed in the scenario. Types 0 - 49 are possible) -->
+	<bars>
+		<bar type="0">
+			<tonicwater>You just drank tonic water</tonicwater>
+			<soda>You just drank soda</soda>
+			<gin>You just drank gin</gin>
+			<rum>You just drank rum</rum>
+			<scotch>You just drank scotch</scotch>
+			<redeye>You must kill the LochNits monster to leave this world.</redeye>
+		</bar>
+	</bars>
+	
+	<!-- Drinks.  Types 0-5 are possible (All are required) -->
+	<drinks>
+		<drink type="0">
+			<price>1</price>
+		</drink>
+		<drink type="1">
+			<price>5</price>
+		</drink>
+		<drink type="2">
+			<price>10</price>
+		</drink>
+		<drink type="3">
+			<price>12</price>
+		</drink>
+		<drink type="4">
+			<price>16</price>
+		</drink>
+		<drink type="5">
+			<price>20</price>
+		</drink>
+	</drinks>
+	
+	<!-- Sounds.  All sounds are optional, but this example includes all possible sounds-->
+	<sounds>
+		<enemyHitOutside>sounds/enemyHitOutside.wav</enemyHitOutside>
+		<enemyHitDungeon>sounds/enemyHitDungeon.wav</enemyHitDungeon>
+		<playerHitOutside>sounds/playerHitOutside.wav</playerHitOutside>
+		<playerHitDungeon>sounds/playerHitDungeon.wav</playerHitDungeon>
+		<enemyMeleeAttack>sounds/enemyMeleeAttack.wav</enemyMeleeAttack>
+		<enemyMartialArtsAttack>sounds/enemyMartialArtsAttack.wav</enemyMartialArtsAttack>
+		<enemyMarksmanAttack>sounds/enemyMarksmanAttack.wav</enemyMarksmanAttack>
+		<enemyFlameAttack>sounds/enemyFlameAttack.wav</enemyFlameAttack>
+		<enemyOtherAttack>sounds/enemyOtherAttack.wav</enemyOtherAttack>
+		<playerMeleeAttack>sounds/plrMeleeAttack.wav</playerMeleeAttack>
+		<playerMartialArtsAttack>sounds/plrMartArtsAttack.wav</playerMartialArtsAttack>
+		<playerMarksmanAttack>sounds/plrMarksmanAttack.wav</playerMarksmanAttack>
+		<playerFlameAttack>sounds/plrFlameAttack.wav</playerFlameAttack>
+		<playerOtherAttack>sounds/plrOtherAttack.wav</playerOtherAttack>
+		<explosion>sounds/explosion.wav</explosion>
+		<scenarioInfo>sounds/scenarioInfo.wav</scenarioInfo>
+		<playerDies>sounds/dead.wav</playerDies>
+		<enemyDies>sounds/scream.wav</enemyDies>
+		<pickupItem>sounds.pickup.wav</pickupItem>
+	</sounds>
+	
+</NitsLoch>

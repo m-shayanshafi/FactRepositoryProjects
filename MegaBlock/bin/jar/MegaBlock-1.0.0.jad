@@ -1,0 +1,6 @@
+MIDlet-Name: Mega Block
+MIDlet-Vendor: www.xylophones.net
+MIDlet-Version: 1.0.0
+MIDlet-1: Mega Block, /icon.png, net.xylophones.micro.game.mb.Midlet
+MIDlet-Jar-URL: MegaBlock-1.0.0.jar
+MIDlet-Jar-Size: 31924

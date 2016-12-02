@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Ventuno Diffusioni Della Scheda (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">passato immediato</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Fattore attuale di Inobvious</entry><entry key="Meaning2">Un fattore importante nel presente. Inobvious.</entry>
+	<entry key="PositionTitle3">Dichiari della mente</entry><entry key="Meaning3">Il cercatore dichiara della mente</entry>
+	<entry key="PositionTitle4">Futuro immediato</entry><entry key="Meaning4">Futuro immediato più probabile</entry>
+	<entry key="PositionTitle5">Fattore attuale evidente</entry><entry key="Meaning5">Un fattore importante nel presente. Molto 
+evidente</entry>
+	<entry key="PositionTitle6">Sensibilità dell'intestino</entry><entry key="Meaning6">Sensibilità dell'intestino del cercatore.</entry>
+	<entry key="PositionTitle7">Modifica la scheda 2 1 passato</entry><entry key="Meaning7">Influenze nel passato che ha interessato #2</entry>
+	<entry key="PositionTitle8">Modifica la scheda 2 2 passati</entry><entry key="Meaning8">Influenze nel passato che ha interessato #2</entry>
+	<entry key="PositionTitle9">Ora modifica la scheda 3 1</entry><entry key="Meaning9">Influenze della corrente che interessano # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle10">Ora modifica la scheda 3 2</entry><entry key="Meaning10">Influenze della corrente che interessano # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle11">Modifica il futuro 1 della scheda 5</entry><entry key="Meaning11">Influenze future possibili, interessanti #5</entry>
+	<entry key="PositionTitle12">Modifica il futuro 2 della scheda 5</entry><entry key="Meaning12">Influenze future possibili, interessanti #5</entry>
+	<entry key="PositionTitle13">Ora modifica la scheda 6 1</entry><entry key="Meaning13">Influenze correnti evidenti, interessanti #6</entry>
+	<entry key="PositionTitle14">Ora modifica la scheda 6 2</entry><entry key="Meaning14">Influenze correnti evidenti, interessanti #6</entry>
+	<entry key="PositionTitle15">Fisico</entry><entry key="Meaning15">Situazione di fisico medica del cercatore. Salute
+o condizione possibile di vita</entry>
+	<entry key="PositionTitle16">Radice dentro oltre</entry><entry key="Meaning16">La radice della materia nel passato</entry>
+	<entry key="PositionTitle17">Materia corrente</entry><entry key="Meaning17">Un aspetto corrente. Può essere nascosto o 
+sconosciuto e trascurato, o può rappresentare i presupposti, 
+possibilmente errati</entry>
+	<entry key="PositionTitle18">Lo spiritual</entry><entry key="Meaning18">Lo spiritual del cercatore. Ciò può essere in 
+conflitto con o illuminare i desideri coscienti del cercatore</entry>
+	<entry key="PositionTitle19">Evento futuro</entry><entry key="Meaning19">Un evento futuro probabile</entry>
+	<entry key="PositionTitle20">Riflessioni</entry><entry key="Meaning20">A che cosa il cercatore deve pensare</entry>
+</oracleio>

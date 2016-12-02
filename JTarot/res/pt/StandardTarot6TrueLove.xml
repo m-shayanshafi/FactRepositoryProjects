@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Seis cartões, quando eu encontrarei o amor verdadeiro?</entry>
+	<entry key="Description">Quando eu encontrarei o amor verdadeiro? A disposição 
+para encontrar o sócio da sua vida</entry>
+	<entry key="PositionTitle0">Porque</entry><entry key="Meaning0">PORQUE você não encontrou ainda seu sócio perfeito</entry>
+	<entry key="PositionTitle1">Como</entry><entry key="Meaning1">COMO você pode superar todas as edições expressadas 
+no primeiro cartão</entry>
+	<entry key="PositionTitle2">Que</entry><entry key="Meaning2">O QUE é a coisa a mais positiva você pode fazer para 
+encontrar seu sócio</entry>
+	<entry key="PositionTitle3">Quem</entry><entry key="Meaning3">O WHO seria a pessoa direita para você</entry>
+	<entry key="PositionTitle4">Onde</entry><entry key="Meaning4">ONDE você encontrará seu sócio</entry>
+	<entry key="PositionTitle5">Quando</entry><entry key="Meaning5">QUANDO você encontrará seu sócio</entry>
+</oracleio>

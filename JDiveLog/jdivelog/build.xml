@@ -1,0 +1,288 @@
+<?xml version='1.0'?>
+<project name="JDiveLog" default="build" basedir=".">
+
+	<!-- set global properties for this build -->
+
+	<property name="version" value="2.15" />
+	<property name="numericversion" value="2.15.0.0" />
+
+	<property name="src" value="src" />
+	<property name="classes" value="classes" />
+	<property name="tmp" value="tmp" />
+	<property name="tmpbin" value="${tmp}/bin" />
+	<property name="build" value="${tmp}/build" />
+	<property name="bin" value="bin" />
+	<property name="classpath" value="classes" />
+	<property name="jarname" value="jdivelog.jar" />
+	<property name="docs" value="docs/api" />
+	<property name="lib" value="lib" />
+	<property name="dist" value="dist" />
+	<property name="installer" value="installer" />
+	<property name="izpack-dir" value="../JDiveLog-Installer/IzPack" />
+	<property name="launch4j-dir" value="../JDiveLog-Launch4J" />
+
+	<path id="libs">
+		<fileset dir="${lib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<taskdef name="izpack" classname="com.izforge.izpack.ant.IzPackTask">
+		<classpath>
+			<pathelement location="${izpack-dir}/lib/standalone-compiler.jar" />
+		</classpath>
+	</taskdef>
+
+	<taskdef name="latex" classname="de.dokutransdata.antlatex.LaTeX" classpath="docsrc/lib/ant_latex_0.0.7.jar" />
+
+	<taskdef name="launch4j" classname="net.sf.launch4j.ant.Launch4jTask" classpath="${launch4j-dir}/launch4j.jar" />
+
+	<target name="init">
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${classes}" />
+		<mkdir dir="${build}" />
+		<!-- Create the directory for the jar file -->
+		<mkdir dir="${lib}" />
+		<!-- Create the directory for the java docs -->
+		<mkdir dir="${docs}" />
+		<!-- Create the directory for the tar file -->
+		<mkdir dir="${dist}" />
+	</target>
+
+	<target name="compile" depends="init">
+		<!-- copy all .java files from ${src} to ${build}  -->
+		<copy todir="${build}/">
+			<fileset dir="${src}" includes="**/*.java" excludes="**/CVS/** **/.svn/**" />
+			<fileset dir="." includes="installer.xml" />
+			<fileset dir="windows" includes="wininstaller.xml" />
+			<!-- apply a substitution @version@ with the value of ${version} -->
+			<filterset>
+				<filter token="version" value="${version}" />
+				<filter token="numericversion" value="${numericversion}" />
+				<filter token="dist" value="${basedir}/${dist}" />
+				<filter token="bin" value="${basedir}/${bin}" />
+			</filterset>
+		</copy>
+		<!-- copy all non java-files (e.g. resources) to classes directory -->
+		<copy todir="${classes}/">
+			<fileset dir="${src}" includes="**/*" excludes="**/*.java **/CVS/** **/.svn/**" />
+		</copy>
+		<!-- run javac to compile the source files -->
+		<javac srcdir="${build}" destdir="${classes}" source="1.6" target="1.6">
+			<classpath>
+				<!-- use the value of the ${classpath} property in the classpath -->
+				<pathelement path="${classpath}" />
+				<!-- include all jar files  -->
+				<path refid="libs" />
+			</classpath>
+			<compilerarg value="-Xlint:unchecked" />
+                        <compilerarg value="-Xlint:deprecation" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile">
+                <pathconvert property="manifest-classpath" pathsep=" ">
+                        <mapper>
+                                <chainedmapper>
+                                        <!-- remove absolute path -->
+                                        <flattenmapper />
+                                </chainedmapper>
+                        </mapper>
+                        <path refid="libs"/>
+                </pathconvert>
+
+
+		<!-- make a jar file -->
+		<jar jarfile="${bin}/${jarname}" basedir="${classes}/" index="false">
+                    <manifest>
+                        <attribute name="Built-By" value="${user.name}"/>
+                        <attribute name="Main-Class" value="net.sf.jdivelog.JDiveLog"/>
+                        <attribute name="Class-Path" value="${manifest-classpath}"/>
+                    </manifest>
+                </jar>
+	</target>
+
+	<target name="docs" depends="compile">
+		<!-- create javadocs -->
+		<javadoc packagenames="net.sf.jdivelog.*" sourcepath="${build}" defaultexcludes="yes" destdir="${docs}" author="true" version="true" use="true" windowtitle="JDiveLog API Documentation Version: ${version}">
+			<classpath>
+				<path refid="libs" />
+			</classpath>
+		</javadoc>
+		<latex latexfile="manual.tex" verbose="on" clean="on" pdftex="on" workingdir="docsrc/manual" outputdir="docs" />
+	</target>
+
+	<target name="build" depends="jar,docs">
+		<copy todir="${bin}">
+			<fileset dir="${lib}">
+				<include name="**/*.jar" />
+				<include name="**/*.so*" />
+			</fileset>
+		</copy>
+		<copy todir="${bin}/icons">
+			<fileset dir="${src}/net/sf/jdivelog/gui/resources/icons" includes="logo.*" />
+		</copy>
+	</target>
+
+	<target name="clean">
+		<!-- Delete the ${build} and ${lib} directory trees -->
+		<delete>
+			<fileset dir="${bin}">
+				<include name="**/*.jar" />
+			</fileset>
+		</delete>
+		<delete dir="${build}" />
+		<delete dir="${classes}" />
+		<delete dir="${docs}" />
+		<delete>
+			<fileset dir="docs">
+				<include name="**/*.pdf" />
+			</fileset>
+		</delete>
+		<delete dir="${dist}" />
+		<delete dir="${bin}/icons" />
+		<delete dir="${tmp}" />
+	</target>
+
+	<target name="srcpkg" depends="build">
+		<chmod file="${bin}/jdivelog" perm="ugo+rx" />
+		<tar destfile="${dist}/jdivelog-${version}.tar.bz2" compression="bzip2">
+			<tarfileset dir="${bin}" prefix="jdivelog/${bin}">
+				<include name="**/*" />
+				<exclude name="**/CVS/** **/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="${src}" prefix="jdivelog/${src}">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="${installer}" prefix="jdivelog/${installer}">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="skins" prefix="jdivelog/skins">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="docs" prefix="jdivelog/docs">
+				<include name="**/*" />
+				<exclude name="${docs}" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="docsrc" prefix="jdivelog/docsrc">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="rxtx" prefix="jdivelog/rxtx">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</tarfileset>
+			<tarfileset dir="." prefix="jdivelog">
+				<include name="build.xml" />
+			</tarfileset>
+		</tar>
+		<zip destfile="${dist}/jdivelog-${version}.zip">
+			<zipfileset dir="${bin}" prefix="jdivelog/${bin}">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="${src}" prefix="jdivelog/${src}">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="skins" prefix="jdivelog/skins">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="docs" prefix="jdivelog/docs">
+				<include name="**/*" />
+				<exclude name="${docs}" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="docsrc" prefix="jdivelog/docsrc">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="rxtx" prefix="jdivelog/rxtx">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="." prefix="jdivelog">
+				<include name="build.xml" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+		</zip>
+	</target>
+
+	<target name="macpkg" depends="build">
+		<chmod file="mac/JavaApplicationStub" perm="ugo+rx" />
+		<zip destfile="${dist}/jdivelog-macosx-${version}.zip">
+			<zipfileset dir="mac" prefix="JDiveLog.app/Contents/MacOS" filemode="775">
+				<include name="JavaApplicationStub" />
+			</zipfileset>
+			<zipfileset dir="mac" prefix="JDiveLog.app/Contents">
+				<include name="Info.plist" />
+			</zipfileset>
+			<zipfileset dir="mac" prefix="JDiveLog.app/Contents">
+				<include name="PkgInfo" />
+			</zipfileset>
+			<zipfileset dir="mac" prefix="JDiveLog.app/Contents/Resources">
+				<include name="jdivelog.icns" />
+			</zipfileset>
+			<zipfileset dir="skins" prefix="JDiveLog.app/Contents/Resources/Java/skins">
+				<include name="**/*" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset dir="${bin}" prefix="JDiveLog.app/Contents/Resources/Java">
+				<include name="**/*.jar" />
+				<exclude name="**/CVS/**" />
+				<exclude name="**/.svn/**" />
+			</zipfileset>
+			<zipfileset file="rxtx/RXTXcomm.jar" prefix="JDiveLog.app/Contents/Resources/Java" />
+			<zipfileset file="rxtx/mac/librxtxSerial.jnilib" prefix="JDiveLog.app/Contents/Resources/Java/jni" />
+		</zip>
+	</target>
+
+	<target name="installer" depends="build">
+		<copy todir="${tmpbin}">
+			<fileset dir="${lib}">
+				<include name="**/*.jar" />
+				<include name="**/*.so*" />
+				<exclude name="**/CVS/**" />
+			</fileset>
+		</copy>
+		<chmod file="${tmpbin}/jdivelog" perm="ugo+rx" />
+		<izpack input="${build}/installer.xml" output="${dist}/jdivelog-installer-${version}.jar" installerType="standard" izpackdir="${izpack-dir}" basedir="." />
+	</target>
+
+	<target name="wininstaller" depends="installer">
+		<launch4j configfile="${build}/wininstaller.xml">
+		</launch4j>
+	</target>
+
+	<target name="dist" depends="srcpkg,macpkg,installer,wininstaller" />
+
+	  <target name="jdivelog" depends="compile">
+	    <java classname="net.sf.jdivelog.JDiveLog" fork="true">
+          <jvmarg value="-Dskindir=skins"/>
+	      <classpath>
+	        <pathelement path="${classes}"/>
+	        <path refid="libs"/>
+	      </classpath>
+	    </java>
+	  </target>
+
+</project>

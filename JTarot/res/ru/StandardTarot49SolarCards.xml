@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Солнечное Распространение (Doane)</entry>
+	<entry key="Description">В каждом рядке, средняя карточка (4, 11, 18, 
+25, etc) представляют присытствыющие условия или влияния. 
+3 карточки к праву представляют прошлый; 3 к левой 
+стороне, будущему. Каждый рядок отнесет к или некоторому аспекту
+жизни или одним людям (или возможно обоим)</entry>
+	<entry key="PositionTitle0">Луна 1 Прошлая</entry><entry key="Meaning0">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle1">Луна 2 Прошлая</entry><entry key="Meaning1">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle2">Луна 3 Прошлая</entry><entry key="Meaning2">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle3">Настоящий момент Луны 4</entry><entry key="Meaning3">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle4">Будущее Луны 5</entry><entry key="Meaning4">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle5">Будущее Луны 6</entry><entry key="Meaning5">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle6">Будущее Луны 7</entry><entry key="Meaning6">Взволнованности, ощупывания</entry>
+	<entry key="PositionTitle7">Ртуть 1 Прошлая</entry><entry key="Meaning7">Мысли, интеллект</entry>
+	<entry key="PositionTitle8">Ртуть 2 Прошлая</entry><entry key="Meaning8">Мысли, интеллект</entry>
+	<entry key="PositionTitle9">Ртуть 3 Прошлая</entry><entry key="Meaning9">Мысли, интеллект</entry>
+	<entry key="PositionTitle10">Настоящий момент Ртути 4</entry><entry key="Meaning10">Мысли, интеллект</entry>
+	<entry key="PositionTitle11">Будущее Ртути 5</entry><entry key="Meaning11">Мысли, интеллект</entry>
+	<entry key="PositionTitle12">Будущее Ртути 6</entry><entry key="Meaning12">Мысли, интеллект</entry>
+	<entry key="PositionTitle13">Будущее Ртути 7</entry><entry key="Meaning13">Мысли, интеллект</entry>
+	<entry key="PositionTitle14">Venus 1 Прошлое</entry><entry key="Meaning14">Влюбленность, отношения</entry>
+	<entry key="PositionTitle15">Venus 2 Прошлое</entry><entry key="Meaning15">Влюбленность, отношения</entry>
+	<entry key="PositionTitle16">Venus 3 Прошлое</entry><entry key="Meaning16">Влюбленность, отношения</entry>
+	<entry key="PositionTitle17">Настоящий момент Venus 4</entry><entry key="Meaning17">Влюбленность, отношения</entry>
+	<entry key="PositionTitle18">Будущее Venus 5</entry><entry key="Meaning18">Влюбленность, отношения</entry>
+	<entry key="PositionTitle19">Будущее Venus 6</entry><entry key="Meaning19">Влюбленность, отношения</entry>
+	<entry key="PositionTitle20">Будущее Venus 7</entry><entry key="Meaning20">Влюбленность, отношения</entry>
+	<entry key="PositionTitle21">Солнце 1 Прошлое</entry><entry key="Meaning21">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle22">Солнце 2 Прошлое</entry><entry key="Meaning22">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle23">Солнце 3 Прошлое</entry><entry key="Meaning23">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle24">Настоящий момент Солнца 4</entry><entry key="Meaning24">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle25">Будущее Солнца 5</entry><entry key="Meaning25">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle26">Будущее Солнца 6</entry><entry key="Meaning26">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle27">Будущее Солнца 7</entry><entry key="Meaning27">Энергия, эго, центральный пункт</entry>
+	<entry key="PositionTitle28">Mars 1 Прошлый</entry><entry key="Meaning28">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle29">Mars 2 Прошлый</entry><entry key="Meaning29">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle30">Mars 3 Прошлый</entry><entry key="Meaning30">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle31">Настоящий момент Mars 4</entry><entry key="Meaning31">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle32">Будущее Mars 5</entry><entry key="Meaning32">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle33">Будущее Mars 6</entry><entry key="Meaning33">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle34">Будущее Mars 7</entry><entry key="Meaning34">Конфликт, война. Также смогите представить 
+разрешение или ответ к делу почему оно вызвано reconciler</entry>
+	<entry key="PositionTitle35">Jupiter 1 Прошлый</entry><entry key="Meaning35">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle36">Jupiter 2 Прошлый</entry><entry key="Meaning36">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle37">Jupiter 3 Прошлый</entry><entry key="Meaning37">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle38">Настоящий момент Jupiter 4</entry><entry key="Meaning38">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle39">Будущее Jupiter 5</entry><entry key="Meaning39">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle40">Будущее Jupiter 6</entry><entry key="Meaning40">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle41">Будущее Jupiter 7</entry><entry key="Meaning41">Рост и расширение. Везение. Положительные 
+влияния</entry>
+	<entry key="PositionTitle42">Saturn 1 Прошлый</entry><entry key="Meaning42">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle43">Saturn 2 Прошлый</entry><entry key="Meaning43">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle44">Saturn 3 Прошлый</entry><entry key="Meaning44">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle45">Настоящий момент Saturn 4</entry><entry key="Meaning45">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle46">Будущее Saturn 5</entry><entry key="Meaning46">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle47">Будущее Saturn 6</entry><entry key="Meaning47">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+	<entry key="PositionTitle48">Будущее Saturn 7</entry><entry key="Meaning48">Работа, котор нужно сделать. Влияния недостатка, 
+котор нужно отжать</entry>
+</oracleio>

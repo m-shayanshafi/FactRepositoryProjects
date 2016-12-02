@@ -1,0 +1,165 @@
+Changelog Ice Hockey Manager
+============================
+
+Version 0.3 (Feb, 2006)
+-----------------------
+
+General:
+
+- IHM is now able to support multiple match engines and match presentations
+- A lot of small changes
+
+Game:
+
+- Improved sponsoring (sponsors xml, new types and negotiations)
+- Improved infrastructure (better support of multiple infrastructures, condition lowers)
+- Improved arena infrastructure (created arena categories with seats, comfort & conditions)
+- Improved accounting/bookings
+
+GUI:
+
+- Improved panel for sponsoring
+- Created panel for arena infrastructure, including arena categories dialog
+
+
+Version 0.2 (Jan, 2005)
+-----------------------
+
+General:
+
+- Clean split between the game and clients.
+- Settings are now saved into "documented" XML files
+- Changed to JDK 1.5 internal XML libraries for database files
+- Implemented logging based on JDK 1.5 libraries
+- General code cleanup
+- Improved ant build 
+
+Game:
+
+- Created contracts framework
+- Created blocks/tactics framework
+- Created financial framework
+- Created sponsoring framework
+- Created infrastructure framework
+- Created relegations without playoffs
+- Improved match with generated plays and live "radio" output
+- Created player injuries
+- Created real life impacts on players & teams
+- Created player contracts
+- Created player transfers, transferlist, hirings
+- Created team prospects
+- Created assistants for auto training plan, transfers, prospect hiring and sponsoring
+- Created game event log
+- Improved player attributes and infos
+
+GUI:
+
+- Change from InternalFrames to Panels oriented GUI
+- Created panel for bookings
+- Created panel for sponsoring
+- Created panel for user event log
+- Created panel for prospects
+- Created panel for transferlist
+- Created panel for new game / load game
+- Improved player panel for contracts handling
+- Improved match screen with "live radio"
+- Improved GUI with Icons and Logo (Michael Kolanos)
+- Improved automatic translations
+- Improved IHM GUI libraries
+
+
+
+Version 0.1.2 (Jul, 12. 2002)
+-----------------------------
+
+Game:
+
+- Created daily training mechanism.
+- Created training schedule AI.
+- Improved match class with impacts on player attributs.
+- Improved player attributes class.
+- Improved player class.
+- Improved team class
+
+Scenario:
+
+- Created xml import/export.
+
+Gui (Proof of concept):
+
+- Created frame for debug output / class browser.
+- Created frame for starting new games.
+- Created training schedule panels for teams and players.
+
+Controller:
+
+- Created debug interface.
+- Improved resource management.
+
+
+Version 0.1.1 (Jan, 12. 2002)
+-----------------------------
+
+Game:
+
+- Player Attributes.
+- Player Stats for totals, league elements/groups (including table models).
+- Team Stats for totals, league elements/groups (including table models).
+- Improved match class.
+- Scoresheet.
+
+Gui (Proof of concept):
+
+- Frame to define user interests in league elements.
+- Frame to show teams with attributes, stats, players and calendar.
+- Frame to show all teams with attributes including filter.
+- Frame to show all teams with stats including filter.
+- Frame to show players with attributes and stats.
+- Frame to show all players with attributes including filter.
+- Frame to show all players with stats including filter.
+- Frame to show game day.
+- Frame to show score sheet.
+- Frame to show calendar.
+- Frame to show messages/short messages.
+- Improved desktop.
+
+Controller:
+
+- Improved game "loop" including messages to user.
+
+
+Version 0.1 (Dec, 12. 2001)
+---------------------------
+
+Game:
+
+- Event calendar.
+- Simple team structures.
+- Standards to create league owners, leagues and league elements.
+- Standards to serve standings from league elements to other program parts (Gui).
+- Sample league owner / league implementation (swiss style) with :
+  - Flexible regular season for n teams. 
+  - Flexible playoffs / playouts with x finals.
+  - League playoffs between two leagues.
+- Simple match class to simulate games.
+
+Gui (Proof of concept):
+
+- Base gui elements (desktop, frames etc.).
+- Multiple user environment.
+- Display of game calendar event messages.
+- Flexible view for league owners -> leagues -> standings. 
+
+Controller:
+
+- Interface between gui and game.
+- Save/load game functionality.
+- Simple multilanguage support.
+- Simple log mechanism.
+
+Scenario:
+
+- Definition of the whole game environment (teams, leagues etc.).
+- User definition with flexible mechanism to definie interests of the user to several league elements.
+
+

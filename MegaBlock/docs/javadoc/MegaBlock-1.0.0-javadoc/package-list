@@ -1,0 +1,5 @@
+net.xylophones.micro.game.mb
+net.xylophones.micro.game.mb.controller
+net.xylophones.micro.game.mb.geometry
+net.xylophones.micro.game.mb.mvc.board
+net.xylophones.micro.game.mb.mvc.status

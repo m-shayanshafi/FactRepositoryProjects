@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<armor weight="220" version="Development" value="10101" id="2"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ArmorTypeData-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<baseEffectsIds />
+	<baseModifiersIds />
+	<slot>FULL_ARMOR</slot>
+	<name>Full Plate</name>
+	<profList>
+		<reqprof>2</reqprof>
+		<reqprof>5</reqprof>
+	</profList>
+	<reqstr>80</reqstr>
+	<resistances>
+		<entry>
+			<key>CUTTING</key>
+			<value>
+				<relative>70</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+		<entry>
+			<key>PIERCING</key>
+			<value>
+				<relative>70</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+		<entry>
+			<key>BLUNT</key>
+			<value>
+				<relative>60</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+	</resistances>
+</armor>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="Server" default="build_package">
+	<property name="package" value="Stigma-Editor" />
+	<property name="main_class" value="pl.org.minions.stigma.editor.Main" />
+
+	<patternset id="source_pattern">
+		<include name="**/editor/**"/>
+		<include name="**/editor/*.java"/>
+		<include name="**/minions/utils/*.java"/>
+		<include name="**/logger/Log.java"/>
+		
+	    <exclude name="**/test/*.java"/>
+	</patternset>
+
+	<patternset id="jar_files_pattern">
+		<include name="img/editor/**/*.png"/>
+		<include name="img/editor/**/*.ico"/>
+		<include name="img/default/**/*.png"/>
+	</patternset>
+
+	<patternset id="package_files_pattern">
+	      <!-- This means 'empty' (for now) -->
+	      <exclude name="**/*.*" />
+	      <exclude name="**/**" />
+	</patternset>
+
+	<target name="build_package" >
+		<ant antfile="base.xml" inheritrefs="yes" />
+		<ant antfile="base.xml" inheritrefs="yes">
+			<property name="package.suffix" value="Logger" />
+			<property name="use_log_4j" value="true" />
+		</ant>
+	</target>
+
+</project>

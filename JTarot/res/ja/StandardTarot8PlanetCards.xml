@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Planetary Spread (Peach)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">惑星の広がり(モモ)</entry>
+	<entry key="Description">"この広がりの缶のカードは組み合わせられ、並置、月の位置のすなわち、カードを読取ることは日曜日の位置のそれと組み合わせられるべきである; 火星の位置のそれの金星の位置のカードは、及びそう。" - モモ</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">である今ではところ。現状</entry>
+	<entry key="PositionTitle1">月</entry><entry key="Meaning1">感情、感じ</entry>
+	<entry key="PositionTitle2">水星</entry><entry key="Meaning2">思考、知性</entry>
+	<entry key="PositionTitle3">金星</entry><entry key="Meaning3">愛、関係</entry>
+	<entry key="PositionTitle4">日曜日</entry><entry key="Meaning4">エネルギー、自我、中央ポイント</entry>
+	<entry key="PositionTitle5">火星</entry><entry key="Meaning5">対立、戦争。またそれがreconciler となぜ呼ばれるかである問題に解決か答えを表すかもしれない</entry>
+	<entry key="PositionTitle6">ジュピター</entry><entry key="Meaning6">成長及び拡張。運。肯定的な影響</entry>
+	<entry key="PositionTitle7">土星</entry><entry key="Meaning7">されるべき仕事。克服するべき陰性の影響</entry>
+</oracleio>

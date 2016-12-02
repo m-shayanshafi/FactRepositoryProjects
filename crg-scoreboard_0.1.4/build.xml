@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<project name="Carolina Rollergirls Scoreboard" default="compile">
+	
+	<property name="ant.build.javac.source" value="1.5"/>
+	<property name="ant.build.javac.target" value="1.5"/>
+
+	<property name="src.dir" value="src"/>
+	<property name="dest.dir" value="bin"/>
+	<property name="jdoc.dir" value="jdoc"/>
+
+	<property name="compile.deprecation" value="true"/>
+	<property name="compile.debug" value="true"/>
+	<property name="compile.nowarn" value="true"/>
+	<property name="compile.verbose" value="false"/>
+
+	<property name="jar.dir" value="lib"/>
+	<property name="jar.file" value="crg-scoreboard.jar"/>
+
+	<property name="clean.verbose" value="false"/>
+	<property name="clean.quiet" value="false"/>
+
+	<!-- Show help (the different options for this build.xml) -->
+	<target name="help">
+		<echo message="Buildfile for Carolina Rollergirls Scoreboard"/>
+		<echo message=""/>
+		<echo message="Targets:"/>
+		<echo message=""/>
+		<echo message="  all              clean compile jdoc"/>
+		<echo message="  clean            Clean everything"/>
+		<echo message="  compile          Compile all classes"/>
+		<echo message="  help             Show this help"/>
+		<echo message="  jdoc             Create JavaDOC"/>
+		<echo message=""/>
+	</target>
+
+	<!-- Compile source files -->
+	<target name="compile">
+		<mkdir dir="${dest.dir}"/>
+		<javac srcdir="${src.dir}"
+			destdir="${dest.dir}"
+			deprecation="${compile.deprecation}"
+			debug="${compile.debug}"
+			verbose="${compile.verbose}"
+			nowarn="${compile.nowarn}"
+			includes="com/carolinarollergirls/scoreboard/**" >
+
+			<compilerarg value="-Xlint:unchecked"/>
+			<classpath>
+				<fileset dir="${jar.dir}" includes="jetty*.jar servlet*.jar commons*.jar" />
+			</classpath>
+		</javac>
+
+		<mkdir dir="${jar.dir}"/>
+		<jar jarfile="${jar.dir}/${jar.file}"
+			basedir="${dest.dir}"
+			includes="com/carolinarollergirls/scoreboard/**"
+			excludes="com/carolinarollergirls/scoreboard/**/*.java"/>
+	</target>
+
+	<!-- Create JavaDOC -->
+	<target name="jdoc">
+		<mkdir dir="${jdoc.dir}"/>
+		<javadoc
+			packagenames="com.carolinarollergirls.scoreboard.*"
+			sourcepath="${src.dir}"
+			destdir="${jdoc.dir}"
+		/>
+		<echo message="Java Documentation placed in ${jdoc.dir}"/>
+	</target>
+
+	<!-- Do everything -->
+	<target name="all" depends="clean,compile,jdoc"/>
+
+	<!-- Clean all classfiles -->
+	<target name="clean">
+		<delete verbose="${clean.verbose}" quiet="${clean.quiet}" includeEmptyDirs="true" failonerror="false">
+			<fileset dir="${dest.dir}" includes="com/carolinarollergirls/scoreboard/**/*.class"/>
+			<fileset dir="${jar.dir}" includes="${jar.file}"/>
+			<fileset dir="${jdoc.dir}"/>
+		</delete>
+	</target>
+
+</project>

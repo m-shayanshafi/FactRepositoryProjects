@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="es" author="Thomas Dilts" >
+<entry key="menulanguage">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+<entry key="Advisor">Consejero</entry>
+<entry key="BadFileMessage">El archivo que usted seleccionó no podría ser 
+utilizado. Intente otra vez con otro archivo que sea el formato 
+correcto.</entry>
+<entry key="CancelButton">Cancele</entry>
+<entry key="CardSelectionWizard">Opóngase A Mago De la Selección</entry>
+<entry key="ChooseWhichFileToCreate">Elija que le archivan desean y después presionan 
+"crean el botón de este archivo"</entry>
+<entry key="Create this file">Cree este archivo</entry>
+<entry key="DoYouWantToMakeThisDefault">¿Usted desea hacer esto su archivo del defecto en el 
+recomenzar del tne después del jTarot?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, usted golpeó la cancelación. ¿Usted realmente 
+desea lanzar lejos todos sus cambios?</entry>
+<entry key="Graphical objects">Objetos gráficos</entry>
+<entry key="Lastusedreadingslistisempty">La lista usada último de las lecturas es vacía</entry>
+<entry key="Layout translations">Traducciones de la disposición</entry>
+<entry key="Layout">Disposición</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Seleccione manualmente en la lista izquierda el objeto 
+demostrado en la imagen a la derecha y golpee ' después '.</entry>
+<entry key="ManuallySelectEachCard">Seleccione manualmente cada objeto</entry>
+<entry key="Menu and message translations">Traducciones del menú y del mensaje</entry>
+<entry key="More">Más</entry>
+<entry key="NextButton">Después</entry>
+<entry key="No">No</entry>
+<entry key="OpenAFile">Seleccione un archivo para abrirse</entry>
+<entry key="Oracle translations">Traducciones del oráculo</entry>
+<entry key="RandomlyChooseTheNextCard">Seleccione el objeto siguiente para entrar en la 
+posición demostrada en la imagen.</entry>
+<entry key="RandomlySelectCards">Seleccione aleatoriamente los objetos</entry>
+<entry key="Removealllastusedreadings">Quite todas las lecturas usadas pasadas</entry>
+<entry key="SaveAFile">Seleccione un archivo o incorpore un nuevo nombre del 
+archivo</entry>
+<entry key="SelectLayoutAndCardSelection">Elija la disposición que usted desea y la manera usted
+desea seleccionar los objetos; aleatoriamente o manualmente. 
+Si aquí realmente le pierden, apenas golpee los objetos ' 
+aleatoriamente selectos "del botón</entry>
+<entry key="Smaller group of objects">Un grupo más pequeño de objetos</entry>
+<entry key="StartupWizard">Mago De lanzamiento</entry>
+<entry key="TheDeckCopyright">Copyright del cuadro del objeto</entry>
+<entry key="Title">jTarot y Runes</entry>
+<entry key="Type of oracle">Tipo de oráculo</entry>
+<entry key="Use reversed objects">Utilice los objetos invertidos</entry>
+<entry key="Yes">Sí</entry>
+<entry key="YouMustFirstSelectAValidCard">Usted debe primero seleccionar un objeto válido</entry>
+<entry key="advancedLabel">Avanzado</entry>
+<entry key="advisorsLabel">Consejeros</entry>
+<entry key="browseroptionsLabel">Demuestre el diálogo de las opciones del browser</entry>
+<entry key="cardisreversed">Se invierte este objeto</entry>
+<entry key="contributeLabel">¿Cómo puedo ayudar a este proyecto?</entry>
+<entry key="copyrighttitle">Copyright de los textos del consejero</entry>
+<entry key="createsetupfilesLabel">Cree un archivo de la disposición del oráculo</entry>
+<entry key="editsetupfileLabel">Corrija un archivo de la disposición</entry>
+<entry key="exitLabel">Salga</entry>
+<entry key="exportLabel">Exportación</entry>
+<entry key="exporthtmlLabel">HTML (muchos archivos, compatibles todos los browsers 
+de la tela)</entry>
+<entry key="exportmhtmlLabel">MHTML (solo archivo, MS Windows compatible)</entry>
+<entry key="exportwarLabel">WAR (el solo archivo, Konqueror compatible y algún 
+mozilla se reproduce)</entry>
+<entry key="generalhelpLabel">Ayuda</entry>
+<entry key="givetranslatehelpLabel">Traduzca la ' ayuda ' a su lengua</entry>
+<entry key="helpLabel">Ayuda</entry>
+<entry key="ifreversed">Descripción invertida</entry>
+<entry key="imagesLabel">Imágenes</entry>
+<entry key="languageLabel">Lengua</entry>
+<entry key="loadsetupfileLabel">Cargue un archivo de la disposición para el uso en 
+este programa</entry>
+<entry key="newlayoutLabel">Haga una nueva lectura</entry>
+<entry key="openLabel">Abra una lectura previamente ahorrada</entry>
+<entry key="optionsLabel">Opciones</entry>
+<entry key="percent25Label">el 25%</entry>
+<entry key="percent50Label">el 50%</entry>
+<entry key="percent75Label">el 75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Impresión vía un web browser</entry>
+<entry key="readingsLabel">Lecturas</entry>
+<entry key="recentLabel">Lecturas usadas último</entry>
+<entry key="reportbugLabel">Divulgue un error del programa</entry>
+<entry key="saveLabel">Excepto la lectura actual</entry>
+<entry key="screensPersonalReading">Su traducción de la lectura</entry>
+<entry key="screensQuestion">Pregunta para la lectura</entry>
+<entry key="screensReading">Lectura Generada</entry>
+<entry key="showallobjectsLabel">Demuestre todas las imágenes para este oráculo</entry>
+<entry key="showpositionnumbersLabel">Demuestre los números de posición de la disposición</entry>
+<entry key="showreversedandnormalLabel">Demuestre los textos normales e invertidos del 
+objeto juntos</entry>
+<entry key="thecard">El objeto</entry>
+<entry key="theposition">Posición</entry>
+</oracleio>

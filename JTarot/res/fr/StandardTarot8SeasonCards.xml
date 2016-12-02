@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion De Quatre Saisons (Cortese/Reed)</entry>
+	<entry key="Description">"cette diffusion est employée pour examiner des 
+motivations pour des plans ou des ambitions. Les cartes sont 
+arrangées afin d'appeler pour s'occuper de la progression des saisons
+et également de la progression de toute action ou du plan par les 
+quatre étapes de la conception, de la progression, de la résolution,
+et de la réflexion." - Cortese</entry>
+	<entry key="PositionTitle0">Ressort</entry><entry key="Meaning0">Dominant pour le ressort, symbolisant la conception ou 
+le déclenchement d'une action ou l'ambition, la plantation de la 
+graine, ainsi pour parler. Le modificateur pour le ressort est 
+la carte 8.</entry>
+	<entry key="PositionTitle1">Modifie L'Été</entry><entry key="Meaning1">Modificateur pour la carte 3.</entry>
+	<entry key="PositionTitle2">Été</entry><entry key="Meaning2">Dominant pour l'été, symbolisant la progression d'un 
+plan, la manière dont une idée fleurira. Le modificateur pour 
+l'été est la carte 2.</entry>
+	<entry key="PositionTitle3">Modifie L'Automne</entry><entry key="Meaning3">Modificateur pour la carte 5.</entry>
+	<entry key="PositionTitle4">Automne</entry><entry key="Meaning4">Dominant pour l'automne, symbolisant la résolution du 
+plan, comment les événements veulent l'"vent eux-mêmes vers le 
+haut." Le modificateur pour l'automne est la carte 4.</entry>
+	<entry key="PositionTitle5">Modifie L'Hiver</entry><entry key="Meaning5">Modificateur pour la carte 7.</entry>
+	<entry key="PositionTitle6">Hiver</entry><entry key="Meaning6">Dominant pour l'hiver, la symbolisation de la période 
+de la réflexion après une action ou un plan a été accomplie, ou ce
+que le querent peut souhaiter pour apprendre de la progression des 
+événements. Le modificateur pour l'hiver est la carte 6.</entry>
+	<entry key="PositionTitle7">Modifie Le Ressort</entry><entry key="Meaning7">Modificateur pour la carte 1.</entry>
+</oracleio>

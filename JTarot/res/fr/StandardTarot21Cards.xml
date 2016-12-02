@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Vingt et un Diffusions De Carte (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">passé immédiat</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Facteur actuel d'Inobvious</entry><entry key="Meaning2">Un facteur important dans le présent. Inobvious.</entry>
+	<entry key="PositionTitle3">État d'esprit</entry><entry key="Meaning3">État de chercheur d'esprit</entry>
+	<entry key="PositionTitle4">Futur immédiat</entry><entry key="Meaning4">Futur immédiat le plus susceptible</entry>
+	<entry key="PositionTitle5">Facteur actuel évident</entry><entry key="Meaning5">Un facteur important dans le présent. Très 
+évident</entry>
+	<entry key="PositionTitle6">Sentiments d'intestin</entry><entry key="Meaning6">Sentiments d'intestin de chercheur.</entry>
+	<entry key="PositionTitle7">Modifie la carte 2 1 passé</entry><entry key="Meaning7">Influences dans le passé qui a affecté #2</entry>
+	<entry key="PositionTitle8">Modifie la carte 2 2 passés</entry><entry key="Meaning8">Influences dans le passé qui a affecté #2</entry>
+	<entry key="PositionTitle9">Modifie la carte 3 maintenant 1</entry><entry key="Meaning9">Influences de courant affectant # 3. Inobvious.</entry>
+	<entry key="PositionTitle10">Modifie la carte 3 maintenant 2</entry><entry key="Meaning10">Influences de courant affectant # 3. Inobvious.</entry>
+	<entry key="PositionTitle11">Modifie le futur 1 de la carte 5</entry><entry key="Meaning11">Futures influences possibles, affectant #5</entry>
+	<entry key="PositionTitle12">Modifie le futur 2 de la carte 5</entry><entry key="Meaning12">Futures influences possibles, affectant #5</entry>
+	<entry key="PositionTitle13">Modifie la carte 6 maintenant 1</entry><entry key="Meaning13">Influences courantes évidentes, affectant #6</entry>
+	<entry key="PositionTitle14">Modifie la carte 6 maintenant 2</entry><entry key="Meaning14">Influences courantes évidentes, affectant #6</entry>
+	<entry key="PositionTitle15">Physique</entry><entry key="Meaning15">Situation d'examen médical de chercheur. Santé 
+ou statut possible de la vie</entry>
+	<entry key="PositionTitle16">Racine dedans au delà</entry><entry key="Meaning16">La racine de la matière dans le passé</entry>
+	<entry key="PositionTitle17">Matière courante</entry><entry key="Meaning17">Une question courante. Elle peut être cachée ou
+inconnue et donnée sur, ou elle peut représenter des prétentions, 
+probablement incorrectes</entry>
+	<entry key="PositionTitle18">Le chant religieux</entry><entry key="Meaning18">Le chant religieux de chercheur . Ceci peut être
+en conflit avec ou illuminer les désirs conscients du chercheur</entry>
+	<entry key="PositionTitle19">Futur événement</entry><entry key="Meaning19">Un futur événement probable</entry>
+	<entry key="PositionTitle20">Réflexions</entry><entry key="Meaning20">À ce que le chercheur doit penser</entry>
+</oracleio>

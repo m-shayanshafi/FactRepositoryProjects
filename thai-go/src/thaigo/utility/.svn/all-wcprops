@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/thai-go/src/thaigo/utility
+END
+PortChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/PortChecker.java
+END
+PositionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/PositionMessage.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/ImageLoader.java
+END
+ocsf231.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/ocsf231.jar
+END
+PlayerInfoMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/PlayerInfoMessage.java
+END
+ImageFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/ImageFrame.java
+END
+AudioPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/AudioPlayer.java
+END
+BlinkLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/thai-go/src/thaigo/utility/BlinkLabel.java
+END
+CenterDeterminer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/CenterDeterminer.java
+END
+PropertyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/PropertyManager.java
+END
+RemoveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/RemoveMessage.java
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/ChatMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/thai-go/src/thaigo/utility/Message.java
+END

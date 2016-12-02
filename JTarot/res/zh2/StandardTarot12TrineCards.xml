@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Trines Spread (Doane)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">四Trines 傳播(Doane)</entry>
+	<entry key="Description">因為名字建議, 有四套三張卡片(trines) 那工作與另一道。Trine 生活(1, 6, 11), Trine 力量(2, 7, 12), 社會Trine (3, 8, 9), 秘密Trine
+</entry>
+	<entry key="PositionTitle0">個人生活</entry><entry key="Meaning0">健康</entry>
+	<entry key="PositionTitle1">榮譽和當局</entry><entry key="Meaning1">事務, 名譽</entry>
+	<entry key="PositionTitle2">夥伴</entry><entry key="Meaning2">婚姻, 敵人</entry>
+	<entry key="PositionTitle3">環境</entry><entry key="Meaning3">事被隱瞞在環境裡</entry>
+	<entry key="PositionTitle4">苦惱</entry><entry key="Meaning4">敵人, 失敗, 障礙</entry>
+	<entry key="PositionTitle5">精神生活</entry><entry key="Meaning5">精神生活: 旅行</entry>
+	<entry key="PositionTitle6">環境</entry><entry key="Meaning6">病症, 工作</entry>
+	<entry key="PositionTitle7">家族和想法</entry><entry key="Meaning7">兄弟姐妹, 智力事態</entry>
+	<entry key="PositionTitle8">同事</entry><entry key="Meaning8">朋友</entry>
+	<entry key="PositionTitle9">金錢</entry><entry key="Meaning9">金錢: 債務, 稅, 繼承</entry>
+	<entry key="PositionTitle10">子孫</entry><entry key="Meaning10">子孫生活: 孩子, 風流韻事, 樂趣, 猜想</entry>
+	<entry key="PositionTitle11">財富</entry><entry key="Meaning11"></entry>
+</oracleio>

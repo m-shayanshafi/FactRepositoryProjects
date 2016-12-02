@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="file:/D:/moje/java-technology/workspace/towerdefence-gui/dist/" href="Main.jnlp">
+    <information>
+        <title>Main</title>
+        <vendor>mkoch</vendor>
+        <homepage href=""/>
+        <description>Main</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="Main.jar" main="true"/>
+        <jar href="lib/towerdefence-engine_bin.jar"/>
+        <jar href="lib/ai_path.jar"/>
+    </resources>
+    <application-desc main-class="com.sun.javafx.runtime.main.Main">
+        <argument>MainJavaFXScript=org.mysoft.td.gui.Main</argument>
+    </application-desc>
+    <update check="background">
+</jnlp>

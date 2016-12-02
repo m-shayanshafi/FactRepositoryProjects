@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="nl" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Oudere Runen Futhark</entry>
+	<entry key="description">Oudere Futhark wordt verondersteld om de oudste versie van het 
+runic alfabet te zijn, en in de delen van Europa gebruikt die naar 
+huis aan Germaanse volkeren, met inbegrip van Scandinavië waren. 
+Andere versies die waarschijnlijk van het worden ontwikkeld.</entry>
+	<entry key="subgroup0">Airt (Ætt) van Freya</entry>
+	<entry key="subgroup1">Airt (Ætt) van Heimdall</entry>
+	<entry key="subgroup2">Airt (Ætt) van Tyr</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Airt (Ætt) van Freya</entry>
+	<entry key="grouping1">Airt (Ætt) van Heimdall</entry>
+	<entry key="grouping2">Airt (Ætt) van Tyr</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Nederlands</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+</oracleio>

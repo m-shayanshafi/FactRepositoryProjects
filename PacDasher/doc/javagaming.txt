@@ -1,0 +1,71 @@
+javagaming.org post June 8 2003
+-------------------------------
+
+Hello,
+
+This is my first post to javagaming.org, announcing the
+creation of a new Pac-Man clone, called PacDasher.
+
+PacDasher requires J2SE 1.4 -- a large part of my reason for creating
+the game was to experiment with the latest 2D API and garbage
+collection features. The game allows custom mazes to be written 
+in XML. Sample mazes, faithful to the original Midway versions, 
+are included.
+
+The latest version, 0.8.5, can be downloaded at
+
+https://sourceforge.net/projects/pacdasher
+
+Screenshot at
+
+http://www.oranda.com/java/pacdasher
+
+Bug reports to code@oranda.com. I am an experienced Java developer 
+but this is my first arcade game, so comments and criticisms would 
+be welcomed.
+
+In developing the game I learnt a number of lessons. They will
+be old news for most people on this board, but I'd like
+to share my experience as I think many other first-time Java
+game creators will go through the same things and maybe this
+will save them some time:
+
+1. Review double buffering and understand the new BufferStrategy
+ class. 
+
+2. Garbage collection is your biggest enemy as it interrupts the
+ animation. Create a minimum of objects in the main iteration loop
+ (instead reuse objects with pools, etc.) Measure the memory put on 
+ the heap per frame (for PacDasher <2K per frame). Java API calls
+ can create a lot of garbage too. Choose a low-pause garbage 
+ collector on the java command-line. Call System.gc() at natural 
+ pauses in the game. 
+
+3. Also important for a constant frame rate is to eliminate 
+ Hotspot's opportunistic compilation. Use -Xcomp or -Xint.
+
+4. Whereas most OO designs will concentrate on reusability, arcade
+ game designs should concentrate on performance to compensate for
+ Java's relative slowness.
+
+5. Design data structures based on expected usage. What is the
+ most common question that processing will put to your UI model?
+ Also, for decent frame rates (PacDasher has 50 fps) only use
+ Collections if you really need their methods. Prefer arrays.
+
+6. It would be nice to use layers to separate what changes from
+ what doesn't. This is well supported in the MIDP 2.0 Game API.
+ Unfortunately in J2SE there are a lot of technical difficulties.
+ Images takes too much time to combine. Alternatively, JLayeredFrame,
+ along with other Swing components, is heavy in terms of memory
+ and there seems to be no way to really efficiently clear a Graphics
+ (foreground) context (help?). Note that transparent colors are slow
+ too.
+
+That's all. By the way, while testing I found my video card is too
+old to take advantage of the new hardware acceleration features in
+Java, so things like BufferStrategy would just be extra overhead
+from my perspective and I ended up not using them.
+
+James McCabe,
+SCJP, SCWCD, available for work around Denver.

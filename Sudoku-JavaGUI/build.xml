@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="dist" name="Sudoku-JavaGUI">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../../../eclipse"/>
+    <property name="junit.output.dir" value="junit"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+	<property name="build" location="build"/>
+    <property name="source" value="1.6"/>
+	<property name="version" value="1.0"/>
+    <path id="JUnit 4.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.junit_4.10.0.v4_10_0_v20120426-0900/junit.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+    </path>
+    <path id="Sudoku-JavaGUI.classpath">
+        <pathelement location="bin"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target name="build-project" depends="init" >
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="${build}" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="Sudoku-JavaGUI.classpath"/>
+        </javac>
+    </target>
+	
+	  <target name="dist" depends="build-project"
+	        description="generate the distribution" >
+	    <!-- Create the distribution directory -->
+	    <mkdir dir="${dist}/lib"/>	  	
+	  	<copy todir="${build}/images">
+			<fileset dir="images"/>
+		</copy>
+	  	
+	    <jar jarfile="Sudoku-v${version}.jar" basedir="${build}"/>
+	  </target>
+	
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="AboutDialog">
+        <java classname="kw.sudoku.view.AboutDialog" failonerror="true" fork="yes">
+            <classpath refid="Sudoku-JavaGUI.classpath"/>
+        </java>
+    </target>
+    <target name="Sudoku">
+        <java classname="kw.sudoku.view.Sudoku" failonerror="true" fork="yes">
+            <classpath refid="Sudoku-JavaGUI.classpath"/>
+        </java>
+    </target>
+    <target name="testGame">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="kw.sudoku.test.testGame" todir="${junit.output.dir}"/>
+            <classpath refid="Sudoku-JavaGUI.classpath"/>
+        </junit>
+    </target>
+    <target name="junitreport">
+        <junitreport todir="${junit.output.dir}">
+            <fileset dir="${junit.output.dir}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${junit.output.dir}"/>
+        </junitreport>
+    </target>
+</project>

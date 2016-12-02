@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Una Diffusione Di Quattro Stagioni (Cortese/Reed)</entry>
+	<entry key="Description">"questa diffusione è usata per esaminare le 
+motivazioni per i programmi o le ambizioni. Le schede sono 
+organizzate in modo da denominare per occuparsi della progressione 
+delle stagioni ed anche della progressione di qualsiasi azione o del 
+programma attraverso le quattro fasi della concezione, della 
+progressione, della risoluzione e della riflessione." - Cortese</entry>
+	<entry key="PositionTitle0">Molla</entry><entry key="Meaning0">Dominante per la molla, simbolizzando la concezione o 
+l'inizio di un'azione o l'ambizione, la piantatura del seme, in modo 
+da parlare. Il modificatore per la molla è scheda 8.</entry>
+	<entry key="PositionTitle1">Modifica L'Estate</entry><entry key="Meaning1">Modificatore per la scheda 3.</entry>
+	<entry key="PositionTitle2">Estate</entry><entry key="Meaning2">Dominante per estate, simbolizzando la progressione di 
+un programma, il senso in cui un'idea fiorirà. Il modificatore 
+per l'estate è scheda 2.</entry>
+	<entry key="PositionTitle3">Modifica L'Autunno</entry><entry key="Meaning3">Modificatore per la scheda 5.</entry>
+	<entry key="PositionTitle4">Autunno</entry><entry key="Meaning4">Dominante per l'autunno, simbolizzando la risoluzione 
+del programma, come gli eventi vogliono "il vento essi stessi in su." 
+Il modificatore per l'autunno è scheda 4.</entry>
+	<entry key="PositionTitle5">Modifica L'Inverno</entry><entry key="Meaning5">Modificatore per la scheda 7.</entry>
+	<entry key="PositionTitle6">Inverno</entry><entry key="Meaning6">Dominante per l'inverno, simbolizzare il periodo della 
+riflessione dopo un'azione o un programma è stata completata, o che 
+cosa il querent può desiderare per imparare dalla progressione degli 
+eventi. Il modificatore per l'inverno è scheda 6.</entry>
+	<entry key="PositionTitle7">Modifica La Molla</entry><entry key="Meaning7">Modificatore per la scheda 1.</entry>
+</oracleio>

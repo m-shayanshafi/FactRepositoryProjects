@@ -1,0 +1,122 @@
+<html><head><title>Table ScoreBoard Controller</title>
+
+<script src="javascript/window-util.js"></script>
+
+<script type="text/javascript">
+
+var leftTd = null;
+var rightTd = null;
+
+function showLeftTd(num) {
+  try {
+    num--;
+    var oldDiv = leftTd.divs[leftTd.currentNum];
+    var newDiv = leftTd.divs[num];
+    oldDiv.bottomDiv.style.display = "none";
+    oldDiv.changeButton.disabled = false;
+    oldDiv.urltext.style.fontWeight = "normal";
+    newDiv.bottomDiv.style.display = "block";    
+    newDiv.changeButton.disabled = true;
+    newDiv.urltext.style.fontWeight = "bold";
+
+    leftTd.currentNum = num;
+  } catch (err) {
+  }
+
+  return true;
+}
+
+function handleDocumentKeyPress(e) {
+  try {
+    var num = new Number(String.fromCharCode(e.which));
+    if ((e.ctrlKey) && (!e.shiftKey) && (!e.altKey) && (!e.metaKey) && (0 < num && num <= 9)) {
+      return showLeftTd(num);
+    }
+  } catch (err) {
+  }
+
+  return true;
+}
+
+function createLeftTdChangeButton(num) {
+  var input = document.createElement("input");
+  input.type = "button";
+  input.number = num;
+  input.value = "Show";
+  input.onclick = function () { showLeftTd(this.number); }
+  return input;
+}
+
+function setupWindow() {
+  leftTd = document.getElementById("leftTd");
+  leftTd.divs = new Array();
+  leftTd.topDiv = document.createElement("div");
+  leftTd.appendChild(leftTd.topDiv);
+  leftTd.bottomDiv = document.createElement("div");
+  leftTd.appendChild(leftTd.bottomDiv);
+
+  rightTd = document.getElementById("rightTd");
+
+  var lurl = hasParam("lurl") ? getParam("lurl") : getParam("lurl1");
+  var lw = getParam("lwidth") ? getParam("lwidth") : getParam("lwidth1");
+  var lh = getParam("lheight") ? getParam("lheight") : getParam("lheight1");
+  var rurl = getParam("rurl") ? getParam("rurl") : getParam("rurl1");
+  var rw = getParam("rwidth") ? getParam("rwidth") : getParam("rwidth1");
+  var rh = getParam("rheight") ? getParam("rheight") : getParam("rheight1");
+
+  var div = createPreviewIFrame((null == lurl ? "controls/keys.html" : lurl), (null == lw ? 800 : lw), (null == lh ? 600 : lh));
+  leftTd.divs[0] = div;
+  leftTd.currentNum = 0;
+  leftTd.topDiv.appendChild(div.topDiv);
+  div.changeButton = createLeftTdChangeButton(1);
+  div.topDiv.appendChild(div.changeButton);
+  leftTd.bottomDiv.appendChild(div.bottomDiv);
+  showLeftTd(1);
+
+  rightTd.appendChild(createPreviewIFrame((null == rurl ? "views/scoreboard.html" : rurl), (null == rw ? 400 : rw), (null == rh ? 300 : rh)));
+
+  var n = 2;
+  while (null != (lurl = getParam("lurl"+n))) {
+    lw = getParam("lwidth"+n);
+    lh = getParam("lheight"+n);
+    var div = createPreviewIFrame(lurl, (null == lw ? 800 : lw), (null == lh ? 600 : lh));
+    leftTd.divs[n-1] = div;
+    leftTd.topDiv.appendChild(div.topDiv);
+    div.changeButton = createLeftTdChangeButton(n);
+    div.topDiv.appendChild(div.changeButton);
+    div.bottomDiv.style.display = "none";
+    leftTd.bottomDiv.appendChild(div.bottomDiv);
+    n++;
+  }
+
+  n = 2;
+  while (null != (rurl = getParam("rurl"+n))) {
+    rw = getParam("rwidth"+n);
+    rh = getParam("rheight"+n);
+    rightTd.appendChild(createPreviewIFrame(rurl, (null == rw ? 400 : rw), (null == rh ? 300 : rh)));
+    n++;
+  }
+
+  document.onkeypress = handleDocumentKeyPress;
+}
+
+</script>
+
+</head>
+
+<body onload="setupWindow();" >
+
+<table border=solid >
+
+<tr>
+<td id="leftTd" >
+</td>
+
+<td id="rightTd" >
+</td>
+</tr>
+
+</table>
+</body>
+
+</html>

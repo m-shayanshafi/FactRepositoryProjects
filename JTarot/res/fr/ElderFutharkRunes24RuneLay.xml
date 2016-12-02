@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="fr" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Edred Thorsson, Le Manuel De Runecaster.</entry>
+		<entry key="Title">24 Dispositions De Rune Futhark</entry>
+		<entry key="Description">Toutes les significations de runes sont montrées 
+ici ainsi vous obtenez un mélange des significations avec une 
+rune tombant dans la signification d'une autre rune.</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">Sujets d'argent. Énergies psychiques. Force
+et prospérité financières du présent et du futur proche.</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">Santé physique. Énergies essentielles.</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">Ce qui s'est opposé à vous (peut-être physique). 
+Conflits et complexités d'une nature agressive ; 
+problèmes psychologiques.</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">Sources d'inspiration et expression intellectuelle. 
+Communications et transmissions ; dirige des choses de 
+nouveau aux sources dans le passé.</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">Voyages - intérieurs ou externes. Ce qui est 
+exact ou non exact ; quel mouvement de faire ; décisions 
+; retours.</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">Créativité. Rapports érotiques. Ouverture
+de nouvelles manières ; occasions ; l'information.</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">Ce qui vous sera donné. Tous les sujets d'une 
+nature échangeante ; contrats ; rapports personnels.</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">Rapports, amis. Ce qui vous donnera le bonheur. 
+Gain ; accomplissements ; cela lequel est souhaité.</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">Secteur de la crise possible menant à la 
+transformation. Les forces non contrôlées dans les sans 
+connaissance, qui sont habituellement à caractère disruptif et qui 
+proviennent habituellement du passé.</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">Ce qui vous résiste (psychically). Source de 
+mécontentement. Forces restrictives dans le sans connaissance ;
+craintes, inquiétudes ; sentiments de culpabilité.</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">Ce qui vous contraint. Blocs ; a abruti des 
+conditions ; réclamations ; quelque chose dont l'individu
+n'est pas disposé a laissé aller ; la formation de la 
+personnalité ; traitement.</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">Là où des récompenses peuvent être prévues. 
+Rapport avec l'environnement normal. Espoirs et 
+espérances ; tournants ; changements progressifs ; 
+résultats des actions plus tôt.</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">Influences cachées, état d'être entier. Rapport
+avec l'environnement numinous. Les forces d'entraînement dans 
+le sans connaissance ; motivation ; sens de but.</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">Comment vous trouverez la joie. La partie 
+créatrice la plus profonde du sans connaissance ; le royaume 
+caché d'un matériel plus élevé qui attend pour se réaliser et la 
+naissance ; talents cachés ; capacités occultes ou 
+psychiques.</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">Chose qui a besoin d'attention. Manière aux 
+dieux. Le côté protecteur fort dans le sans connaissance ; 
+l'influence qui vous protégera ; aspirations religieuses.</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">Ce qui vous guidera. Position de l'art de l'auto-portrait 
+plus haut dans les relations au sans connaissance ; la direction
+dans laquelle vous serez guidé par l'art de l'auto-portrait plus haut ; la
+capacité d'établir le contact entre l'art de l'auto-portrait plus haut et le 
+sans connaissance.</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">État cognitif. Sujets légaux. Idéaux. 
+Énergies créatrices dans le sens martial ; là où vos 
+forces se trouvent ; où diriger vos énergies en prenant des 
+initiatives ; honneur et justice, conduite et autorité.</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">Ce qui fournit la croissance et la beauté. 
+Fertilité ; renaissance de naissance '; croissance 
+; maternité ; la vie de famille ; mystères 
+féminins.</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">Avec ce qui ou qui vous devriez travailler. 
+Relations érotiques. Adaptabilité ; rapports avec 
+d'autres ; efforts communs ; coopération ; 
+sexualité.</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">État psychique global. Attitude envers la mort. 
+Les gens dans son ensemble ; attitude envers d'autres ; 
+les attitudes d'autres envers vous ; sujets légaux, amis 
+et ennemis ; intellect.</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">État d'équilibre émotif. Ce qui vous examinera.
+Émotions ; stabilité ; imagination ; sujets 
+psychiques ; affections.</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">Ce que vous contemplent. Intégration ; 
+gestation ; espérances ; progéniture.</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">Secteur de synchronicity inattendu. Transmission ;
+opposúx ; position entre léger et l'obscurité ; 
+déclenchement ; équilibrez entre le moment de mondes 
+extérieur et l'espace ; conscience cosmique ; changez 
+d'une chose en son opposé ; nouveaux commencements.</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">De plus grands sujets de famille. La vie de 
+national ou de communauté issues.Home ; pays ; héritage 
+spirituel ; expérience ; base ; valeurs 
+fondamentales ; établissement.</entry>
+</oracleio>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="ja" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">公有地</entry>
+	<entry key="ObjectTitle0">0-The 愚か者</entry><entry key="ObjectMeaning0">愚劣、マニア、extravagance 、中毒、譫妄、逆上、bewrayment 。</entry>
+	<entry key="ObjectTitle1">1-The 手品師</entry><entry key="ObjectMeaning1">技術、外交、住所、subtlety; 病気、苦痛、損失、災害、敵のわな; 自信、意志; Querent 、男性なら。</entry>
+	<entry key="ObjectTitle2">2-The 高い尼僧</entry><entry key="ObjectMeaning2">秘密、ミステリー、unrevealed まだ未来; Querent に興味を起こさせる女性、男性なら; Querent 彼女自身、女性なら; 沈黙、粘着性; ミステリー、知恵、科学。</entry>
+	<entry key="ObjectTitle3">3-The 皇后</entry><entry key="ObjectMeaning3">Fruitfulness 、行為、率先、幾日の長さ; 未知、秘蜜; また難しさ、疑い、無知。</entry>
+	<entry key="ObjectTitle4">4-The 皇帝</entry><entry key="ObjectMeaning4">安定性、力、保護、認識; すばらしい人; 援助、理由、信念; また権限及び意志。</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">結婚、同盟、捕われの身、強制労働; 別の記述、慈悲および長所によって; インスピレーシヨン; Querent に依存がある人。</entry>
+	<entry key="ObjectTitle6">6-The 恋人</entry><entry key="ObjectMeaning6">魅力、愛、美、克服される試験。</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Succour 、プロヴィデンスはまた、推定、復讐、悩み戦ったり、打ち勝つ。</entry>
+	<entry key="ObjectTitle8">8 強さ</entry><entry key="ObjectMeaning8">力、エネルギー、行為、勇気、寛大さ; また成功及び名誉を完了しなさい。</entry>
+	<entry key="ObjectTitle9">9-The 隠者</entry><entry key="ObjectMeaning9">慎重さ、circumspection; またそして特に反逆、dissimulation 、roguery 、堕落。</entry>
+	<entry key="ObjectTitle10">幸運の10 車輪</entry><entry key="ObjectMeaning10">運命、幸運、成功、高度、運、felicity 。</entry>
+	<entry key="ObjectTitle11">11 正義</entry><entry key="ObjectMeaning11">公平、rightness 、正直、エグゼクティブ; 法律の値する側面の勝利。</entry>
+	<entry key="ObjectTitle12">12-The は人を掛けた</entry><entry key="ObjectMeaning12">知恵、circumspection 、discernment 、試験、犠牲、直観、占い、預言。</entry>
+	<entry key="ObjectTitle13">13 死</entry><entry key="ObjectMeaning13">端、死亡率、破壊、また堕落、人のために、女性のための後援者の損失、多くのcontrarieties; 女中のために、結婚の失敗は写し出す。</entry>
+	<entry key="ObjectTitle14">14 14-Temperance</entry><entry key="ObjectMeaning14">経済、緩和、質素、管理、調節。</entry>
+	<entry key="ObjectTitle15">15-The 悪魔</entry><entry key="ObjectMeaning15">被害、暴力、vehemence 、異常な努力、力、不運; predestined が、この理由の悪のためそれはでない。</entry>
+	<entry key="ObjectTitle16">16-The タワー</entry><entry key="ObjectMeaning16">悲惨さ、苦脳、貧困、災難、災害、不名誉、詐欺、台なし。それは不慮の大災害のカード特にである。</entry>
+	<entry key="ObjectTitle17">17-The 星</entry><entry key="ObjectMeaning17">損失、盗難、privation 、放棄; 別の読書言希望及び明るい見通し、</entry>
+	<entry key="ObjectTitle18">18-The 月</entry><entry key="ObjectMeaning18">隠された敵、危険、中傷、暗闇、恐怖、詐欺、神秘的な力、間違い。</entry>
+	<entry key="ObjectTitle19">19-The 日曜日</entry><entry key="ObjectMeaning19">物質的な幸福、幸運な結婚、満足。</entry>
+	<entry key="ObjectTitle20">20 判断</entry><entry key="ObjectMeaning20">位置、更新、結果の変更。別の記述は総損失の訴訟をしかし指定する。</entry>
+	<entry key="ObjectTitle21">21-The 世界</entry><entry key="ObjectMeaning21">確実な成功、recompense 、旅行、ルート、移住、飛行、場所の変更。</entry>
+	<entry key="ObjectTitle22">コップのエース</entry><entry key="ObjectMeaning22">本当の中心の家、喜び、内容、住所、滋養物、豊富、豊饒; 神聖なテーブル、これのfelicity 。</entry>
+	<entry key="ObjectTitle23">コップの2</entry><entry key="ObjectMeaning23">性の愛、情熱、友情、類縁、連合、一致、共鳴、相関、および-- 占いのすべてのオフィスから離れた提案として-- ない喜び及びビジネスの事のsanctified.&lt;p&gt;Additional meanings:&lt;/p&gt;Favourable はどのによって性質性質にであるか愛と同様、その欲求、しかし; また富及び名誉。</entry>
+	<entry key="ObjectTitle24">コップの3</entry><entry key="ObjectMeaning24">沢山、完全さおよびmerriment の問題の結論; 幸せな問題、勝利、fulfilment 、直る慰め</entry>
+	<entry key="ObjectTitle25">コップの4</entry><entry key="ObjectMeaning25">この世界のワインによりsatiety しか引き起こさなかったように、:疲労、嫌気、嫌悪、想像vexations; 別のワインは、ようにfairy ギフト、今浪費家を提供されるが、彼はconsolation をそこに見ない。これは混ぜられた喜びのカードまたである。</entry>
+	<entry key="ObjectTitle26">コップの5</entry><entry key="ObjectMeaning26">それは損失のカードであるが、何かは残る; 3 つは取られたが、2 つは残ている; それは遺産の対応カード、家督、伝達、しかし予想に対応である; ある通訳を含むそれは結婚の、しかしない苦味または欲求不満のないカードである。</entry>
+	<entry key="ObjectTitle27">コップの6</entry><entry key="ObjectMeaning27">過去と記憶のカード、背部に、ように-- 例えば-- 幼年期で…見る; 幸福、楽しみ、しかし過去からむしろ来ること; 消失した事。別の読書はこれを逆転させ、新しい関係、新しい知識、新しい環境を与える、それから子供は不慣れな区域でdisporting 。</entry>
+	<entry key="ObjectTitle28">コップの7</entry><entry key="ObjectMeaning28">Fairy 好意、反射、感情、想像、熟視のガラスで見られる事のイメージ; これらの程度の達成、しかし永久的な何もまたは実質的な物は提案されない。</entry>
+	<entry key="ObjectTitle29">コップの8</entry><entry key="ObjectMeaning29">カードは表面のそれ自身のために話すが、他の読書は完全に相反する-- 喜び、mildness 、timidity 、名誉、謙虚さを与えること。カードが問題の低下をshews か、または重要であると考えられた問題がよくか邪悪のためのわずかな結果-- 実際にであること実際に、通常分られる。</entry>
+	<entry key="ObjectTitle30">コップの9</entry><entry key="ObjectMeaning30">一致、満足、物理的なbien-?tre; また勝利、成功、利点; 相談がなされる人またはQuerent のための満足。</entry>
+	<entry key="ObjectTitle31">コップの10</entry><entry key="ObjectMeaning31">満足、全体の中心の休息; その州の完全さ; 人間愛および友情のまた完全さ; 複数の映像カードと、Querent の興味を受け持っている人; Querent 著居住されるまた町、村または国。</entry>
+	<entry key="ObjectTitle32">コップのページ</entry><entry key="ObjectMeaning32">Querent が接続される誰をサービスを及びとのするために促される公平な若者、者; studious 青年; ニュース、メッセージ; 適用、反射、黙想; またこれらの事はビジネスに指示した。</entry>
+	<entry key="ObjectTitle33">コップの騎士</entry><entry key="ObjectMeaning33">到着、メッセンジャーのアプローチ--
+時々それ; 前進、提案、demeanour 、招待、incitement 。</entry>
+	<entry key="ObjectTitle34">コップの女王</entry><entry key="ObjectMeaning34">よく、公平な女性; Querent にサービスをする正直で、献身的な女性; 視野の愛情のある知性およびそれ故にギフト; 成功、幸福、喜び; また知恵、美徳; 完全な配偶者およびよい母。</entry>
+	<entry key="ObjectTitle35">コップの王</entry><entry key="ObjectMeaning35">ビジネスの公平な人、人、法律、またはdivinity; 責任がある、Querent に強いることを気分にさせられる; 科学、法律および芸術を公言するそれらを含むまた公平、芸術および科学; 創造的な知性。</entry>
+	<entry key="ObjectTitle36">Pentacles のエース</entry><entry key="ObjectMeaning36">完全な満足、felicity 、ecstasy; また迅速な知性; 金&lt; すべてのカードの最も好ましいp&gt;Additional meanings:&lt;/p&gt;The 。</entry>
+	<entry key="ObjectTitle37">Pentacles の2</entry><entry key="ObjectMeaning37">一方でそれは華美、設計の主題である関係表される、およびレクリエーションのカードとして; しかしそれは執筆のニュースそしてメッセージとして、ように障害、撹拌、悩み、embroilment また読まれる。</entry>
+	<entry key="ObjectTitle38">Pentacles の3</entry><entry key="ObjectMeaning38">貿易、熟練労働者; しかし通常高潔のカードと、貴族政治みなされて、知名、栄光。</entry>
+	<entry key="ObjectTitle39">Pentacles の4</entry><entry key="ObjectMeaning39">1 つにあるそれ、ギフト、遺産、遺産に裂いている所有物の保証。</entry>
+	<entry key="ObjectTitle40">Pentacles の5</entry><entry key="ObjectMeaning40">カードは形態で-- すなわち、生活困難-- または別の方法で説明したどうか、物質的な悩みをとりわけ予告する。あるcartomancists のための、それは愛及び恋人妻の夫、友人、主婦のカードである; また一致、類縁。これらの代わりは調和していることができない。</entry>
+	<entry key="ObjectTitle41">Pentacles の6</entry><entry key="ObjectMeaning41">現在、ギフトは、喜びは別の記述注意言う、警戒を今受け入れられた時間の、現在の繁栄、等はある。</entry>
+	<entry key="ObjectTitle42">Pentacles の7</entry><entry key="ObjectMeaning42">これらは非常に矛盾している; 本管では、それはお金、ビジネス、現物交易のカードである; しかし1 つの読書は口論、口論を-- そして別の潔白、工夫、purgation 与える。</entry>
+	<entry key="ObjectTitle43">Pentacles の8</entry><entry key="ObjectMeaning43">技術の仕事、雇用、任務、技能、技術および準備段階のビジネス、多分。</entry>
+	<entry key="ObjectTitle44">Pentacles の9</entry><entry key="ObjectMeaning44">慎重さ、安全、成功、業積、確実性、discernment 。</entry>
+	<entry key="ObjectTitle45">Pentacles の10</entry><entry key="ObjectMeaning45">利益、riches; 家族は、アーカイブ、抽出、家族の住所重要である。</entry>
+	<entry key="ObjectTitle46">Pentacles のページ</entry><entry key="ObjectMeaning46">適用、調査、奨学金、反射は別の読書それからニュース言う、メッセージおよびbringer を; また規則、管理。</entry>
+	<entry key="ObjectTitle47">Pentacles の騎士</entry><entry key="ObjectMeaning47">実用性、serviceableness 、興味、rectitude すべて責任正常で、外的な平らの。</entry>
+	<entry key="ObjectTitle48">Pentacles の女王</entry><entry key="ObjectMeaning48">富裕、寛大さ、壮大、保証、自由。</entry>
+	<entry key="ObjectTitle49">Pentacles の王</entry><entry key="ObjectMeaning49">この種類の知性、ビジネスおよび正常で知的な才能、時々数学ギフトおよび達成実現するValour; これらの道の成功。</entry>
+	<entry key="ObjectTitle50">剣のエース</entry><entry key="ObjectMeaning50">勝利、征服、力の勝利、すべての余分な程度。それは憎悪のと同様、愛の大きい力のカード、である。王冠は幸運言うことの球の内により通常来る大いに高い重大さを運ぶかもしれない。</entry>
+	<entry key="ObjectTitle51">剣の2</entry><entry key="ObjectMeaning51">一致及び提案するequipoise 、勇気、友情、腕の状態の一致; 別の読書は柔軟性、愛情、親密を与える。剣が一般に人間の出来事のbeneficent 力の象徴的でないのでハーモニーの提案および他の好ましい読書は修飾された方法で考慮されなければならない。</entry>
+	<entry key="ObjectTitle52">剣の3</entry><entry key="ObjectMeaning52">取り外し、不在、遅れ、分割、破裂、分散、および設計が自然に示すすべて、特定の等置を求めるには余りにも簡単、明らかがある。</entry>
+	<entry key="ObjectTitle53">剣の4</entry><entry key="ObjectMeaning53">警戒、退去、孤独、隠者の休息、流浪、墓および棺。それは最後これらのである設計を提案した。</entry>
+	<entry key="ObjectTitle54">剣の5</entry><entry key="ObjectMeaning54">低下、破壊、取り消し、不名誉、不名誉、これらの変形そしてアナログの損失。</entry>
+	<entry key="ObjectTitle55">剣の6</entry><entry key="ObjectMeaning55">水、ルート、方法、適宜な公使による旅行、commissionary 。</entry>
+	<entry key="ObjectTitle56">剣の7</entry><entry key="ObjectMeaning56">設計、試み、願い、希望、信任; また、失敗するかもしれない計画厄介口論する。設計は意義が互いに変動に広くあるので、輸入で不確かである。</entry>
+	<entry key="ObjectTitle57">剣の8</entry><entry key="ObjectMeaning57">悪いニュース、激しい悔しさ、危機、非難、対立、中傷、トラメルの力; また病気。</entry>
+	<entry key="ObjectTitle58">剣の9</entry><entry key="ObjectMeaning58">死、失敗、不成功、遅れ、詐欺、失望、絶望。</entry>
+	<entry key="ObjectTitle59">剣の10</entry><entry key="ObjectMeaning59">ものは何でも設計によってintimated; また苦痛、難儀、破損、悲しさ、荒廃。それは非業の死の特にカードでない。</entry>
+	<entry key="ObjectTitle60">剣のページ</entry><entry key="ObjectMeaning60">権限、調査、検査、およびそれに属する質監督、秘密情報機関、警戒。</entry>
+	<entry key="ObjectTitle61">剣の騎士</entry><entry key="ObjectMeaning61">技術、勇気、容量、防衛、住所、敵意、憤り、戦争、破壊、反対、抵抗、台なし。従ってカードが死を示すが、不運の他のカードへの近さのこの意味をしか運ぶ感覚がある。</entry>
+	<entry key="ObjectTitle62">剣の女王</entry><entry key="ObjectMeaning62">Widowhood 、女性の悲しさおよび当惑の不在、privation 嘆く、生殖不能症分離。</entry>
+	<entry key="ObjectTitle63">剣の王</entry><entry key="ObjectMeaning63">ものは何でも判断の考えおよびすべての関係力、命令、権限、交戦中の知性、法律、王冠のオフィスから、等起こる。</entry>
+	<entry key="ObjectTitle64">細い棒のエース</entry><entry key="ObjectMeaning64">作成、発明、企業、これらで起因する力; 主義、初め、源; 生れ、家族、起源、および実際的な意味でそれらの後ろにあるvirility; 企業の出発点; 別の記述に従って、お金、幸運、遺産。</entry>
+	<entry key="ObjectTitle65">細い棒の2</entry><entry key="ObjectMeaning65">代わりとなる読書間に可能な結婚がない; 一方で、riches 、幸運、壮大; 他、物理的な苦労、病気、悔しさ、悲しさ、mortification 。設計は1 つの提案を与える; ここに彼の支配権を見落とし、互い違いに地球を熟視している主はある; それは疾病、mortification 、若い女性がとるに足らない失望を期待するかもしれないこの世界のwealth.&lt;p&gt;Additional meanings:&lt;/p&gt;A の壮大さの中のアレキサンダーの悲しさのように見える。</entry>
+	<entry key="ObjectTitle66">細い棒の3</entry><entry key="ObjectMeaning66">彼は確立した強さ、企業、努力、貿易、商業、発見を象徴する; それらは彼の商品に耐える海に航海している彼の船である。カードはまた成功した商人の王子が助けyou.&lt;p&gt;Additional meanings:&lt;/p&gt;A の非常によいカードのためにあなたのの方の彼の側面から見ていたように、ビジネスの有能な協同を示す; 共同は企業を支持する。</entry>
+	<entry key="ObjectTitle67">細い棒の4</entry><entry key="ObjectMeaning67">それらは今度ばかりは表面-- カントリーライフ、避難所、種、休息、一致、ハーモニー、繁栄、平和、および国内収穫家の非難のこれらの完成された仕事にほとんどある。</entry>
+	<entry key="ObjectTitle68">細い棒の5</entry><entry key="ObjectMeaning68">模造、as 、例えば、にせ物の戦い、しかしまたriches 及び幸運の後の調査の精力的な競争および苦闘。この感覚でそれは生命の戦いと接続する。それ故にある属性はそれが金、利益、富裕のカードであると言う。</entry>
+	<entry key="ObjectTitle69">細い棒の6</entry><entry key="ObjectMeaning69">カードはあったり従って複数の意義をカバーできること設計した; 表面の、それは打ち勝っている勝利者であるがまたすばらしいニュースである、示す王の急使によって送られるかもしれないのような; それは自身の欲求、希望の王冠と戴冠する予想等である。</entry>
+	<entry key="ObjectTitle70">細い棒の7</entry><entry key="ObjectMeaning70">それは表面、6 でvalour のカード、のために、しかし攻撃している持っている1 つを有利な位置である。知的な平面で、それは議論、言葉数の多い争いを示す; ビジネス-- 交渉では、貿易、現物交易、競争の戦争。それは成功のカード更にである、なぜなら戦闘員は上にあり、彼の敵はhim.&lt;p&gt;Additional meanings:&lt;/p&gt;A の暗闇の子供に達してなくないかもしれない。</entry>
+	<entry key="ObjectTitle71">細い棒の8</entry><entry key="ObjectMeaning71">プロジェクトの活動、そのような活動、明白なメッセンジャーのそれとしてswiftness の道; 大きい急ぎ、大きい希望、確実なfelicity を約束する端の方の速度; 概要に、活動しているそれ; またlove.&lt;p&gt;Additional meanings:&lt;/p&gt;Domestic の矢は結婚されていた人のために論じる。</entry>
+	<entry key="ObjectTitle72">細い棒の9</entry><entry key="ObjectMeaning72">カードは反対の強さを示す。攻撃されたら、人は猛攻撃に大胆に会う;
+そして彼の造りは、彼が手強い反対者を証明するかもしれないそれshews 。この主要な重大さの可能な付加物すべてが-- 遅れ、懸濁液、悪いカード話すadjournment.&lt;p&gt;Additional meanings:&lt;/p&gt;Generally ある。</entry>
+	<entry key="ObjectTitle73">細い棒の10</entry><entry key="ObjectMeaning73">多くのsignificances のカード、および読書の一部は調和していることができない。私は名誉及び誠実とそれを接続する私を取っておく。主な意味は圧迫単にであるが、それは幸運、利益、あらゆる種類の成功またであり、それからこれらの事の圧迫である。それはの変装、背信のカード偽ようようまたである。図が近づいている場所は彼が運ぶ棒に苦しむかもしれない。成功はよいカードの近くのあるloss.&lt;p&gt;Additional meanings:&lt;/p&gt;Difficulties 及び否定が、あれば剣の9 つが続けば、そしてそれが訴訟の質問ならstultified ある。</entry>
+	<entry key="ObjectTitle74">細い棒のページ</entry><entry key="ObjectMeaning74">、恋人忠実な、郵便集配人、暗い若者公使。人の側で、彼は彼に関する好ましい証明に耐える。コップのページによって続かれたら危ない競争相手。彼のスーツの主な質を持っている。彼は家族の知性を示すかもしれない。</entry>
+	<entry key="ObjectTitle75">細い棒の騎士</entry><entry key="ObjectMeaning75">出発、不在、飛行、移住。友好的な暗い若者。住所変更。</entry>
+	<entry key="ObjectTitle76">細い棒の女王</entry><entry key="ObjectMeaning76">暗い女性、countrywoman 、友好的の立派な愛すること上品。彼女の側のカードが人を示せば、彼女は彼の方によく気分にさせられる; 女性が、彼女Querent に興味があれば。また、お金の愛、かビジネスのある成功。</entry>
+	<entry key="ObjectTitle77">細い棒の王  </entry><entry key="ObjectMeaning77">暗い人、舎田者友好的、概要に結婚されている、正直く及び注意深い。カードは常に非常に長くの前に落ちるために正直者を示し、予想外の相続財産に関するニュースを意味するかもしれない。</entry>
+	<entry key="ReversedMeaning0">怠慢、不在、配分、不注意、無感動、無効、虚栄心。</entry>
+	<entry key="ReversedMeaning1">星学者、精神病気、不名誉、disquiet 、医者。</entry>
+	<entry key="ReversedMeaning2">情熱、道徳的または物理的な熱意、conceit
+、表面の知識。</entry>
+	<entry key="ReversedMeaning3">ライト、真実、複雑な問題、公共の喜びの解くこと; 別の読書に従って、vacillation 。</entry>
+	<entry key="ReversedMeaning4">慈善、同情、信用; 敵へのまた混乱、妨害、immaturity 。</entry>
+	<entry key="ReversedMeaning5">社会、よい理解、一致、overkindness 、弱さ。</entry>
+	<entry key="ReversedMeaning6">失敗、愚かな設計。別の記述は失望する結婚及びすべての種類のcontrarieties の話す。</entry>
+	<entry key="ReversedMeaning7">暴動、口論、論争、訴訟、敗北。</entry>
+	<entry key="ReversedMeaning8">Despotism 、濫用力なら、弱さ、不一致、時々不名誉。</entry>
+	<entry key="ReversedMeaning9">隠蔽、変装、方針、恐れは、注意をunreasoned 。</entry>
+	<entry key="ReversedMeaning10">増加、豊富、superfluity 。</entry>
+	<entry key="ReversedMeaning11">すべての部門、法的複雑化、偏屈な信念、バイアス、余分な厳格の法律。</entry>
+	<entry key="ReversedMeaning12">Selfishness 、群集、ボディ政策的。</entry>
+	<entry key="ReversedMeaning13">慣性、睡眠、昏睡、petrifaction 、somnambulism; 希望は破壊した。</entry>
+	<entry key="ReversedMeaning14">事は時々教会、宗教、分派、聖職と、均等にするQuerent と結婚する司祭を接続した; またdisunion 、不運な組合せ、競争の興味。</entry>
+	<entry key="ReversedMeaning15">邪悪な不運、弱さ、pettiness 、盲目。</entry>
+	<entry key="ReversedMeaning16">1 つの記述に従って、少しまた程度の圧迫、投獄、専制政治の同じ。</entry>
+	<entry key="ReversedMeaning17">横柄、haughtiness 、無力。</entry>
+	<entry key="ReversedMeaning18">詐欺の不安定、inconstancy 、沈黙、少しある程度および間違い。</entry>
+	<entry key="ReversedMeaning19">少し感覚の同じ。</entry>
+	<entry key="ReversedMeaning20">弱さ、pusillanimity 、簡易性; また熟考、決定、文。</entry>
+	<entry key="ReversedMeaning21">慣性、fixity 、停滞、耐久性。</entry>
+	<entry key="ReversedMeaning22">位置の予想外の変更。</entry>
+	<entry key="ReversedMeaning23">情熱。</entry>
+	<entry key="ReversedMeaning24">Consolation 、治療、ビジネスの終わり。</entry>
+	<entry key="ReversedMeaning25">Presentiment 。</entry>
+	<entry key="ReversedMeaning26">長くについては見られなかった親類のリターン。</entry>
+	<entry key="ReversedMeaning27">すぐに下る遺産。</entry>
+	<entry key="ReversedMeaning28">コップの3 と一緒に伴われたら成功。</entry>
+	<entry key="ReversedMeaning29">完全な満足。</entry>
+	<entry key="ReversedMeaning30">よいビジネス。</entry>
+	<entry key="ReversedMeaning31">悲哀; また深刻な口論。</entry>
+	<entry key="ReversedMeaning32">すべての種類の障害。</entry>
+	<entry key="ReversedMeaning33">不規則性。</entry>
+	<entry key="ReversedMeaning34">人のための豊富な結婚および女性のための顕著な1 。</entry>
+	<entry key="ReversedMeaning35">損失。</entry>
+	<entry key="ReversedMeaning36">富、悪い知性の邪悪な側面; また大きいriches 。繁栄、快適で物質的な条件をshews が、これらが所有者に利点であるどうかカードが&lt; p&gt;Additional meanings:&lt;/p &gt; 宝物の見つけることの分け前逆転するかどうか左右されるあらゆる場合で。</entry>
+	<entry key="ReversedMeaning37">悪い前兆、無知、不公平不公平。</entry>
+	<entry key="ReversedMeaning38">近隣カードに依存する。</entry>
+	<entry key="ReversedMeaning39">観察、妨害。</entry>
+	<entry key="ReversedMeaning40">愛の悩み。</entry>
+	<entry key="ReversedMeaning41">Querent の野心の点検。</entry>
+	<entry key="ReversedMeaning42">苛立ち、懸念、疑い。</entry>
+	<entry key="ReversedMeaning43">Querent はお金貸与の問題で妥協される。</entry>
+	<entry key="ReversedMeaning44">無駄な希望。</entry>
+	<entry key="ReversedMeaning45">または別の方法で幸運かもしれない機会。</entry>
+	<entry key="ReversedMeaning46">時々低下及び時々略奪。</entry>
+	<entry key="ReversedMeaning47">雇用からの勇敢な人。</entry>
+	<entry key="ReversedMeaning48">病気。</entry>
+	<entry key="ReversedMeaning49">古く、不道徳な人。</entry>
+	<entry key="ReversedMeaning50">彼女の自身のimprudence によって、女性のために、折れる結婚。</entry>
+	<entry key="ReversedMeaning51">悪党との取引。</entry>
+	<entry key="ReversedMeaning52">Querent が妥協した誰を1 つの会合; また尼僧。</entry>
+	<entry key="ReversedMeaning53">賢い管理に続くある成功。</entry>
+	<entry key="ReversedMeaning54">悲哀及び嘆くことの印。</entry>
+	<entry key="ReversedMeaning55">訴訟の好ましくない問題。</entry>
+	<entry key="ReversedMeaning56">おそらく無視されるよい助言。</entry>
+	<entry key="ReversedMeaning57">親類の出発。</entry>
+	<entry key="ReversedMeaning58">疑わしい人に対する疑いのためのよい地面。</entry>
+	<entry key="ReversedMeaning59">戦争の兵士のための勝利そして必然的な幸運。</entry>
+	<entry key="ReversedMeaning60">驚くほどのニュース。</entry>
+	<entry key="ReversedMeaning61">imbecile 人との論争; 女性のため、征服される競争相手との苦闘。</entry>
+	<entry key="ReversedMeaning62">Querent の方の悪意の悪い女性。</entry>
+	<entry key="ReversedMeaning63">悪い人; 破壊的な訴訟に端を置くまた注意。</entry>
+	<entry key="ReversedMeaning64">生れの印。</entry>
+	<entry key="ReversedMeaning65">驚き、驚異、魔法、感情、悩み、恐れ。</entry>
+	<entry key="ReversedMeaning66">災難、苦労および失望の悩み、懸濁液または停止の終わり。</entry>
+	<entry key="ReversedMeaning67">結婚されていた女性は美しい子供がいる。</entry>
+	<entry key="ReversedMeaning68">口論は利点に回るかもしれない。</entry>
+	<entry key="ReversedMeaning69">延期された希望のFulfilment 。</entry>
+	<entry key="ReversedMeaning70">難局、当惑、心配。それは優柔不断に対して注意またである。</entry>
+	<entry key="ReversedMeaning71">嫉妬、内部論争、口論、良心のstingings の矢; そして結婚している人のための国内論争。</entry>
+	<entry key="ReversedMeaning72">障害、災難、災害。</entry>
+	<entry key="ReversedMeaning73">Contrarieties 、難しさ、陰謀、および類似。</entry>
+	<entry key="ReversedMeaning74">悪いニュース。</entry>
+	<entry key="ReversedMeaning75">女性のため、結婚、しかしおそらく失望させる。</entry>
+	<entry key="ReversedMeaning76">Querent の方の、しかしそれに運動させる機会のない好意。</entry>
+	<entry key="ReversedMeaning77">続かれるべきである助言。</entry>
+</oracleio>

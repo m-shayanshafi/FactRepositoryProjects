@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts 
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Ηλιακός που διαδίδεται (Doane)</entry>
+	<entry key="Description">Σε κάθε σειρά, η μέση κάρτα (4 ..11 ..18 ..25, 
+κ.λπ...) αντιπροσωπεύει τους παρούσες όρους ή τις επιρροές. 
+Οι τρεις κάρτες στο δικαίωμα αντιπροσωπεύουν το παρελθόν  
+τα τρία στο αριστερό, το μέλλον. Κάθε σειρά αφορά 
+είτε μια ορισμένη πτυχή της ζωής είτε ορισμένους ανθρώπους (ή 
+ίσως και οι δύο)</entry>
+	<entry key="PositionTitle0">Φεγγάρι 1 παρελθόν</entry><entry key="Meaning0">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle1">Φεγγάρι 2 παρελθόν</entry><entry key="Meaning1">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle2">Φεγγάρι 3 παρελθόν</entry><entry key="Meaning2">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle3">Φεγγάρι 4 παρόν</entry><entry key="Meaning3">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle4">Φεγγάρι 5 μέλλον</entry><entry key="Meaning4">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle5">Φεγγάρι 6 μέλλον</entry><entry key="Meaning5">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle6">Φεγγάρι 7 μέλλον</entry><entry key="Meaning6">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle7">Υδράργυρος 1 παρελθόν</entry><entry key="Meaning7">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle8">Υδράργυρος 2 παρελθόν</entry><entry key="Meaning8">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle9">Υδράργυρος 3 παρελθόν</entry><entry key="Meaning9">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle10">Υδράργυρος 4 παρόν</entry><entry key="Meaning10">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle11">Υδράργυρος 5 μέλλον</entry><entry key="Meaning11">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle12">Υδράργυρος 6 μέλλον</entry><entry key="Meaning12">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle13">Υδράργυρος 7 μέλλον</entry><entry key="Meaning13">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle14">Αφροδίτη 1 παρελθόν</entry><entry key="Meaning14">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle15">Αφροδίτη 2 παρελθόν</entry><entry key="Meaning15">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle16">Αφροδίτη 3 παρελθόν</entry><entry key="Meaning16">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle17">Αφροδίτη 4 παρόν</entry><entry key="Meaning17">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle18">Αφροδίτη 5 μέλλον</entry><entry key="Meaning18">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle19">Αφροδίτη 6 μέλλον</entry><entry key="Meaning19">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle20">Αφροδίτη 7 μέλλον</entry><entry key="Meaning20">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle21">Ήλιος 1 παρελθόν</entry><entry key="Meaning21">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle22">Ήλιος 2 παρελθόν</entry><entry key="Meaning22">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle23">Ήλιος 3 παρελθόν</entry><entry key="Meaning23">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle24">Ήλιος 4 παρόν</entry><entry key="Meaning24">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle25">Ήλιος 5 μέλλον</entry><entry key="Meaning25">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle26">Ήλιος 6 μέλλον</entry><entry key="Meaning26">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle27">Ήλιος 7 μέλλον</entry><entry key="Meaning27">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle28">Αρης 1 παρελθόν</entry><entry key="Meaning28">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle29">Αρης 2 παρελθόν</entry><entry key="Meaning29">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle30">Αρης 3 παρελθόν</entry><entry key="Meaning30">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle31">Αρης 4 παρόν</entry><entry key="Meaning31">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle32">Αρης 5 μέλλον</entry><entry key="Meaning32">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle33">Αρης 6 μέλλον</entry><entry key="Meaning33">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle34">Αρης 7 μέλλον</entry><entry key="Meaning34">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle35">Δίας 1 παρελθόν</entry><entry key="Meaning35">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle36">Δίας 2 παρελθόν</entry><entry key="Meaning36">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle37">Δίας 3 παρελθόν</entry><entry key="Meaning37">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle38">Δίας 4 παρόν</entry><entry key="Meaning38">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle39">Δίας 5 μέλλον</entry><entry key="Meaning39">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle40">Δίας 6 μέλλον</entry><entry key="Meaning40">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle41">Δίας 7 μέλλον</entry><entry key="Meaning41">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle42">Κρόνος 1 παρελθόν</entry><entry key="Meaning42">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle43">Κρόνος 2 παρελθόν</entry><entry key="Meaning43">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle44">Κρόνος 3 παρελθόν</entry><entry key="Meaning44">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle45">Κρόνος 4 παρόν</entry><entry key="Meaning45">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle46">Κρόνος 5 μέλλον</entry><entry key="Meaning46">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle47">Κρόνος 6 μέλλον</entry><entry key="Meaning47">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+	<entry key="PositionTitle48">Κρόνος 7 μέλλον</entry><entry key="Meaning48">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+</oracleio>

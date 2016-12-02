@@ -1,0 +1,284 @@
+<html><title>Scenario Readme</title>
+	<body>
+		<h3>Contents:</h3>
+		<p>
+			<A href="#Intro">Introduction</A><br>
+			<A href="#Basics">Getting Started</A><br>
+			<A href="#InventoryLimits">Inventory Limits</A><br>
+			<A href="#StartingInventory">Starting Inventory</A><br>
+			<A href="#ExplosionDamage">Explosion Damage</A><br>
+			<A href="#Weapons">Weapons</A><br>
+			<A href="#DamageTypes">Damage Types</A><br>
+			<A href="#Armor">Armor</A><br>
+			<A href="#Enemies">Enemies</A><br>
+			<A href="#EnemyBehavior">Enemy Behavior</A><br>
+			<A href="#NPCs">NPCs</A><br>
+			<A href="#GroundItems">Ground Items</A><br>
+			<A href="#GroundItemTypes">Ground Item Types</A><br>
+			<A href="#Shops">Shops</A><br>
+			<A href="#ShopTypes">Shop Types</A><br>
+			<A href="#ShopPresets">Shop Presets</A><br>
+			<A href="#ShopItemIDs">Shop Item IDs</A><br>
+			<A href="#DungeonSpawns">Dungeon Spawns</A><br>
+			<A href="#CitySpawns">City Spawns</A><br>
+			<A href="#ShopkeeperSpawns">Shopkeeper Spanws</A><br>
+			<A href="#Streets">Streets</A><br>
+			<A href="#EnemyTriggers">EnemyTriggers</A><br>
+			<A href="#ExitImages">Exit Images</A><br>
+			<A href="#ObstructionImages">Obstruction Images</A><br>
+			<A href="#PlayerImages">Player Images</A><br>
+			<A href="#HitImages">Hit Images</A><br>
+			<A href="#ExplosionImages">Explosion Images</A><br>
+			<A href="#ExplosionTypes">Explosion Types</A><br>
+			<A href="#Bars">Bars</A><br>
+			<A href="#Drinks">Drinks</A><br>
+			<A href="#DrinkTypes">Drink Types</A><br>
+			<A href="#Sounds">Sounds</A><br>
+		</p>
+		<h1><A name="Intro">How to build a scenario xml file:</A></h1>
+		<p>
+			To create a scenario for NitsLoch, you will need to write an XML file, create a map and create images for everything that will appear in the game.  This document explains how to write the XML file for your scenario.  There are 2 example scenario files in the doc directory.  'ScenarioCompleteExample' is a complete example with everything necessary for the game to run.  The other one 'ScenarioExample.xml' is the same thing, only it cuts out much of the redundant information, if you just want to quickly look at what is needed for a particular section.  Because it is much smaller than the complete example, it will not meet the requirements for the NitsLoch engine.  It just just meant to be a quick reference.  As you are reading through this document, it might not be a bad idea to open one of these example files to use as a reference.
+		</p>
+		<h2><A name="Basics">Getting Started</A></h2>
+		<p>
+			Your entire XML file should be wrapped in a &lt;NitsLoch&gt; tag.  In the NitsLoch tag, you'll want to to add a map element.  This element will direct NitsLoch to the path of the map that is used.  For example, if in your .nits scenario file you have your map in a directory: maps/ScenarioMap, your map element would look like this: <code>&lt;map path="maps/ScenarioMap"/&gt;</code>.
+		</p>
+		<p>
+			The next thing to add is a custom ending message for your scenario.  This is the message that will appear after the player has killed all of the "leader" type enemies in all of the cities.  An example of this would be: <code>&lt;endingMessage&gt;You have beaten the game.&lt;/endingMessage&gt;</code>.
+		</p>
+		<p>
+			The next two pieces of information to add to the file have to do with how often enemies will run away from you, and when they'll chose to do it.  The first thing you need to set is the hit point threshold that an enemy will begin to think about running away from you.  If you want enemies to have a chance to run when they're hit points drop below 30, you'd add something like this: <code>&lt;runHitPointAmount&gt;30&lt;/runHitPointAmount&gt;</code>.  Next, you set the chance they will run away once the threshold has been reached.  For example, if you want the enemies in your scenario to have a 10% chance to run once their hit points fall below the threshold, you'd add <code>&lt;runChance&gt;.1&lt;/runChance&gt;</code>.  Note that the chance to run is a number between 0 and 1.
+		</p>
+		<p>
+			You'll also need to set the spawn rates of enemies in cities, dungeons and drop rates of items.  This works the same way as the run percentage above, but will use spawnChanceCity, spawnChanceDungeon and itemDropChance tag names.  All of the values for these tags will be a number between 0 and 1.  The spawnChanceCity is for the spawn percent of enemies while resting in a city.  The spawnChanceDungeon is for the spawn percent of walking/resting in a dungeon.  The itemDropChance is the percent enemies will drop items when they die.
+		</p>
+		<p>
+			Now that the basics of the scenario are set up, this document will discuss each of the sections that must appear in the XML file one by one.
+		</p>
+		<h2><A name ="InventoryLimits">Inventory Limits</A></h2>
+		<p>
+			You may want to limit the number of items a player can carry in your scenario.  To do this, you simply specify the maximum number of that type of item in this section.  The tag name is &lt;inventoryLimits&gt;.  For each item you can carry in your inventory, you will specify an &lt;item&gt; element with a type attribute.  Types go from 0 to 9.  For each type, you will have one element &lt;limit&gt;.  So, if you want the maximum number of inventory type 0 to be 11, you'd have:
+		</p>
+		<p>
+			<code>
+				&lt;item type="0"&gt;
+				<br>&lt;limit&gt;10&lt;/limit&gt;</br>
+				&lt;/item&gt;
+			</code>
+		</p>
+		<p>
+			The types of inventory are as follows:
+			<ol start="0">
+				<li>Money</li>
+				<li>Bandaids</li>
+				<li>Grenades</li>
+				<li>Dynamite</li>
+				<li>Bullets</li>
+				<li>Rockets</li>
+				<li>Flame Packs</li>
+				<li>Ladder Ups</li>
+				<li>Ladder Downs</li>
+				<li>Map Viewers</li>
+				<li>Exports</li>
+			</ol>
+			If you specify a limit of 0, there will be no limit to the number of that type you can carry.
+		</p>
+		<h2><A name ="StartingInventory">Starting Inventory</A></h2>
+		<p>
+			There are 9 things that the player can carry in his inventory.  Here you will specify the quantity the player will start with for each of the 9 items.  First, add a &lt;startingInventory&gt; tag in your file.  In that tag you will add one for bandaids, grenades, dynamite, bullets, rockets, flamePacks, laddersUp, laddersDown, mapViewers, and exports.  For each of these, you'll give a quantity that the player will start with.  So, if you want your player to start the scenario with 3 bandaids, your bandiads section would read: <code>&lt;bandaids&gt;1&lt;/bandaids&gt;</code>.  The rest of the inventory items work the same way.
+		</p>
+		<h2><A name ="ExplosionDamage">Explosion Damage</A></h2>
+		<p>
+			You need to assign damage amounts for the 3 types of possible explosions.  Type 0 is for grenades, type 1 is for dynamite, and type 2 is rockets.  All 3 need to be specified.  Explosion damage uses the &lt;explosionDamage&gt; tag.  You will specify which explosion type by using an explosion tag with a type attribute.  The types should be 0, 1, or 2.  Then specify the damage like this: <code>&lt;damage&gt;500&lt;/damage&gt;</code>.
+		</p>
+		<h2><A name ="Weapons">Weapons</A></h2>
+		<p>
+			You can create anywhere from 1 to 25 types of weapons in your scenario.  You can give them any names and properties that you wish.  You start the weapon section with the &lt;weapons&gt; tag.  Then, you just create a new weapon element with a type attribute.  Types must start at 0 and go up by one for each weapon.  For each weapon type you must specify the itemName, secondName, damage, damageType, canBreak, usesRockets, and usesFlamePacks elements.  You can also specify an optional verb tag.  This will replace the verb used in the message window when the weapon is used.  So, you can change "hit you with a pistol" to "shot you with a pistol."  The itemName tag is the name of the weapon as it will appear in the weapon menu in NitsLoch, and in stores.  The secondName tag is what the weapon will be referred to as in the messages window.  For example, when you find a weapon on a fallen enemy.  The damage tag is the base damage of the weapon.  The damageType is what type of damage the weapon will do.  The damage types are listed and explained in the damage type section below.  The canBreak tag can either be true or false and specifies whether this weapon can be broken by other weapons.  The usesRockets and usesFlamePacks tags specify whether this weapon uses rocket or flame pack ammo.  They can be true or false.  If a marksman damage type is specified, the weapon will use bullets.
+		</p>
+		<h3><A name ="DamageTypes">Damage Types</A></h3>
+		<p>
+			There are 5 main categories.  Melee, martial arts, marksman, flame, and other.  For the melee, martial arts, and marksman categories, there are 3 basic options.  Either the weapon does not have any special characteristics, the weapon can break other people's weapons, the weapon can destroy other people's armor, or it can break weapons and destroy armor.  For the other and flame categories, you can specify whether it destroys nothing, destroys money, or destroys money and items.  For example, you can make a weapon that burns up the money and completely destroys the enemy's weapons and armor.
+		</p>
+		<p>
+			Damage type numbers:
+			<ol start="0">
+				<li>Melee, Can't break weapons or destroy armor</li>
+				<li>Melee, Breaks weapons but does not destroy armor</li>
+				<li>Melee, Can't break weapons but destroys armor</li>
+				<li>Melee, Breaks weapons and destroys armor</li>
+				<li>Martial Arts, Can't break weapons or destroy armor</li>
+				<li>Martial Arts, Breaks weapons but does not destroy armor</li>
+				<li>Martial Arts, Can't break weapons but destroys armor</li>
+				<li>Martial Arts, Breaks weapons and destroys armor</li>
+				<li>Marksman, Can't break weapons or destroy armor</li>
+				<li>Marksman, Breaks weapons but does not destroy armor</li>
+				<li>Marksman, Can't break weapons but destroys armor</li>
+				<li>Marksman, Breaks weapons and destroys armor</li>
+				<li>Flame, Destroys Money</li>
+				<li>Flame, Destroys Nothing</li>
+				<li>Other, Destroys money and items</li>
+				<li>Other, Destroys money</li>
+				<li>Other, Destroys nothing</li>
+			</ol>
+		</p>
+		<h2><A name ="Armor">Armor</A></h2>
+		<p>
+		Every enemy needs to have armor, and the player will find and buy armor throughout the game.  The kinds of armor that are used are completely up to you.  You can specify anywhere from 1 to 25 types of armor that will appear in the game.  First, you'll need to add a &lt;defense&gt; tag to your scenario file.  In here is where you will create the different types of armor.  To create a type of armor, you create an armor element with a type attribute: <code>&lt;armor type="0"&gt;</code>.  Armor types must start at 0 and go up by one each time.  If you skip a type number, the scenario will not look at anything past that missing type.
+		</p>
+		<p>
+			Now that you have an armor type set up, you will need to set the characteristics of this armor.  The different tags you will need to add are: itemName, secondName, melee, martialArts, marksman, flame, other, and canBreak.  The itemName tag will be the name that appears in the NitsLoch Armor menu, and in shops.  The secondName appears in the messages window, for instance, when you find it on a fallen enemy.  The melee, martialArts, marksman, flame and other tags are used to specify what % of each type of damage this armor will absorb.  So, if you assign the melee attribute a value of 30, this armor type will absorb 30% of damage against melee damage type weapons.  The canBreak tag can either be true of false.  Some types of weapons can destroy armor, and setting the canBreak tag to true will allow this armor type to be destroyed by those types of weapons.  If it's false, the armor can never be destroyed.  Type 0 can never be destroyed, regardless of whether you put true of false.
+		</p>
+		<h2><A name ="Enemies">Enemies</A></h2>
+		<p>
+			You can define enemies the same way as weapons and armor.  You give each enemy element a type attribute, and then give the information for that enemy.  Enemies are defined in the &lt;enemies&gt; tag.  You can create enemy types 0 to 199.  The tags that must be in each enemy element are: name, leftImage, rightImage, dungeonImage, hitPoints, ability, weaponType, armorType, behavior, minMoney, maxMoney, leader, shopkeeper and thief.  The name tag is the name of the enemy.  leftImage, rightImage and dungeonImage are the paths to the picture files that are used in the certain situations.  leftImage is the picture that will be used when the enemy is facing to the right, leftImage when the enemy is facing to the right.  dungeonImage is used when you are in a dungeon and the enemy shows up in your view.  The hitPoints tag is what will set the maximum amount of hit points for this enemy type.  The ability tag is where you set how good the enemy is at his weapon.  This is a relative number to the player's corresponding ability, so there is no real maximum for this number.  If the enemy's ability is higher than the player's, he will hit you often and will be hard to hit.  On the other hand, if his ability is lower than the player's the opposite will be true.  For enemies with weapons that can break your weapons or destroy your armor, the more likely it is that this will happen if they're ability is higher than the player's.  weaponType and armorType specify the type of weapon and armor the enemy will have.  The number that is used for these corresponds to the type number you specified in the weapon and armor sections.  The behavior tag defines what type of behavior the enemy will have.  This is explained in more detail in the behavior types section.  The minMoney and maxMoney tags will give the range of money this enemy will have initially.  The game will give the enemy a random amount of money in this range when they enemy is created.  The leader, shopkeeper and thief tags are all flags that the enemy can have and can have values of either true or false.  If leader is set to true, it will mean this is a type of enemy that must be killed before any closed exits on the level open, and before you can beat the game.  The shopkeeper tag indicates whether or not it is a type of enemy that can catch you stealing.  The thief tag will specify whether or not this enemy can steal your money.  If it is true, the enemy will try to steal your money and then run away.
+		</p>
+		<h3><A name ="EnemyBehavior">Enemy Behavior</A></h3>
+		<p>
+			The behavior of the enemy will control how the enemy behaves in game.  Things like, when and if they attack will be controlled, as long as where they can move.  This adds a little bit of variety to the game.  The possible behavior types are:
+			<ol start="0">
+				<li>Innocent</li>
+				<li>Territorial</li>
+				<li>Mean</li>
+				<li>Restricted</li>
+				<li>Cowardly</li>
+				<li>Deceptive</li>
+				<li>Clingy</li>
+			</ol>
+		</p>
+		<p>
+			Innocent means that the enemy will only attack if they player attacks first.  Territorial means that the enemy will attack if the player gets near, but will not move from their spot.  Mean is when an enemy will come after you and attack immediately.  Restricted means the enemy will not be able to move off the street type he starts on.  He will be able to chase you until he gets to the edge of where the street type is, and then will be able to go no further.  Cowardly means the enemy will run as soon as he sees the player, and will not stop running even when attacked.  Deceptive is like cowardly in that the enemy will run as soon as the player is spotted.  However, when the player attacks, he will attack back and even chase the player.  Clingy means the enemy will come right at you, but will not attack.  The enemy will just follow you around.
+		</p>
+		<h2><A name ="NPCs">NPCs</A></h2>
+		<p>
+			NPCs are characters in the game that do not move, and do not attack.  All they do is talk to you when you move into them.  For example, if you name your NPC Bob and you give him the message "Hi there", walking into him will result in "Bob: Hi there" being printed to the messages window in game.  This is useful if you want to give the player directions, advice, or if you just want to add some depth to the game with a plot.  The NPC section of the xml file will have the &lt;NPCs&gt; element.  For each NPC you want, you make a new &lt;npc&gt; element with a type attribute.  Type numbers start at 0 and go up to a possible 199.  The tags that must be in each npc type are name, message, image, and optionally sound.  If you specify a sound, it will play the sound when you talk to the NPC along with display the message to the window.  The name is the name of the NPC, and the message is the text that appears in the message window in game.  The image tag will specify the location of the picture file that will be used for this NPC type.
+		</p>
+		<h2><A name ="GroundItems">Ground Items</A></h2>
+		<p>
+			The ground images section just specifies the locations of the image files that will be used for the items that can be found on the ground.  This section uses the &lt;items&gt; element.  In this element you will specify items with types 0-6.  All 7 of these items must be included.  You use the &lt;item&gt; element with type attribute for each ground item.  The only tag that needs to be included for each type is the &lt;image&gt; tag.  Just put the path to the image file as the value for this.
+		</p>
+		<h3><A name ="GroundItemTypes">Ground Item types</A></h3>
+		<p>
+			The following list describes the types of ground items that you need to specify image locations for.
+		</p>
+		<ol start="0">
+			<li>Grenade</li>
+			<li>Dynamite</li>
+			<li>Bandaids</li>
+			<li>Bullets</li>
+			<li>Rockets</li>
+			<li>Money</li>
+			<li>Grave</li>
+		</ol>
+		<h2><A name ="Shops">Shops</A></h2>
+		<p>
+			The shops section is just like the Ground Items section.  It uses the &lt;shops&gt; element and contains&lt;shop&gt; elements with type attributes.  Types 0 through 13 must all be included.  The only tag is &lt;image&gt; and is used to specify the image location of the shop.  Note that shops are usually 2 squares long, so there is a left and right type for each kind of shop.  Therefore, you'll want to have 2 images, one just the left side of the shop and the other the right side.
+		</p>
+		<h3><A name ="ShopTypes">Shop Types</A></h3>
+		<p>
+			The following list describes the types of shops that you need to specify image locations for.
+		</p>
+		<ol start="0">
+			<li>Left Ammo shop</li>
+			<li>Right Ammo shop</li>
+			<li>Left Armor shop</li>
+			<li>Right Armor shop</li>
+			<li>Left Bar</li>
+			<li>Right Bar</li>
+			<li>Left Hospital</li>
+			<li>Right Hospital</li>
+			<li>Left Weapon shop</li>
+			<li>Right Weapon shop</li>
+			<li>Left Magic shop</li>
+			<li>Right Magic shop</li>
+			<li>Left Generic shop</li>
+			<li>Right Generic shop</li>
+		</ol>
+		<h2><A name ="ShopPresets">Shop Presets</A></h2>
+		<p>
+			There are 5 different kinds of shop presets you can create.  One each for ammo shops, armor shops, weapon shops, magic shops, and generic shops.  For each shop you can specify up to 20 preset types and you must include each type that appears in your map file.  Presets for all stores work the same way.  The sections you need are: &lt;weaponPresets&gt;, &lt;armorPresets&gt;, &lt;ammoPresets&gt;, &lt;magicPresets&gt; and &lt;genericPresets&gt;.  In each of these sections you will have a &lt;preset&gt; element with a type attribute.  In this element, you can specify any number of &lt;shopItem&gt; elements.  Each shopItem elements must have an itemID tag and price tag.  The possible itemIDs are listed in the Shop Item IDs section below.  The price is how much the player will have to pay to buy the item.  You will include one shopItem for each item that you want to available in the shop with this preset.  Although it is possible to assign any type of item to any type of shop, it is suggested that you only assign weapons to weapon shops, armor to armor shops etc.  This will make it easier to understand for the people playing the game.  There is a generic shop type set up so that you can have a wide selection of items available in one shop.
+		</p>
+		<h3><A name ="ShopItemIDs">Shop Item IDs</A></h3>
+		<p>
+			This section describes the itemIDs you must use for the shop presets section of the scenario file.  Since there are up to 25 types of armor possible, armor is specified with "armor1" through "armor24".  For example, "armor1" corresponds with armor type 1 in the defense section.  It starts at one, because since you start with armor 0 and it can never break, there is never a need to buy this item from a store.  So, to create have armor type 4 available in a store, you'd have &lt;itemID&gt;armor4&lt;/itemID&gt;.  Weapons work the same way as armor and are specified with "weapon1" through "weapon24".  Grenades are specified with "grenade", dynamite with "dynamite", bullets with "bullets", flame packs with "flame packs" and rockets with "rockets".  So, to add dynamite to your shop, you'd have &lt;itemID&gt;dynamite&lt;/itemID&gt;.  Ladder ups are specified with "ladder up", ladder downs with "ladder down", map viewers with "map viewer", exports with "export" and bandaids with "bandaids".  So to have map viewers available in a shop preset you'd have &lt;itemID&gt;map viewer&lt;/itemID&gt;.  The itemIDs must be specified exactly like they are listed here; you can't add or remove spaces.
+		</p>
+		<h2><A name ="DungeonSpawns">Dungeon Spawns</A></h2>
+		<p>
+			Dungeons are assigned "levels" in the map, and the dungeon level is what determines the type of enemies that will spawn as you walk around.  This section is where you assign enemies for certain dungeon levels.  This section uses the &lt;dungeonSpawns&gt; element name and will contain &lt;dungeon&gt; elements for each dungeon level.  The &lt;dungeon&gt; element will have a level attribute associated with it.  Level attributes start at 1 and can go up to 50, depending on how many dungeon levels are used in the map for your scenario.  In the dungeon element, you will specify &lt;enemy&gt; tags, with the value being the index of the enemy type you want to use.  The enemy types are the types you define in the enemies section.  You can include as many &lt;enemy&gt; tags as you want.  This will add to the list of possible enemies that can spawn while you are walking around the dungeon level.  If you specify 5 enemies for a given level, the game will chose one of them at random to spawn.
+		</p>
+		<p>
+			Note: It is not a good idea to have "leader" enemies spawn in dungeons, because they may spawn on your way out, and you will have to go searching for them.  If you forget or don't realize that a leader type spawned in the dungeon, you may not be able to progress in the game, and you won't know why.
+		</p>
+		<h2><A name ="CitySpawns">City Spawns</A></h2>
+		<p>
+			City spawns work exactly the same as dungeon spawns.  It uses the &lt;citySpawns&gt; element name and contains &lt;city&gt; elements with a level attribute.  You must have one city type for each city that exists in the map (not including dungeons), and the level attribute must match the index of that city.  In Roof Notifier, the index of the city will appear in parenthesis in the title bar.  From there, you just add &lt;enemy&gt; tags the same way as dungeon spawns.
+		</p>
+		<h2><A name ="ShopkeeperSpawns">Shopkeeper Spawns</A></h2>
+		<p>
+			Shopkeeper spawns work about the same as dungeon and city spawns.  Basically, each city has at least one shopkeeper assigned to it, so if the player kills one, a the game knows which kind of enemy to use to replace him.  This section uses the &lt;shopkeeperSpawns&gt; element.  In this element, you will define one &lt;city&gt; element per city that is in the map for the scenario, and it will have a level attribute.  The level attribute matches the city index of the map file.  To specify a shopkeeper, you will use the &lt;shopkeeper&gt; tag, and the value is the type number of the enemy that will spawn.
+		</p>
+		<h2><A name ="Streets">Streets</A></h2>
+		<p>
+			Streets are the land objects that the player and enemies walk on when they move around.  There can be up to 200 street types in a scenario.  Examples of different street types you may want to use are dirt, grass, gravel, etc.  This section uses the &lt;streets&gt; element.  In this element, you will create a &lt;street&gt; element for each street type you want in your scenario.  They will have a type attribute that must start at 0 and go up from there.  The maximum value for the type attribute is 199.  Type 0 is required, and it is what the map editor will use to initialize new maps.  For each street type, you will need to have 2 tags: name and image.  The name is the name of the street type as it will show up in the editor.  You should give it a descriptive name so that you will know what it is when it's time to create a map.  The image tag is used to specify the location of the image file that will be used for this street type.
+		</p>
+		<h2><A name ="EnemyTriggers">Enemy Triggers</A></h2>
+		<p>
+			Enemy triggers are special types of streets that have a chance to spawn enemies around the player when he steps onto the trigger.  This section uses the &lt;triggers&gt; element name.  For each enemy spawn trigger, you will create a &lt;trigger&gt; element with an index attribute.  Index attributes will start at 200 and can go up to 209.  For each trigger type, you will include tags for name, image, chance, and at least one enemy.  The name tag is used to give the enemy trigger a name for use with the editor.  You should give it a descriptive name so you will know what it is when it's time to create a map.  The image tag is used to specify the location of the image file that will be used for this trigger type.  The chance tag is used to specify what chance the enemies have of spawning when a player steps on this trigger as a percent.  So, if you want a 20% chance of spawning the enemies, you'd give the chance tag a value of 20.  At this point, you can specify the types of enemies that will spawn when the trigger is activated.  For each enemy, you will use the &lt;enemy&gt; tag and give it a value of an enemy type.  You can include as many enemies as you want, but if there is not room to spawn them, they will not show up.
+		</p>
+		<h2><A name ="ExitImages">Exit Images</A></h2>
+		<p>
+			In this section, you will define the locations of the images to use for the various exit types.  You use the &lt;exits&gt; element to hold the exit types.  For each type of exit, you need an &lt;exit&gt; element with a type attribute.  You must specify exit types 0-3.  The tags that must be included for each type are openImage and closedImage.  The openImage tag will have as it's value, the path to the exit image file when it is open.  The closedImage is the same, but for when the exit is closed.  Some exits (city gates and dungeons) may start closed when you first enter the city, based on how the map is set up.  At this time in the game, the closed image will be shown.  Once you kill the leaders of that city, the exits will open, and the images will switch to the open ones.
+		</p>
+		<h2><A name ="ObstructionImages">Obstruction Images</A></h2>
+		<p>
+			This section uses the &lt;obstructionImages&gt; element name and is used to create different obstruction types for your scenario.  Obstructions are land objects that will get in your way, and you will not be able to walk through them.  For each obstruction type, you will have an &lt;obstruction&gt; element with a type attribute.  Types 0-199 are possible, and type 0 and 1 are required.  Type 0 is always the tipe that will be rendered outside the city walls of the map.  It is the "outside".  Type 1 is the type that will act as the city wall when a new map is created in the editor.  For each obstruction type, you will need to include the image, destroyable and name tags.  The image tag is used to specify the image file that will be used for this obstruction type.  The destroyable tag is used to indicate whether or not this obstruction type can ever be destroyed.  It can be either true or false, and if it is false, it will enforce it to not be destroyable in the editor.  The name tag is the name of the obstruction as it appears in the editor.  Try to give it a meaningful name so that you know what it is when looking at the list of obstructions in the editor.
+		</p>
+		<h2><A name ="PlayerImages">Player Images</A></h2>
+		<p>
+			The player images section is used to define the images that will be used when the player has various weapons readied.  This section uses the &lt;playerImages&gt; tag.  The number of images that must be defined depend on how many weapons your scenario has.  You will need a player image type defined for each weapon, plus the image when you die.  Type 25 is reserved for the picture when you die, and must always be included.  Types 0-24 correspond with the images used when the player has weapon types 0-24 ready.  Therefore, if your scenario only has weapon types 0-8, you should only have images for type 0-8 and 25.  To create a player image, you will use a &lt;plrImage&gt; element with an index attribute.  The index says which weapon type the image goes with.  For each type, you will include a leftImage tag and rightImage tag.  The leftImage is the location to the image file that will be used when the player is facing the left, and the rightImage will be used when the player is facing the right.
+		</p>
+		<h2><A name ="HitImages">Hit Images</A></h2>
+		<p>
+			Hit images are used when a player or enemy gets hit.  For a fraction of a second after getting hit, the picture of that player/enemy will switch to one of the images defined here, to let the person playing the game know that the target was hit.  This section uses the &lt;hitImages&gt; element.  In this element you will have &lt;hit&gt; elements with a type attribute.  Types 0-4 are possible, and at least one must be included.  There is nothing special about the type number in this case.  The game will randomly pick a hit image from the possible types when one is required.  For each hit element, you will include an &lt;image&gt; tag, which contains a value for the location of the hit image file.
+		</p>
+		<h2><A name ="ExplosionImages">Explosion Images</A></h2>
+		<p>
+			This section uses the &lt;explosionImages&gt; element.  Explosion images are used when a grenade, dynamite or rocket go off.  Explosions take up an area 3x3, so 9 total images are needed.  Therefore, types 0-8 are all required for this section.  You create an explosion image with an &lt;explosion&gt; element and a type attribute.  Which type numbers match up with which part of the explosion is explained below.  Each explosion type just needs one &lt;image&gt; tag which is the location to the image file for this part of the explosion.
+		</p>
+		<h3><A name ="ExplosionTypes">Explosion Types</A></h3>
+		<ol start="0">
+			<li>Center of the explosion</li>
+			<li>North part of the explosion</li>
+			<li>North-east part of the explosion</li>
+			<li>East part of the explosion</li>
+			<li>South-east part of the explosion</li>
+			<li>South part of the explosion</li>
+			<li>South-west part of the explosion</li>
+			<li>West part of the explosion</li>
+			<li>North-west part of the explosion</li>
+		</ol>
+		<h2><A name ="Bars">Bars</A></h2>
+		<p>
+			Bars are a good way to give plot information, secrets or advice to the player.  After the player purchases a drink, a message is printed to the messages window depending on which drink was purchased and which bar the player is at.  This section uses the &lt;bars&gt; element name.  You can create multiple bar types, and assign different messages to each one.  This allows you to have different messages to give the player as he progresses through the game.  For each bar type, you will have a &lt;bar&gt; element with a type attribute.  Bar types 0-49 are possible.  For each type or bar, you will need tags for tonicwater, soda, gin, rum, scotch, and redeye.  These are the different kinds of drinks you can purchase at the shop.  For each tag, you will provide some text as it's value.  This is the message that will be printed to the screen after the player purchases this drink.  So, if you want to let the player know there is a secret door in the north east corner, you could have something like: &lt;redeye&gt;The bartender says:  Rumor has it there is an enterance leading to a secret city somewhere to the north east.&lt;/redeye&gt;.
+		</p>
+		<h2><A name ="Drinks">Drinks</A></h2>
+		<p>
+			This section is used to give the prices of the various drinks that can be purchased at bars, and uses the &lt;drinks&gt; element name.  There are 6 kinds of drinks at each bar.  You specify these drinks with a &lt;drink&gt; element with a type attribute.  Which type numbers match with which drinks are listed below.  For each drink type, you will have one &lt;price&gt; tag.  The value for this is the amount of money it will cost to buy the drink.
+		</p>
+		<h3><A name ="DrinkTypes">Drink Types</A></h3>
+		<ol start="0">
+			<li>Tonic Water</li>
+			<li>Soda</li>
+			<li>Gin</li>
+			<li>Rum</li>
+			<li>Scotch</li>
+			<li>Red Eye</li>
+		</ol>
+		<h2><A name ="Sounds">Sounds</A></h2>
+		<p>
+			You can include sounds for your scenario as well.  This section uses the &lt;sounds&gt; element.  In this element, you will have different tags for the sounds you want to include in your scenario, if any.  The sounds section does not even need to exist in your XML file, and you can include as many or as few sounds as you want.  The possible sounds you can have in your scenario are: enemyHitOutside, enemyHitDungeon, playerHitOutside, playerHitDungeon, enemyMeleeAttack, enemyMartialArtsAttack, enemyMarksmanAttack, enemyFlameAttack, enemyOtherAttack, playerMeleeAttack, playerMartialArtsAttack, playerMarksmanAttack, playerFlameAttack, playerOtherAttack, explosion, scenarioInfo, playerDies, enemyDies, and pickupItem.  The enemyHitOutside and enemyHitDungeon tags are used to play a sound for hitting an enemy while you are outside or inside a dungeon.  They are split up in case you want to use different sounds, or don't wish to have sounds in while you are outside, for example.  The playerHitOutside and playerHitDungeon tags work the same way, but play when the player gets hit.  The enemy*Attack sounds will play when the enemy hits you with the specified type of weapon.  So, if the enemy is using a weapon with a marksman damage type, it will play the enemyMarksmanAttack sound.  The same is true for the player*Attack sounds, but play when the player attacks an enemy.  The explosion sound plays when something causes an explosion (grenade, rocket, etc).  You can also choose to include a sound when you bring up the page for your scenario info.  The scenarioInfo tag is used for this reason.  The playerDies and enemyDies sounds will play when the player dies or an enemy dies.  You can also choose to use the pickupItem sound, which will play when the player picks up an item on the ground.  So, if you want to have the sound 'enemyHitOutside.wav' located in the sounds directory play when an enemy is hit while not in a dungeon, you'd have: &lt;enemyHitOutside&gt;sounds/enemyHitOutside.wav&lt;/enemyHitOutside&gt;.  You specify all of the sound files in the same way.
+		</p>
+		<p>
+			Note that not all sounds may work together.  For example, if you have a sound assigned for when the player gets hit, it may play over the sounds of the enemy's attack sound.  Think about which sounds you really want to have before you include this section, as it's not a good idea to include them all.
+		</p>
+	</body>
+</html>

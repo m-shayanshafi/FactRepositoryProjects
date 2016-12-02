@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Awen Spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação De Awen (Carr-Gomm)</entry>
+	<entry key="Description">As três colunas (C1 - C3) representam o passado, 
+atual, e futuro, respectivamente. Em cada fileira, os cartões 
+são interpretados como segue: Fileira 1: Causa, 
+dinâmico, impulso, idéia guiando, ou motriz que é uma situação ou
+um evento. Fileira 2: Efeito do primeiro cartão no nível
+emocional, social, ou do relacionamento. Fileira 3: Efeito
+do primeiro cartão no nível físico do manifestation.</entry>
+	<entry key="PositionTitle0">Após-Cause</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Após-Efeito emocional</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Exame do Após-Efeito</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Atual-Cause</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Atual-Efeito emocional</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Exame do Atual-Efeito</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Futuro-Cause</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Futuro-Efeito emocional</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Exame do Futuro-Efeito</entry><entry key="Meaning8"></entry>
+</oracleio>

@@ -1,0 +1,78 @@
+/**
+ *   Stigma - Multiplayer online RPG - http://stigma.sourceforge.net
+ *   Copyright (C) 2005-2009 Minions Studio
+ *
+ *   This program is free software: you can redistribute it and/or modify
+ *   it under the terms of the GNU General Public License as published by
+ *   the Free Software Foundation, either version 3 of the License, or
+ *   (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be useful,
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details.
+ *
+ *   You should have received a copy of the GNU General Public License
+ *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *   
+ */
+package pl.org.minions.stigma.game.item.effect;
+
+import pl.org.minions.stigma.databases.xml.XmlDbElem;
+
+/**
+ * STUB FOR EFFECTS.
+ */
+public class ItemEffect implements XmlDbElem
+{
+    private short id;
+    private boolean modified;
+
+    /**
+     * Default constructor.
+     * @param id
+     *            id of effect
+     */
+    public ItemEffect(short id)
+    {
+        super();
+        this.id = id;
+    }
+
+    /**
+     * Returns id.
+     * @return id
+     */
+    public short getId()
+    {
+        return id;
+    }
+
+    /** {@inheritDoc} */
+    @Override
+    public void clearModified()
+    {
+        modified = false;
+    }
+
+    /** {@inheritDoc} */
+    @Override
+    public boolean isModified()
+    {
+        return modified;
+    }
+
+    /** {@inheritDoc} */
+    @Override
+    public void setModified()
+    {
+        modified = true;
+    }
+
+    /** {@inheritDoc} */
+    @Override
+    public void setId(short id)
+    {
+        this.id = id;
+    }
+}

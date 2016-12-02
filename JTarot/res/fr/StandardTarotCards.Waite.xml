@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="fr" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">imbécile 0-The</entry><entry key="ObjectMeaning0">Folie, manie, extravagance, intoxication, démence, 
+frénésie, bewrayment.</entry>
+	<entry key="ObjectTitle1">magicien 1-The</entry><entry key="ObjectMeaning1">Compétence, diplomatie, adresse, subtilité ; 
+maladie, douleur, perte, désastre, pièges des ennemis ; 
+art de l'auto-portrait-confidence, volonté ; le Querent, si mâle.</entry>
+	<entry key="ObjectTitle2">Haute Prêtresse 2-The</entry><entry key="ObjectMeaning2">Les secrets, mystère, le futur unrevealed jusqu'ici ; 
+la femme qui intéresse le Querent, si mâle ; le Querent 
+elle-même, si femelle ; silence, ténacité ; mystère, 
+sagesse, la science.</entry>
+	<entry key="ObjectTitle3">impératrice 3-The</entry><entry key="ObjectMeaning3">Productivité, action, initiative, la durée les jours 
+; l'inconnu, clandestin ; également difficulté, doute, 
+ignorance.</entry>
+	<entry key="ObjectTitle4">empereur 4-The</entry><entry key="ObjectMeaning4">Stabilité, puissance, protection, réalisation ; 
+une grande personne ; aide, raison, conviction ; 
+également autorité et volonté.</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Mariage, alliance, captivité, servitude ; par 
+compte, une pitié et une qualité différents ; inspiration ; 
+l'homme à qui le Querent a recours.</entry>
+	<entry key="ObjectTitle6">amoureux 6-The</entry><entry key="ObjectMeaning6">L'attraction, amour, beauté, épreuves surmontent.</entry>
+	<entry key="ObjectTitle7">Char 7-The</entry><entry key="ObjectMeaning7">Secourez, providence également font la guerre,
+triomphent, présomption, vengeance, ennui.</entry>
+	<entry key="ObjectTitle8">8-Forces</entry><entry key="ObjectMeaning8">Puissance, énergie, action, courage, magnanimité ; 
+accomplissez également le succès et les honneurs.</entry>
+	<entry key="ObjectTitle9">hermite 9-The</entry><entry key="ObjectMeaning9">Prudence, circonspection ; également et 
+particulièrement trahison, simulation, coquinerie, corruption.</entry>
+	<entry key="ObjectTitle10">10-Wheel de la fortune</entry><entry key="ObjectMeaning10">Destin, fortune, succès, altitude, chance, félicité.</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Capitaux propres, exactitude, probité, directeur ; 
+triomphe du côté méritant légalement.</entry>
+	<entry key="ObjectTitle12">12-The a accroché l'homme</entry><entry key="ObjectMeaning12">Sagesse, circonspection, discernement, épreuves, 
+sacrifice, intuition, divination, prophétie.</entry>
+	<entry key="ObjectTitle13">La 13-Mort</entry><entry key="ObjectMeaning13">Extrémité, mortalité, destruction, corruption 
+également, pour un homme, la perte d'un bienfaiteur pour une femme, 
+beaucoup de contrarieties ; pour une bonne, l'échec du mariage 
+projette.</entry>
+	<entry key="ObjectTitle14">14-modération</entry><entry key="ObjectMeaning14">Économie, modération, frugalité, gestion, logement.</entry>
+	<entry key="ObjectTitle15">diable 15-The</entry><entry key="ObjectMeaning15">Ravage, violence, véhémence, efforts 
+extraordinaires, force, fatalité ; cela qui est prédestiné 
+mais n'est pas pour cette raison mal.</entry>
+	<entry key="ObjectTitle16">tour 16-The</entry><entry key="ObjectMeaning16">Misère, détresse, indigence, adversité, calamité, 
+déshonneur, déception, ruine. C'est une carte en particulier 
+de catastrophe imprévue.</entry>
+	<entry key="ObjectTitle17">17-The Tiennent le premier rôle</entry><entry key="ObjectMeaning17">Perte, vol, privation, abandon ; un dire-espoir 
+de lecture et des perspectives lumineuses différents,</entry>
+	<entry key="ObjectTitle18">lune 18-The</entry><entry key="ObjectMeaning18">Ennemis cachés, danger, calomnie, obscurité, terreur,
+déception, forces occultes, erreur.</entry>
+	<entry key="ObjectTitle19">le soleil 19-The</entry><entry key="ObjectMeaning19">Bonheur matériel, mariage chanceux, contentement.</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Changement de la position, renouvellement, résultats. 
+Un autre compte indique le procès total de perte cependant.</entry>
+	<entry key="ObjectTitle21">monde 21-The</entry><entry key="ObjectMeaning21">Succès assuré, récompense, voyage, itinéraire, 
+émigration, vol, changement d'endroit.</entry>
+	<entry key="ObjectTitle22">As des tasses</entry><entry key="ObjectMeaning22">Chambre du coeur vrai, joie, contenu, demeure, 
+alimentation, abondance, fertilité ; Tableau saint, félicité 
+de ceci.</entry>
+	<entry key="ObjectTitle23">Deux de tasses</entry><entry key="ObjectMeaning23">Amour, passion, amitié, affinité, union, accord, 
+sympathie, l'interdépendance des sexes, et -- comme suggestion 
+indépendamment de tous les bureaux de divination -- ce désir qui 
+n'est pas en nature, mais par quelle nature est 
+sanctified.&lt;p&gt;Additional meanings:&lt;/p&gt;Favourable dans les choses du 
+plaisir et des affaires, aussi bien que l'amour ; également 
+richesse et honneur.</entry>
+	<entry key="ObjectTitle24">Trois de tasses</entry><entry key="ObjectMeaning24">La conclusion de toute matière dans l'abondance, la 
+perfection et la joie ; issue heureuse, victoire, 
+accomplissement, consolation, curatif,</entry>
+	<entry key="ObjectTitle25">Quatre de tasses</entry><entry key="ObjectMeaning25">Lassitude, dégoût, aversion, vexations 
+imaginaires, comme si le vin de ce monde avait causé la satiété 
+seulement ; un autre vin, comme si un cadeau féerique, est 
+maintenant offert le gaspilleur, mais il ne voit aucune consolation 
+là-dedans. C'est également une carte du plaisir mélangé.</entry>
+	<entry key="ObjectTitle26">Cinq de tasses</entry><entry key="ObjectMeaning26">C'est une carte de la perte, mais quelque chose demeure
+plus de ; trois ont été pris, mais deux sont laissés ; 
+c'est une carte de la transmission, le patrimoine, transmission,
+mais correspondance aux espérances ; avec quelques interprètes
+c'est une carte de mariage, mais pas sans amertume ou anéantissement.</entry>
+	<entry key="ObjectTitle27">Six de tasses</entry><entry key="ObjectMeaning27">Une carte du passé et des mémoires, regardant 
+arrière, comme -- par exemple -- sur l'enfance ; bonheur, 
+plaisir, mais venir plutôt du passé ; choses qui ont disparu. 
+Une autre lecture renverse ceci, donnant de nouvelles relations,
+nouvelles connaissances, nouvel environnement, et alors les enfants 
+disporting à enceinte peu familière.</entry>
+	<entry key="ObjectTitle28">Sept de tasses</entry><entry key="ObjectMeaning28">Faveurs féeriques, images de réflexion, sentiment, 
+imagination, choses vues dans le verre de la contemplation ; un 
+certain accomplissement en ces degrés, mais rien permanent ou une 
+partie essentielle n'est suggéré.</entry>
+	<entry key="ObjectTitle29">Huit de tasses</entry><entry key="ObjectMeaning29">La carte parle pour elle-même sur la surface, mais 
+d'autres lectures sont entièrement antithétiques -- donner la joie, 
+douceur, timidité, honneur, modestie. Dans la pratique,
+on le constate habituellement que la carte shews le déclin d'une 
+question, ou qu'une question qui a été pensée pour être importante
+soit vraiment de légère conséquence -- pour bon ou mauvais.</entry>
+	<entry key="ObjectTitle30">Neuf de tasses</entry><entry key="ObjectMeaning30">Accord, contentement, bien-?tre physique ; 
+également victoire, succès, avantage ; satisfaction pour
+le Querent ou la personne pour qui la consultation est faite.</entry>
+	<entry key="ObjectTitle31">Dizaines de tasses</entry><entry key="ObjectMeaning31">Contentement, repos du coeur entier ; la 
+perfection de cet état ; également perfection de l'amour et de
+l'amitié humains ; si avec plusieurs image-cartes, une personne
+qui prend la charge d'intérêts du Querent ; également la 
+ville, le village ou le pays habités par le Querent.</entry>
+	<entry key="ObjectTitle32">Page des tasses</entry><entry key="ObjectMeaning32">Jeune homme juste, un poussé pour rendre le service et
+avec qui le Querent sera relié ; une jeunesse studieuse ; 
+nouvelles, message ; application, réflexion, méditation 
+; également ces choses dirigées vers des affaires.</entry>
+	<entry key="ObjectTitle33">Chevalier des tasses</entry><entry key="ObjectMeaning33">Arrivée, approche -- parfois celle d'un messager ; 
+avances, proposition, demeanour, invitation, stimulant.</entry>
+	<entry key="ObjectTitle34">Reine des tasses</entry><entry key="ObjectMeaning34">Bonne, juste femme ; femme honnête et dévouée,
+qui fera le service au Querent ; intelligence affectueuse, et 
+par conséquent le cadeau de la vision ; succès, bonheur, 
+plaisir ; également sagesse, vertu ; un conjoint parfait 
+et une bonne mère.</entry>
+	<entry key="ObjectTitle35">Roi des tasses</entry><entry key="ObjectMeaning35">Homme juste, homme des affaires, loi, ou divinité ; 
+responsable, disposé pour obliger le Querent ; également
+capitaux propres, art et science, y compris ceux qui professent la 
+science, la loi et l'art ; intelligence créatrice.</entry>
+	<entry key="ObjectTitle36">As des Pentagrammes</entry><entry key="ObjectMeaning36">Contentement parfait, félicité, extase ; 
+intelligence aussi prompte ; or &lt; p&gt;Additional 
+meanings:&lt;/p&gt;The le plus favorable de toutes les cartes.</entry>
+	<entry key="ObjectTitle37">Deux de Pentagrammes</entry><entry key="ObjectMeaning37">D'une part il est représenté comme carte de 
+joie, de récréation et de ses raccordements, qui fait 
+l'objet de la conception ; mais on le lit également comme 
+nouvelles et messages dans l'écriture, comme des obstacles, 
+agitation, ennui, embroilment.</entry>
+	<entry key="ObjectTitle38">Trois de Pentagrammes</entry><entry key="ObjectMeaning38">Le commerce, main-d'oeuvre qualifiée ; 
+habituellement, cependant, considéré comme carte de noblesse, 
+aristocratie, renommée, gloire.</entry>
+	<entry key="ObjectTitle39">Quatre de Pentagrammes</entry><entry key="ObjectMeaning39">La sécurité des possessions, se fendant à cela qu'on
+a, cadeau, legs, transmission.</entry>
+	<entry key="ObjectTitle40">Cinq de Pentagrammes</entry><entry key="ObjectMeaning40">La carte prévoit l'ennui matériel surtout, si sous la
+forme a illustré -- c'est-à-dire, dénuement -- ou autrement. 
+Pour quelques cartomancists, c'est une carte de l'amour et de 
+l'amoureux-épouse, mari, ami, maîtresse ; également 
+concordance, affinités. Ces solutions de rechange ne peuvent 
+pas être harmonisées.</entry>
+	<entry key="ObjectTitle41">Six de Pentagrammes</entry><entry key="ObjectMeaning41">Présent, les cadeaux, la satisfaction un autre compte 
+indique l'attention, vigilance est maintenant la prospérité admise, 
+etc.. de temps et actuelle.</entry>
+	<entry key="ObjectTitle42">Sept de Pentagrammes</entry><entry key="ObjectMeaning42">Ce sont excessivement contradictoires ; 
+principalement, c'est une carte d'argent, affaires, échange ; 
+mais une lecture donne la dispute, querelles innocence -- et une
+autre, ingéniosité, purgation.</entry>
+	<entry key="ObjectTitle43">Huit de Pentagrammes</entry><entry key="ObjectMeaning43">Travail, emploi, commission, art, compétence dans le 
+métier et affaires, peut-être à l'étape préparatoire.</entry>
+	<entry key="ObjectTitle44">Neuf de Pentagrammes</entry><entry key="ObjectMeaning44">Prudence, sûreté, succès, accomplissement, 
+certitude, discernement.</entry>
+	<entry key="ObjectTitle45">Dizaines de Pentagrammes</entry><entry key="ObjectMeaning45">Gain, richesse ; la famille importe, des 
+archives, l'extraction, la demeure d'une famille.</entry>
+	<entry key="ObjectTitle46">Page des Pentagrammes</entry><entry key="ObjectMeaning46">Application, étude, bourse, la réflexion une autre 
+lecture indique des nouvelles, des messages et le bringer en ; 
+également règle, gestion.</entry>
+	<entry key="ObjectTitle47">Chevalier des Pentagrammes</entry><entry key="ObjectMeaning47">Utilité, serviceableness, intérêt, responsabilité, 
+rectitude-all sur l'avion normal et externe.</entry>
+	<entry key="ObjectTitle48">Reine des Pentagrammes</entry><entry key="ObjectMeaning48">Opulence, générosité, magnificence, sécurité,
+liberté.</entry>
+	<entry key="ObjectTitle49">Roi des Pentagrammes</entry><entry key="ObjectMeaning49">Bravoure, réalisant l'intelligence, les affaires 
+et l'aptitude intellectuelle normale, les cadeaux parfois 
+mathématiques et les accomplissements de cette sorte ; succès 
+dans des ces chemins.</entry>
+	<entry key="ObjectTitle50">As des épées</entry><entry key="ObjectMeaning50">Triomphe, le degré excessif dans tout, conquête, 
+triomphe de la force. C'est une carte de la grande force, dans 
+l'amour aussi bien que dans la haine. La couronne peut porter 
+une signification beaucoup plus élevée que relève habituellement de
+la sphère de fortune-dire.</entry>
+	<entry key="ObjectTitle51">Deux d'épées</entry><entry key="ObjectMeaning51">Conformité et l'équilibre qu'il suggère, courage,
+amitié, accord dans un état de bras ; une autre lecture donne 
+la tendresse, affection, intimité. La suggestion de l'harmonie 
+et d'autres lectures favorables doivent être considérées d'une 
+façon qualifiée, car les épées ne sont pas généralement 
+symbolical des forces bienfaisantes dans des affaires humaines.</entry>
+	<entry key="ObjectTitle52">Trois d'épées</entry><entry key="ObjectMeaning52">Le déplacement, absence, retardent, division, 
+rupture, dispersion, et toutes ce que la conception signifie 
+naturellement, qui sont trop simples et évidentes réclamer 
+l'énumération spécifique.</entry>
+	<entry key="ObjectTitle53">Quatre d'épées</entry><entry key="ObjectMeaning53">Vigilance, retraite, solitude, repos de l'hermite, 
+exil, tombeau et cercueil. Il est ces bout qui ont suggéré la 
+conception.</entry>
+	<entry key="ObjectTitle54">Cinq d'épées</entry><entry key="ObjectMeaning54">Dégradation, destruction, révocation, infamie, 
+déshonneur, perte, avec les variantes et les analogues de ces 
+derniers.</entry>
+	<entry key="ObjectTitle55">Six d'épées</entry><entry key="ObjectMeaning55">Voyagez par l'eau, itinéraire, manière, délégué, 
+commissionary, avantageux.</entry>
+	<entry key="ObjectTitle56">Sept d'épées</entry><entry key="ObjectMeaning56">Concevez, essayez, souhaitez, espérez, confiance ; 
+également se disputant, un plan qui peut échouer, ennui. 
+La conception est incertaine dans son importation, parce que les
+sens sont largement en désaccord avec l'un l'autre.</entry>
+	<entry key="ObjectTitle57">Huit d'épées</entry><entry key="ObjectMeaning57">Mauvaises nouvelles, contrariété violente, crise, 
+censure, puissance dans des trémails, conflit, calomnie ; 
+également maladie.</entry>
+	<entry key="ObjectTitle58">Neuf d'épées</entry><entry key="ObjectMeaning58">La mort, échec, perte, retardent, déception, 
+déception, désespoir.</entry>
+	<entry key="ObjectTitle59">Dizaines d'épées</entry><entry key="ObjectMeaning59">Quelqu'est suggéré par la conception ; 
+également douleur, affliction, larmes, tristesse, désolation. 
+Ce n'est pas particulièrement une carte de la mort violente.</entry>
+	<entry key="ObjectTitle60">Page des épées</entry><entry key="ObjectMeaning60">Autorité, surveillance, service secret, vigilance, 
+remarquer, examen, et les qualités appartenant là-dessus.</entry>
+	<entry key="ObjectTitle61">Chevalier des épées</entry><entry key="ObjectMeaning61">Compétence, courage, capacité, la défense, adresse, 
+hostilité, colère, guerre, destruction, opposition, résistance, 
+ruine. Il y a donc un sens dans lequel la carte signifie la 
+mort, mais elle porte cette signification seulement dans sa proximité
+à d'autres cartes de la fatalité.</entry>
+	<entry key="ObjectTitle62">Reine des épées</entry><entry key="ObjectMeaning62">Veuvage, tristesse femelle et embarras, absence, 
+stérilité, pleurant, privation, séparation.</entry>
+	<entry key="ObjectTitle63">Roi des épées</entry><entry key="ObjectMeaning63">Quelque provient de l'idée du jugement et de toute sa 
+raccordement-puissance, commande, autorité, intelligence 
+militante, la loi, bureaux de la couronne, et ainsi de suite.</entry>
+	<entry key="ObjectTitle64">As des baguettes magiques</entry><entry key="ObjectMeaning64">Création, invention, entreprise, les puissances qui 
+ont comme conséquence ces derniers ; principe, commencement, 
+source ; naissance, famille, origine, et dans un sens la 
+virilité qui est derrière elles ; le point de départ des 
+entreprises ; selon un autre compte, argent, fortune, 
+transmission.</entry>
+	<entry key="ObjectTitle65">Deux de baguettes magiques</entry><entry key="ObjectMeaning65">Entre les lectures alternatives il n'y a aucun mariage 
+possible ; d'une part, richesse, fortune, magnificence ; 
+de l'autre, douleur physique, la maladie, contrariété, 
+tristesse, mortification. La conception donne une suggestion ; 
+voici un seigneur donnant sur son dominion et contemplant 
+alternativement un globe ; il ressemble à la maladie, la 
+mortification, la tristesse d'Alexandre parmi la splendeur du 
+wealth.&lt;p&gt;Additional meanings:&lt;/p&gt;A du ce monde que la jeune dame peut
+s'attendre à des déceptions insignifiantes.</entry>
+	<entry key="ObjectTitle66">Trois de baguettes magiques</entry><entry key="ObjectMeaning66">Il symbolise a établi la force, entreprise, effort, le
+commerce, commerce, découverte ; tels sont ses bateaux, 
+soutenant ses marchandises, qui naviguent au-dessus de la mer. 
+La carte signifie également la coopération capable dans les 
+affaires, comme si le prince marchand réussi regardaient de son 
+côté vers le vôtre en vue de la carte très bonne de l'aide 
+you.&lt;p&gt;Additional meanings:&lt;/p&gt;A ; la collaboration favorisera 
+l'entreprise.</entry>
+	<entry key="ObjectTitle67">Quatre de baguettes magiques</entry><entry key="ObjectMeaning67">Elles sont pour une fois presque sur la surface -- la 
+vie de pays, asile de refuge, des espèces de moisson-maison 
+domestique, repos, accord, harmonie, prospérité, paix, et le travail
+perfectionné de ces derniers.</entry>
+	<entry key="ObjectTitle68">Cinq de baguettes magiques</entry><entry key="ObjectMeaning68">Imitation, as, par exemple, combat de feinte, mais 
+également la concurrence et la lutte laborieuses de la recherche 
+après richesse et fortune. Dans ce sens elle se relie à la
+bataille de la vie. Par conséquent quelques attributions 
+indiquent que c'est une carte d'or, gain, opulence.</entry>
+	<entry key="ObjectTitle69">Six de baguettes magiques</entry><entry key="ObjectMeaning69">La carte a été ainsi a conçu qu'elle peut couvrir 
+plusieurs sens ; sur la surface, c'est un vainqueur 
+triomphant, mais c'est également de grandes nouvelles, telles que 
+pourrait être porté dedans énoncent par le courier du roi ; 
+c'est espérance couronnée avec son propre désir, la couronne 
+de l'espoir, et ainsi de suite.</entry>
+	<entry key="ObjectTitle70">Sept de baguettes magiques</entry><entry key="ObjectMeaning70">C'est une carte de bravoure, pour, sur la surface, 
+six attaquent un, qui a, cependant, la position avantageuse. Sur
+l'avion intellectuel, il signifie la discussion, différends 
+diffus ; dans les affaires -- négociations, guerre du 
+commerce, échange, concurrence. C'est encore une carte de 
+succès, parce que le combattant est sur le dessus et ses ennemis 
+peuvent ne pouvoir pas atteindre l'enfant d'obscurité de 
+him.&lt;p&gt;Additional meanings:&lt;/p&gt;A.</entry>
+	<entry key="ObjectTitle71">Huit de baguettes magiques</entry><entry key="ObjectMeaning71">Activité dans les entreprises, le chemin d'une telle 
+activité, swiftness, en tant que cela d'un messager exprès ; 
+grande rapidité, grand espoir, vitesse vers une extrémité qui
+promet la félicité assurée ; généralement, ce qui est sur 
+le mouvement ; également les flèches de love.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Domestic conteste pour une personne mariée.</entry>
+	<entry key="ObjectTitle72">Neuf de baguettes magiques</entry><entry key="ObjectMeaning72">La carte signifie la force dans l'opposition. Si 
+attaquée, la personne rencontrera un impact hardiment ; et sa 
+construction shews, cela qu'il peut prouver un antagoniste formidable.
+Avec cette signification principale il y a toutes ses 
+adjonctions possibles -- retarder, la suspension, 
+adjournment.&lt;p&gt;Additional meanings:&lt;/p&gt;Generally parlant, une mauvaise
+carte.</entry>
+	<entry key="ObjectTitle73">Dizaines de baguettes magiques</entry><entry key="ObjectMeaning73">Une carte de beaucoup de significances, et certaines 
+des lectures ne peuvent pas être harmonisées. Je mets de 
+côté cela qui la relie à l'honneur et à la bonne foi. La 
+signification en chef est oppression simplement, mais c'est également
+fortune, le gain, n'importe quel genre de succès, et alors c'est 
+l'oppression de ces choses. C'est également une carte de 
+faux-sembler, déguisement, perfidie. L'endroit que la figure 
+approche peut souffrir des tiges qu'il porte. Le succès est a 
+abruti si les neuf d'épées suit, et si c'est une question de 
+procès, il y aura de certains loss.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Difficulties et contradictions, si près d'une bonne 
+carte.</entry>
+	<entry key="ObjectTitle74">Page des baguettes magiques</entry><entry key="ObjectMeaning74">Jeune homme foncé, fidèle, un amoureux, un 
+délégué, un facteur. Près d'un homme, il soutiendra le 
+témoignage favorable au sujet de lui. Un rival dangereux, si 
+suivi de la page des tasses. A les qualités en chef de son 
+costume. Il peut signifier l'intelligence de famille.</entry>
+	<entry key="ObjectTitle75">Chevalier des baguettes magiques</entry><entry key="ObjectMeaning75">Départ, absence, vol, émigration. Un jeune 
+homme foncé, amical. Changement de résidence.</entry>
+	<entry key="ObjectTitle76">Reine des baguettes magiques</entry><entry key="ObjectMeaning76">Une femme foncée, compatriote, amical, chaste, aimer, 
+honorable. Si la carte près d'elle signifie un homme, elle est 
+bien disposée vers lui ; si une femme, elle est intéressée 
+par le Querent. En outre, amour d'argent, ou un certain succès 
+dans les affaires.</entry>
+	<entry key="ObjectTitle77">Roi des baguettes magiques  </entry><entry key="ObjectMeaning77">Homme foncé, amical, compatriote, généralement 
+marié, honnête et consciencieux. La carte signifie toujours 
+l'honnêteté, et peut signifier des nouvelles au sujet d'un héritage
+inattendu pour tomber dedans avant très longtemps.</entry>
+	<entry key="ReversedMeaning0">Négligence, absence, distribution, inattention, apathie, 
+nullité, vanité.</entry>
+	<entry key="ReversedMeaning1">Médecin, Magus, la maladie mentale, déshonneur, 
+inquiétude.</entry>
+	<entry key="ReversedMeaning2">Ardeur de passion, morale ou physique, vanité, la connaissance 
+extérieure.</entry>
+	<entry key="ReversedMeaning3">Lumière, vérité, unravelling des sujets impliqués, 
+rejoicings publics ; selon une autre lecture, vacillation.</entry>
+	<entry key="ReversedMeaning4">Bienveillance, compassion, degré de solvabilité ; également 
+confusion aux ennemis, obstruction, immaturité.</entry>
+	<entry key="ReversedMeaning5">Société, bon arrangement, accord, overkindness, faiblesse.</entry>
+	<entry key="ReversedMeaning6">Échec, conceptions idiotes. Un autre compte parle du 
+mariage frustré et des contrarieties de toutes les sortes.</entry>
+	<entry key="ReversedMeaning7">Émeute, querelle, conflit, litige, défaite.</entry>
+	<entry key="ReversedMeaning8">Despotisme, abus si puissance, faiblesse, discorde, parfois 
+même déshonneur.</entry>
+	<entry key="ReversedMeaning9">La dissimulation, déguisement, politique, crainte, unreasoned 
+l'attention.</entry>
+	<entry key="ReversedMeaning10">Augmentation, abondance, abondance.</entry>
+	<entry key="ReversedMeaning11">Loi dans tous ses départements, complications légales, 
+bigoterie, polarisation, sévérité excessive.</entry>
+	<entry key="ReversedMeaning12">Égoïsme, la foule, corps adroit.</entry>
+	<entry key="ReversedMeaning13">Inertie, sommeil, léthargie, petrifaction, somnambulisme ; 
+l'espoir a détruit.</entry>
+	<entry key="ReversedMeaning14">Les choses se sont reliées aux églises, religions, sects, le 
+sacerdoce, égalisent parfois le prêtre qui mariera le Querent ; 
+également désunion, combinaisons malheureuses, intérêts 
+de concurrence.</entry>
+	<entry key="ReversedMeaning15">Fatalité mauvaise, faiblesse, mesquinerie, cécité.</entry>
+	<entry key="ReversedMeaning16">Selon un compte, les mêmes dans une peu de de degré oppression
+également, emprisonnement, tyrannie.</entry>
+	<entry key="ReversedMeaning17">Arrogance, haughtiness, impuissance.</entry>
+	<entry key="ReversedMeaning18">Instabilité, inconsistance, silence, peu de degrés de 
+déception et erreur.</entry>
+	<entry key="ReversedMeaning19">Les mêmes dans un peu de sens.</entry>
+	<entry key="ReversedMeaning20">Faiblesse, pusillanimity, simplicité ; également 
+délibération, décision, phrase.</entry>
+	<entry key="ReversedMeaning21">Inertie, fixité, stagnation, permanence.</entry>
+	<entry key="ReversedMeaning22">Changement inattendu de la position.</entry>
+	<entry key="ReversedMeaning23">Passion.</entry>
+	<entry key="ReversedMeaning24">Consolation, traitement, fin des affaires.</entry>
+	<entry key="ReversedMeaning25">Pressentiment.</entry>
+	<entry key="ReversedMeaning26">Retour d'un certain parent qui n'a pas été vu pour long.</entry>
+	<entry key="ReversedMeaning27">Transmission à tomber dedans rapidement.</entry>
+	<entry key="ReversedMeaning28">Succès, si accompagné des trois de tasses.</entry>
+	<entry key="ReversedMeaning29">Satisfaction parfaite.</entry>
+	<entry key="ReversedMeaning30">Bonnes affaires.</entry>
+	<entry key="ReversedMeaning31">Douleur ; également une querelle sérieuse.</entry>
+	<entry key="ReversedMeaning32">Obstacles de toutes les sortes.</entry>
+	<entry key="ReversedMeaning33">Irrégularité.</entry>
+	<entry key="ReversedMeaning34">Un mariage riche pour un homme et distingué pour une femme.</entry>
+	<entry key="ReversedMeaning35">Perte.</entry>
+	<entry key="ReversedMeaning36">Le côté mauvais de la richesse, mauvaise intelligence ; 
+richesse aussi grande. De toute façon qu'il shews la 
+prospérité, conditions matérielles confortables, mais si ceux-ci 
+sont d'avantage au propriétaire dépendra de, que la carte ne soit 
+renversée ou pas le &lt; p&gt;Additional meanings:&lt;/p &gt; une part dans la 
+conclusion du trésor.</entry>
+	<entry key="ReversedMeaning37">Mauvais présage, ignorance, injustice.</entry>
+	<entry key="ReversedMeaning38">Dépend des cartes voisines.</entry>
+	<entry key="ReversedMeaning39">Observation, obstacles.</entry>
+	<entry key="ReversedMeaning40">Ennuis dans l'amour.</entry>
+	<entry key="ReversedMeaning41">Un contrôle sur l'ambition du Querent.</entry>
+	<entry key="ReversedMeaning42">Impatience, appréhension, soupçon.</entry>
+	<entry key="ReversedMeaning43">Le Querent sera compromis dans une question du l'argent-prêt.</entry>
+	<entry key="ReversedMeaning44">Espoirs vains.</entry>
+	<entry key="ReversedMeaning45">Une occasion qui peut être chanceuse ou autrement.</entry>
+	<entry key="ReversedMeaning46">Parfois dégradation et parfois pillage.</entry>
+	<entry key="ReversedMeaning47">Un homme de braver hors d'emploi.</entry>
+	<entry key="ReversedMeaning48">Une maladie.</entry>
+	<entry key="ReversedMeaning49">Un vieux et méchant homme.</entry>
+	<entry key="ReversedMeaning50">Mariage interrompu, pour une femme, par sa propre imprudence.</entry>
+	<entry key="ReversedMeaning51">Rapport d'affaires avec des escrocs.</entry>
+	<entry key="ReversedMeaning52">Une réunion avec une qui le Querent a compromis ; 
+également une nonne.</entry>
+	<entry key="ReversedMeaning53">Un certain succès suivant l'administration sage.</entry>
+	<entry key="ReversedMeaning54">Un signe de la douleur et du deuil.</entry>
+	<entry key="ReversedMeaning55">Issue défavorable de procès.</entry>
+	<entry key="ReversedMeaning56">Bon conseil, négligé probablement.</entry>
+	<entry key="ReversedMeaning57">Départ d'un parent.</entry>
+	<entry key="ReversedMeaning58">La bonne terre pour le soupçon contre une personne douteuse.</entry>
+	<entry key="ReversedMeaning59">Victoire et fortune conséquente pour un soldat dans la guerre.</entry>
+	<entry key="ReversedMeaning60">Nouvelles étonnantes.</entry>
+	<entry key="ReversedMeaning61">Conflit avec une personne imbécile ; pour une femme, 
+lutte avec un rival, qui sera conquis.</entry>
+	<entry key="ReversedMeaning62">Une mauvaise femme, avec la mauvaise volonté vers le Querent.</entry>
+	<entry key="ReversedMeaning63">Un mauvais homme ; également une attention pour mettre un
+terme à un procès ruineux.</entry>
+	<entry key="ReversedMeaning64">Un signe de naissance.</entry>
+	<entry key="ReversedMeaning65">Surprise, merveille, sortilège, émotion, ennui, crainte.</entry>
+	<entry key="ReversedMeaning66">La fin des ennuis, de la suspension ou du cessation de 
+l'adversité, du travail dur et de la déception.</entry>
+	<entry key="ReversedMeaning67">Une femme mariée aura de beaux enfants.</entry>
+	<entry key="ReversedMeaning68">Des querelles peuvent être tournées à l'avantage.</entry>
+	<entry key="ReversedMeaning69">Accomplissement d'espoir reporté.</entry>
+	<entry key="ReversedMeaning70">Perplexité, embarras, inquiétude. C'est également une 
+attention contre l'indécision.</entry>
+	<entry key="ReversedMeaning71">Flèches de jalousie, conflit interne, stingings de conscience, 
+querelles ; et le domestique conteste pour les personnes qui 
+sont mariées.</entry>
+	<entry key="ReversedMeaning72">Obstacles, adversité, calamité.</entry>
+	<entry key="ReversedMeaning73">Contrarieties, difficultés, intrigues, et leurs analogies.</entry>
+	<entry key="ReversedMeaning74">Mauvaises nouvelles.</entry>
+	<entry key="ReversedMeaning75">Pour une femme, mariage, mais frustré probablement.</entry>
+	<entry key="ReversedMeaning76">Bonne volonté vers le Querent, mais sans occasion de l'exercer.</entry>
+	<entry key="ReversedMeaning77">Conseil qui devrait être suivi.</entry>
+</oracleio>

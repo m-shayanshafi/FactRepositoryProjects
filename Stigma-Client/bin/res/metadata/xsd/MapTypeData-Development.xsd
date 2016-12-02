@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="entryZone" type="entryZone"/>
+
+  <xs:element name="exitZone" type="exitZone"/>
+
+  <xs:element name="map" type="mapTypeData"/>
+
+  <xs:element name="pos" type="position"/>
+
+  <xs:complexType name="mapTypeData">
+    <xs:all>
+      <xs:element name="description" type="xs:string" minOccurs="0"/>
+      <xs:element name="entryZoneList" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="entryZone" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="exitZoneList" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="exitZone" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="tiles" type="xs:base64Binary" minOccurs="0"/>
+    </xs:all>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="maxActors" type="xs:short" use="required"/>
+    <xs:attribute name="safeEntryZoneId" type="xs:byte" use="required"/>
+    <xs:attribute name="segmentSizeX" type="xs:byte" use="required"/>
+    <xs:attribute name="segmentSizeY" type="xs:byte" use="required"/>
+    <xs:attribute name="sizeX" type="xs:short" use="required"/>
+    <xs:attribute name="sizeY" type="xs:short" use="required"/>
+    <xs:attribute name="terrainSetId" type="xs:short" use="required"/>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="entryZone">
+    <xs:complexContent>
+      <xs:extension base="zone">
+        <xs:all/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:complexType name="zone">
+    <xs:sequence>
+      <xs:element name="desc" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element ref="pos" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:byte" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="position">
+    <xs:all/>
+    <xs:attribute name="x" type="xs:short" use="required"/>
+    <xs:attribute name="y" type="xs:short" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="exitZone">
+    <xs:complexContent>
+      <xs:extension base="zone">
+        <xs:all/>
+        <xs:attribute name="destEntryZone" type="xs:byte" use="required"/>
+        <xs:attribute name="destMap" type="xs:short" use="required"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+</xs:schema>
+

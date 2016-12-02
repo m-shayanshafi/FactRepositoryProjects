@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Disposição do chakra de sete cartões</entry>
+	<entry key="Description">Cada cartão corresponde a um dos sete chakras do 
+corpo. O estudo apropriado do assunto seria recomendado quando 
+usar esta disposição e a lista abaixo é pretendido somente como uma
+guia de referência extraída do livro de Guiley. As 
+interpretações de cada posição podem variar depender em cima de 
+seus learnings</entry>
+	<entry key="PositionTitle0">Chakra da raiz</entry><entry key="Meaning0">Self-preservation e instintos</entry>
+	<entry key="PositionTitle1">Chakra de Sacral</entry><entry key="Meaning1">Sexuality</entry>
+	<entry key="PositionTitle2">Plexus solar</entry><entry key="Meaning2">Emoções</entry>
+	<entry key="PositionTitle3">Coração chakral</entry><entry key="Meaning3">Consciousness mais elevado, amor incondicional</entry>
+	<entry key="PositionTitle4">Chakra da garganta</entry><entry key="Meaning4">Expressão da creatividade e do self</entry>
+	<entry key="PositionTitle5">Terceiro chakra do olho</entry><entry key="Meaning5">Abilidades psychic, enlightenment espiritual</entry>
+	<entry key="PositionTitle6">Chakra da coroa</entry><entry key="Meaning6">Nível individual do evoluion conscious</entry>
+</oracleio>

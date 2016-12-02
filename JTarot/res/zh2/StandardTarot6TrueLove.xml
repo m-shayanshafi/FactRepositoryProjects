@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">六張卡片, 何時我將發現真實的愛?</entry>
+	<entry key="Description">何時我將發現真實的愛? 佈局為找到您的生活的夥伴</entry>
+	<entry key="PositionTitle0">為什麼</entry><entry key="Meaning0">為什麼您未發現您完善成為夥伴</entry>
+	<entry key="PositionTitle1">怎麼</entry><entry key="Meaning1">怎麼您能克服所有問題用第一卡片被表達</entry>
+	<entry key="PositionTitle2">什麼</entry><entry key="Meaning2">什麼是最正面的事您能做找到您的夥伴</entry>
+	<entry key="PositionTitle3">誰</entry><entry key="Meaning3">世界衛生組織會是合適的人為您</entry>
+	<entry key="PositionTitle4">那裡</entry><entry key="Meaning4">那裡您將找到您的夥伴</entry>
+	<entry key="PositionTitle5">當</entry><entry key="Meaning5">何時您將找到您的夥伴</entry>
+</oracleio>

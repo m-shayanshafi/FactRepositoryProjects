@@ -1,0 +1,11 @@
+<character characterType="Humanoid">
+    <attributes>
+        <strength value="80"/>
+        <constitution value="80"/>
+        <dexterity value="80"/>
+        <agility value="80"/>
+        <intelligence value="80"/>
+        <wisdom value="80"/>
+        <charisma value="80"/>
+    </attributes>
+</character>

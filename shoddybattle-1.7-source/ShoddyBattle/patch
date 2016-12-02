@@ -1,0 +1,6 @@
+Pikachu:	atk:600,
+			def:1,
+			+Explosion,
+			+Memento,
+			a+Huge Power,
+			i+Thick club;

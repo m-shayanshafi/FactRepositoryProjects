@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spiral Layout (Biggs)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Спиральн План (Biggs)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Учредительство</entry><entry key="Meaning1">Текущееа положение querent's строят дальше</entry>
+	<entry key="PositionTitle2">За действиями</entry><entry key="Meaning2">Действия querent принимало в прошлый 
+способствовало к текущееа положение</entry>
+	<entry key="PositionTitle3">За взволнованностями</entry><entry key="Meaning3">Состояние querent's эмоциональное в прошлом</entry>
+	<entry key="PositionTitle4">За внешними влияниями</entry><entry key="Meaning4">Другие люди actions/emotions влияли на ситуацию 
+querent's</entry>
+	<entry key="PositionTitle5">В настоящее время положение</entry><entry key="Meaning5">Где querent стойки теперь в отношении к ситуации</entry>
+	<entry key="PositionTitle6">Влияния будущего внешние</entry><entry key="Meaning6">Другие actions/emotions повлияет на querent</entry>
+	<entry key="PositionTitle7">Будущие взволнованности</entry><entry key="Meaning7">Взволнованности, котор querent должно наблюдать 
+вне для in the future</entry>
+	<entry key="PositionTitle8">Будущие действия</entry><entry key="Meaning8">Действия querent может принять in the 
+future</entry>
+	<entry key="PositionTitle9">Исход</entry><entry key="Meaning9">Обеспеченный исход ситуации</entry>
+</oracleio>

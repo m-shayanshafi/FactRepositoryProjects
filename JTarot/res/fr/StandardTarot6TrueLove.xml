@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Est-ce que six cartes, quand je trouverai l'amour vrai 
+?</entry>
+	<entry key="Description">Quand est-ce que je trouverai l'amour vrai ? La 
+disposition pour trouver l'associé de la votre vie</entry>
+	<entry key="PositionTitle0">Pourquoi</entry><entry key="Meaning0">POURQUOI vous démuni pourtant trouvé votre 
+associé parfait</entry>
+	<entry key="PositionTitle1">Comment</entry><entry key="Meaning1">COMMENT vous pouvez surmonter toutes les issues 
+exprimées en la première carte</entry>
+	<entry key="PositionTitle2">Ce qui</entry><entry key="Meaning2">CE QUI est la chose la plus positive vous pouvez faire 
+pour trouver votre associé</entry>
+	<entry key="PositionTitle3">Qui</entry><entry key="Meaning3">L'OMS serait la bonne personne pour vous</entry>
+	<entry key="PositionTitle4">Là où</entry><entry key="Meaning4">LÀ OÙ vous trouverez votre associé</entry>
+	<entry key="PositionTitle5">Quand</entry><entry key="Meaning5">QUAND vous trouverez votre associé</entry>
+</oracleio>

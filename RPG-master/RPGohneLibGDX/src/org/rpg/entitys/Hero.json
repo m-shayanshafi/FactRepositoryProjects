@@ -1,0 +1,13 @@
+{
+  "name": "Hero",
+  "hp": 40,
+  "attack": 10,
+  "def": 35,
+  "init": 45,
+  "type": "Hero",
+  "attacks": [
+    "1",
+    "4",
+    "5"
+  ]
+}

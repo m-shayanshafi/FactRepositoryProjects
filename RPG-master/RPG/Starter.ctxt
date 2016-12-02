@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=int\ getCurrentFrame()
+comment2.params=f
+comment2.target=void\ setCurrentFrame(int)
+numComments=3

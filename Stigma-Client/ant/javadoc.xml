@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="javadoc" default="dist">
+	<property environment="env"/>
+	<property name="exec" location="${env.JAVA_HOME}\\bin\\javadoc.exe" />
+	<property name="src" location="../src"/>
+	<property name="build" location="../build/javadoc"/>
+	<property name="dist"  location="../build/distros/"/>
+
+	<target name="compile">
+
+		<echo>Using server version of Log class</echo>
+		<copy file="${src}/pl/org/minions/utils/logger/Log.java.server" tofile="${src}/pl/org/minions/utils/logger/Log.java" />
+
+		<echo>Building javadoc</echo>
+		<mkdir dir="${build}"/>
+
+		<tstamp/>
+
+		<javadoc 
+			executable="${exec}"
+			destdir="${build}"
+			encoding="UTF-8"
+			charset="UTF-8"
+            useexternalfile="true"
+			>
+			<classpath>
+				<filelist files="../3rdparty/i18n4j-0.4.2.jar ../3rdparty/log4j-1.2.16.jar " />
+			</classpath>
+			<fileset dir="${src}">
+				<include name="**/*.java" />
+			</fileset>
+			<link href="http://java.sun.com/javase/6/docs/api/" />
+			<link href="http://i18n4j.sourceforge.net/javadoc/" />
+		</javadoc>
+
+	</target>
+
+	<target name="dist" depends="compile">
+		<echo>Compressing</echo>
+		<mkdir dir="${dist}"/>
+
+		<tar tarfile="${dist}/Stigma-Javadoc-${DSTAMP}.tar" basedir="${build}" />
+		<bzip2 src="${dist}/Stigma-Javadoc-${DSTAMP}.tar" destfile="${dist}/Stigma-Javadoc-${DSTAMP}.tar.bz2"/>
+		<delete file="${dist}/Stigma-Javadoc-${DSTAMP}.tar" />
+
+		<zip destfile="${dist}/Stigma-Javadoc-${DSTAMP}.zip" basedir="${build}" />
+
+	</target>
+
+</project>

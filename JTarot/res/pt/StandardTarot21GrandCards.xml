@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação Grande Da Fonte (Cortese)</entry>
+	<entry key="Description">"este é um bom geral-usa a propagação dando um 
+retrato total da definição a um problema no passado ou no futuro. 
+Tem recursos para uma oportunidade de examinar influências 
+internas e exteriores antes que uma ação esteja feita exame, o 
+inception ou o motivation da ação, a progressão da ação, a 
+definição, e que efeitos internos e exteriores este terá. 
+Pode também agir para destacar o processo por que uma pergunta 
+no ponto mais alto na mente dos querent pode ser respondida, embora 
+não pode dar a resposta." - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Influências internas 1</entry><entry key="Meaning1">Influências internas no trabalho, os motivations do 
+querent, ou que os desejos querent a aprender</entry>
+	<entry key="PositionTitle2">Influências internas 2</entry><entry key="Meaning2">Influências internas no trabalho, os motivations do 
+querent, ou que os desejos querent a aprender</entry>
+	<entry key="PositionTitle3">Influências internas 3</entry><entry key="Meaning3">Influências internas no trabalho, os motivations do 
+querent, ou que os desejos querent a aprender</entry>
+	<entry key="PositionTitle4">Influências exteriores 1</entry><entry key="Meaning4">Influências exteriores, ou as influências dos povos 
+ou coisas fora do querent que pode ter feito com que o querent faça 
+sua pergunta</entry>
+	<entry key="PositionTitle5">Influências exteriores 2</entry><entry key="Meaning5">Influências exteriores, ou as influências dos povos 
+ou coisas fora do querent que pode ter feito com que o querent faça 
+sua pergunta</entry>
+	<entry key="PositionTitle6">Influências exteriores 3</entry><entry key="Meaning6">Influências exteriores, ou as influências dos povos 
+ou coisas fora do querent que pode ter feito com que o querent faça 
+sua pergunta</entry>
+	<entry key="PositionTitle7">Semente</entry><entry key="Meaning7">Iniciação da ação, da semente que crescerão, ou da
+pergunta que será respondida</entry>
+	<entry key="PositionTitle8">Começos 1</entry><entry key="Meaning8">Os estágios iniciais das ações</entry>
+	<entry key="PositionTitle9">Começos 2</entry><entry key="Meaning9">modifica o cartão 9 ' começos 1 '. Pode dar um 
+retrato hazy do resultado que o querent tem na mente, ou pode 
+simplesmente ser uma examinação mais adicional dos começos da 
+ação sob a consideração.</entry>
+	<entry key="PositionTitle10">Progresso 1</entry><entry key="Meaning10">A maneira que o resultado é conseguido</entry>
+	<entry key="PositionTitle11">Progresso 2</entry><entry key="Meaning11">modifica o cartão 11 ' progresso 1 ' na mesma maneira 
+que o cartão 10 card 9.</entry>
+	<entry key="PositionTitle12">Mudanças 1</entry><entry key="Meaning12">Mudanças possíveis na planta, ou definição. 
+Este cartão pode servir examinar todas as maneiras que a 
+vontade querent tiver que mudar o curso no midstream.</entry>
+	<entry key="PositionTitle13">Mudanças 2</entry><entry key="Meaning13">modifica o cartão 13 ' mudanças 1 ' na mesma maneira 
+que o cartão 10 card 9.</entry>
+	<entry key="PositionTitle14">Resultado 9-14</entry><entry key="Meaning14">Resultado do processo esboçado nos cartões 9 - 14.</entry>
+	<entry key="PositionTitle15">Efeitos em 1 querent</entry><entry key="Meaning15">Efeitos possíveis da definição no querent</entry>
+	<entry key="PositionTitle16">Efeitos em 2 querent</entry><entry key="Meaning16">Efeitos possíveis da definição no querent</entry>
+	<entry key="PositionTitle17">Efeitos em 3 querent</entry><entry key="Meaning17">Efeitos possíveis da definição no querent</entry>
+	<entry key="PositionTitle18">Efeitos no ambiente 1</entry><entry key="Meaning18">Efeitos possíveis da definição em coisas à 
+excepção do querent ou no relacionamento dos querent ao mundo em 
+torno de him/her.</entry>
+	<entry key="PositionTitle19">Efeitos no ambiente 2</entry><entry key="Meaning19">Efeitos possíveis da definição em coisas à 
+excepção do querent ou no relacionamento dos querent ao mundo em 
+torno de him/her.</entry>
+	<entry key="PositionTitle20">Efeitos no ambiente 3</entry><entry key="Meaning20">Efeitos possíveis da definição em coisas à 
+excepção do querent ou no relacionamento dos querent ao mundo em 
+torno de him/her.</entry>
+</oracleio>

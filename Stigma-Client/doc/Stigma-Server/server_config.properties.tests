@@ -1,0 +1,7 @@
+sql-driver=org.sqlite.JDBC
+sql-url=jdbc:sqlite:./sql/SQLite/tests/StigmaWithTests.db
+resource-root=../Stigma-Server/res
+resource-set=tests
+resource-http-server-on=true
+client-resource-root=http://localhost:6980/resource/
+client-resource-compression=false

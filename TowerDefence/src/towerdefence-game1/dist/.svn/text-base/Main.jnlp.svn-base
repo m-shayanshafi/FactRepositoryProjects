@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="file:/D:/moje/java-technology/workspace/towerdefence-game1/dist/" href="Main.jnlp">
+    <information>
+        <title>Main</title>
+        <vendor>mkoch</vendor>
+        <homepage href=""/>
+        <description>Main</description>
+        <offline-allowed/>
+        <shortcut>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <jar href="td1.jar" main="true"/>
+    </resources>
+    <application-desc main-class="org.mysoft.td.game1.PMain">
+    </application-desc>
+    <update check="background">
+</jnlp>

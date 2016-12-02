@@ -1,0 +1,64 @@
+/**
+ * ProtocolTablut.java
+ *
+ * @author Si-Mohamed Lamraoui
+ * @date 29.05.10
+ */
+
+package network;
+
+
+public class ProtocolTablut
+{
+	
+	
+	// Champs prives, ne concerne que le serveur
+	public static int P_FORWARD 	= 1; 			// packet destine au client distant
+	public static int P_DB 			= 2; 			// packet destine a la base de donnee
+	public static int P_SERVER 		= 3; 			// packet destine au serveur de jeu
+	public static int P_ERROR 		= 4;
+
+	// Champs prives, informations tentatives de communication
+	public static int MAX_TRYS 		= 5;			// nombre d'essai maximun pour l'attente d'une requete
+	public static int WAIT 			= 1000;			// temps d'attente maximun en ms d'une requete 
+	
+	// Champs publics, requetes et reponses reseau
+	public static String ACTION 	= "ACTION";		// ACTION ligne colonne : selectionne ou deplace un pion en (ligne,colonne)
+	public static String JOIN 		= "JOIN"; 		// JOIN id : rejoin la partie numero id
+	public static String NEW 		= "NEW"; 		// NEW s/m a/i : cree une partie moscovites/suedois avec attaques activees/desactivees 
+	public static String AUTH 		= "AUTH"; 		// AUTH user pwd : authentification de user avec le mot de passe pwd(encode:md5)
+	public static String ABORD 		= "ABORD"; 		// ABORD : abandon de la partie
+	public static String ERROR 		= "ERROR"; 		// ERROR x : voir ERROR_X
+	public static String ACK 		= "ACK"; 		// ACK : aquittement du message precedent
+	public static String GETPARTY 	= "GETPARTY";	// GETPARTY : demande d'un recapitulatif de toutes les parties en attente
+	public static String PARTY 		= "PARTY"; 		// PARTY ... : reponse du GETPARTY , voir Server.getPartys
+	public static String SETEXP 	= "SETEXP"; 	// SETEXP x : modifie l'experience totale du client (sur la bd)
+	public static String EXP		= "EXP";		// EXP x : reponse du GETEXP
+	public static String ADDEXP 	= "ADDEXP"; 	// ADDEXP x : incremente l'experience du client de x (sur la bd)
+	public static String ADDLVL 	= "ADDLVL";		// ADDLVL x : incremente level du client de x (sur la bd)
+	public static String SETLVL 	= "SETLVL"; 	// SETLVL x : modifie le level totale du client (sur la bd)
+	public static String LVL		= "LVL";		// LVL x : reponse du GETLVL
+	public static String SIDE		= "SIDE";		// SIDE m/s : reponse du GETSIDE
+	public static String CHAT		= "CHAT";		// CHAT msg : envoie un message
+	public static String ADMIN		= "ADMIN";		// ADMIN t/f: reponse de GETADMIN, t:vrai, f:faux
+	public static String PSEUDO		= "PSEUDO";		// PSEUDO x : TODO
+	public static String GETEXP 	= "GETEXP";		// GETEXP pseudo: demande de l'experience totale du client (sur la bd)
+	public static String GETLVL 	= "GETLVL";		// GETLVL pseudo: demande du level du client (sur la bd)
+	public static String GETADMIN	= "GETADMIN";	// GETADMIN pseudo: demande si le joueur est admin ou non
+	public static String GETPLAYERPSEUDO	= "GETPLAYERPSEUDO";	// GETPLAYERPSEUDO : demande le pseudo du joueur distant TODO
+	
+	///////////// ADD
+	public static String CLOSEPARTY 		= "CLOSEPARTY"; 		// CLOSEPARTY : termine la partie (si non null, commence ou non)
+	
+	
+
+	// Champs publics, erreurs serveur
+	public static int OK 			= 99;			// aucune erreur
+	public static int ERROR_AUTH 	= 100; 			// mot de passe ou user incorrect
+	public static int ERROR_PARTY 	= 101; 			// cette partie n'existe pas
+	public static int ERROR_NEW 	= 102; 			// impossible de creer une partie
+	public static int ERROR_CON 	= 103; 			// deconnection du serveur
+	public static int ERROR_BD 		= 104; 			// deconnection ou erreur de la base de donnee (requete GETLVL,GETEXP,SETLVL,SETEXP,ADDLVL,ADDEXP)
+	public static int ERROR_ABORD 	= 105; 			// le client distant s'est deconnecte
+	
+}

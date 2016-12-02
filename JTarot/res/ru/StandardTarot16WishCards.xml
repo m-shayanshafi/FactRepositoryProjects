@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Распространение Желания (Doane)</entry>
+	<entry key="Description">9 из чашек часто вызваны карточкой желания. Если 
+эта карточка должна поворачивает вверх где-либо в чтение, то кроме 
+того что в группе в составе 3 включая карточку 8, это была бы сильная
+индикация которая некоторая часть или все из желания querent's 
+придут поистине. Более близким оно кажется в вышеуказанную 
+numeric последовательность, более скоро желание будет 
+осуществляно. Если 9 из чашек появляются в группу 8, то это 
+будет индикация что желание вероятно не придет поистине; другие 
+2 карточки в группе произведут причину. Если 9 из чашек не 
+появляются, то это не должно быть принято как индикация любой судьбы, 
+хотя другие карточки в чтении могут подтвердить или отказать желание.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Окружающая среда 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Окружающая среда 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Окружающая среда 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Желание 1</entry><entry key="Meaning4">Описание желания querent's</entry>
+	<entry key="PositionTitle5">Желание 2</entry><entry key="Meaning5">Описание желания querent's</entry>
+	<entry key="PositionTitle6">Желание 3</entry><entry key="Meaning6">Описание желания querent's</entry>
+	<entry key="PositionTitle7">Противовключение 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Противовключение 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Противовключение 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Факторы 1</entry><entry key="Meaning10">Факторы включатся в это дело</entry>
+	<entry key="PositionTitle11">Факторы 2</entry><entry key="Meaning11">Факторы включатся в это дело</entry>
+	<entry key="PositionTitle12">Факторы 3</entry><entry key="Meaning12">Факторы включатся в это дело</entry>
+	<entry key="PositionTitle13">Осуществления 1</entry><entry key="Meaning13">Осуществления querent (обычно in the 
+future)</entry>
+	<entry key="PositionTitle14">Осуществления 2</entry><entry key="Meaning14">Осуществления querent (обычно in the 
+future)</entry>
+	<entry key="PositionTitle15">Осуществления 3</entry><entry key="Meaning15">Осуществления querent (обычно in the 
+future)</entry>
+</oracleio>

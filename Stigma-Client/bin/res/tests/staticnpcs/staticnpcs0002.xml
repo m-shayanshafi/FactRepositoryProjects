@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staticNpcs version="Development" id="2"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/StaticNpcs-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<npcMap>
+		<entry>
+			<key y="3" x="1" />
+			<value name="Test Idle Name">
+				<aiScript name="idle">
+					<params />
+				</aiScript>
+				<archetypes></archetypes>
+			</value>
+		</entry>
+		<entry>
+			<key y="4" x="1" />
+			<value name="Test Aggressive Name">
+				<aiScript name="default">
+					<params>
+						<entry>
+							<key>aggression</key>
+							<value>1</value>
+						</entry>
+					</params>
+				</aiScript>
+				<archetypes>1</archetypes>
+			</value>
+		</entry>
+		<entry>
+			<key y="5" x="1" />
+			<value name="Test Name">
+				<aiScript name="default">
+					<params />
+				</aiScript>
+				<archetypes>1</archetypes>
+			</value>
+		</entry>
+	</npcMap>
+</staticNpcs>

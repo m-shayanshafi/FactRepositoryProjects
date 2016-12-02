@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 0.95
+Main-Class: sjrd.tricktakinggame.gui.TrickTakingGame
+

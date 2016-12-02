@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:#000000;fill-opacity:0.5;stroke:none"
+   width="595.275591"
+   height="841.889764"
+   id="svg55"
+   sodipodi:docbase="/home/drake/prog/dragonchess-old/pics/"
+   sodipodi:docname="/home/drake/prog/dragonchess-old/pics/cleric.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs57">
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     snaptogrid="true"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#3f3fff"
+     gridopacity="1.000000"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.498039"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.498039">
+  </sodipodi:namedview>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 131.103 279.01 L 31.8901 355.546 L 301.181 355.546 L 193.465 279.01 L 184.961 279.01 L 184.961 253.499 L 179.292 253.499 C 176.457 245.94 170.788 238.895 170.788 230.821 L 170.788 142.947 L 227.481 142.947 C 243.32 142.947 272.835 172.96 272.835 157.121 L 272.835 111.766 C 272.835 95.9271 243.32 125.939 227.481 125.939 L 170.788 125.939 L 170.788 66.4119 C 170.788 50.5728 200.8 21.0575 184.961 21.0575 L 139.607 21.0575 C 123.768 21.0575 153.78 50.5728 153.78 66.4119 L 153.78 125.939 L 97.0869 125.939 C 81.2478 125.939 51.7326 95.9271 51.7326 111.766 L 51.7326 157.121 C 51.7326 172.96 81.2478 142.947 97.0869 142.947 L 153.78 142.947 L 153.78 230.821 C 153.78 238.895 148.111 245.94 145.276 253.499 L 139.607 253.499 L 139.607 279.01 L 131.103 279.01 z "
+     id="Cleric Shape"
+     transform="matrix(0.371346 0 0 0.298964 80.9135 58.1139)"
+     sodipodi:nodetypes="cccccccscsssscsssscsssscscccc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 155.906 99.2125 C 149.718 111.341 170.079 140.614 170.079 160.334 C 170.079 168.96 160.63 176.279 155.906 184.252 L 201.26 184.252 C 196.536 176.279 187.087 168.96 187.087 160.334 C 187.087 140.614 207.447 111.341 201.26 99.2125 C 197.054 90.9676 160.112 90.9676 155.906 99.2125 z "
+     id="Cross Cover"
+     transform="matrix(0.371346 0 0 0.318896 74.8953 58.1945)"
+     sodipodi:nodetypes="csccsss">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 95.2079 238.11 L 129.224 238.11 L 95.2079 238.11 z "
+     id="base_line2"
+     sodipodi:nodetypes="ccc"
+     transform="matrix(0.371346 0 0 0.298964 99.5061 62.7145)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 89.5386 238.11 L 134.893 238.11 L 89.5386 238.11 z "
+     id="base_line1"
+     sodipodi:nodetypes="ccc"
+     transform="matrix(0.371346 0 0 0.298964 99.5061 70.3415)">
+  </path>
+
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Amanda's Fan (Davis)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Ανεμιστήρας της Amanda (Νταίηβις)</entry>
+	<entry key="Description">"Αυτό είναι προφανώς βασισμένο στον κελτικούς σταυρό και 
+το ξίφος  αναπτύχθηκε επειδή ήμαστε και οι δύο 
+δυσαρεστημένοι με τον κελτικό σταυρό -- ακριβώς όχι * ροή * 
+λογικά. Έτσι το επανέλαβα." (Νταίηβις). 
+Ονομασμένος μετά από το πρόσωπο Νταίηβις μιλούσε όταν 
+αναπτύσσεται.</entry>
+	<entry key="PositionTitle0">Εξεταστής</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Πέρασμα</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Ίδρυμα</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Από μπροστά</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Παρόν</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Μέλλον</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Έκβαση</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Εσωτερικές επιρροές</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Εξωτερικές επιρροές</entry><entry key="Meaning8"></entry>
+</oracleio>

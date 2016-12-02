@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twelve Houses Spread (Doane)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Twelve Houses Spread (Doane)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">House 1: Appearances </entry><entry key="Meaning0">It can describe our physical appearance or image.
+ Something about the individuality of the person. There is an impulsive quality here, where we just are and 
+ are immediately recognised by the sign qualities expressed</entry>
+	<entry key="PositionTitle1">House 10: Career</entry><entry key="Meaning1">highest ambition, usually seen through 
+our career, which is how we are recognised and categorised by society. It represents the 
+culmination of work and experience to achieve the goals we set ourselves and the authority 
+other people invest in us as a result of all our hard work and achievement.</entry>
+	<entry key="PositionTitle2">House 7: Partnerships</entry><entry key="Meaning2">partnerships and commitment to others 
+through marriage or long term relationships. It is opposite the First House and balances the 
+needs of us as individuals with those we relate to on a permanent basis. We learn compromise 
+and respect for others' individuality which can sometimes take several attempts to achieve! 
+It is also traditionally the house of open enemies, and business partnerships</entry>
+	<entry key="PositionTitle3">House 4: Family</entry><entry key="Meaning3">family, culture and traditions handed down through 
+generations and as such can refer to past lives and those who we associate with in this life in order 
+to help us work through our soul's purpose</entry>
+	<entry key="PositionTitle4">House 12: Secrets</entry><entry key="Meaning4"> It may give us cause for doubt and demand 
+that we question who we are, but that is its greatest strength. When we withdraw from the 
+world and find a place of peace and solitude then we are in a position to commune with 
+our higher selves, and planets in the Twelfth show a need for self reflection. Tradtionally 
+it was considered the house of seclusion in hospitals, prisons etc..and the domain of secret 
+enemies, but we are all capable of being our own worst enemy by failing to nurture our needs.</entry>
+	<entry key="PositionTitle5">House 9: Religion</entry><entry key="Meaning5">religion, philosophies and belief systems, as 
+well as higher education as opposed to school education in the Third House. It is where we 
+formulate our code for living, either through our own learning and experience or we can 
+adopt our culture's standards</entry>
+	<entry key="PositionTitle6">House 6: Service</entry><entry key="Meaning6">work and service to the community. It indicates 
+how we can be part of society and give our skills to it in order society to benefit, not just ourselves. 
+It is also the house associated with health and healing and our ability to maintain our physical 
+systems as a cohesive whole</entry>
+	<entry key="PositionTitle7">House 3: Communication</entry><entry key="Meaning7">the area in our lives where we communicate 
+and disseminate information. It is also associated with short journeys and our local environment 
+and siblings. It describes our early education, our schooling and is essentially a social house as 
+it is where we begin to mee the world in social terms</entry>
+	<entry key="PositionTitle8">House 11: Society</entry><entry key="Meaning8">special friends and groups of people 
+(not family) with whom we feel a common bond or association. There is a recognition 
+that other people share our ideals and goals for the common good, perhaps through 
+political endeavour or charities. </entry>
+	<entry key="PositionTitle9">House 8: Transformation</entry><entry key="Meaning9">It is the house of transformation, 
+endings and beginnings and the ability to regenerate through sex. It is also associated 
+with money and inheritance, and also the partner's money and finances.</entry>
+	<entry key="PositionTitle10">House 5: Relationships</entry><entry key="Meaning10">experiment with our social skills through 
+interacting with friends and lovers. We learn about ourselves through others' reaction too our 
+behaviour. Here we are encouraged to express our individuality and creativity and learn not to 
+lose our spontaneity and our need for play. So this house also shows hobbies and pastimes and 
+also the results of the most creative act, our children</entry>
+	<entry key="PositionTitle11">House 2: Material</entry><entry key="Meaning11">what we have in terms of material possessions 
+and also our ability to use our special skills and talents to bring our possessions to us. It is the 
+House of sustenance and what we must do to maintain our physical well being. It can also indicate 
+our self esteem and the value we place not only on material things but also ourselves</entry>
+</oracleio>

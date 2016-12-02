@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="One Rune" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">One Rune</entry>
+	<entry key="Description">The one rune layout is great as a starter for you to get a feeling of what it is you want to ask.  It will help you to focus on what is important for you right now.  This can also be used after a complex layout to more specifically answer an uncomplicated question or to give more infomation about a card in the complex layout that you are unsure of.</entry>
+	<entry key="PositionTitle0">You, here and now</entry><entry key="Meaning0">Where you are now.  This can point to a particular situation you find yourself in now or a quality that you need to concentrate on for your development right now.</entry>
+</oracleio>

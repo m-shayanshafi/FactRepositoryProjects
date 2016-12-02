@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="60cm" height="55cm" viewBox="-221 -1 1183 1098" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="208" cy="10" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="100" width="95.3" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="100" width="95.3" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="207.65" y="122.8">
+      <tspan x="207.65" y="122.8">Disconnected</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-120" y="300" width="83.1" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-120" y="300" width="83.1" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="-78.45" y="322.8">
+      <tspan x="-78.45" y="322.8">Connecting</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="207.65,136.96 207.65,228 -78.45,228 -78.45,294.533 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-83.45,286.769 -78.45,296.769 -73.45,286.769 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="54.6" y="198">User:Connect/Client:connect</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-140" y="480" width="142.2" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-140" y="480" width="142.2" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="-68.9" y="502.8">
+      <tspan x="-68.9" y="502.8">AuthenticationPrompt</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-78.45,337.009 -78.45,408.505 -68.9,408.505 -68.9,475.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-73.9,467.764 -68.9,477.764 -63.9,467.764 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="-78.9" y="409">LoginState:KEYS_EXCHANGED</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="280" y="480" width="161.25" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="480" width="161.25" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="360.625" y="502.8">
+      <tspan x="360.625" y="502.8">AuthenticationProcessing</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2.2,498 2.2,498 274.518,498 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="266.754,503 276.754,498 266.754,493 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="130.595" y="468">User:Auth data/Client:sendAuthData</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.625,480 360.625,118 259.772,118 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="267.536,113 257.536,118 267.536,123 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="350.625" y="269">LoginState:BAD_CLIENT_VERSION/DisconnectReason:BAD_LOGIN_VERSION</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="208,21.0054 208,59.998 207.65,59.998 207.65,94.5186 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="202.65,86.7547 207.65,96.7547 212.65,86.7547 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="580" y="480" width="123.45" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="480" width="123.45" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="641.725" y="502.8">
+      <tspan x="641.725" y="502.8">GameDataLoading</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="441.25,498 441.25,498 574.52,498 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="566.756,503 576.756,498 566.756,493 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="500.121" y="468">LoginState:PASSWORD_ACCEPTED</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="660" width="129.35" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="660" width="129.35" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="204.675" y="682.8">
+      <tspan x="204.675" y="682.8">AuthenticationError</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.625,516 360.625,678 273.822,678 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="281.586,673 271.586,678 281.586,683 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="350.625" y="567">LoginState:{FIRST_RETRY,SECOND_RETRY,LOGIN_FAILED}</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="140,678 -68.9,678 -68.9,520.472 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-63.9,528.236 -68.9,518.236 -73.9,528.236 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="25.55" y="668">[not LoginState:LOGIN_FAILED]</text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="25.55" y="648">User:Confirm</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="204.675,696 204.675,740 -220,740 -220,118 155.528,118 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="147.764,123 157.764,118 147.764,113 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="-17.6625" y="730">[LoginState:LOGIN_FAILED]</text>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="-17.6625" y="710">User:Confirm</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="620" width="90.25" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="620" width="90.25" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="645.125" y="642.8">
+      <tspan x="645.125" y="642.8">ActorPrompt</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="641.725,517.009 641.725,568 645.125,568 645.125,614.519 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="640.125,606.755 645.125,616.755 650.125,606.755 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="633.425" y="538">LoginState:CHOOSE_ACTOR</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="800" width="109.3" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="800" width="109.3" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="654.65" y="822.8">
+      <tspan x="654.65" y="822.8">ActorProcessing</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="645.125,657.009 645.125,728.505 654.65,728.505 654.65,795.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="649.65,787.764 654.65,797.764 659.65,787.764 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="639.888" y="719">User:Selected actor/Client:sendActorSelection</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="1060" width="113.15" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="1060" width="113.15" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="656.575" y="1082.8">
+      <tspan x="656.575" y="1082.8">GameInProgress</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="654.65,836 654.65,868 657.175,868 657.175,895.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="652.175,887.764 657.175,897.764 662.175,887.764 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="660" y="850">LoginState:LOGGED_IN</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="900" width="114.35" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="900" width="114.35" height="36" rx="10" ry="10"/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="657.175" y="922.8">
+      <tspan x="657.175" y="922.8">MapDataLoading</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.175,937.009 657.175,998 656.575,998 656.575,1054.52 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="651.575,1046.75 656.575,1056.75 661.575,1046.75 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="646.875" y="968">MapLoader:Map loading finished</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.369,1078 460,1078 460,918 595.528,918 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="587.764,923 597.764,918 587.764,913 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="450" y="968">MapLoader:Map needs loading</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="714.119,1078 840,1078 840,118 260.772,118 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="268.536,113 258.536,118 268.536,123 "/>
+    <text style="fill: #000000;text-anchor:middle;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="830" y="568">User:Log out/DisconnectReason:LOGGIN_OUT</text>
+  </g>
+</svg>

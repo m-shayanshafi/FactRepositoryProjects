@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<armor weight="120" version="Development" value="1010" id="1"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ArmorTypeData-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<baseEffectsIds />
+	<baseModifiersIds />
+	<slot>ARMOR</slot>
+	<name>Leather armor</name>
+	<reqstr>30</reqstr>
+	<resistances>
+		<entry>
+			<key>CUTTING</key>
+			<value>
+				<relative>30</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+		<entry>
+			<key>PIERCING</key>
+			<value>
+				<relative>20</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+		<entry>
+			<key>BLUNT</key>
+			<value>
+				<relative>10</relative>
+				<threshold>0</threshold>
+			</value>
+		</entry>
+	</resistances>
+</armor>

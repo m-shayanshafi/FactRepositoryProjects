@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="One card" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+<entry key="numberofobjects">1</entry>
+<entry key="screenLayoutxy">
+0   0   0
+</entry>
+<entry key="printoutxy">
+0
+</entry>
+<entry key="printoutsize">1 1</entry>
+<entry key="screensize">1 1</entry>
+<entry key="showHiddenOrder">0</entry>
+</oracleio>
+

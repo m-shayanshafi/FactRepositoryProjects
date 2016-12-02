@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio>
+     <entry key="version">1.0</entry>
+     <entry key="DefaultSetupOracleGroup">Tarot Standard 78 Cards</entry>
+     <entry key="DefaultSetupOracleGroupTrans">en</entry>
+     <entry key="DefaultSetupGraphicalObject">RiderWaite</entry>
+     <entry key="DefaultSetupGraphicalObjectTranslations">ThomasDilts</entry>
+     <entry key="DefaultSetupLayout">Celtic cross</entry>
+     <entry key="DefaultSetupLayoutTranslations">en</entry>
+     <entry key="ISO.Language">en</entry>
+     <entry key="SubGroupUsed">-1</entry>
+     <entry key="UseUpSideDown">true</entry>
+     <entry key="MaximizeUseOfScreenWidth">false</entry>
+     <entry key="ShowOnlyUpsideDownTexts">false</entry>
+     <entry key="showreversedandnormal">true</entry>
+     <entry key="scale">0.5</entry>
+     <entry key="scaleText">percent50</entry>
+     <entry key="MainWindow.y" >0</entry>
+     <entry key="MainWindow.x" >1280</entry>
+     <entry key="MainWindow.height" >708</entry>
+     <entry key="MainWindow.width" >915</entry>
+</oracleio>
+

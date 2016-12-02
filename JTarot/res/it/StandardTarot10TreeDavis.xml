@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Tree of Life Spread (Davis)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Albero della diffusione di vita (Davis)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Punto seguente</entry><entry key="Meaning0"> Dove la vostra fase seguente di sviluppo li condurrà</entry>
+	<entry key="PositionTitle1">Ponticello</entry><entry key="Meaning1">Ponticello ad più alto universo</entry>
+	<entry key="PositionTitle2">Segreti</entry><entry key="Meaning2">Conoscenza di Unmanifest</entry>
+	<entry key="PositionTitle3">Base di prova</entry><entry key="Meaning3">le cose hanno lasciato per andare di</entry>
+	<entry key="PositionTitle4">Costruzione</entry><entry key="Meaning4">Costruzione della pietra angolare del cosmocity presso 
+l'auto</entry>
+	<entry key="PositionTitle5">Anima</entry><entry key="Meaning5">Anima come dovrebbe essere -- mutazione ed esperienza 
+di apprendimento</entry>
+	<entry key="PositionTitle6">Femminile</entry><entry key="Meaning6">Bellezza dell'auto, ispirazione, passione</entry>
+	<entry key="PositionTitle7">Maschile</entry><entry key="Meaning7">Ispirazione intellettuale</entry>
+	<entry key="PositionTitle8">Consiglio interno</entry><entry key="Meaning8">Consiglio interno, intuizione</entry>
+	<entry key="PositionTitle9">Presente</entry><entry key="Meaning9"></entry>
+</oracleio>

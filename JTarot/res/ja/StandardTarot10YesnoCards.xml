@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Yes or No Spread (Peach)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">はいまたは広がり無し(モモ)</entry>
+	<entry key="Description">モモはカードが以下の順読取られることを提案する: ' 有用で、' ' 不利な' 影響がカード2 で示されている結果に関して常にあることに1+2 、3+4 、7+8 、5+6 、9+10 は注意する。従って答えが否浮びあがれば、カード3 及び4 はその結果を助けて、必ずしもquerent 助ける。カード2 が直立していればモモがそのカードを言うので、質問への答えは肯定だった; 、否逆転させたら、それから許可する逆転させたカード"をおそらく" 可能になるべきである </entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">querent のための現状</entry>
+	<entry key="PositionTitle1">返事カード</entry><entry key="Meaning1">、答えは質問に直立した肯定だった; 逆転されたら、否。読書のためのまた結果カード。</entry>
+	<entry key="PositionTitle2">有用な影響1</entry><entry key="Meaning2">起こる結果は推論した</entry>
+	<entry key="PositionTitle3">有用な影響2</entry><entry key="Meaning3">起こる結果は推論した</entry>
+	<entry key="PositionTitle4">Querent の思考1</entry><entry key="Meaning4">問題に関するQuerent の思考</entry>
+	<entry key="PositionTitle5">Querent の思考2</entry><entry key="Meaning5">問題に関するQuerent の思考</entry>
+	<entry key="PositionTitle6">不利な影響1</entry><entry key="Meaning6">結果に対して働いている事</entry>
+	<entry key="PositionTitle7">不利な影響2</entry><entry key="Meaning7">結果に対して働いている事</entry>
+	<entry key="PositionTitle8">Querent の感じ1</entry><entry key="Meaning8">問題に関するQuerent の感じ</entry>
+	<entry key="PositionTitle9">Querent の感じ2</entry><entry key="Meaning9">問題に関するQuerent の感じ</entry>
+</oracleio>

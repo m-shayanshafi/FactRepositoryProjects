@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="744">
+	<if not="t" item="lantern">
+		<lose item="candle" hidden="t"/>
+	</if>
+	The tunnel leads to a chamber deep inside the cliff. Stalactites as
+	fine as silver threads hang from the ceiling, surrounding a table
+	of rock where there are three chests. One is of corroded copper,
+	one of rusty iron, and one of tarnished silver.
+	<choices>
+		<choice section="768">Open the copper chest</choice>
+		<choice section="402">Open the iron chest</choice>
+		<choice section="427">Open the silver chest</choice>
+	</choices>
+</section>

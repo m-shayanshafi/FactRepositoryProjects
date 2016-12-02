@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Romany Spread (Doane/Peach)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Uitgespreide zigeunertaal (Doane/Perzik)</entry>
+	<entry key="Description">Elke rij vertegenwoordigt gebeurtenissen of invloeden voor de 
+vermelde tijdspanne. De aangrenzende kaart in de zelfde rij 
+wijzigt zich elkaar. Opdracht geven tot van kaarten in een rij 
+is niet noodzakelijk significant. Variatie: Één variatie
+van deze lezing is dat de middenkaart van elke rij (18..11, en 04) 
+zouden de meest significante gebeurtenis van de getoonde tijdspanne 
+moeten vertegenwoordigen. Dit maakt kaarten verder op de randen 
+van de rij (21..15..14, enz.) op minder significant. 
+(Doane)</entry>
+	<entry key="PositionTitle0">Voorbij 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Voorbij 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Voorbij 3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Voorbij 4</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Voorbij 5</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Voorbij 6</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Voorbij 6</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Heden 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Heden 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Heden 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Heden 4</entry><entry key="Meaning10"></entry>
+	<entry key="PositionTitle11">Heden 5</entry><entry key="Meaning11"></entry>
+	<entry key="PositionTitle12">Heden 6</entry><entry key="Meaning12"></entry>
+	<entry key="PositionTitle13">Heden 7</entry><entry key="Meaning13"></entry>
+	<entry key="PositionTitle14">Toekomst 1</entry><entry key="Meaning14"></entry>
+	<entry key="PositionTitle15">Toekomst 2</entry><entry key="Meaning15"></entry>
+	<entry key="PositionTitle16">Toekomst 3</entry><entry key="Meaning16"></entry>
+	<entry key="PositionTitle17">Toekomst 4</entry><entry key="Meaning17"></entry>
+	<entry key="PositionTitle18">Toekomst 5</entry><entry key="Meaning18"></entry>
+	<entry key="PositionTitle19">Toekomst 6</entry><entry key="Meaning19"></entry>
+	<entry key="PositionTitle20">Toekomst 7</entry><entry key="Meaning20"></entry>
+</oracleio>

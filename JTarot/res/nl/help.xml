@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jTarotHelp language="Dutch" version="1.0">
+<Topic index="0" issubtopic="false" ><title>Wat is ' jTarot en Runen '?</title><TopicText>
+&lt;p&gt;' jTarot en de Runen ' zijn uw eigen persoonlijke adviseur
+die op de wijsheid van tarot wordt gebaseerd die direct aan de 
+vijftiende eeuw (1420-1440) kan worden gevonden, noordelijk Italië. 
+Nochtans, is wat eis tarot duizenden jaren oud met wortels in 
+Egypte. De runen zijn een oud Germaans alfabet, dat voor het 
+schrijven, divination wordt gebruikt en magisch. De runen 
+gebruikt=werden= in heel noordelijk Europa, Scandinavië, de Britse 
+Eilanden, en IJsland van ongeveer 100 B.C.E. aan 1600 C.E. De 
+meeste informatie over runen in ' jTarot en Runen ' komt uit &lt;a href="http://www.sunnyway.com/runes/index_divination.html"&gt;Ingrid (Sunny) Halvorsen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;' jTarot en de Runen ' zullen "het lezen" voor u op om het
+even welk punt doen u vindt u wat raad zou kunnen nodig hebben. 
+De lezing bestaat uit het tonen van een bepaald aantal kaarten 
+in een bepaalde orde en dan het beschrijven van wat deze kaarten 
+betekenen. U moet dan desciptions van de kaarten nemen en 
+proberen om de betekenissen van de kaarten op uw huidige situatie of 
+probleem toe te passen.&lt;/p&gt;
+
+&lt;p&gt;' jTarot en de Runen ' zijn een een kaartspel/orakel dat 
+voor uw plezier wordt ontworpen. Volg nooit de raad van ' jTarot
+en Runen ' als die raad niet precies wat u is wilt hoe dan ook doen. 
+Het leven is zo complex dat het niet mogelijk is dat een 
+eenvoudig kaartspel u kan nauwkeurig vertellen wat u moet doen succes 
+en geluk vinden. De moeilijke besluiten u in het leven moet 
+nemen zijn wat het levensbetekenis geeft. ' jTarot en de Runen '
+zullen u slechts hopelijk sommige nieuw inzicht in uw bijzondere 
+probleem of situatie geven maar men betekent niet dat ' jTarot en de 
+Runen ' de moeilijke besluiten voor u zullen nemen en zo u van het 
+doel van het leven zullen roven.&lt;/p&gt;
+&lt;p&gt;' jTarot en de Runen ' zijn vrije software en het zou aan 
+om het even meest welke computer en werkend systeem moeten werken. 
+Dat omvat Vensters XP, Vensters NT, Vensters 95,98,me, 
+Mackintosh, Linux, Solaris en een meest andere Unix gebaseerd systeem.&lt;/p&gt;
+
+&lt;p&gt;Als u vragen of commentaren hebt, e-mail aan 
+tarot@lazy8.nu&lt;/p&gt;
+
+</TopicText></Topic>
+<Topic index="1" issubtopic="false" ><title>' jTarot en Runen ' voor de beginner</title><TopicText>
+Een beginner in tarot zal waarderen hoe gemakkelijk het 
+een tarotlezing moet veroorzaken en uitvoerige raad krijgen. Met
+enkel een paar kliks van de muis, verschijnt de lezing. Met tijd
+zal de beginner een gevoel voor de vele verschillende lay-outs, 
+kaartdekken en andere mogelijkheden in dit programma bereiken.
+</TopicText></Topic>
+<Topic index="2" issubtopic="false" ><title>' jTarot en Runen ' voor de beroeps</title><TopicText>
+' jTarot en de Runen ' bevatten vele geavanceerde 
+mogelijkheden voor de beroeps. Bijvoorbeeld:
+</TopicText></Topic>
+<Topic index="3" issubtopic="true" ><title>Hand Selectie van kaarten</title><TopicText>
+Als u ongemakkelijke selecterende kaarten op de computer 
+voelt, kunt u de kaarten leggen zelf en dan uw lay-out ingaan in de 
+computer.
+</TopicText></Topic>
+<Topic index="4" issubtopic="true" ><title>Het bewaren van en het terugwinnen van lezingen</title><TopicText>
+Alle lay-outs u veroorzaakt kunnen worden bewaard en 
+wonnen toen terug zodat kunt u een "Agenda Tarot" hebben waar u kunt 
+gemakkelijk zien of waren uw interpretaties van de tarotlay-outs 
+nauwkeurig of door een aan oude lezing omhoog geen te herinneren.
+</TopicText></Topic>
+
+<Topic index="5" issubtopic="true" ><title>Voer een lezing uit</title><TopicText>
+U kunt een lay-out en interpretaties naar een kleurrijke 
+HTMLFORMAAT of een één van verscheidene andere formaten uitvoeren 
+die u naar cliënten kunt dan verzenden. De printouts van de 
+lezingen zijn ook mogelijk in volledige kleur met de capaciteit om uw 
+eigen persoonlijke interpretatie aan elke lezing toe te voegen.
+</TopicText></Topic>
+<Topic index="6" issubtopic="true" ><title>Maak uw eigen definities voor elke kaart</title><TopicText>
+Als u uw eigen definities voor elke kaart wilt maken, ' 
+jTarot en de Runen ' verstrekken allen u dit moet doen en dan u uw 
+eigen tarotuitgever kunt worden en zelfs uw eigen zelf-geschreven 
+tarot boek met dit programma creëren.
+</TopicText></Topic>
+<Topic index="7" issubtopic="true" ><title>Meertalige mogelijkheden</title><TopicText>
+Om het even welke tekst die in dit programma verschijnt 
+kan gemakkelijk in om het even welke taal in de wereld worden vertaald
+dankzij Java en Unicode.
+</TopicText></Topic>
+<Topic index="8" issubtopic="true" ><title>Creëer uw eigen douanelay-outs</title><TopicText>
+Als 30 + verschillende lay-outs inbegrepen in dit 
+programma niet genoeg voor u zijn, dan hebt u de mogelijkheid om uw 
+eigen lay-outs tot stand te brengen.
+</TopicText></Topic>
+<Topic index="9" issubtopic="false" ><title>Stappen betrokken bij het veroorzaken van een tarotlezing</title><TopicText>
+
+Bij elk begin van het programma, zal een dialoog 
+verzoekend u lijken om een nieuwe lezing te doen. Als u dan nog 
+een andere lezing wilt veroorzaken, kunt u naar het menu "lezing-&gt;Do 
+gaan een nieuwe lezing." Dan hebt u de volgende opties om te 
+beslissen over.
+</TopicText></Topic>
+<Topic index="10" issubtopic="true" ><title>Ga uw vraag voor ' jTarot en Runen ' in</title><TopicText>
+Hier kunt u een vraag voor tarot ingaan als u wenst. 
+Door een vraag in te gaan hier, zal de tarotlezing u kunnen 
+nauwkeurig vertellen wat u wilt weten. Vanuit ervaring kan ik u 
+vertellen dat als u de vraagspatie, na een paar notulen van het 
+doorbladeren over de lezing verlaat, u precies wat de vraag was 
+vergeet en begint de vraag te vormen na wat het u wil het antwoord is 
+van wat zijn tarot heeft gegeven.
+</TopicText></Topic>
+<Topic index="11" issubtopic="true" ><title>Kies het orakel en een lay-out</title><TopicText>
+Dit is waarschijnlijk de hardste keus. Hier moet u 
+beslissen welk orakel aan gebruik, Tarot of Runen. Dan zijn er 
+momenteel 30 + verschillende lay-outs. Het zal u een zeer lange 
+tijd nemen te krijgen aquainted met elke lay-out. Ik stel voor u
+zich aan de eerste 4 lay-outs in de lijst houdt als u een beginner 
+bent. Klik op de lay-out u wenst en voor sommige lay-outs, is er
+een beschrijving van de eveneens getoonde lay-out.
+</TopicText></Topic>
+<Topic index="12" issubtopic="true" ><title>Selecteer een adviseur en gebruik omgekeerde voorwerpen of
+niet</title><TopicText>
+Op dit punt kunt u een adviseur voor uw lezing kiezen maar
+het is niet werkelijk zo veel van belang omdat nadat de lezing wordt 
+gedaan, u de adviseur kunt veranderen. Het "gebruik keerde 
+objecten optie om" betekent dat de beelden "omhoog kant kunnen lijken 
+neer." Over het algemeen, associëren de mensen een omgekeerd 
+beeld met negatief iets of misschien een tegengestelde dat aan het 
+beeld betekent. Persoonlijk, denk ik dat tarot met variatie zo 
+rijk is dat als u dan in het "omgekeerde" aspect werpt, ik spoor niet 
+kan houden om het even welke langer van wat op gaat. Zo, om 
+dingen eenvoudig te houden, selecteer "GEEN" "omgekeerde voorwerpen 
+gebruiken."
+</TopicText></Topic>
+<Topic index="13" issubtopic="true" ><title>Selecteer de beelden en een kleinere groep beelden</title><TopicText>
+
+Op dit punt kunt u een reeks beelden voor uw lezing kiezen
+maar het is niet werkelijk zo veel van belang omdat nadat de lezing 
+wordt gedaan, u kunt de beelden veranderen U kunt een 
+tarotlezing met enkel "hogere arcanna" of enkel "lagere arcanna" naar 
+keuze doen. Een lezing met enkel hogere arcanna is vrij 
+gemeenschappelijk en het geeft een intensievere lezing maar het is ook
+een lezing met veel minder variatie. Sommige mensen kiezen een 
+lezing met enkel lagere arcanna omdat zij niet in het bijzonder van 
+hogere arcanna houden of zij worden gebruikt aan het doen van lay-outs
+met een normaal pak het spelen kaarten. Ik adviseer u alle 
+beelden gebruikt en zo één van beiden van deze opties niet gebruikt.
+</TopicText></Topic>
+<Topic index="14" issubtopic="true" ><title>Selecteer manueel elke kaart</title><TopicText>
+Raak deze knoop als u reeds hebben gedaan een lay-out zelf
+met de daadwerkelijke tarotkaarten en dan u uw lay-out in dit 
+programma wilt ingaan voor interpretatie, printout, het uitvoeren of 
+het sparen. Dit is in het bijzonder voor zij die niet werkelijk 
+van het gevoel van een kaartselectie met computer houden. De 
+meeste mensen zullen willen zullen altijd deze mogelijkheid niet maar 
+de volgende "willekeurig uitgezochte kaarten" techniek gebruiken. 
+Wanneer u deze knoop raakt, wordt u dan een dialoog met een 
+lijst van alle kaarten in het linkerlijstvakje. Selecteer 
+tegelijkertijd elke kaart u reeds hebt opgemaakt. Na het 
+selecteren van een kaart raak dan "daarna" en ga aan de volgende kaart
+te werk. U moet de kaarten in de orde selecteren die in het 
+beeld in het centrum van de dialoog wordt getoond.
+</TopicText></Topic>
+<Topic index="15" issubtopic="true" ><title>Willekeurig uitgezochte kaarten</title><TopicText>
+Raak deze knoop om aan willekeurig het selecteren van de 
+kaarten voor uw lay-out te werk te gaan. U zal een dialoog met 
+alle 78 kaarten (of misschien een gekozen ondergroep van het dek) 
+worden getoond en u moet een kaart voor elke positie in de lay-out 
+kiezen. De positie waarvoor u elke kaart kiest zal voorafgaand 
+aan elke kaartselectie worden getoond en worden beschreven. 
+Wanneer u een kaart voor elke lay-outpositie hebt geselecteerd, 
+zal de dialoog dissapear en uw lay-out zal vóór u zijn. U kunt
+resize het scherm om uw lay-out effectiever te zien.
+</TopicText></Topic>
+<Topic index="16" issubtopic="true" ><title>Selecteer de beelden en de beeldgrootte u wenst te 
+gebruiken</title><TopicText>
+Er is een grote verscheidenheid van dekken om te kiezen 
+van en u kunt om het even wie proberen u voor uw lezing wilt. Ga
+naar het menu "Beelden" en kies het dek u wilt. Het kiezen van 
+de juiste grootte van het beeld zal u helpen om al beeld duidelijker 
+te zien. Deze beeldgrootte voert ook de grootte van het beeld in
+de printouts en de uitvoer uit. Ga naar het menu "Opties" en 
+selecteer de percentagegrootte die u wilt
+</TopicText></Topic>
+<Topic index="17" issubtopic="true" ><title>Toon samen normale en omgekeerde objecten teksten</title><TopicText>
+In de lezingen, hebt u een optie slechts de normale 
+objecten tekst kunnen tonen wanneer het voorwerp niet en slechts de 
+omgekeerde objecten tekst wordt omgekeerd wanneer het voorwerp wordt 
+omgekeerd. Dit kan de lezing gemakkelijker maken te lezen. 
+Maar het zou interessant kunnen zijn om zowel de normale als 
+omgekeerde objecten teksten samen te zien zodat kunt u leren wat het 
+verschil tussen twee is. In dat geval, ga naar het menu "Opties"
+en selecteer de ' normale en omgekeerde de objecten van de Show 
+teksten samen '. Nochtans, hebben veel van de vertalingen geen 
+"omgekeerde" teksten zo slechts de normale tekst op elk moment zal 
+tonen.
+
+</TopicText></Topic>
+<Topic index="18" issubtopic="true" ><title>Toon positieaantallen</title><TopicText>
+Ga naar de postionaantallen van de menu "optie-&gt;Show 
+lay-out." Als u deze optie kiest, zal het postionaantal van elke
+kaart in magenta op de hogere linkerhoek van elke kaart in het 
+belangrijkste venster van dit programma worden getoond. Dit 
+aantal moet u vergemakkelijken die de correcte interpretatie van de 
+kaart in het interpretatievenster vinden op het recht van het 
+belangrijkste scherm. Eenvoudig beweegt de muis over de kaart 
+wilt u zien de interpretatie van dat kaarteninterpretatie zichtbaar in
+het interpretatievenster zal maken. Dit aantal zal niet getoond 
+worden op enige printouts of uitvoer.  
+</TopicText></Topic>
+<Topic index="19" issubtopic="true" ><title>Selecteer welke adviseur u wilt</title><TopicText>
+Ga naar het menu "Adviseurs." Momenteel is er 
+slechts één beschikbare adviseur. Zo er is geen reden om om 
+het even wat hier te selecteren. Hopelijk zal er vele adviseurs 
+hier in de toekomst zijn wanneer de mensen beginnen me meer thier 
+eigen definities voor elke kaart te verzenden. In dat geval, als
+u niet van de stijl van de interpretaties houdt krijgt u, kunt u een 
+andere adviseur selecteren om u een nieuwe computer geproduceerde 
+lezing te geven.
+</TopicText></Topic>
+<Topic index="20" issubtopic="true" ><title>Print out de lezing</title><TopicText>
+Alle lezingen kunnen in volledige grafiek en kleur worden 
+uitgeprint. Ga eenvoudig naar het menu "lezing-&gt;Print via 
+Webbrowser" en uw lezingen zullen dan in uw favoriete browser 
+verschijnen. In uw Web raakte browser, toen het de "druk" menu 
+of knoop. Als u verscheidene Webbrowsers hebt die in uw computer
+wordt geïnstalleerd toen verkeerde zou browser kunnen verschijnen. 
+Als dit het geval is, kunt u proberen speel met de montages in 
+de dialoog die in de menu "vooruit:gaan-&gt;Show browser optiesdialoog 
+wordt gevonden."
+</TopicText></Topic>
+<Topic index="21" issubtopic="true" ><title>Sparen uw lezing voor toekomstige verwijzing.</title><TopicText>
+
+Het menu "lezing-&gt;Save zal de huidige lezing" uw lezing 
+bewaren zodat u op elk ogenblik in de toekomst uw lezing kunt opnieuw 
+zien. U kunt deze bewaarde lezingen naar vrienden zelfs 
+verzenden die ook dit programma hebben te bekijken indien gewenst. 
+De lezing dan om te zien opnieuw, naar het menu "lezing-&gt;Open te
+gaan wil een eerder bewaarde lezing" en het gewenste dossier te 
+selecteren u op het scherm opnieuw tonen.
+</TopicText></Topic>
+<Topic index="22" issubtopic="true" ><title>Verzend uw lezing naar vrienden via e-mail of andere de 
+uitvoertechnieken</title><TopicText>
+In het menu de "Uitvoer" u hebt 3 verschillende 
+mogelijkheden om uw lezing uit te voeren: HTML, MHTML, OF 
+WAR. HTML is het de uitvoerformaat dat het meest compatibel 
+met alle browsers is maar het probleem met dat formaat is dat het vele
+verschillende dossiers is die worden uitgevaardigd en alle 
+verschillende dossiers moeten voor de uitvoer aanwezig zijn om 
+succesvol te zijn. MHTML is slechts één dossier en daarom is 
+het veel meer desireable toen het formaat van HTML maar MHTML is over 
+het algemeen slechts compatibel met Microsoft Ontdekkingsreiziger. 
+MHTML is een formaat dat specifiek voor gebruik met e-mail wordt
+ontworpen. Als u microsoft slechts producten toen gebruikt is 
+dit het formaat voor u. Het formaat van de WAR is slechts 
+compatibel met een zeer weinig mozillaklonen. Het formaat van de
+WAR is "zo gzipped eenvoudig teerdossier" als u het dossiertype van
+"war" in "tgz" verandert dan de meeste het samenpersen programma's 
+aan uncompress het aan vele dossiers dan leesbaar door om het even 
+welke browser zullen kunnen.
+</TopicText></Topic>
+<Topic index="23" issubtopic="false" ><title>Hoe creëer ik mijn eigen definities voor elk beeld?</title><TopicText>
+Als u uw eigen definities voor elk beeld wilt maken, ' 
+jTarot en de Runen ' verstrekken allen u dit moeten doen en dan u uw 
+eigen tarotuitgever kunt worden en zelfs uw eigen zelf-geschreven 
+tarot boek met dit programma creëren. Wat meer, u is kan uw 
+defintions dan verzenden naar tarot@lazy8.nu en een "adviseur" voor ' 
+jTarot en Runen ' worden en dan zullen anderen uw defintions kunnen 
+gebruiken. Volg de volgende stappen
+</TopicText></Topic>
+<Topic index="24" issubtopic="true" ><title>Stap 1: Creëer een douaneadviseur</title><TopicText>
+Ga naar het menu "vooruit:gaan-&gt;Create een 
+orakelopstelling." Er zijn veel hier knopen en het is belangrijk
+u drukt de correcte knoop. Naast de tekst "Adviseur" u moet de 
+knoop "drukken creëert dit dossier." U zou waarschijnlijk een 
+adviseur eerst moeten selecteren die u als het begining voor uw 
+vertalingen wilt gebruiken maar om het even welk zult werken. Er
+zijn honderden mogelijke dossiers om van in deze dialoog afhankelijk 
+van de taal te kiezen u kiest. Sparen het dossier in een plaats 
+kunt zich u en met een naam herinneren u zich herinnert.
+</TopicText></Topic>
+
+<Topic index="25" issubtopic="true" ><title>Stap 2: Geef een douaneadviseur uit</title><TopicText>
+Ga naar het menu "vooruit:gaan-&gt;Edit een 
+opstellingsdossier" en selecteer het dossier u in de vorige stap hebt 
+gecreeerd. Een massieve dialoog zal met ton standaardvertalingen
+voor elk beeld verschijnen. U kunt nu binnen gaan en uw 
+vertalingen voor elk beeld ingaan door de bestaande tekst eenvoudig 
+eraseing en met uw te vervangen. Wanneer u ingaand uw definities
+wordt gedaan, dan dicht zullen het venster en uw veranderingen worden 
+bewaard.
+</TopicText></Topic>
+<Topic index="26" issubtopic="true" ><title>Stap 3: Laad een opstellingsdossier</title><TopicText>
+Ga naar het menu "vooruit:gaan-&gt;Load een 
+opstellingsdossier voor gebruik in dit programma" en selecteer het 
+dossier u in de vorige stappen hebt gecreeerd.
+</TopicText></Topic>
+<Topic index="27" issubtopic="true" ><title>Stap 4: Selecteer welke adviseur u wilt</title><TopicText>
+Ga naar het menu "Adviseurs". Uw "adviseur zou" dan 
+daar in de lijst moeten zijn. Als het niet is, dan misschien 
+hebt u de onjuiste taal geselecteerd? De taal moet correct zijn 
+om uw adviseur in de lijst te zien.
+</TopicText></Topic>
+<Topic index="28" issubtopic="true" ><title>Stap 5: Printout uw eigen zelf-gemaakt tarot boek</title><TopicText>
+Ga naar het menu "optie-&gt;Show alle beelden voor dit 
+orakel". Dan doe een printout en u zult een aardig 
+geïllustreerd boek van al uw defintions krijgen. U kunt het dek
+naar een HTMLFORMAAT "dan ook uitvoeren" dat dan in de meeste 
+tekstverwerkers kan worden ingevoerd voor het verdere uitgeven van uw 
+boek.
+
+</TopicText></Topic>
+<Topic index="29" issubtopic="true" ><title>Stap 6: Deel uw definities met de rest van de wereld</title><TopicText>
+Dit is het belangrijke deel. Aandeel wat u met 
+anderen hebt gedaan. Verzend uw dossier van de douaneadviseur 
+naar tarot@lazy8.nu zodat wij het in de volgende versie van ' jTarot 
+en Runen ' kunnen omvatten. U zult dan een "adviseur" in ' 
+jTarot en Runen ' worden.
+</TopicText></Topic>
+<Topic index="30" issubtopic="false" ><title>Hoe vertaal ik dit programma in een andere taal?</title><TopicText>
+' jTarot en de Runen ' kunnen om het even welke tekst in 
+om het even welke taal tonen. De meeste vertalingen werden 
+gedaan door een computer. Dit betekent zij zeer slechte 
+kwaliteit zijn. Wij hebben uw hulp nodig om in de andere talen 
+te vertalen en de kwaliteit van de huidige vertalingen te verbeteren. 
+Doe de volgende stappen ' jTarot en Runen ' vertalen:
+</TopicText></Topic>
+<Topic index="31" issubtopic="true" ><title>Vertaal de douaneadviseur</title><TopicText>
+Volg eenvoudig de instructies in de sectie "hoe ik mijn 
+eigen definities voor elk beeld?" creëer welke op één punt 
+tot een gebrek van alle definities zal leiden. Neem die 
+defintions en vertaal eenvoudig aan uw taal (of correcte fouten in de 
+huidige vertalingen) in plaats van het schrijven van volledig nieuwe 
+defintions..
+</TopicText></Topic>
+<Topic index="32" issubtopic="true" ><title>Vertaal menu's, lay-outs en meer</title><TopicText>
+Volg fundamenteel de zelfde instructies die u vindt in de 
+sectie "hoe ik mijn eigen definities voor elk beeld?" creëer 
+behalve dat creëert u de dossiers van de "vertalingen van de 
+Lay-out", de "vertalingen van het Menu en van het bericht" en de 
+"vertalingen van het Orakel."
+</TopicText></Topic>
+
+<Topic index="33" issubtopic="true" ><title>Vertaal ' hulp '</title><TopicText>
+Ga naar de menu "vooruit:gaan-&gt;Translate hulp aan uw 
+taal". De eerste keer uitgezocht u dit menu raakte toen de 
+"Cancel" knoop in de eerste dialoog die verschijnt. Die manier, 
+zal alle standaard Engelse vertalingen dan in een venster voor u 
+schijnen te vertalen. Wanneer u het gedaane vertalen bent, sluit
+dan het venster met X in de hogere rechtse hoek (voor de meeste 
+werkende systemen). Dan zult u een derde dialoog vragend u om 
+een naam en een plaats krijgen om het vertaaldossier te zetten. 
+Wijs om het even welke naam en een plaats toe u "o.k." opnieuw 
+gemakkelijk vinden en kunt raken. U zult dan gevraagd worden of 
+wilt u dit uw standaardtaaldossier zijn en u zou waarschijnlijk "ja 
+moeten antwoorden." Als u uw vertalingen wilt opnieuw aanpassen,
+dan ga nogmaals naar de menu "vooruit:gaan-&gt;Translate hulp aan uw 
+taal" en selecteer het dossier u eerder enkel redde.
+</TopicText></Topic>
+<Topic index="34" issubtopic="false" ><title>Willekeur - hoe ' jTarot en de Runen ' een kaart 
+selecteren</title><TopicText>
+' jTarot en de Runen ' leggen alle kaarten uit in het dek 
+voor u om van voor elke lay-out te kiezen. Die manier u, of 
+misschien uw onderbewust, heeft volledige controle waarover de kaart 
+voor elke positie in de lay-out wordt geselecteerd. De manier de
+kaarten zijn shuffeled alvorens "gezicht op te maken" de traditionele 
+computer neer techniek om de huidige tijd in milliseconden te grijpen 
+gebruikt en die tijd takeing als wortelaantal in een aantal dat 
+algoritme produceert. Als u hebt choosen "toestaan omgekeerde 
+kaarten" dan de selectietechniek een weinig complexer is. Al dan
+niet een kaart "wordt omgekeerd" is afhankelijk van welke 
+milliseconden u op de kaart klikt u voor die positie wilt. Op 
+het ogenblik klikt u op de kaart dan de tijd wordt gegrepen, dat de 
+tijd wordt gebruikt aangezien een wortel aan het aantal dat algoritme 
+produceert, het eerste aantal van het algoritme wordt gekregen en als 
+dat aantal in een bepaalde waaier is, wordt de kaart omgekeerd, als 
+niet in de waaier, de kaart niet wordt omgekeerd. Opnieuw, is 
+dit de beste manier ik kon komen op met uw onderbewust ervoor zorgen 
+ben in controle van het proces van de kaartselectie.
+</TopicText></Topic>
+<Topic index="35" issubtopic="false" ><title>Hoe kan ik mijn tijd tot dit project bijdragen?</title><TopicText>
+' jTarot en de Runen ' zullen om het even wie om nooit 
+geld vragen maar als u werkelijk van dit programma hebt genoten en tot
+het project willen bijdragen, hebben wij uw hulp nodig! Het 
+volgende is suggesties aan hoe u kunt helpen.
+</TopicText></Topic>
+<Topic index="36" issubtopic="true" ><title>Maak uw eigen kaartdefinities</title><TopicText>
+Als u voelt hebt u wat ervaring met tarot, kunt u aan 
+tarot@lazy8.nu uw eigen kaartdefinities voorleggen en een "adviseur" 
+in ' jTarot en Runen ' zijn. Volg eenvoudig de instructies in de
+sectie "hoe ik mijn eigen definities voor elke kaart?" creëer 
+om uw eigen definities te creëren.
+
+</TopicText></Topic>
+<Topic index="37" issubtopic="true" ><title>Vertaal ' jTarot en Runen ' aan een andere taal</title><TopicText>
+Als u in een andere taal naast het Engels toen vloeiend 
+bent wensen wij u om ' jTarot en Runen ' in uw andere taal te 
+vertalen. Volg eenvoudig de stappen in de sectie "hoe ik dit 
+programma een andere taal?" vertaal en verzend naar 
+tarot@lazy8.nu uw dossiers u creëert.
+</TopicText></Topic>
+<Topic index="38" issubtopic="true" ><title>Leg een nieuw dek voor</title><TopicText>
+Met de geavanceerde menu's, kunt u een standaarddek aan 
+hoe als voorbeeld creëren een dek in ' jTarot en Runen ' kan worden 
+bepaald. Dan kunt u of uw eigen dek van dat voorbeeld creëren 
+of toestemming van somebody krijgen om hun beelden voor ' jTarot en 
+Runen ' af te tasten. Dan verzend hen naar tarot@lazy8.nu en zij
+zullen in de volgende versie van ' jTarot en Runen ' worden omvat.
+</TopicText></Topic>
+<Topic index="39" issubtopic="true" ><title>Programmering</title><TopicText>
+Als u van de programmering van Java houdt en u wilt 
+sommige veranderingen in dit programma aanbrengen. Verzend uw 
+veranderingen in tarot@lazy8.nu. De code aan dit programma is 
+inbegrepen in dit kruikdossier.
+</TopicText></Topic>
+<Topic index="40" issubtopic="false" ><title>Hoe te om een programmafout te melden</title><TopicText>
+Als u denkt doet het programma verkeerd iets, verplettert 
+of bevriest, dan kunt u helpen door het probleem te melden. Ga 
+naar het menu "vooruit:gaan-&gt;Report een programmafout" en volg de 
+instructies in het venster dat verschijnt.
+
+</TopicText></Topic>
+<Topic index="41" issubtopic="false" ><title>Codeer Auteursrechten</title><TopicText>
+Auteursrecht © 2007 tarot@lazy8.nu Thomas 
+Dilts. Dit programma is vrije software; u kunt het opnieuw
+verdelen en/of het wijzigen in het kader van de termijnen van de 
+Vergunning van het Grote Publiek van GNU zoals die door de Vrije 
+Stichting van de Software worden gepubliceerd; of versie 2 van 
+de Vergunning, of (bij uw optie) om het even welke recentere versie. 
+Dit programma wordt verspreid in de hoop dat het, maar ZONDER 
+ENIGE GARANTIE nuttig zal zijn; zonder zelfs de impliciete 
+garantie van MERCHANTABILITY of GESCHIKTHEID VOOR een BEPAALD DOEL. 
+Zie de Vergunning van het Grote Publiek van GNU voor meer 
+details. U zou een exemplaar van de Vergunning van het Grote 
+Publiek van GNU samen met dit programma moeten ontvangen hebben; 
+als niet, schrijf aan de Vrij Stichting van de Software, Inc., 
+de Plaats van 59 Tempel, Reeks 330, Boston, MA 02111-1307 de V.S. voor
+meer informatie, branding aan http://www.tarot.lazy8.nu of e-mail 
+tarot@lazy8.nu
+</TopicText></Topic>
+<Topic index="42" issubtopic="false" ><title>Download nu de software!</title><TopicText>
+Volg zorgvuldig de volgende instructies om de software nu 
+te downloaden:
+</TopicText></Topic>
+<Topic index="43" issubtopic="true" ><title>U moet Java van de Zon eerst worden</title><TopicText>
+&lt;p&gt;U moet Java van de Zon eerst hebben. Klik op de 
+volgende verbindings of controle als u Zonnen Java of hebt om het te 
+installeren.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://java.com/">http://java.com/&lt;/a&gt;&lt;/p&gt;</TopicText></Topic>
+
+<Topic index="44" issubtopic="true" ><title>Download één van de volgende twee versies van ' jTarot 
+en Runen '</title><TopicText>
+&lt;p&gt;Klik op één van de volgende twee verbindingen om ' 
+jTarot en Runen ' te downloaden:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jnlp">De vrije privé versie van kosten. Door hier te 
+klikken komt u overeen om deze versie niet te kopiëren te veranderen 
+of opnieuw te verdelen. Deze versie bevat extra kunstwerk en 
+teksten van bekende kunstenaars en auteurs die hun auteursrechten 
+willen beschermen.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotFree.jnlp">De vrije versie van beperkingen. Door hier te 
+klikken komt u overeen om deze versie volgens de "Vergunning van het 
+Grote Publiek van GNU te kopiëren, slechts te veranderen of opnieuw 
+te verdelen"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Wanneer u hierboven op één van de verbindingen klikt, 
+zal jTarot door een programma worden gedownload en worden gestart 
+genoemd "het Begin van het Web van Java." In de toekomst moet u 
+slechts "het Begin van het Web van Java beginnen" om jTarot te 
+beginnen. Als u "het Begin van het Web van Java" in uw menu's, 
+dan in vensters niet kunt vinden, kunt u het programma "binnen vinden 
+javaws"&lt;/p&gt;&lt;p&gt;
+c:\ProgramFiles\Java\jre1.5.0_0?\bin\javaws&lt;/p&gt;&lt;p&gt;  Merk op dat de naam ProgramFiles afhankelijk van uw taal 
+kan veranderen. Maak een kortere weg aan dit programma over uw 
+Desktop omdat u het een:- zult gebruiken)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Als u zou verkiezen te proberen downloadend en uitvoerend 
+een "kruik" dossier in plaats van de hierboven beschreven techniek, 
+klik op één van de twee volgende verbindingen en sla het dossier aan
+uw DeskTop op. De vensters zullen proberen om de naam van het 
+gedownloade dossier te veranderen om met "zip" te beëindigen maar u 
+moet manueel binnen gaan en de naam veranderen om met "jar" te 
+beëindigen in plaats daarvan: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jar">De vrije privé versie van kosten. Door hier te 
+klikken komt u overeen om deze versie niet te kopiëren te veranderen 
+of opnieuw te verdelen. Deze versie bevat extra kunstwerk en 
+teksten van bekende kunstenaars en auteurs die hun auteursrechten 
+willen beschermen.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarot.jar">De vrije versie van beperkingen. Door hier te 
+klikken komt u overeen om deze versie volgens de "Vergunning van het 
+Grote Publiek van GNU te kopiëren, slechts te veranderen of opnieuw 
+te verdelen"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Het jTarot- kruikdossier te beginnen, begin bij de 
+bovenkant van de volgende lijst en werk neer uw manier en einde 
+wanneer u definitief jTarot bent begonnen.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Het tweemaal klikken op het dossier u downloadde. 
+Als jTarot niet begint, ga aan de volgende stap verder.
+&lt;/li&gt;&lt;li&gt;
+Herstel klik op het dossier u downloadde. Ga naar 
+het popup menu "Open met" en selecteer het menu het "Platform van Java
+(TM) 2....."  
+&lt;/li&gt;&lt;li&gt;Als het menu het "Platform van Java (TM) 2....." is 
+niet in het popup menu "open met" kiezen dan het popup menu "open met"
+en "kies dan te werk programma" en ga om het programma (in de dialoog 
+die) verschijnt geroepen "Java (TM) 2 te selecteren Platform....."
+
+&lt;/li&gt;&lt;li&gt; Als u afschuint vind het programma het "Platform van Java 
+(TM) 2....." in de dialoog, ga dan aan de "u moet stap van de 
+Zon eerst worden van Java" terug en Java installeren
+&lt;/li&gt;&lt;/ul&gt;</TopicText></Topic>
+<Topic index="45" issubtopic="true" ><title>Als jTarot nog niet begint</title><TopicText>
+&lt;p&gt;Wat zou moeten gebeurd zijn toen u op één van de 
+bovengenoemde twee verbindingen klikte, is dat u een dossier aan uw 
+harde schijf downloadde. Dan toen u de lijst van instructies 
+volgde, zou jTarot moeten beginnen.&lt;/p&gt; 
+&lt;p&gt;Als u linux (of al het andere ontbroken in vensters) hebt,
+zou u het volgende bevel in een bevelvenster kunnen moeten in werking 
+stellen:&lt;/p&gt;
+
+&lt;p&gt;(weg aan Java/bin directory)java -jar jTarot.jar&lt;/p&gt;
+
+&lt;p&gt;of misschien&lt;/p&gt;
+
+&lt;p&gt;(weg aan Java/bin directory)java -jar jTarotNonFree.jar&lt;/p&gt;
+
+&lt;p&gt;afhankelijk van de versie van tarot downloadde u.&lt;/p&gt;
+</TopicText></Topic>
+</jTarotHelp>

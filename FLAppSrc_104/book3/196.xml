@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="196">
+	You return to the ship and sail away.
+	<if item="lantern" not="t">
+		<if item="candle">
+			<lose item="candle">Cross off a <b>candle</b></lose> if you used one.
+		</if>
+	</if>
+	Then,
+	<if codeword="Callid">
+		if you have the codeword Callid,
+		<lose codeword="Callid">lose it</lose> and
+		<goto section="717"/>.
+	</if>
+	Otherwise, <goto section="48"/>.
+</section>

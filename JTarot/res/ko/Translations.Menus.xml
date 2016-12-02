@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="ko" author="Thomas Dilts" >
+<entry key="menulanguage">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+<entry key="Advisor">고문관</entry>
+<entry key="BadFileMessage">너가 선정한 파일은 이용할 수 없었다.
+정확한 체재 이는 다른 파일에 다시의 시험.</entry>
+<entry key="CancelButton">취소</entry>
+<entry key="CardSelectionWizard">목표 선택 마법사</entry>
+<entry key="ChooseWhichFileToCreate">선택하십시요 너를 원하고 그때 
+누르는 "창조하는 이 파일" 단추를 신청하는</entry>
+<entry key="Create this file">이 파일을 창조하십시요</entry>
+<entry key="DoYouWantToMakeThisDefault">너는 재착수에 이것에게 너의 과태 
+파일을jTarot의tne다음 하고는가 싶는가?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops의 너는 취소를 명중했다. 너는 
+진짜로 모든 너의 변화를 버리고는가 싶는가?</entry>
+<entry key="Graphical objects">그래픽 목표</entry>
+<entry key="Lastusedreadingslistisempty">최후에 의하여 이용하는 추천 도서는 
+비다</entry>
+<entry key="Layout translations">배치 번역</entry>
+<entry key="Layout">배치</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">손으로 하 좌 명부안에 오른쪽 
+심상안에 보이는 목표를 
+선정하고'다음'명중하십시요.</entry>
+<entry key="ManuallySelectEachCard">손으로 하 각 목표를 선정하십시요</entry>
+<entry key="Menu and message translations">메뉴와 메시지 번역</entry>
+<entry key="More">더</entry>
+<entry key="NextButton">다음</entry>
+<entry key="No">아니다</entry>
+<entry key="OpenAFile">열 위하여 파일을 선정하십시요</entry>
+<entry key="Oracle translations">Oracle번역</entry>
+<entry key="RandomlyChooseTheNextCard">심상안에 보이는 위치안에 들어가기 
+위하여 다음 목표를 선정하십시요.</entry>
+<entry key="RandomlySelectCards">무작위로 목표를 선정하십시요</entry>
+<entry key="Removealllastusedreadings">모든 마지막 이용한 독서를 
+제거하십시요</entry>
+<entry key="SaveAFile">파일을 선정하나 새로운 파일 이름을 
+들어가십시요</entry>
+<entry key="SelectLayoutAndCardSelection">너가와 너가 목표를 선정하고 싶는 
+방법 원하는 배치를 선택하십시요; 
+무작위로 또는 손으로 하. 너가 진짜로 여기 
+잃으면, 다만 단추'무작위로 가려내는 
+목표를 "명중하십시요</entry>
+<entry key="Smaller group of objects">목표의 더 작은 그룹</entry>
+<entry key="StartupWizard">개시 마법사</entry>
+<entry key="TheDeckCopyright">목표 그림 저작권</entry>
+<entry key="Title">jTarot과Runes</entry>
+<entry key="Type of oracle">신탁의 유형</entry>
+<entry key="Use reversed objects">목표가 사용에 의하여 반전했다</entry>
+<entry key="Yes">그렇다</entry>
+<entry key="YouMustFirstSelectAValidCard">너는 첫째로 유효한 목표를 
+선정해야 한다</entry>
+<entry key="advancedLabel">진보한</entry>
+<entry key="advisorsLabel">고문관</entry>
+<entry key="browseroptionsLabel">쇼 브라우저 선택권 대화</entry>
+<entry key="cardisreversed">이 목표는 반전한다</entry>
+<entry key="contributeLabel">나는 어떻게 이 계획사업을 도와 좋은가?</entry>
+<entry key="copyrighttitle">고문관 원본은 판권을 얻는다</entry>
+<entry key="createsetupfilesLabel">신탁 체제 파일을 창조하십시요</entry>
+<entry key="editsetupfileLabel">체제 파일을 편집하십시요</entry>
+<entry key="exitLabel">출구</entry>
+<entry key="exportLabel">수출</entry>
+<entry key="exporthtmlLabel">HTML(많은 파일, 양립한 모든 웹 
+브라우저)</entry>
+<entry key="exportmhtmlLabel">MHTML(단순한 파일, 양립한 
+마이크로소프트 윈도스)</entry>
+<entry key="exportwarLabel">WAR (단순한 파일,Konqueror양립한 
+및 몇몇mozilla복제품)</entry>
+<entry key="generalhelpLabel">도움</entry>
+<entry key="givetranslatehelpLabel">너의 언어에'도움'번역하십시요</entry>
+<entry key="helpLabel">도움</entry>
+<entry key="ifreversed">반전한 묘사</entry>
+<entry key="imagesLabel">심상</entry>
+<entry key="languageLabel">언어</entry>
+<entry key="loadsetupfileLabel">이 프로그램안에 사용을 위해 체제 
+파일을 적재하십시요</entry>
+<entry key="newlayoutLabel">새로운 독서를 하십시요</entry>
+<entry key="openLabel">이전에 저장한 독서를 열십시요</entry>
+<entry key="optionsLabel">선택권</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%년</entry>
+<entry key="percent150Label">150%년</entry>
+<entry key="percent200Label">200%년</entry>
+<entry key="printtowebLabel">웹 브라우저경유 인쇄</entry>
+<entry key="readingsLabel">독서</entry>
+<entry key="recentLabel">최후는 독서를 이용했다</entry>
+<entry key="reportbugLabel">프로그램 과실을 보고하십시요</entry>
+<entry key="saveLabel">현재 독서를 제외하고</entry>
+<entry key="screensPersonalReading">독서의 너의 번역</entry>
+<entry key="screensQuestion">독서를 위해 질문</entry>
+<entry key="screensReading">생성된 독서</entry>
+<entry key="showallobjectsLabel">이 신탁을 위해 모든 심상을 보이십시요</entry>
+<entry key="showpositionnumbersLabel">배치 위치 수를 보이십시요</entry>
+<entry key="showreversedandnormalLabel">정상 적이고, 반전한 목표 원본을 
+함께 보이십시요</entry>
+<entry key="thecard">목표</entry>
+<entry key="theposition">위치</entry>
+</oracleio>

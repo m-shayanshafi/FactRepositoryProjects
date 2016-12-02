@@ -1,0 +1,1 @@
+"C:\\Program Files (x86)\\Java\\jre6\\bin\\java.exe" -jar -Xmx256m -Dsun.java2d.noddraw=true -Djava.library.path="lib\\natives" flesh_snatcher.jar

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<jardesc>
+  <jar path="/media/winlinux/projets/workspace/tricktakinggame/Server.jar"/>
+  <options overwrite="false" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/tricktakinggame/Server.jardesc" useSourceFolders="false" buildIfNeeded="true" includeDirectoryEntries="false" storeRefactorings="false"/>
+  <storedRefactorings structuralOnly="false" deprecationInfo="true"/>
+  <selectedProjects/>
+  <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="false" manifestLocation="/tricktakinggame/server-manifest.mf">
+    <sealing sealJar="false">
+      <packagesToSeal/>
+      <packagesToUnSeal/>
+    </sealing>
+  </manifest>
+  <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{Announce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{BaseRemotableGame.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util.appproperties{PropertyException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{CardGameInterruptedException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.server{AppProperty.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{DefaultLoggedClient.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.cards{Deck.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{ClientResponder.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util.appproperties{ApplicationProperty.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{RemotableTeam.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{RemotableGame.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules{ContractWithTrump.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{ClientInitialConnection.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{ClientCommander.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{Table.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util.appproperties{ApplicationProperties.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Game.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{ClientHandler.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util{HashUtils.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.commands{CommandBasedConnection.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{CardGameException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{Message.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkWriter.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{BaseRemotableTeam.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Player.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{RemotablePlayer.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{Server.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Rules.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{MessageSource.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{AdminResponder.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util.appproperties{PropertyNotFoundException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Contract.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.commands{ParameterKind.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules{BasicRules.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.server{ServerAppProperties.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.cards{Suit.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkProtocolException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{PlayerController.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{DistantLogger.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.server{CSVFileLoginChecker.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{ResponseCode.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkReader.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{LoggedClient.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkInfo.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Auction.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util{ArrayUtils.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{PlayerControllerCreator.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.server{RulesProvidersLoader.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.game{Team.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{ThreadedConnection.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{NetworkConnection.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.cards{Card.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network{Response.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.cards{GenericDeck.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util.appproperties{PropertyFormatException.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util{ListUtils.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.remotable{BaseRemotablePlayer.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules{RulesProvider.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.commands{Command.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules{AuctionRules.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.util{Mapper.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{LoginChecker.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.network.server{AdminChecker.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.server{TrickTakingGameServer.java"/>
+  </selectedElements>
+</jardesc>

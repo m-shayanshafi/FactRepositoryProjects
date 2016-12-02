@@ -1,0 +1,69 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "SoccerServer"
+JDKPROFILE := "JDK version 1.5.0_06"
+ACTIVE := "1"
+OUTPUTPATH := "\\classes"
+COMPILER := "<Default>"
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "soccer.server.SoccerServer" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "soccer"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "common"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\common\\SituationData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\TeleportData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ViewData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Vector2d.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Util.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Transceiver.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\TalkData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\SeeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\RefereeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\RWLock.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Player.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\PeriodData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Packet.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\KickData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\InitData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\HearData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\EmptyData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\DriveData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Data.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ConnectData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ByeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Ball.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\MyProperties.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\InfoData.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "server"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\server\\MovingObj.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\Sviewer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\Splayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerWorld.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerServer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerRules.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerPhysics.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\Sball.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\Host.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\HeartOfWorld.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]
+#[EndFolder]

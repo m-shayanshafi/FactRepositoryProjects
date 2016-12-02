@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Trines Spread (Doane)" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Four Trines Spread (Doane)</entry>
+	<entry key="Description">As the name suggests, there are four sets of three cards
+(trines) that work in conjunction with another. Trine of Life (1, 6, 11),
+Trine of Power (2, 7, 12), Social Trine (3, 8, 9),Trine of Secrets
+</entry>
+	<entry key="PositionTitle0">Personal life</entry><entry key="Meaning0">Health</entry>
+	<entry key="PositionTitle1">Honor and authority</entry><entry key="Meaning1">Business, reputation</entry>
+	<entry key="PositionTitle2">Partners</entry><entry key="Meaning2">Marital, enemies</entry>
+	<entry key="PositionTitle3">environment</entry><entry key="Meaning3">Things concealed in the environment</entry>
+	<entry key="PositionTitle4">Afflictions</entry><entry key="Meaning4">Enemies, failures, obstacles</entry>
+	<entry key="PositionTitle5">Mental life</entry><entry key="Meaning5">Mental life: travel</entry>
+	<entry key="PositionTitle6">Environment</entry><entry key="Meaning6">Illness, work</entry>
+	<entry key="PositionTitle7">Kin and thought</entry><entry key="Meaning7">Siblings, intellectual matters</entry>
+	<entry key="PositionTitle8">Associates</entry><entry key="Meaning8">Friends</entry>
+	<entry key="PositionTitle9">Money</entry><entry key="Meaning9">Money: debts, taxes, inheritance</entry>
+	<entry key="PositionTitle10">Posterity</entry><entry key="Meaning10">Life of Posterity: children, love affairs, pleasure,
+           speculation</entry>
+	<entry key="PositionTitle11">Wealth</entry><entry key="Meaning11"></entry>
+</oracleio>

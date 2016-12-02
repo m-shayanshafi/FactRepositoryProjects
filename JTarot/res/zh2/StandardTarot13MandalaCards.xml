@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">Mandala/Alchemical 傳播(Guiley)</entry>
+	<entry key="Description">做讀書與唯一第一九張卡片叫壇場傳播。增加四張自然力卡片是冶金傳播</entry>
+	<entry key="PositionTitle0">自已</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">慾望</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">夢想</entry><entry key="Meaning2">什麼您想要達到</entry>
+	<entry key="PositionTitle3">追求</entry><entry key="Meaning3">什麼我們活躍地設法達到</entry>
+	<entry key="PositionTitle4">附件</entry><entry key="Meaning4">拿著我們從實現我們的夢想的追求。例如, 幸福許多人夢想但追求金錢認為它將使他們愉快。但是, 這是對金錢的憂慮, 不是缺乏它, 實際上防止幸福。</entry>
+	<entry key="PositionTitle5">質量</entry><entry key="Meaning5">好方面關於querent</entry>
+	<entry key="PositionTitle6">哀痛</entry><entry key="Meaning6">缺點querent 需要改善</entry>
+	<entry key="PositionTitle7">自已圖像</entry><entry key="Meaning7">怎麼querent 圖him/herself</entry>
+	<entry key="PositionTitle8">靈魂的敦促</entry><entry key="Meaning8">某人真實的目的和desitiny</entry>
+	<entry key="PositionTitle9">地球</entry><entry key="Meaning9">黑暗、奧秘, 和未知數</entry>
+	<entry key="PositionTitle10">空氣</entry><entry key="Meaning10">精神照明和啟示</entry>
+	<entry key="PositionTitle11">火</entry><entry key="Meaning11">智力, 合理的想法, 意志</entry>
+	<entry key="PositionTitle12">水</entry><entry key="Meaning12">創造性和情感</entry>
+</oracleio>

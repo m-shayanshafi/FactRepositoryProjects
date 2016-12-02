@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Source_Files"/>
+	<classpathentry kind="lib" path="Editor/InappropriateChocolate.jar"/>
+	<classpathentry kind="lib" path="Editor/RoofDamager.jar"/>
+	<classpathentry kind="lib" path="Editor/RoofNotifier.jar"/>
+	<classpathentry kind="lib" path="NitsLoch.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

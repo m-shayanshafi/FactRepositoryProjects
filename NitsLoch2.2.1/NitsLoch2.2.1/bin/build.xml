@@ -1,0 +1,53 @@
+<project name="NitsLoch" default="all" basedir=".">
+
+	<property name="build" location="build"/>
+	<property name="src" location="src"/>
+
+	<path id="NL.classpath">
+		<pathelement location="${build}"/>
+	</path>
+
+	<target name="init">
+		<tstamp/>
+		<mkdir dir="${build}"/>
+	</target>
+
+	<target name="all" depends="Build, NitsLoch, RoofNotifier, RoofDamager, InappropriateChocolate">
+	</target>
+
+	<target name="NitsLoch" depends="Build">
+		<jar jarfile="NitsLoch.jar" basedir="${build}" manifest="nitsClass.txt"/>
+	</target>
+
+	<target name="RoofNotifier" depends="Build">
+		<jar jarfile="RoofNotifier.jar" basedir="${build}" manifest="roofClass.txt"/>
+	</target>
+
+	<target name="RoofDamager" depends="Build">
+		<jar jarfile="RoofDamager.jar" basedir="${build}" manifest="damagerClass.txt"/>
+	</target>
+	
+	<target name="InappropriateChocolate" depends="Build">
+		<jar jarfile="InappropriateChocolate.jar" basedir="${build}" manifest="chocolateClass.txt"/>
+	</target>
+
+	<target name="Build" depends="init">
+		<javac
+			encoding="utf-8"
+			srcdir="${src}"
+			destdir="${build}"
+			executable="javac"
+			fork="true"
+		>
+			<classpath refid="NL.classpath"/>
+		</javac>
+	</target>
+
+	<target name="clean">
+		<delete dir="${build}"/>
+		<delete file="NitsLoch.jar"/>
+		<delete file="RoofNotifier.jar"/>
+		<delete file="RoofDamager.jar"/>
+		<delete file="RoofDamager_new.jar"/>
+	</target>
+</project>

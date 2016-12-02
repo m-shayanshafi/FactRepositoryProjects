@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="ko" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">공개 소프트웨어</entry>
+	<entry key="ObjectTitle0">0-The바보</entry><entry key="ObjectMeaning0">어리석음, 흔들리는 속죄</entry>
+	<entry key="ObjectTitle1">1-The마술사</entry><entry key="ObjectMeaning1">의지, 의지력, 영리</entry>
+	<entry key="ObjectTitle2">2-The높은 여사제</entry><entry key="ObjectMeaning2">과학, 지혜, 지견, 교육</entry>
+	<entry key="ObjectTitle3">3-The황후</entry><entry key="ObjectMeaning3">기선, 활동, 계획, 사정안에 착수 
+운동</entry>
+	<entry key="ObjectTitle4">4-The황제</entry><entry key="ObjectMeaning4">현실화, 효력, 발달</entry>
+	<entry key="ObjectTitle5">5-TheHierophant</entry><entry key="ObjectMeaning5">자비, 선행 친절, 미덕</entry>
+	<entry key="ObjectTitle6">6-The애인</entry><entry key="ObjectMeaning6">총명한 처분, 증거, 극복되는 
+예심</entry>
+	<entry key="ObjectTitle7">7-The2륜 전차</entry><entry key="ObjectMeaning7">개선, 장애를 극복하는 승리</entry>
+	<entry key="ObjectTitle8">8 힘</entry><entry key="ObjectMeaning8">힘, 세력, 힘, 힘, 용기</entry>
+	<entry key="ObjectTitle9">9-The은자</entry><entry key="ObjectMeaning9">신중, 주의, 숙고</entry>
+	<entry key="ObjectTitle10">운의 10 바퀴</entry><entry key="ObjectMeaning10">행운, 성공, 의외 운</entry>
+	<entry key="ObjectTitle11">11공정</entry><entry key="ObjectMeaning11">평형, 균형, 공정</entry>
+	<entry key="ObjectTitle12">12-The은 남자를 걸었다</entry><entry key="ObjectMeaning12">자기희생, 희생, 헌신, 경계</entry>
+	<entry key="ObjectTitle13">13죽음</entry><entry key="ObjectMeaning13">죽음, 변화, 전이, 더 나쁜 것을 위해 
+변경</entry>
+	<entry key="ObjectTitle14">14절제</entry><entry key="ObjectMeaning14">조합, 결합하는 구조</entry>
+	<entry key="ObjectTitle15">15-The악마</entry><entry key="ObjectMeaning15">좋XXXX을 위해 불운</entry>
+	<entry key="ObjectTitle16">16-The탑</entry><entry key="ObjectMeaning16">파멸, 붕괴, 타도, 손실, 파산</entry>
+	<entry key="ObjectTitle17">17-The별</entry><entry key="ObjectMeaning17">희망, 기대, 밝은 약속</entry>
+	<entry key="ObjectTitle18">18-The달</entry><entry key="ObjectMeaning18">황혼, 기만, 과실</entry>
+	<entry key="ObjectTitle19">19-The일요일</entry><entry key="ObjectMeaning19">행복, 내용, 기쁨</entry>
+	<entry key="ObjectTitle20">20판단</entry><entry key="ObjectMeaning20">재생, 결과, 사정의 결심</entry>
+	<entry key="ObjectTitle21">21-The세계</entry><entry key="ObjectMeaning21">완료, 좋은 사례금</entry>
+	<entry key="ObjectTitle22">컵의 에이스</entry><entry key="ObjectMeaning22">, 연회 축연을 베풀n, 좋은 환호</entry>
+	<entry key="ObjectTitle23">컵의 2</entry><entry key="ObjectMeaning23">사랑, 부착, 친교, 성실, 애정</entry>
+	<entry key="ObjectTitle24">컵의 3</entry><entry key="ObjectMeaning24">성공, 개선, 승리, 호의적인 문제</entry>
+	<entry key="ObjectTitle25">컵의 4</entry><entry key="ObjectMeaning25">권태, 불쾌, 불평분자, 
+불평</entry>
+	<entry key="ObjectTitle26">컵의 5</entry><entry key="ObjectMeaning26">조합, 접속점, 결혼, 상속</entry>
+	<entry key="ObjectTitle27">컵의 6</entry><entry key="ObjectMeaning27">곁에, 통과하는, 실종되는 과거 
+사라지는 퇴색하는</entry>
+	<entry key="ObjectTitle28">컵의 7</entry><entry key="ObjectMeaning28">아이디어, 감정, 반영, 계획사업</entry>
+	<entry key="ObjectTitle29">컵의 8</entry><entry key="ObjectMeaning29">공정한 여아, 친교, 부착, 연함</entry>
+	<entry key="ObjectTitle30">컵의 9</entry><entry key="ObjectMeaning30">승리, 이점, 성공, 개선, 극복되는 
+곤란</entry>
+	<entry key="ObjectTitle31">컵의 10</entry><entry key="ObjectMeaning31">것개이 거주하는 까 그 안에서 도시는, 
+고려사항, 존중, 미덕, 명예, 명망 명예를
+준다</entry>
+	<entry key="ObjectTitle32">컵의 페이지</entry><entry key="ObjectMeaning32">공정한 젊음, 신뢰, 청렴, 재량, 
+완전성</entry>
+	<entry key="ObjectTitle33">컵의 기사</entry><entry key="ObjectMeaning33">도착, 접근, 전진</entry>
+	<entry key="ObjectTitle34">컵의 여왕</entry><entry key="ObjectMeaning34">공정한 여자, 성공, 행복, 이점, 
+쾌락</entry>
+	<entry key="ObjectTitle35">컵의 임금</entry><entry key="ObjectMeaning35">공정한 남자, 미덕, 친절, 자유주의, 
+관대</entry>
+	<entry key="ObjectTitle36">Pentacles의 에이스</entry><entry key="ObjectMeaning36">완전한 만족, 경사, 번영, 개선</entry>
+	<entry key="ObjectTitle37">Pentacles의 2</entry><entry key="ObjectMeaning37">당황, 걱정, 곤란</entry>
+	<entry key="ObjectTitle38">Pentacles의 3</entry><entry key="ObjectMeaning38">귀족, 고각, 존엄, 계급, 힘</entry>
+	<entry key="ObjectTitle39">Pentacles의 4</entry><entry key="ObjectMeaning39">쾌락, 유쾌, 즐거움, 만족</entry>
+	<entry key="ObjectTitle40">Pentacles의 5</entry><entry key="ObjectMeaning40">애인 또는 주부, 사랑, 감미, 애정, 
+청정하고 및 순결한 사랑</entry>
+	<entry key="ObjectTitle41">Pentacles의 6</entry><entry key="ObjectMeaning41">현재, 선물, 만족:</entry>
+	<entry key="ObjectTitle42">Pentacles의 7</entry><entry key="ObjectMeaning42">돈, 경리, 보물, 이익, 이익</entry>
+	<entry key="ObjectTitle43">Pentacles의 8</entry><entry key="ObjectMeaning43">어두운 여아, 아름다움, 솔직, 순결, 
+순결, 겸손</entry>
+	<entry key="ObjectTitle44">Pentacles의 9</entry><entry key="ObjectMeaning44">재량, 세심한 주의, 신중, 감식력</entry>
+	<entry key="ObjectTitle45">Pentacles의 10</entry><entry key="ObjectMeaning45">집, 집, 거주, 가족</entry>
+	<entry key="ObjectTitle46">Pentacles의 페이지</entry><entry key="ObjectMeaning46">어두운 젊음, 경제, 순서, 규칙, 
+관리</entry>
+	<entry key="ObjectTitle47">Pentacles의 기사</entry><entry key="ObjectMeaning47">, 지혜 확실한, 유용한 남자 경제, 
+순서, 규칙</entry>
+	<entry key="ObjectTitle48">Pentacles의 여왕</entry><entry key="ObjectMeaning48">어두운 여자, 관대한 여자, 자유주의, 
+넋, 관대의 위대함</entry>
+	<entry key="ObjectTitle49">Pentacles의 임금</entry><entry key="ObjectMeaning49">어두운 남자, 승리, 용감성, 용기, 
+성공</entry>
+	<entry key="ObjectTitle50">칼의 에이스</entry><entry key="ObjectMeaning50">개선, 다산, 비옥, 번영</entry>
+	<entry key="ObjectTitle51">칼의 2</entry><entry key="ObjectMeaning51">친교,Valour의 견고, 용기</entry>
+	<entry key="ObjectTitle52">칼의 3</entry><entry key="ObjectMeaning52">별거, 제거, 파열, 싸움, 수녀</entry>
+	<entry key="ObjectTitle53">칼의 4</entry><entry key="ObjectMeaning53">고독, 퇴각, 고독한 각화, 은자</entry>
+	<entry key="ObjectTitle54">칼의 5</entry><entry key="ObjectMeaning54">의 슬픔, 고통 슬퍼함</entry>
+	<entry key="ObjectTitle55">칼의 6</entry><entry key="ObjectMeaning55">메신저, 항해, 여행, 결구</entry>
+	<entry key="ObjectTitle56">칼의 7</entry><entry key="ObjectMeaning56">희망, 신뢰, 욕망, 시도, 소원</entry>
+	<entry key="ObjectTitle57">칼의 8</entry><entry key="ObjectMeaning57">병, 비방, 비판, 비난</entry>
+	<entry key="ObjectTitle58">칼의 9</entry><entry key="ObjectMeaning58">양심, 성직자, 성직자. 청렴, 
+성실, 완전성</entry>
+	<entry key="ObjectTitle59">칼의 10</entry><entry key="ObjectMeaning59">눈물, 고통, 비탄, 비애</entry>
+	<entry key="ObjectTitle60">칼의 페이지</entry><entry key="ObjectMeaning60">바라보아 권위, 간첩</entry>
+	<entry key="ObjectTitle61">칼의 기사</entry><entry key="ObjectMeaning61">그의 직업이 팔 이는 남자,Skilfulness의 
+수용량, 주소,Promptitude, 군인</entry>
+	<entry key="ObjectTitle62">칼의 여왕</entry><entry key="ObjectMeaning62">Widowhood, 손실, 결핍, 휴무, 별거</entry>
+	<entry key="ObjectTitle63">칼의 임금</entry><entry key="ObjectMeaning63">법률, 힘, 명령, 우월, 권위의 남자, 
+변호사</entry>
+	<entry key="ObjectTitle64">지팡이의 에이스</entry><entry key="ObjectMeaning64">출생, 시작, 처음, 원천, 근원</entry>
+	<entry key="ObjectTitle65">지팡이의 2</entry><entry key="ObjectMeaning65">Riches의 운, 부유, 장려, 웅대</entry>
+	<entry key="ObjectTitle66">지팡이의 3</entry><entry key="ObjectMeaning66">기업, 기업, 상업, 무역, 교섭</entry>
+	<entry key="ObjectTitle67">지팡이의 4</entry><entry key="ObjectMeaning67">사회, 조합, 협회, 일치, 하모니</entry>
+	<entry key="ObjectTitle68">지팡이의 5</entry><entry key="ObjectMeaning68">금, 부유, 이익, 유산,Riches의 운, 돈</entry>
+	<entry key="ObjectTitle69">지팡이의 6</entry><entry key="ObjectMeaning69">시도, 희망, 욕망, 소원, 기대</entry>
+	<entry key="ObjectTitle70">지팡이의 7</entry><entry key="ObjectMeaning70">성공, 이익, 이점, 이익, 승리</entry>
+	<entry key="ObjectTitle71">지팡이의 8</entry><entry key="ObjectMeaning71">이해, 관측, 방향</entry>
+	<entry key="ObjectTitle72">지팡이의 9</entry><entry key="ObjectMeaning72">순서, 분야, 좋은 배열, 처분</entry>
+	<entry key="ObjectTitle73">지팡이의 10</entry><entry key="ObjectMeaning73">신뢰, 안전, 명예, 성실</entry>
+	<entry key="ObjectTitle74">지팡이의 페이지</entry><entry key="ObjectMeaning74">좋은 낯선 사람, 희소식, 쾌락, 만족</entry>
+	<entry key="ObjectTitle75">지팡이의 기사</entry><entry key="ObjectMeaning75">출발, 별거,Disunion</entry>
+	<entry key="ObjectTitle76">지팡이의 여왕</entry><entry key="ObjectMeaning76">나라안에 여자 돈의 사랑, 탐욕, 고리, 
+영지의 숙녀 살아</entry>
+	<entry key="ObjectTitle77">지팡이의 임금  </entry><entry key="ObjectMeaning77">나라안에, 나라 신사 살아, 남자 지견, 
+교육</entry>
+	<entry key="ReversedMeaning0">주저, 불안정성, 말썽 
+일어나는herefrom.</entry>
+	<entry key="ReversedMeaning1">나쁜 끝에, 의지 적용되는, 의지 
+간교,Knavishness의 약점.</entry>
+	<entry key="ReversedMeaning2">자만, 무지,Unskilfulness의 표면 지견.</entry>
+	<entry key="ReversedMeaning3">힘의 멀리 짤끔짤끔 낭비하는 나태는 
+농도 동요의, 원한다.</entry>
+	<entry key="ReversedMeaning4">정지, 익지 않는 체크, 미성숙한.</entry>
+	<entry key="ReversedMeaning5">에 친절, 약점, 관대의 미련한 운동.</entry>
+	<entry key="ReversedMeaning6">시험에 둘 경우 계획, 실패.</entry>
+	<entry key="ReversedMeaning7">전복하는, 마지막 순간에Obstacles에의해 
+타파해.</entry>
+	<entry key="ReversedMeaning8">,Overbearingness권력의 남용은 용기의, 
+원한다.</entry>
+	<entry key="ReversedMeaning9">에 신중,Timorousness의 공포.</entry>
+	<entry key="ReversedMeaning10">아프 운, 실패, 의외 아프 운.</entry>
+	<entry key="ReversedMeaning11">완미한 신앙은 균형, 공정, 에 엄격엄격, 
+불평등, 편견의 남용의, 원한다.</entry>
+	<entry key="ReversedMeaning12">사심, 해방되는, 부분적인 희생.</entry>
+	<entry key="ReversedMeaning13">죽음은 다만, 부분적인 변화, 더 나았던 
+것을 위해 변경 도주했다.</entry>
+	<entry key="ReversedMeaning14">경솔한 조합,Disunion, 충돌 관심사,etc..</entry>
+	<entry key="ReversedMeaning15">악을 위해 불운.</entry>
+	<entry key="ReversedMeaning16">안에 이들 좀더 또는 보다 적게 부분적인 
+계급.</entry>
+	<entry key="ReversedMeaning17">성취하지 않는 희망, 작은 계급안에 
+낙망되나 성취되는 기대.</entry>
+	<entry key="ReversedMeaning18">동요, 경미한 기만,Trifling과오.</entry>
+	<entry key="ReversedMeaning19">작은 계급안에 이들.</entry>
+	<entry key="ReversedMeaning20">결과, 지연, 늦게 재개되는 사정의 연기.</entry>
+	<entry key="ReversedMeaning21">나쁜 사례금, 또는Recompense.</entry>
+	<entry key="ReversedMeaning22">변화, 참신, 변성, 변덕.</entry>
+	<entry key="ReversedMeaning23">교차한 욕망, 장애, 반대, 지장.</entry>
+	<entry key="ReversedMeaning24">사업, 민첩, 기민함, 조심의 탐험.</entry>
+	<entry key="ReversedMeaning25">새로운 지인, 추측, 표시,Presentiment.</entry>
+	<entry key="ReversedMeaning26">도착, 반환, 뉴스, 놀람, 틀린 계획사업.</entry>
+	<entry key="ReversedMeaning27">미래, 빨리, 짧게 온것을, 이는 저것.</entry>
+	<entry key="ReversedMeaning28">계획, 디자인, 결의안, 결정.</entry>
+	<entry key="ReversedMeaning29">, 기쁨 축연을 베풀는, 유쾌 쾌락.</entry>
+	<entry key="ReversedMeaning30">결함, 과실, 과오, 불완전.</entry>
+	<entry key="ReversedMeaning31">전투, 투쟁, 반대, 다름, 논박.</entry>
+	<entry key="ReversedMeaning32">아첨꾼, 기만, 책략.</entry>
+	<entry key="ReversedMeaning33">이심, 신뢰, 교활한 사기의 남용.</entry>
+	<entry key="ReversedMeaning34">좋은 위치, 그러나intermeddling안에 여자, 그리고 
+불신한 위하여; 약간 수행 말썽에 성공,
+그러나.</entry>
+	<entry key="ReversedMeaning35">그의 거래, 불신감, 의혹, 의혹안에 좋은 
+위치의 남자, 그러나 수단이 좋은.</entry>
+	<entry key="ReversedMeaning36">금, 돈, 이익, 도움, 이익,Riches의 지갑.</entry>
+	<entry key="ReversedMeaning37">편지, 공식 서한, 서간, 메시지.</entry>
+	<entry key="ReversedMeaning38">아이들, 아들, 딸, 젊음, 시작.</entry>
+	<entry key="ReversedMeaning39">장애, 지장.</entry>
+	<entry key="ReversedMeaning40">수치스러운 사랑, 몰지각, 면허,Profligacy.</entry>
+	<entry key="ReversedMeaning41">명예심, 욕망, 열정, 조준, 갈망.</entry>
+	<entry key="ReversedMeaning42">소요, 걱정, 불안, 우울.</entry>
+	<entry key="ReversedMeaning43">감언이설, 고리, 수단이 좋은 위선.</entry>
+	<entry key="ReversedMeaning44">책략, 부정직, 책략, 기만.</entry>
+	<entry key="ReversedMeaning45">의 방산, 강도, 손실 노름.</entry>
+	<entry key="ReversedMeaning46">낭비, 대량, 낭비, 방산.</entry>
+	<entry key="ReversedMeaning47">고용, 한가, 태만한 실업자에서 용감한 
+남자, 그러나.</entry>
+	<entry key="ReversedMeaning48">어느 악, 거동수상한 여자, 정당하게 의혹, 
+의혹, 불신에 주시되는 여자.</entry>
+	<entry key="ReversedMeaning49">오래 되고는 맹렬한 남자, 위험한 남자, 
+의혹, 공포, 위험, 위험.</entry>
+	<entry key="ReversedMeaning50">당황, 미련한 및 사랑, 장애, 지장.</entry>
+	<entry key="ReversedMeaning51">틀린 친구, 배반은, 속인다.</entry>
+	<entry key="ReversedMeaning52">과실, 혼란,Misrule의 무질서.</entry>
+	<entry key="ReversedMeaning53">경제, 경고, 비용의 규칙.</entry>
+	<entry key="ReversedMeaning54">반전해 손실은 고생한다 (동일한 의미는.)</entry>
+	<entry key="ReversedMeaning55">폭로 제시되는, 사랑 놀람, 선언.</entry>
+	<entry key="ReversedMeaning56">총명한 통보, 좋은 의논, 지혜, 신중, 
+세심한 주의.</entry>
+	<entry key="ReversedMeaning57">과거안에 배반, 사건, 사고, 현저한 사건.</entry>
+	<entry key="ReversedMeaning58">총명한 불신감, 의혹, 공포, 의혹, 
+그늘지는 특성.</entry>
+	<entry key="ReversedMeaning59">성공을 통과한, 순간 이점.</entry>
+	<entry key="ReversedMeaning60">의외 이는 저것, 조심, 지원.</entry>
+	<entry key="ReversedMeaning61">자만하는 바보, 솔직, 간명.</entry>
+	<entry key="ReversedMeaning62">나쁜 여자,ill-tempered및 편협한,Riches과 
+갈등 의 걱정, 비탄에 기쁨와 함께 풍부.</entry>
+	<entry key="ReversedMeaning63">사악한 남자, 억울함, 걱정, 비탄, 공포, 
+소요.</entry>
+	<entry key="ReversedMeaning64">박해, 추적Voilence의 애태움, 잔혹성, 
+폭정.</entry>
+	<entry key="ReversedMeaning65">놀람, 경천동지, 사건, 특별한 발생.</entry>
+	<entry key="ReversedMeaning66">희망, 욕망, 시도, 소원.</entry>
+	<entry key="ReversedMeaning67">번영, 성공, 행복, 이점.</entry>
+	<entry key="ReversedMeaning68">재판소, 법률 소송 절차, 판단, 법률, 
+변호사.</entry>
+	<entry key="ReversedMeaning69">불신앙, 배반, 불충실, 불신.</entry>
+	<entry key="ReversedMeaning70">우유 부단, 의혹, 주저, 당황, 불안.</entry>
+	<entry key="ReversedMeaning71">싸움, 내장은, 갈등 논박한다.</entry>
+	<entry key="ReversedMeaning72">장애, 십자가, 지연, 불쾌.</entry>
+	<entry key="ReversedMeaning73">배반,Subterfuge, 이심, 막대기.</entry>
+	<entry key="ReversedMeaning74">아픈 뉴스, 불쾌, 억울함, 걱정.</entry>
+	<entry key="ReversedMeaning75">파열, 갈등, 싸움.</entry>
+	<entry key="ReversedMeaning76">좋은 것 유덕한 여자, 그러나 준엄한 및 경제
+의 장애, 저항, 반대.</entry>
+	<entry key="ReversedMeaning77">자연적으로 좋고 그러나 가혹한 남자, 의논, 
+통보, 숙고.</entry>
+</oracleio>

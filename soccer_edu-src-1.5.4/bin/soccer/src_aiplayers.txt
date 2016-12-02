@@ -1,0 +1,5 @@
+D:\Vadim\Soccer\Ball_passing\soccer\agent\WorldModel.java
+D:\Vadim\Soccer\Ball_passing\soccer\agent\Robot.java
+D:\Vadim\Soccer\Ball_passing\soccer\agent\Observer.java
+D:\Vadim\Soccer\Ball_passing\soccer\agent\Formation.java
+D:\Vadim\Soccer\Ball_passing\soccer\agent\AIPlayers.java

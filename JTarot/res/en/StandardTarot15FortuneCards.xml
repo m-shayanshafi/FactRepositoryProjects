@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Fortune Teller's Spread (Morison)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Fortune Teller's Spread (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Outcome 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Outcome 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Outcome 3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Querent's Thoughts 1</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Querent's Thoughts 2</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Querent's Thoughts 3</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Choices 1</entry><entry key="Meaning6">Things you control, possible choices</entry>
+	<entry key="PositionTitle7">Choices 2</entry><entry key="Meaning7">Things you control, possible choices</entry>
+	<entry key="PositionTitle8">Choices 3</entry><entry key="Meaning8">Things you control, possible choices</entry>
+	<entry key="PositionTitle9">Strengths 1</entry><entry key="Meaning9">Things which give you strength</entry>
+	<entry key="PositionTitle10">Strengths 2</entry><entry key="Meaning10">Things which give you strength</entry>
+	<entry key="PositionTitle11">Strengths 3</entry><entry key="Meaning11">Things which give you strength</entry>
+	<entry key="PositionTitle12">Surprise 1</entry><entry key="Meaning12">Things not known to querent or overlooked</entry>
+	<entry key="PositionTitle13">Surprise 2</entry><entry key="Meaning13">Things not known to querent or overlooked</entry>
+	<entry key="PositionTitle14">Surprise 2</entry><entry key="Meaning14">Things not known to querent or overlooked</entry>
+</oracleio>

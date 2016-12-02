@@ -1,0 +1,39 @@
+
+Building: 
+	
+To build this software, the following packages are required:
+	
+ 1) The Sun Wireless Toolkit
+
+	http://java.sun.com/products/sjwtoolkit/
+		
+ 2) Apache Ant
+		 
+ 	http://ant.apache.org/
+		
+ 3) Antenna - J2ME ant tasks
+		
+	http://antenna.sourceforge.net/
+			
+ 4) Proguard - Java obfuscation
+		
+	http://proguard.sourceforge.net/
+			
+Once these packages are installed update the build.system.properties file to include the appropriate paths.
+	
+Building is accomplished by using running ant in the project directory with project-specific ant targets. When in the project roon, type "ant help" to get a list of available targets.
+	
+A summary of the main ant targets follows:
+
+Build target - builds project classes in build/classes directory:
+	
+	ant build
+		
+Package target - creates .jar and .jad files in the build/jar directory
+	
+	ant package
+		
+Javadoc target - creates javadoc in the docs/javadoc directory
+		
+	ant javadoc
+

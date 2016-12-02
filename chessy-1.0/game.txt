@@ -1,0 +1,46 @@
+;Title: Yahoo! Chess Game
+;White: nosejugarr
+;Black: _dav_
+;Date: Mon Feb 11 14:34:03 PST 2002
+
+1. e2-e4 d7-d5
+2. e4-e5 d5-d4
+3. d2-d3 e7-e6
+4. g1-f3 g7-g6
+5. c1-g5 d8-d5
+6. c2-c4 d5-c5
+7. g5-f6 g8xf6
+8. e5xf6 c5-f5
+9. f3xd4 f5xf6
+10. d4-b5 f6xb2
+11. b5xc7+ e8-e7
+12. b1-d2 f8-g7
+13. c7xa8 b2xa1
+14. d1xa1 g7xa1
+15. f1-e2 a1-c3
+16. a8-c7 c3xd2+
+17. e1xd2 e7-d7
+18. c7-b5 a7-a6
+19. b5-d4 b8-c6
+20. d4xc6 d7xc6
+21. e2-f3+ c6-c5
+22. h1-b1 f7-f5
+23. d2-c3 b7-b5
+24. d3-d4+ c5-b6
+25. c4-c5+ b6-a5
+26. b1-b4 h7-h5
+27. f3-c6 h8-h7
+28. a2-a4 c8-d7
+29. c6-b7 e6-e5
+30. d4xe5 f5-f4
+31. c5-c6 g6-g5
+32. c6xd7 h7xd7
+33. b7-c6 d7-c7
+34. a4xb5 a6xb5
+35. b4xb5+ a5-a6
+36. b5-c5 a6-b6
+37. e5-e6 b6xc5
+38. c6-e4 c5-d6+
+39. c3-d4 d6xe6
+40. f2-f3 e6-f6
+41. h2-h3 h5-h4

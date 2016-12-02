@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="es" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">tonto 0-The</entry><entry key="ObjectMeaning0">Locura, Expiation, Dudando</entry>
+	<entry key="ObjectTitle1">mago 1-The</entry><entry key="ObjectMeaning1">Voluntad,-Energi'a, Destreza</entry>
+	<entry key="ObjectTitle2">Priestess Alto 2-The</entry><entry key="ObjectMeaning2">Ciencia, Sabiduría, Conocimiento, Educación</entry>
+	<entry key="ObjectTitle3">empress 3-The</entry><entry key="ObjectMeaning3">Acción, plan, movimiento de empresa en una cuestión, 
+iniciativa</entry>
+	<entry key="ObjectTitle4">emperador 4-The</entry><entry key="ObjectMeaning4">Realización, Efecto, Desarrollo</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Misericordia, Amabilidad Del Beneficence, Calidad</entry>
+	<entry key="ObjectTitle6">amantes 6-The</entry><entry key="ObjectMeaning6">Disposiciones Sabias, Prueba, Ensayos Superados</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Triunfo, victoria, superando obstáculos</entry>
+	<entry key="ObjectTitle8">8-Fuerzas</entry><entry key="ObjectMeaning8">Energía, Fuerza, Fuerza, Fuerza, Fortaleza de ánimo</entry>
+	<entry key="ObjectTitle9">ermitaño 9-The</entry><entry key="ObjectMeaning9">Prudencia, Precaución, Deliberación</entry>
+	<entry key="ObjectTitle10">10-Wheel de la fortuna</entry><entry key="ObjectMeaning10">Buena Fortuna, Éxito, Suerte Inesperada</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Equilibrio, Balance, Justicia</entry>
+	<entry key="ObjectTitle12">12-The colgó el hombre</entry><entry key="ObjectMeaning12">Self-sacrifice, Sacrificio, Dedicación, Límite</entry>
+	<entry key="ObjectTitle13">13-Muerte</entry><entry key="ObjectMeaning13">Muerte, cambio, transformación, alteración para el 
+peor</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Combinación, Conformación, Uniendo</entry>
+	<entry key="ObjectTitle15">diablo 15-The</entry><entry key="ObjectMeaning15">Fatalidad para el bueno</entry>
+	<entry key="ObjectTitle16">torre 16-The</entry><entry key="ObjectMeaning16">Ruina, Interrupción, Derrocamiento, Pérdida, 
+Bancarrota</entry>
+	<entry key="ObjectTitle17">estrella 17-The</entry><entry key="ObjectMeaning17">Esperanza, expectativa, promesas brillantes</entry>
+	<entry key="ObjectTitle18">luna 18-The</entry><entry key="ObjectMeaning18">Crepúsculo, Engaño, Error</entry>
+	<entry key="ObjectTitle19">sol 19-The</entry><entry key="ObjectMeaning19">Felicidad, Contenido, Alegría</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Renovación, resultado, determinación de una 
+cuestión</entry>
+	<entry key="ObjectTitle21">mundo 21-The</entry><entry key="ObjectMeaning21">Terminación, Buena Recompensa</entry>
+	<entry key="ObjectTitle22">As de tazas</entry><entry key="ObjectMeaning22">Banqueteando, Banquete, Buena Aclamación</entry>
+	<entry key="ObjectTitle23">Dos de tazas</entry><entry key="ObjectMeaning23">Amor, Accesorio, Amistad, Sinceridad, Afecto</entry>
+	<entry key="ObjectTitle24">Tres de tazas</entry><entry key="ObjectMeaning24">Éxito, triunfo, victoria, edición favorable</entry>
+	<entry key="ObjectTitle25">Cuatro de tazas</entry><entry key="ObjectMeaning25">Tedio, Descontento, Descontento, Descontento</entry>
+	<entry key="ObjectTitle26">Cinco de tazas</entry><entry key="ObjectMeaning26">Unión, Ensambladura, Unión, Herencia</entry>
+	<entry key="ObjectTitle27">Seises de tazas</entry><entry key="ObjectMeaning27">El pasado, pasado cerca, descolorado, desaparecido, 
+desaparecido</entry>
+	<entry key="ObjectTitle28">Siete de tazas</entry><entry key="ObjectMeaning28">Idea, Sentimiento, Reflexión, Proyecto</entry>
+	<entry key="ObjectTitle29">Ocho de tazas</entry><entry key="ObjectMeaning29">Una muchacha justa, amistad, accesorio, dulzura</entry>
+	<entry key="ObjectTitle30">Nueve de tazas</entry><entry key="ObjectMeaning30">Victoria, ventaja, éxito, triunfo, dificultades 
+superadas</entry>
+	<entry key="ObjectTitle31">Diez de tazas</entry><entry key="ObjectMeaning31">La ciudad en donde reside una, honra, consideración, 
+estima, virtud, gloria, reputación</entry>
+	<entry key="ObjectTitle32">Página de tazas</entry><entry key="ObjectMeaning32">Una juventud justa, confianza, probidad, discreción, 
+integridad</entry>
+	<entry key="ObjectTitle33">Caballero de tazas</entry><entry key="ObjectMeaning33">Llegada, Acercamiento, Avance</entry>
+	<entry key="ObjectTitle34">Reina de tazas</entry><entry key="ObjectMeaning34">Una mujer justa, éxito, felicidad, ventaja, placer</entry>
+	<entry key="ObjectTitle35">Rey de tazas</entry><entry key="ObjectMeaning35">Un hombre justo, calidad, amabilidad, liberalidad, 
+generosidad</entry>
+	<entry key="ObjectTitle36">As de Pentacles</entry><entry key="ObjectMeaning36">Alegría Perfecta, Felicity, Prosperidad, Triunfo</entry>
+	<entry key="ObjectTitle37">Dos de Pentacles</entry><entry key="ObjectMeaning37">Vergu|enza, Preocupación, Dificultades</entry>
+	<entry key="ObjectTitle38">Tres de Pentacles</entry><entry key="ObjectMeaning38">Nobleza, Elevación, Dignidad, Fila, Energía</entry>
+	<entry key="ObjectTitle39">Cuatro de Pentacles</entry><entry key="ObjectMeaning39">Placer, Alegría, Disfrute, Satisfacción</entry>
+	<entry key="ObjectTitle40">Cinco de Pentacles</entry><entry key="ObjectMeaning40">Amor del amante o de la amante, del amor, del dulzor, 
+del afecto, puro y casto</entry>
+	<entry key="ObjectTitle41">Seises de Pentacles</entry><entry key="ObjectMeaning41">Presentes, Regalos, Satisfacción:</entry>
+	<entry key="ObjectTitle42">Siete de Pentacles</entry><entry key="ObjectMeaning42">Dinero, Finanzas, Tesoro, Aumento, Beneficio</entry>
+	<entry key="ObjectTitle43">Ocho de Pentacles</entry><entry key="ObjectMeaning43">Una muchacha oscura, belleza, sinceridad, chastity, 
+inocencia, modestia</entry>
+	<entry key="ObjectTitle44">Nueve de Pentacles</entry><entry key="ObjectMeaning44">Discreción, Circumspection, Prudencia, Discernimiento</entry>
+	<entry key="ObjectTitle45">Diez de Pentacles</entry><entry key="ObjectMeaning45">Casa, Vivienda, Habitation, Familia</entry>
+	<entry key="ObjectTitle46">Página de Pentacles</entry><entry key="ObjectMeaning46">Una juventud oscura, economía, orden, regla, gerencia</entry>
+	<entry key="ObjectTitle47">Caballero de Pentacles</entry><entry key="ObjectMeaning47">Un hombre útil, digno de confianza, sabiduría, 
+economía, orden, regulación</entry>
+	<entry key="ObjectTitle48">Reina de Pentacles</entry><entry key="ObjectMeaning48">Una mujer oscura, mujer abundante, liberalidad, 
+Grandeza del alma, generosidad</entry>
+	<entry key="ObjectTitle49">Rey de Pentacles</entry><entry key="ObjectMeaning49">Un hombre oscuro, victoria, valor, valor, éxito</entry>
+	<entry key="ObjectTitle50">As de espadas</entry><entry key="ObjectMeaning50">Triunfo, Fecundidad, Fertilidad, Prosperidad</entry>
+	<entry key="ObjectTitle51">Dos de espadas</entry><entry key="ObjectMeaning51">Amistad, Valour, Firmeza, Valor</entry>
+	<entry key="ObjectTitle52">Tres de espadas</entry><entry key="ObjectMeaning52">Una Monja, Separación, Retiro, Ruptura, Pelea</entry>
+	<entry key="ObjectTitle53">Cuatro de espadas</entry><entry key="ObjectMeaning53">Soledad, Retratamiento, Abandono, Solitario, Ermitaño</entry>
+	<entry key="ObjectTitle54">Cinco de espadas</entry><entry key="ObjectMeaning54">Luto, Tristeza, Aflicción</entry>
+	<entry key="ObjectTitle55">Seises de espadas</entry><entry key="ObjectMeaning55">Enviado, Mensajero, Viaje, Recorrido</entry>
+	<entry key="ObjectTitle56">Siete de espadas</entry><entry key="ObjectMeaning56">Esperanza, Confianza, Deseo, Tentativa, Deseo</entry>
+	<entry key="ObjectTitle57">Ocho de espadas</entry><entry key="ObjectMeaning57">Enfermedad, Calumnia, Crítica, Culpa</entry>
+	<entry key="ObjectTitle58">Nueve de espadas</entry><entry key="ObjectMeaning58">Un eclesiástico, sacerdote, conciencia. 
+Probidad, Buena Fe, Integridad</entry>
+	<entry key="ObjectTitle59">Diez de espadas</entry><entry key="ObjectMeaning59">Rasgones, Aflicción, Pena, Dolor</entry>
+	<entry key="ObjectTitle60">Página de espadas</entry><entry key="ObjectMeaning60">Un Espía, Pasando por alto, Autoridad</entry>
+	<entry key="ObjectTitle61">Caballero de espadas</entry><entry key="ObjectMeaning61">Un soldado, hombre que profesión es brazos, 
+Skilfulness, capacidad, dirección, Promptitude</entry>
+	<entry key="ObjectTitle62">Reina de espadas</entry><entry key="ObjectMeaning62">Widowhood, Pérdida, Privation, Ausencia, Separación</entry>
+	<entry key="ObjectTitle63">Rey de espadas</entry><entry key="ObjectMeaning63">Un abogado, hombre de la ley, energía, comando, 
+superioridad, autoridad</entry>
+	<entry key="ObjectTitle64">As de varitas</entry><entry key="ObjectMeaning64">Nacimiento, Comienzo, Principio, Origen, Fuente</entry>
+	<entry key="ObjectTitle65">Dos de varitas</entry><entry key="ObjectMeaning65">Riquezas, Fortuna, Opulence, Magnificence, Grandeur</entry>
+	<entry key="ObjectTitle66">Tres de varitas</entry><entry key="ObjectMeaning66">Empresa, Empresa, Comercio, Comercio, Negociación</entry>
+	<entry key="ObjectTitle67">Cuatro de varitas</entry><entry key="ObjectMeaning67">Sociedad, Unión, Asociación, Concordia, Armonía</entry>
+	<entry key="ObjectTitle68">Cinco de varitas</entry><entry key="ObjectMeaning68">Oro, Opulence, Aumento, Herencia, Riquezas, Fortuna,
+Dinero</entry>
+	<entry key="ObjectTitle69">Seises de varitas</entry><entry key="ObjectMeaning69">Tentativa, Esperanza, Deseo, Deseo, Expectativa</entry>
+	<entry key="ObjectTitle70">Siete de varitas</entry><entry key="ObjectMeaning70">Éxito, Aumento, Ventaja, Beneficio, Victoria</entry>
+	<entry key="ObjectTitle71">Ocho de varitas</entry><entry key="ObjectMeaning71">Comprensión, Observación, Dirección</entry>
+	<entry key="ObjectTitle72">Nueve de varitas</entry><entry key="ObjectMeaning72">Orden, Disciplina, Buen Arreglo, Disposición</entry>
+	<entry key="ObjectTitle73">Diez de varitas</entry><entry key="ObjectMeaning73">Confianza, Seguridad, Honor, Buena Fe</entry>
+	<entry key="ObjectTitle74">Página de varitas</entry><entry key="ObjectMeaning74">Un Buen Extranjero, Buenas Noticias, Placer, 
+Satisfacción</entry>
+	<entry key="ObjectTitle75">Caballero de varitas</entry><entry key="ObjectMeaning75">Salida, Separación, Disunion</entry>
+	<entry key="ObjectTitle76">Reina de varitas</entry><entry key="ObjectMeaning76">Mujer que vive en el país, señora del señorío, amor
+del dinero, avaricia, usura</entry>
+	<entry key="ObjectTitle77">Rey de varitas  </entry><entry key="ObjectMeaning77">Hombre que vive en el país, caballero del país, 
+conocimiento, educación</entry>
+	<entry key="ReversedMeaning0">Vacilación, inestabilidad, herefrom que se presenta 
+del apuro.</entry>
+	<entry key="ReversedMeaning1">Voluntad aplicada a los extremos malvados, debilidad de la 
+voluntad, astucia, Knavishness.</entry>
+	<entry key="ReversedMeaning2">Conceit, Ignorancia, Unskilfulness, Conocimiento Superficial.</entry>
+	<entry key="ReversedMeaning3">La inacción, fragmentando lejos de energía, desea de la 
+concentración Vacillation.</entry>
+	<entry key="ReversedMeaning4">Parada, Cheque, No maduro, Inmaduro.</entry>
+	<entry key="ReversedMeaning5">Sobre-amabilidad, debilidad, ejercicio absurdo de la 
+generosidad.</entry>
+	<entry key="ReversedMeaning6">Planes imprudentes, falta cuando está puesto a la prueba.</entry>
+	<entry key="ReversedMeaning7">Derrocado, conquistado por Obstacles en el momento pasado.</entry>
+	<entry key="ReversedMeaning8">El abuso de la energía, Overbearingness, desea de Fortaleza de ánimo.</entry>
+	<entry key="ReversedMeaning9">Sobre-prudencia, Timorousness, Miedo.</entry>
+	<entry key="ReversedMeaning10">Enfermo-Fortuna, Falta, Enfermo-Suerte Inesperada.</entry>
+	<entry key="ReversedMeaning11">El fanatismo, desea del balance, abuso de la justicia, 
+Sobre-severidad, desigualdad, diagonal.</entry>
+	<entry key="ReversedMeaning12">Egoísmo, sacrificio desatado, parcial.</entry>
+	<entry key="ReversedMeaning13">La muerte acaba de escaparse, el cambio parcial, alteración 
+para el mejor.</entry>
+	<entry key="ReversedMeaning14">Combinaciones poco aconsejables, Disunion, intereses clashing, 
+etc.</entry>
+	<entry key="ReversedMeaning15">Fatalidad para el mal.</entry>
+	<entry key="ReversedMeaning16">Éstos en grado más o menos parcial.</entry>
+	<entry key="ReversedMeaning17">Esperanzas no satisfechas, expectativas decepcionadas o 
+satisfechas un grado de menor importancia.</entry>
+	<entry key="ReversedMeaning18">Fluctuación, engaños leves, errores de Trifling.</entry>
+	<entry key="ReversedMeaning19">Éstos un grado de menor importancia.</entry>
+	<entry key="ReversedMeaning20">El aplazamiento del resultado, retrasa, materia abierta de nuevo
+más adelante.</entry>
+	<entry key="ReversedMeaning21">Recompensa malvada, o Recompense.</entry>
+	<entry key="ReversedMeaning22">Cambio, Novedad, Metamorfosis, Inconstancy.</entry>
+	<entry key="ReversedMeaning23">Deseos cruzados, obstáculos, oposición, obstáculo.</entry>
+	<entry key="ReversedMeaning24">Expedición del negocio, quickness, celerity, vigilancia.</entry>
+	<entry key="ReversedMeaning25">Nuevo Conocido, Conjetura, Muestra, Presentiment.</entry>
+	<entry key="ReversedMeaning26">Llegada, vuelta, noticias, sorpresa, proyectos falsos.</entry>
+	<entry key="ReversedMeaning27">El futuro, de que que debe venir, pronto, pronto.</entry>
+	<entry key="ReversedMeaning28">Plan, Diseño, Resolución, Decisión.</entry>
+	<entry key="ReversedMeaning29">Alegría, Banqueteando, Alegría, Placer.</entry>
+	<entry key="ReversedMeaning30">Averías, Errores, Errores, Imperfecciones.</entry>
+	<entry key="ReversedMeaning31">Combate, Distensión, Oposición, Diferencias, Conflicto.</entry>
+	<entry key="ReversedMeaning32">Un Flatterer, Engaño, Artifice.</entry>
+	<entry key="ReversedMeaning33">Duplicidad, abuso de la confianza, fraude, astuto.</entry>
+	<entry key="ReversedMeaning34">Una mujer en la buena posición, pero intermeddling, y 
+desconfianza; Éxito, pero con un cierto apuro acompañante.</entry>
+	<entry key="ReversedMeaning35">Un hombre de la buena posición, pero shifty en sus 
+reparticiones, desconfianza, duda, suspicacia.</entry>
+	<entry key="ReversedMeaning36">Monedero de oro, dinero, aumento, ayuda, beneficio, 
+Riquezas.</entry>
+	<entry key="ReversedMeaning37">Letra, Missive, Epistle, Mensaje.</entry>
+	<entry key="ReversedMeaning38">Niños, Hijos, Hijas, Juventudes, Comienzo.</entry>
+	<entry key="ReversedMeaning39">Obstáculos, Obstáculos.</entry>
+	<entry key="ReversedMeaning40">Amor Vergonzoso, Imprudencia, Licencia, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Ambición, Deseo, Pasión, Puntería, Deseando.</entry>
+	<entry key="ReversedMeaning42">Disturbio, Preocupación, Ansiedad, Melancolía.</entry>
+	<entry key="ReversedMeaning43">Adulación, Usura, Hipocresía, Shifty.</entry>
+	<entry key="ReversedMeaning44">Engan@o, mala fe, artifices, engaño.</entry>
+	<entry key="ReversedMeaning45">Juego, Disipación, Robo, Pérdida.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Profusión, Basura, Disipación.</entry>
+	<entry key="ReversedMeaning47">Un hombre valiente, pero fuera del empleo, marcha lenta, 
+parados, negligentes.</entry>
+	<entry key="ReversedMeaning48">Cierto mal, mujer sospechosa, mujer justo mirada con la 
+suspicacia, duda, desconfianza.</entry>
+	<entry key="ReversedMeaning49">Un viejo y vicioso hombre, hombre peligroso, duda, miedo, 
+peligro, peligro.</entry>
+	<entry key="ReversedMeaning50">Amor de la vergu|enza, absurdo y desesperado, obstáculo, 
+obstáculo.</entry>
+	<entry key="ReversedMeaning51">Los Amigos Falsos, Traición, Mienten.</entry>
+	<entry key="ReversedMeaning52">Error, Confusión, Misrule, Desorden.</entry>
+	<entry key="ReversedMeaning53">Economía, precaución, regulación del gasto.</entry>
+	<entry key="ReversedMeaning54">Apuro de las pérdidas (el mismo significado, está invertido o 
+no.)</entry>
+	<entry key="ReversedMeaning55">Declaración, amor propuesto, revelación, sorpresa.</entry>
+	<entry key="ReversedMeaning56">Consejo Sabio, Buen Consejo, Sabiduría, Prudencia, 
+Circumspection.</entry>
+	<entry key="ReversedMeaning57">Traición en el pasado, acontecimiento, accidente, incidente 
+notable.</entry>
+	<entry key="ReversedMeaning58">Desconfianza sabia, suspicacia, miedo, duda, carácter sombrío.</entry>
+	<entry key="ReversedMeaning59">Pasar Éxito, Ventaja Momentánea.</entry>
+	<entry key="ReversedMeaning60">El que es imprevisto, vigilancia, ayuda.</entry>
+	<entry key="ReversedMeaning61">Un tonto conceited, Ingenuousness, simplicidad.</entry>
+	<entry key="ReversedMeaning62">Una mala mujer, ill-tempered y bigoted, las Riquezas y la 
+discordia, abundancia junto con la preocupación, alegría con pena.</entry>
+	<entry key="ReversedMeaning63">Un Hombre Travieso, Chagrin, Preocupación, Pena, Miedo, 
+Disturbio.</entry>
+	<entry key="ReversedMeaning64">Persecución, Búsquedas Voilence, Vexation, Crueldad, Tiranía.</entry>
+	<entry key="ReversedMeaning65">Sorpresa, Asombro, Acontecimiento, Ocurrencia Extraordinaria.</entry>
+	<entry key="ReversedMeaning66">Esperanza, Deseo, Tentativa, Deseo.</entry>
+	<entry key="ReversedMeaning67">Prosperidad, Éxito, Felicidad, Ventaja.</entry>
+	<entry key="ReversedMeaning68">Procesos jurídicos, juicio, ley, abogado, tribunal.</entry>
+	<entry key="ReversedMeaning69">Infidelidad, Traición, Deslealtad, Perfidia.</entry>
+	<entry key="ReversedMeaning70">Indecisión, Duda, Vacilación, Vergu|enza, Ansiedad.</entry>
+	<entry key="ReversedMeaning71">Peleas, conflictos del intestino, discordia.</entry>
+	<entry key="ReversedMeaning72">Los Obstáculos, Cruces, Retrasan, Descontento.</entry>
+	<entry key="ReversedMeaning73">Traición, Subterfuge, Duplicidad, Barra.</entry>
+	<entry key="ReversedMeaning74">Noticias Enfermas, Descontento, Chagrin, Preocupación.</entry>
+	<entry key="ReversedMeaning75">Ruptura, Discordia, Pelea.</entry>
+	<entry key="ReversedMeaning76">Un bueno una mujer virtuosa, pero terminante y económico, 
+obstáculos, resistencia, oposición.</entry>
+	<entry key="ReversedMeaning77">Un hombre naturalmente bueno pero severo, consejo, consejo, 
+deliberación.</entry>
+</oracleio>

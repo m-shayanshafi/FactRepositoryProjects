@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="ThomasDilts" classification="GraphicObjTranslations" version="1" language="ja" author="Thomas Dilts 1960 -" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+		<entry key="ObjectTitle0">0-The 愚か者</entry><entry key="ObjectMeaning0">すべての世俗的な心配および責任から自由に感じる。生命の流れと自由に流れている。あなたのための神そして彼の計画と統一される。あなたのように試みたすべてを感じるかもしれないし、今ちょうど"" あきらめ、神が引き継ぐことを許可する。あなたのまわりの人々は責任のないことを考えるかもしれない。"愚か者。" を演じているほど幼児に行動するかもしれない</entry>
+		<entry key="ObjectTitle1">1-The 手品師</entry><entry key="ObjectMeaning1">力の、魔法およびimpulisive 活動の期間を経験している。従って奇跡及びマジックが共通のoccurance ようである能動態今集中されてあり。今は新しいプロジェクトを始めるよい時間である。それらことをに直接歩くことによって誰かを無視によってまたは傷つけているかどうか見るためにあなたのまわりで一見に時を取ることは賢いかもしれない。</entry>
+		<entry key="ObjectTitle2">2-The 高い尼僧</entry><entry key="ObjectMeaning2">あなたの直観を信頼しなさい! それは今誤解させない。"知っているが、" "。" いかに知っているか理解しないかもしれない集中的な夢および説明できない感じを経験している。知性および推論の一時的に行き、直観的に感じているもの続くために割り当てなさい。また他を助けるのにあなたの直観を使用する必要があるかもしれない。人々はあなたの助言をそれが論理的な助言でないかもしれなくても聞く。</entry>
+		<entry key="ObjectTitle3">3-The 皇后</entry><entry key="ObjectMeaning3">あなたの生命の感情的な成熟の高いポイントに達した。無条件愛からおよびそれらにあなたのまわりで感情的なサポート与える中央図である。子宮および出産によって象徴される集中的な創造性の段階にある。健康の質問がそしてあれば出産か生殖器は焦点にある。</entry>
+		<entry key="ObjectTitle4">4-The 皇帝</entry><entry key="ObjectMeaning4">力及び権限の位置にある。い、あなたの生命の期間の子午線通過そして可能な終わりを経験しているところで得るために懸命に働いた。あなたのまわりの人々は尊重し、あなたまでthier 保護装置およびリーダーとして見る。dissapoint はそれら! 周期の端に近づいているので、あなたの生命の最もよい時をexperienceing べきであるのに少し不満および不安を感じるかもしれない。  </entry>
+		<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">シークの助け。弁護士銀行家、司祭、カウンセラー、医者の形で、多分専門の助けを必要とするかまたは非常に尊重された友人を均等にする。</entry>
+		<entry key="ObjectTitle6">6-The 恋人</entry><entry key="ObjectMeaning6">このカードは常に非常に親密な関係を示し、通常性質で性である関係を示す。これは非常に肯定的なカードであり、関係は両方の人に非常にsatisying 、benificial である。関係が性そしてでなければ深い愛の多くとの関係まだである。非常に稀な場合ではカードは深い情熱1 人をなる考え、趣味、仕事または生き方示すかもしれない。  </entry>
+		<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">安定性及び犠牲はキーワードである。によってし続ける始めた必要があり、コースを変えなかったりまたは疑いがものを起こらない注意する。人々はあなたに依存し、dissapoint それらあなた自身。何も変えてはいけない!</entry>
+		<entry key="ObjectTitle8">8 強さ</entry><entry key="ObjectMeaning8">非常に強く、勇気があるまたは必死にそれらの質を現状を取扱うために耕し始める必要がありなさいことを感じている。あなたのまわりの人々はあなたの勇気によって促される。</entry>
+		<entry key="ObjectTitle9">9-The 隠者</entry><entry key="ObjectMeaning9">今は反射及び孤独の時間である。休ませ、あなたの生命と行っているところに反映する必要があるかもしれない。人々は"孤独なオオカミとして会う。" 非常にだけ"残感じ。" これは強制流浪または自発的な流浪であるかもしれない。分離のこの期間を楽しむか、または積極的にそれから抜け出すように努めなさい。  </entry>
+		<entry key="ObjectTitle10">幸運の10 車輪</entry><entry key="ObjectMeaning10">今、女性運はあなたの側面にあるしかしおそらくより少なく気遣うことができなかった。奇跡は起こるが、同時にこれらの奇跡に多くの重要性を置かない。あなたのギフトを雨が降って、生命の不思議さの理解の感じを与えているあなたの生命に今継続するある変形がある。大きい"生命の円を" 見、生命が生れ及び死のcontinious 車輪いかにであるか感じる。</entry>
+		<entry key="ObjectTitle11">11 正義</entry><entry key="ObjectMeaning11">市および公正な解決は状態か問題に来る。起こったものがあなたおよび/または他ははっきり見る。これは考慮の期間であり、前に隠されたか、または無視された細部すべてはすべてのために見に来る。通常このカードはあなたのために肯定的であるしかし対立の他の関係者のために否定的であるかもしれない。</entry>
+		<entry key="ObjectTitle12">12-The は人を掛けた</entry><entry key="ObjectMeaning12">この時に受動のスタンスを取らなければならない。状態を変えることを何でも積極的にすることができない。あなたの手は結ばれる。passiveness のこの時を楽しみ、あなたのための神そして神の計画に非常に近く感じることは可能である。</entry>
+		<entry key="ObjectTitle13">13 死</entry><entry key="ObjectMeaning13">このカードを誤解してはいけない。Tarot はほとんど決して物を死予測しない。これは状態の完全な、総変更の告げる。このそして"死のためのどんなよりよい記号がか。" この変更は扱いにくいかもしれない柔軟性をそして示せばついにこの変更は喜び通常と挨拶される。</entry>
+		<entry key="ObjectTitle14">14 14-Temperance</entry><entry key="ObjectMeaning14">今はextreams に行く時期でない。容易なそれを取りなさい。平静。生命流れを許可し、変更が起こるようにしなさい。あなたが行なう小さくわずかな変更は大きい効果をもたらすことができる。あなたが作る非常に大きい努力は全然おそらく効果をもたらさない。</entry>
+		<entry key="ObjectTitle15">15-The 悪魔</entry><entry key="ObjectMeaning15">あなたが楽しい見つけないかもしれないしまたはそうではないかもしれない何かを経験させる。どちらかの方法、選択を有しない。それは起こり、通常大きい方法で起こる。これは時々あなたが感じる関係をいやいやながらに結ばれてまたはあなたが途方もなく楽しんでいる非常に集中的な性関係を示すことができることを示すことができる。状態が起こるためにpredestined 、それを停止するためにあなたがそれを促進するためにすることができる絶対に何も、またはそれを遅らせるためにないのでここに与える助言がない。それが楽しい何か非常にでも深く深く表面にゆっくりcomming 根本的な苦痛がの下にある。</entry>
+		<entry key="ObjectTitle16">16-The タワー</entry><entry key="ObjectMeaning16">雷及び軽減。集中的な、衝撃を与える何かは起こる。総に不意である。これは妨げられたエネルギーの途方もない解放で起因する。衝撃があった後通常嵐の後の平静のように取り除かれる。</entry>
+		<entry key="ObjectTitle17">17-The 星</entry><entry key="ObjectMeaning17">あなたの夢すべては本当来ることである。今ではを望んだものは何でも現実である。意気盛んなfealing である。あなたの表面の幸せな微笑を有する。全くsatisifed 感じる。多くこの時にほしい何もない。</entry>
+		<entry key="ObjectTitle18">18-The 月</entry><entry key="ObjectMeaning18">起こっている何が考えを有しない。知り、が、ことにコントロールする状態を感じるdeluded 起こっているものがことにおそらく感じる。それは全然考えるものでないあることを。今あなたがすることができる最もスマートな事はあなたの目を十分に開いた握り、絶対に長期計画、取り引きをすることでなく、契約を署名しない。状態がステップを踏む前に変わるまでちょうど待ちなさい。処置をとらせるそれから事実を受け入れなければ盲目的に行動しているなり、おそらく大きい間違いをという作る。</entry>
+		<entry key="ObjectTitle19">19-The 日曜日</entry><entry key="ObjectMeaning19">エネルギーの幸せ、に完全に感じる。熱意と燃えて、喜びと光っている。あなたの存在によってあなたのまわりで皆に寛大にこの喜びをただ広げている。</entry>
+		<entry key="ObjectTitle20">20 判断</entry><entry key="ObjectMeaning20">今は撒いたものを収獲する時期である。支払うしたものをのあなたが誰かは今。報復を脱出することができない。このカードは陰性necesarily でないが、嬉しい結果を稀に指していない。精々結果は中立であるが、したものに直面するとき最も頻繁に誰かは苦痛を経験する。</entry>
+		<entry key="ObjectTitle21">21-The 世界</entry><entry key="ObjectMeaning21">これはより高いarcana の最後のカード、こうして総fullfillment を表す。総照明に達した。状態は、形または形態どうにかよりよい場合もない。状態は高いポイントに達し、宇宙および神とのoneness の感じの総fullfillment そして多分accompanyment
+を感じる。</entry>
+		<entry key="ObjectTitle22">コップのエース</entry><entry key="ObjectMeaning22">集中的に新しい感じか感情をexperienceing 。新しい企業は始まり友人及び家族を含む。それは新しい関係の集中的なbegining を意味できる。全及び直されて及び感情、感じおよび関係の分野の新しい冒険を始めることを十分に準備されて感じている。</entry>
+		<entry key="ObjectTitle23">コップの2</entry><entry key="ObjectMeaning23">あなたがあなたに非常に意味するあなたの友人を呼ぶ人がある。この人の会社を常に長くそれらを再度見るために非常に楽しみ。星が喜んでなら何もあらゆるタイプの性関係を1 つに今しかし、それ結局成長するかもしれない指さない。多分それは既にかつてあったか。これは考え、趣味、仕事、または生き方へ友情であるかもしれない。</entry>
+		<entry key="ObjectTitle24">コップの3</entry><entry key="ObjectMeaning24">自由にあなた自身及びそれらを愛することができる感情的な保証のあるレベルに達した。会社を楽しみ、タイプの党に先に見るかもしれない。</entry>
+		<entry key="ObjectTitle25">コップの4</entry><entry key="ObjectMeaning25">それが感じ反映しである、ほしい必要とするものをで時間を。間撤回し、黙想する必要がある場合もある。ある量の感情的な混乱を経験して、事を分類する静かな時間に先に見る。</entry>
+		<entry key="ObjectTitle26">コップの5</entry><entry key="ObjectMeaning26">人かあなたの中心に近くある状態と感じdissapointed である。多分、またあなたのまわりで人々の余りにデマンドが高い。これはあっているあなたが付いている不道徳なcirlcle をさらにもっとdissapointed もたらす。あなたの悲哀の本当のもとを見つけることを試みるべきあなた自身の深の調査。多分あなたのエネルギーを取り戻すために残りを得る単に必要があり、それからもう一度できるがあるためにあなたのまわりでそれらに愛を放射しなさい。</entry>
+		<entry key="ObjectTitle27">コップの6</entry><entry key="ObjectMeaning27">感情的に感じている。あなた自身のの中の感じ愛であり、小さい方法であなたのまわりでそれらとその愛を共有したいと思う。大きいfanfare あなたがあなたのまわりでそれらに与えたいと思う愛の公正で簡単なトークンを望まないが。 </entry>
+		<entry key="ObjectTitle28">コップの7</entry><entry key="ObjectMeaning28">あなたの感じとの実験の気分にある。新しい関係、経験または友人を試みたいと思う。あなたのように新しく、別の何かの楽しみを持ちたいと思う感じる。</entry>
+		<entry key="ObjectTitle29">コップの8</entry><entry key="ObjectMeaning29">取る友人として、仲間や恋人を参照するかだれをの会計を必要がある。重大に、それらの方にいかに感じるか検査する必要がある。疲れ、感情的に身に着けられていて感じる。だれまたは何があなたのエネルギーを流出させているか。それすべてからの休暇はあなたの問題へ答えであるかもしれない。</entry>
+		<entry key="ObjectTitle30">コップの9</entry><entry key="ObjectMeaning30">あなたの感情的な開発の高いポイントに来た。感じすべての方に成長し、安全に、愛され、そして愛する。あなたのレベルに今ないそれらへサポートである位置にある。</entry>
+		<entry key="ObjectTitle31">コップの10</entry><entry key="ObjectMeaning31">友人のあなたの円およびあなたの家族はあなたが感情的に必要とし、またそれらのための強さのもとであるすべて与える。あなたの幸福は完全である。しかし、周期の端に達したので、それは今それは新しい冒険およびレッスンに動く時間である告げるはう感じの内部があること起こるかもしれない。</entry>
+		<entry key="ObjectTitle32">コップのページ</entry><entry key="ObjectMeaning32">傷つきやすく、純真である。あなたの開放性および脆弱性はあなたのまわりでそれらに非常にチャーミングである。新しい関係か新しい企業を始めて準備ができている感じるが、多分第1 少しより感情的に成熟させる必要がある。何かまたは誰かのための多分あなたの感じはあらゆる主要な処置の前にビットを成熟させる必要性取られる。それらのより賢いからそして学んで十分に喜んでである。</entry>
+		<entry key="ObjectTitle33">コップの騎士</entry><entry key="ObjectMeaning33">待っていることの時間は、疑問に思うか、または考えてある。あなたのまわりでそれらへ感じる何に今大胆に前方及び現在に行きたいと思う。これはあなたの感じにそれに特別な誰かを示すか、またはあなたがあなたの中心に貴重保持する特別なプロジェクトのための新しい考えを示したいと思うことを意味するかもしれない。</entry>
+		<entry key="ObjectTitle34">コップの女王</entry><entry key="ObjectMeaning34">完全な成熟に感情的に達した。あなた自身を愛し、必要性の他に自由に愛及びサポートを与えることができる。あなたの家族および友人の方に非常に愛情のあり、保護に感じる。</entry>
+		<entry key="ObjectTitle35">コップの王</entry><entry key="ObjectMeaning35">あなたのまわりでそれらに感情的なサポートをgiveing 中央図である。それらがそれを必要とするとき点に民を住まわせ、助けのためのあなたに依存しなさい。正しくするために正当にあなたのまわりで人々を要求できる。あなたの意見で柔軟性がなくか堅い少しである傾向を有するかもしれない。あなたがあなたの肩で耐える責任は重荷の多くの時々ようであるかもしれない。</entry>
+		<entry key="ObjectTitle36">Pentacles のエース</entry><entry key="ObjectMeaning36">健康、家、またはお金の分野の新しい開始をbegining 。仕事を達成するためにエネルギーの途方もない量をあなたを通って今流れることを感じる。但し、これはちょうど初めである。おそらくまだ完全な考えを持っていないまたはそれがであるものをについての厳密な計画はする筈だ。しかしそれはこの時にあまり重要でない。すべては場所にやがて落ちる。 </entry>
+		<entry key="ObjectTitle37">Pentacles の2</entry><entry key="ObjectMeaning37">決定はやがてなされる必要がある。2 つの生活様式、あなたでビジネスを取る2 本道の間で決定しなければ多分または住むためにどこで決定しなさい。</entry>
+		<entry key="ObjectTitle38">Pentacles の3</entry><entry key="ObjectMeaning38">はっきり見、あなたの資源すべてを経営できる: お金、健康および家。あなたの資源についてのよい、情報に通じた決定をされる。ある取り引きをする必要がある状態にやがて置かれる。買い、販売。</entry>
+		<entry key="ObjectTitle39">Pentacles の4</entry><entry key="ObjectMeaning39">あなたの資源を組織している。特定の目的の方に懸命に働いている。あなたの集中はよい。未来のためのよい基礎を造っている。たくさんの仕事とあなた自身を燃やさないように気を付けなさい。</entry>
+		<entry key="ObjectTitle40">Pentacles の5</entry><entry key="ObjectMeaning40">あなたの資源はこされて得ている。あなたのお金、健康または家が補給不足にあることに感じている。あなたの資源と今起こる大きい変更があり、あなた自身の不確実に感じている。</entry>
+		<entry key="ObjectTitle41">Pentacles の6</entry><entry key="ObjectMeaning41">多量の資源を今経験している。非常に寛大とであること一人以上の仲間がある。この時にそれはそれがであるので不均衡な関係であり、与えている他は受け取っているただ。バランスのために、両方とも与え、取ることを学ばなければならない。</entry>
+		<entry key="ObjectTitle42">Pentacles の7</entry><entry key="ObjectMeaning42">あなたの資源との新しい事そして実験を試みたいと思う。非常に創造的な段階に今ある。チャンスを取っている。すべてを緩めることを危険にさらさないように気を付けなさい。</entry>
+		<entry key="ObjectTitle43">Pentacles の8</entry><entry key="ObjectMeaning43">あなたの資源を今再構成している。それはあなたのための多くの仕事を意味する。あなたの健康、家は、または仕事時間の途方もない量をかけている。あなたの資源のための正しいバランスを見つけることを試みている。</entry>
+		<entry key="ObjectTitle44">Pentacles の9</entry><entry key="ObjectMeaning44">物質的な資源高さに今達した。優秀な健康を経験している。お金はあなたに流れるようで、成長お金が正しい投資に行くことを見ることができる。</entry>
+		<entry key="ObjectTitle45">Pentacles の10</entry><entry key="ObjectMeaning45">段階のまたはあなたの資源のいくつかの端に財政上達した。あなたがほしい物質的な喜びすべてを経験している。まだ、少し不満を抱く感じている。変更のための必要性があることを知っているのにあなたの安定性を脅すかもしれない危険を取って不本意である。</entry>
+		<entry key="ObjectTitle46">Pentacles のページ</entry><entry key="ObjectMeaning46">新しいプロジェクト、教育または引き受けることをbegining に開いている。実際に実施中に得ることができる前にもう少しの経験か賢い助けを必要とする。あなたの資源と純真か傷つきやすいビット今であるかもしれない。  </entry>
+		<entry key="ObjectTitle47">Pentacles の騎士</entry><entry key="ObjectMeaning47">信じるものをのために今懸命そして大胆に働いている。今は起こり、未決事項を結ぶために事を作る時期である。失敗は選択でない。ほしいと思うものが知り、出かけ、それを得て喜んでである。</entry>
+		<entry key="ObjectTitle48">Pentacles の女王</entry><entry key="ObjectMeaning48">あなたの資源は完全なバランスに今ある。非常に財政上安定している。あなたの健康は非常によい。これは通常多くのお金が方法にあり、活用にお金を置けることを意味する。 </entry>
+		<entry key="ObjectTitle49">Pentacles の王</entry><entry key="ObjectMeaning49">あなたの資源の制御の1 才である。他はサポートのためのあなたによってある。少し狭い気にされて傾向を有するかもしれ、少し余りに質素であるかもしれない(安い) 。力の位置を得、今その力を思慮深く揮わなければならない。この安定性があなたに退屈になれば、新しい何かを始めることを考慮する必要があるかもしれない。</entry>
+		<entry key="ObjectTitle50">剣のエース</entry><entry key="ObjectMeaning50">新しい考えのために燃えている。知的見地からは強く、あなたのまわりですべての異なるhappenings の間の関係を見る。あなたの分析に何をすればいいか基づいていた知っている。</entry>
+		<entry key="ObjectTitle51">剣の2</entry><entry key="ObjectMeaning51">あなたの思考を今とている2 つの(または多く) 考えがある。1 つまたは他のために決定する必要があるかもしれない。これらの考えは対立するかもしれない。多分2 つの考え間のバランスポイントを見つける必要があるか。</entry>
+		<entry key="ObjectTitle52">剣の3</entry><entry key="ObjectMeaning52">広範囲の全にあなたの考えを組織している。あなたのlifes の哲学は用紙を取っている。非常にとりわけこのカードはあなたの思考および感じが対立にあることを意味する。1 つの事を考えたりけれども別のものを感じる。</entry>
+		<entry key="ObjectTitle53">剣の4</entry><entry key="ObjectMeaning53">今真剣にあなたの思考を組織する必要がある。これは残り及び反射の期間によってしかすることができない。黙想か祈りを試みるかもしれない。</entry>
+		<entry key="ObjectTitle54">剣の5</entry><entry key="ObjectMeaning54">あなたの考えはchallanged あっている。制御でいる絶望的な必要性を感じるかもしれ、あなたの道のだれでも押しつぶす。失敗失敗自体の恐れは通常より悪いそして。それにである何保有物解放する必要がある。</entry>
+		<entry key="ObjectTitle55">剣の6</entry><entry key="ObjectMeaning55">あなたの思考はバランスポイントに今達している。起こったものがおよび未来以前理解する安全に感じる。今は容易なそれを取る安全な時間であり、多分種類の旅行か移動は計画にある。 </entry>
+		<entry key="ObjectTitle56">剣の7</entry><entry key="ObjectMeaning56">複数の考えと実験している。それは多分今小さい出来事たいそうであり、冷却する必要がある簡単な問題に焦点を合わせることができる。さもなければ円で走って、何も終らせていない。</entry>
+		<entry key="ObjectTitle57">剣の8</entry><entry key="ObjectMeaning57">問題か状態を理解する絶望的な必要性を感じるけれども解決は逃れるようである。問題およびすべての余分な情報によって盲目にされて感じる。無くなっている感じる。</entry>
+		<entry key="ObjectTitle58">剣の9</entry><entry key="ObjectMeaning58">あなたの思考および考えは流出している。考えか問題について考えることを止めることができない。それは夜はsleepless 保っている。過度に心配する。</entry>
+		<entry key="ObjectTitle59">剣の10</entry><entry key="ObjectMeaning59">あなたの思考および考えは同じ古いルートを次。この道の下にずっと百万回である。退屈はある従って大きい別の何かに壊れるために実際に絶望的に感じるかもしれない。</entry>
+		<entry key="ObjectTitle60">剣のページ</entry><entry key="ObjectMeaning60">考えについて熱狂的に感じるが、またあなた自身の不確実に感じる。この考えは国民の詮索のための開いたのにを持ち出される前に成熟するもう少しを必要とする。</entry>
+		<entry key="ObjectTitle61">剣の騎士</entry><entry key="ObjectMeaning61">あなたの考え、モラル、宗教または哲学のための情熱と燃えている。世界を除けばほしい"。" あなたの考えを受け入れるように他を説得できる。何も落胆できない。  </entry>
+		<entry key="ObjectTitle62">剣の女王</entry><entry key="ObjectMeaning62">十分に問題か状態を理解した。あなたの考えかphilosopy 完全な成熟および受諾に達した。あなたにそれらの近くと喜んであなたの考えおよび啓発をそして貴重共有する。</entry>
+		<entry key="ObjectTitle63">剣の王</entry><entry key="ObjectMeaning63">考え、道徳、哲学または宗教のリーダーシップのpostion に達した。人々はあなたの知恵のために捜し求める。気にされるあなたの考えは少し狭くないかもしれない。多分ゆるめ、少しより多くの柔軟性を示す必要がある。</entry>
+		<entry key="ObjectTitle64">細い棒のエース</entry><entry key="ObjectMeaning64">新しいアイデンティティを見つけた。事のすばらしい機構に合うどこで見る。過去を理解し、未来に先に見る。</entry>
+		<entry key="ObjectTitle65">細い棒の2</entry><entry key="ObjectMeaning65">交差道路に立つ。あなたの生命は何とかして行くことができる。取るべき道重要な決定をする必要がある。あなたの生命としたいと思うものを決定するために選択の自由を経験している。</entry>
+		<entry key="ObjectTitle66">細い棒の3</entry><entry key="ObjectMeaning66">はであるもの理解した今しなければならない。起こったものが、すべてのよくのおよび悪い見る。あなたの運命はあなたの前に広げて置かれる。</entry>
+		<entry key="ObjectTitle67">細い棒の4</entry><entry key="ObjectMeaning67">あなたの運命に続くために懸命に働き、今celibration の時間である。事は場所に単に下る。ずっとしているようにあなたの運命に続き、あなたの義務をするとき、生命は容易、に嬉しくなる。</entry>
+		<entry key="ObjectTitle68">細い棒の5</entry><entry key="ObjectMeaning68">今衝突する多くの対立意志がある。皆は別の方向で引っ張っている。一緒に働くために皆を得る困難なひとときを過ごしている。無秩序は手がつけられない。</entry>
+		<entry key="ObjectTitle69">細い棒の6</entry><entry key="ObjectMeaning69">あるだれ、そして行っているかところでをかなり確信している感じるあなたの生命のあるバランスに達した。一見にあなたまで自然に民を住まわせ、重要な問題のあなたの意見を尊重しなさい。今祝うことのための時間をかけることができる。</entry>
+		<entry key="ObjectTitle70">細い棒の7</entry><entry key="ObjectMeaning70">来ところで、及びあ行ところでからあかだれを_ あと考えの戦。であるだれ、そして合うかどこで見つけるために戦っている。他に積極的ように現われるあなたの侵略はあなた自身の方に大抵内部回る。また他の方のこの戦いをexternalizing かもしれない。</entry>
+		<entry key="ObjectTitle71">細い棒の8</entry><entry key="ObjectMeaning71">あなたのdesiny 形を取っている。それは改良されて、集中されている。はっきり生命があなたの期待することであるものを見るためにbegining 。あなたの未来についてかなり確信しているを。</entry>
+		<entry key="ObjectTitle72">細い棒の9</entry><entry key="ObjectMeaning72">広範囲の全に今十分にあなたの生命の異なった一部分すべてを統合した。期待されるものがあなたの知り、喜んであなたの義務を達成する。あなたの未来について確信しているを。</entry>
+		<entry key="ObjectTitle73">細い棒の10</entry><entry key="ObjectMeaning73">ずっとあなたの運命および義務を忠実に達成しているが、今重荷をbecomming 。あまりがあなたの期待され、圧力の下で締め始めていることを感じる。</entry>
+		<entry key="ObjectTitle74">細い棒のページ</entry><entry key="ObjectMeaning74">あなたのlifes 道を公正な始めることである。またはであるか、だれそれが重要でないか行っているが、かところにについて余りに確実でない。必要な場合であり学び、変わるために開き、williing 。積極的にあなたの運命を追求するが、まだ見つけていない。</entry>
+		<entry key="ObjectTitle75">細い棒の騎士</entry><entry key="ObjectMeaning75">ほしいと思うものが知るためにあなた自身及びあなたについて本当に感じる。あなたの運命を受け入れ、fullfill にそれ定められる。あなたの義務を忠実にする。</entry>
+		<entry key="ObjectTitle76">細い棒の女王</entry><entry key="ObjectMeaning76">生命のあなたの場所を見つけた。幸せ、達成される。あなたの義務を達成し、それは大きい満足を与える。家族のための強さのもとおよび友人である。</entry>
+		<entry key="ObjectTitle77">細い棒の王</entry><entry key="ObjectMeaning77">あなたの友人、家族、仕事、宗教または社会のためのリーダーシップのpostion に入って来た。それは途方もない責任であるが、challange のために準備される。人々はあなたまで見、続いて喜んでである。</entry>
+		<entry key="ReversedMeaning0"></entry>
+		<entry key="ReversedMeaning1"></entry>
+		<entry key="ReversedMeaning2"></entry>
+		<entry key="ReversedMeaning3"></entry>
+		<entry key="ReversedMeaning4"></entry>
+		<entry key="ReversedMeaning5"></entry>
+		<entry key="ReversedMeaning6"></entry>
+		<entry key="ReversedMeaning7"></entry>
+		<entry key="ReversedMeaning8"></entry>
+		<entry key="ReversedMeaning9"></entry>
+		<entry key="ReversedMeaning10"></entry>
+		<entry key="ReversedMeaning11"></entry>
+		<entry key="ReversedMeaning12"></entry>
+		<entry key="ReversedMeaning13"></entry>
+		<entry key="ReversedMeaning14"></entry>
+		<entry key="ReversedMeaning15"></entry>
+		<entry key="ReversedMeaning16"></entry>
+		<entry key="ReversedMeaning17"></entry>
+		<entry key="ReversedMeaning18"></entry>
+		<entry key="ReversedMeaning19"></entry>
+		<entry key="ReversedMeaning20"></entry>
+		<entry key="ReversedMeaning21"></entry>
+		<entry key="ReversedMeaning22"></entry>
+		<entry key="ReversedMeaning23"></entry>
+		<entry key="ReversedMeaning24"></entry>
+		<entry key="ReversedMeaning25"></entry>
+		<entry key="ReversedMeaning26"></entry>
+		<entry key="ReversedMeaning27"></entry>
+		<entry key="ReversedMeaning28"></entry>
+		<entry key="ReversedMeaning29"></entry>
+		<entry key="ReversedMeaning30"></entry>
+		<entry key="ReversedMeaning31"></entry>
+		<entry key="ReversedMeaning32"></entry>
+		<entry key="ReversedMeaning33"></entry>
+		<entry key="ReversedMeaning34"></entry>
+		<entry key="ReversedMeaning35"></entry>
+		<entry key="ReversedMeaning36"></entry>
+		<entry key="ReversedMeaning37"></entry>
+		<entry key="ReversedMeaning38"></entry>
+		<entry key="ReversedMeaning39"></entry>
+		<entry key="ReversedMeaning40"></entry>
+		<entry key="ReversedMeaning41"></entry>
+		<entry key="ReversedMeaning42"></entry>
+		<entry key="ReversedMeaning43"></entry>
+		<entry key="ReversedMeaning44"></entry>
+		<entry key="ReversedMeaning45"></entry>
+		<entry key="ReversedMeaning46"></entry>
+		<entry key="ReversedMeaning47"></entry>
+		<entry key="ReversedMeaning48"></entry>
+		<entry key="ReversedMeaning49"></entry>
+		<entry key="ReversedMeaning50"></entry>
+		<entry key="ReversedMeaning51"></entry>
+		<entry key="ReversedMeaning52"></entry>
+		<entry key="ReversedMeaning53"></entry>
+		<entry key="ReversedMeaning54"></entry>
+		<entry key="ReversedMeaning55"></entry>
+		<entry key="ReversedMeaning56"></entry>
+		<entry key="ReversedMeaning57"></entry>
+		<entry key="ReversedMeaning58"></entry>
+		<entry key="ReversedMeaning59"></entry>
+		<entry key="ReversedMeaning60"></entry>
+		<entry key="ReversedMeaning61"></entry>
+		<entry key="ReversedMeaning62"></entry>
+		<entry key="ReversedMeaning63"></entry>
+		<entry key="ReversedMeaning64"></entry>
+		<entry key="ReversedMeaning65"></entry>
+		<entry key="ReversedMeaning66"></entry>
+		<entry key="ReversedMeaning67"></entry>
+		<entry key="ReversedMeaning68"></entry>
+		<entry key="ReversedMeaning69"></entry>
+		<entry key="ReversedMeaning70"></entry>
+		<entry key="ReversedMeaning71"></entry>
+		<entry key="ReversedMeaning72"></entry>
+		<entry key="ReversedMeaning73"></entry>
+		<entry key="ReversedMeaning74"></entry>
+		<entry key="ReversedMeaning75"></entry>
+		<entry key="ReversedMeaning76"></entry>
+		<entry key="ReversedMeaning77"></entry>
+</oracleio>

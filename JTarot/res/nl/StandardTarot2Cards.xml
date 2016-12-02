@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Two cards" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Twee kaarten</entry>
+	<entry key="Description">Soms gebruikt als ja/nee antwoord of het kiezen van het beste 
+van twee situaties. Tarot is over het algemeen slecht bij ja/nee
+antwoorden maar als u één moet vragen, is dit één van de betere 
+lay-outs voor het. Kies vooraf die de kaart de "ja" kaart zal 
+zijn en die de "geen" kaart zal zijn of die situatie de kaart waarzal 
+behandelen. Waarschuwend, soms is de minder desireable kaart hoe
+dan ook de beste oplossing! Soms moet u de minder gereiste weg 
+nemen.</entry>
+	<entry key="PositionTitle0">Oplossing 1</entry><entry key="Meaning0">Wat u kunt verwachten als u de oplossing u neemt vooraf bepaald 
+dat deze kaart zal vertegenwoordigen.</entry>
+	<entry key="PositionTitle1">Oplossing 2</entry><entry key="Meaning1">Wat u kunt verwachten als u de oplossing u neemt vooraf bepaald 
+dat deze kaart zal vertegenwoordigen.</entry>
+</oracleio>

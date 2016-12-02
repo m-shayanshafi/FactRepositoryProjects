@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+	<entry key="Title">Schale der Verhältnis-Verbreitung (Sagie)</entry>
+	<entry key="Description">Sagie reccomends mit zusätzlichen Modifizierfaktoren 
+auf Karte 11, wenn das Resultat unklar ist.</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Grundlage</entry><entry key="Meaning2">Die Grundlage des Verhältnisses</entry>
+	<entry key="PositionTitle3">Neue Vergangenheit</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Geschenk</entry><entry key="Meaning4">Gegenwärtige Lage des Verhältnisses</entry>
+	<entry key="PositionTitle5">Hindernisse</entry><entry key="Meaning5">Hindernisse sie beide Gesicht</entry>
+	<entry key="PositionTitle6">Ansichten von #1</entry><entry key="Meaning6">Ansichten von #1 betreffend ist das Verhältnis</entry>
+	<entry key="PositionTitle7">Ansichten von #2</entry><entry key="Meaning7">Ansichten von #2 betreffend ist das Verhältnis</entry>
+	<entry key="PositionTitle8">Erwartungen von #1</entry><entry key="Meaning8">Erwartungen von #1 betreffend ist das Verhältnis</entry>
+	<entry key="PositionTitle9">Erwartungen von #2</entry><entry key="Meaning9">Erwartungen von #2 betreffend ist das Verhältnis</entry>
+	<entry key="PositionTitle10">Bestes Resultat</entry><entry key="Meaning10"></entry>
+</oracleio>

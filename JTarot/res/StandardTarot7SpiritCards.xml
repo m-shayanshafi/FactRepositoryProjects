@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spirits of the Circle Spread(Carr-Gomm)" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+<entry key="numberofobjects">7</entry>
+<entry key="screenLayoutxy">
+1   1   0 
+0   0   0 
+2   2   0 
+2   0   0 
+0   2   0 
+1   2   0 
+1   0   0
+</entry>
+<entry key="printoutxy">
+  1   6   3  
+-1   0  -1  
+  4   5   2  
+</entry>
+<entry key="printoutsize">3 3</entry>
+<entry key="screensize">3 3</entry>
+<entry key="showHiddenOrder">0 1 2 3 4 5 6</entry>
+</oracleio>
+

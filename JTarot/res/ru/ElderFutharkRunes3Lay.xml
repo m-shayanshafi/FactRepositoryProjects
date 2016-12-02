@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Three Runes" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">3 Runes</entry>
+	<entry key="Description">Это будет просто прошлый, present and 
+future план. Этот план самые лучшие для того чтобы описать
+просто ситуации реально не требуют длиннего и глубокийа анализ. 
+Иногда это сделано перед делать более осложненный план для того 
+чтобы помочь вам сфокусировать ваши идеи, ощупывания, или вопросы. 
+Также это можно сделать после того как более осложненный план 
+более далее для того чтобы определить специфически вопрос все еще 
+остающийся от сложного плана.</entry>
+	<entry key="PositionTitle0">За</entry><entry key="Meaning0">Случалось в прошлом. Вы уже знаете. Вы 
+приносите с вами в эту проблему.</entry>
+	<entry key="PositionTitle1">Настоящий момент</entry><entry key="Meaning1">Где вы теперь. Вы чувствуете теперь. 
+Случается к вам теперь.</entry>
+	<entry key="PositionTitle2">Будущее</entry><entry key="Meaning2">Идет случиться in the future. 
+Вообще это не будет слишком дистантное будущее но timeframe
+зависит на вопросе.</entry>
+</oracleio>

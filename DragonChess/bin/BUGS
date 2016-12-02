@@ -1,0 +1,20 @@
+BUGS
+----
+
+We have released the game as soon as it was playable, so there's still plenty
+of bugs :
+
+o Resize bug (654606): pieces don't resize correctly when window is resized. 
+  In fact the resizing is one step behind. 
+	Workaround : resize the window again just a little bit. The resize will
+	catch up and show about the right piece size
+o next game bug : a new game doesn't start automatically when choosing 'play
+  another game' even when 2 players are registered.
+o Timer does not control anything
+o Load Game/Save Game don't work
+o Offer Draw isn't implemented yet
+o Spectator mode not implemented yet
+
+... probably a lot more. Find any ? Please file a bug at
+http://www.sourceforge.net/projects/dragonchess
+

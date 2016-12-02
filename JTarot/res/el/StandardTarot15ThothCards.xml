@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Original Thoth Spread" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Thoth που διαδίδεται αρχικό</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0">Φύση querent και της ερώτησης</entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1">Φύση querent και της ερώτησης</entry>
+	<entry key="PositionTitle2">Querent 3</entry><entry key="Meaning2">Φύση querent και της ερώτησης</entry>
+	<entry key="PositionTitle3">Δεύτερη έκβαση 1</entry><entry key="Meaning3">Δεύτερη πιθανή έκβαση</entry>
+	<entry key="PositionTitle4">Πρώτη έκβαση 3</entry><entry key="Meaning4">Πρώτη πιθανή έκβαση</entry>
+	<entry key="PositionTitle5">Ψυχολογικά 3</entry><entry key="Meaning5">"Ψυχολογικά σχόλια" που διαδίδονται γενικά </entry>
+	<entry key="PositionTitle6">Εξωτερικοί παράγοντες 1</entry><entry key="Meaning6">Παράγοντες πέρα από τον έλεγχο του querent</entry>
+	<entry key="PositionTitle7">Δεύτερη έκβαση 2</entry><entry key="Meaning7">Δεύτερη πιθανή έκβαση</entry>
+	<entry key="PositionTitle8">Πρώτη έκβαση 2</entry><entry key="Meaning8">Πρώτη πιθανή έκβαση</entry>
+	<entry key="PositionTitle9">Ψυχολογικά 2</entry><entry key="Meaning9">"Ψυχολογικά σχόλια" που διαδίδονται γενικά </entry>
+	<entry key="PositionTitle10">Εξωτερικοί παράγοντες 2</entry><entry key="Meaning10">Παράγοντες πέρα από τον έλεγχο του querent</entry>
+	<entry key="PositionTitle11">Δεύτερη έκβαση 3</entry><entry key="Meaning11">Δεύτερη πιθανή έκβαση</entry>
+	<entry key="PositionTitle12">Πρώτη έκβαση 1</entry><entry key="Meaning12">Πρώτη πιθανή έκβαση</entry>
+	<entry key="PositionTitle13">Ψυχολογικό 1</entry><entry key="Meaning13">"Ψυχολογικά σχόλια" που διαδίδονται γενικά </entry>
+	<entry key="PositionTitle14">Εξωτερικοί παράγοντες 3</entry><entry key="Meaning14">Παράγοντες πέρα από τον έλεγχο του querent</entry>
+</oracleio>

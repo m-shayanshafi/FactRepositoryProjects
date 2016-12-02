@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="9 Rune Worldstead" classification="LayoutTranslations" version="1" language="ja" author="Thorsson, Runecaster's Handbook. Aswynn, Northern Mysteries" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">Thorsson のRunecaster の手引。Aswynn の北のミステリー</entry>
+		<entry key="Title">9 Rune Worldstead</entry>
+		<entry key="Description">天(Yggdrasil の9 つの世界の、意味の分野に鋳造の布を分けるのに使用されるWorldstead の設計を形作るため"スペース" の他の最も明らかな部分と北を、南、東西指摘し、その間象限儀) のNorse の?tir のパターンは結合される。実際は、この図は二次元モデルに多次元スペースの"倒れることを" 表す- ようにすべての種類の多くの神聖な記号が。分野はYggdrasil の9 つの世界の名前、これらの概念から意味を得る。(実際の布に。それの世界の名前があるべきでない)</entry>
+		<entry key="PositionTitle0">Niflheim: Nordhr (北) 。</entry><entry key="Meaning0">抵抗するそれ。外側からの受動か制限する影響。休眠状態の方にがちである事。意識不明の影の最も深い一部分。Niflheim のNifelhel は"霧世界" を文字通り意味する。霧は水間の無形、険悪な状態および空気である。意識したのの棄却物すべてはここに沈殿させて得る。対立が起きるのは場所である。</entry>
+		<entry key="PositionTitle1">Jotunheim: Austr (東)</entry><entry key="Meaning1">混同するそれ。チャンスに任せられるかもしれないそれ。変更のために押す力。危機の王国。意識不明の分裂的な、未加工男性的な力; 有害な男性の衝動; 自己のある無秩序の部分。</entry>
+		<entry key="PositionTitle2">8Asgard: Landnordhr (北東)</entry><entry key="Meaning2">より高い影響。divinities の関係の性質。質問のベールで覆われた枝。名誉、存在("incarnations:) -- 責5og. の特性の過去の状態からの肯定的な(活動的な) 影響の問題。最も高い平面。より高い自己。精神性。</entry>
+		<entry key="PositionTitle3">Vanaheim: Vestr (西)</entry><entry key="Meaning3">成長を促進する。好色な関係。異性の人。バランスをとる影響。継続、構造、および福利の力。感じること(水) 。</entry>
+		<entry key="PositionTitle4">Lj3oss3alfheim: Utnordhr (北西)</entry><entry key="Meaning4">精神影響。家族は重要である。Huginn のメッセージ- あなたが計画するべきである方向。助ける何が。2Asgardhr からの影響を実現するのを助ける道。(空気) 。植物、エルフ、木の精神および鳥はFreyr のVanir の主によって支配される。</entry>
+		<entry key="PositionTitle5">Midgard: 中心</entry><entry key="Meaning5">方法人々は生命の彼ら自身を明示することを一緒に来る。生命の結果。自我の意識。人格、自我の意識またはより低い自己。</entry>
+		<entry key="PositionTitle6">ヘリコプター: Utsudhr (南西)</entry><entry key="Meaning6">隠されたか、または抑制された本能的な欲求。自動機能または行動の性質。質問の隠されたルート。存在- 責5og のpasts の状態からの否定的な(受動態、制限する) 影響。月の女らしい、隠された第4 面の有害な部分; 母のむさぼり食う部分; 黒い白いLoki の半分生きた半分死んだ娘、半分半分。</entry>
+		<entry key="PositionTitle7">Svart3alfheim: Landsudhr (南東)</entry><entry key="Meaning7">創造的で感情的な影響。お金は重要である。Muninn からのメッセージ- あなたが反映するべきである事。Hel. Sensation からの(地球) 影響を実現する道。暗いエルフはsmiths 、Volund のようなであり、地球からの基材を取り、より高い材料にtransmuting 鉱物を使う。</entry>
+		<entry key="PositionTitle8">Muspellsheim: Sudhr (南)</entry><entry key="Meaning8">ガラスびんエネルギーの状態、vitalizes それ。外側からの能動態の影響。活動の方にがちである事。</entry>
+</oracleio>

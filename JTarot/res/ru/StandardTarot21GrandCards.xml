@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Грандиозное Распространение Источника (Cortese)</entry>
+	<entry key="Description">"это хорошим вообще-ispol6zuet распространение для
+давать общее изображение разрешения к проблеме в прошлом или будущем. 
+Оно позволяет возможность рассмотреть внутренние и наружные 
+влияния прежде чем действие будет принято, inception или 
+мотивировку действия, прогрессирования действия, разрешения, и что 
+внутренние и наружные влияния это будет иметь. Оно может также 
+подействовать, что выделил процесс вопрос uppermost в разуме 
+querent's может быть отвечен, хотя он не может дать ответ." 
+- Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Внутренние влияния 1</entry><entry key="Meaning1">Внутренние влияния на работе, мотивировки querent,
+или querent желания, котор нужно выучить</entry>
+	<entry key="PositionTitle2">Внутренние влияния 2</entry><entry key="Meaning2">Внутренние влияния на работе, мотивировки querent,
+или querent желания, котор нужно выучить</entry>
+	<entry key="PositionTitle3">Внутренние влияния 3</entry><entry key="Meaning3">Внутренние влияния на работе, мотивировки querent,
+или querent желания, котор нужно выучить</entry>
+	<entry key="PositionTitle4">Наружные влияния 1</entry><entry key="Meaning4">Наружные влияния, или влияния от людей или вещи вне 
+querent которое может причинить querent спросить их вопрос</entry>
+	<entry key="PositionTitle5">Наружные влияния 2</entry><entry key="Meaning5">Наружные влияния, или влияния от людей или вещи вне 
+querent которое может причинить querent спросить их вопрос</entry>
+	<entry key="PositionTitle6">Наружные влияния 3</entry><entry key="Meaning6">Наружные влияния, или влияния от людей или вещи вне 
+querent которое может причинить querent спросить их вопрос</entry>
+	<entry key="PositionTitle7">Семя</entry><entry key="Meaning7">Начало действия, семени которое вырастут, или вопроса 
+который будет отвечен</entry>
+	<entry key="PositionTitle8">Начала 1</entry><entry key="Meaning8">Отправнаяа точка действий</entry>
+	<entry key="PositionTitle9">Начала 2</entry><entry key="Meaning9">дорабатывает карточку 9 ' начала 1 '. Она может 
+дать мглистое изображение исхода querent имеет в разуме, или 
+может просто быть дальнейшееа обследование начал действия под 
+рассмотрением.</entry>
+	<entry key="PositionTitle10">Прогресс 1</entry><entry key="Meaning10">Дорога исходу достигают</entry>
+	<entry key="PositionTitle11">Прогресс 2</entry><entry key="Meaning11">дорабатывает карточку 11 ' прогресс 1 ' in 
+the same way прочешите 10 чешет 9.</entry>
+	<entry key="PositionTitle12">Изменения 1</entry><entry key="Meaning12">По возможности изменения в плане, или разрешение. 
+Эта карточка может служить рассмотреть все дороги querent 
+воля должна изменить курс в midstream.</entry>
+	<entry key="PositionTitle13">Изменения 2</entry><entry key="Meaning13">дорабатывает карточку 13 ' изменения 1 ' in 
+the same way прочешите 10 чешет 9.</entry>
+	<entry key="PositionTitle14">Исход 9-14</entry><entry key="Meaning14">Исход процесса конспектированного в карточках 9 до 
+14.</entry>
+	<entry key="PositionTitle15">Влияния на querent 1</entry><entry key="Meaning15">По возможности влияния разрешения на querent</entry>
+	<entry key="PositionTitle16">Влияния на querent 2</entry><entry key="Meaning16">По возможности влияния разрешения на querent</entry>
+	<entry key="PositionTitle17">Влияния на querent 3</entry><entry key="Meaning17">По возможности влияния разрешения на querent</entry>
+	<entry key="PositionTitle18">Влияния на окружающей среде 1</entry><entry key="Meaning18">По возможности влияния разрешения на вещах за 
+исключением querent или на отношении querent's к миру вокруг
+him/her.</entry>
+	<entry key="PositionTitle19">Влияния на окружающей среде 2</entry><entry key="Meaning19">По возможности влияния разрешения на вещах за 
+исключением querent или на отношении querent's к миру вокруг
+him/her.</entry>
+	<entry key="PositionTitle20">Влияния на окружающей среде 3</entry><entry key="Meaning20">По возможности влияния разрешения на вещах за 
+исключением querent или на отношении querent's к миру вокруг
+him/her.</entry>
+</oracleio>

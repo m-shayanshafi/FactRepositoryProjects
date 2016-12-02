@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Disposizione di chakra delle sette schede</entry>
+	<entry key="Description">Ogni scheda corrisponde ad uno dei sette chakras del 
+corpo. Lo studio adeguato sull'oggetto si raccomanderebbe quando
+usando questa disposizione e la lista sotto è inteso soltanto come 
+guida di riferimento estratta dal libro del Guiley. Le 
+interpretazioni di ogni posizione possono variare la dipendenza dai 
+vostri learnings</entry>
+	<entry key="PositionTitle0">Chakra della radice</entry><entry key="Meaning0">Self-preservation ed instincts</entry>
+	<entry key="PositionTitle1">Chakra di Sacral</entry><entry key="Meaning1">Sexuality</entry>
+	<entry key="PositionTitle2">Plexus solare</entry><entry key="Meaning2">Emozioni</entry>
+	<entry key="PositionTitle3">Cuore chakral</entry><entry key="Meaning3">Più alta coscienza, amore incondizionato</entry>
+	<entry key="PositionTitle4">Chakra della gola</entry><entry key="Meaning4">Espressione di auto e di creatività</entry>
+	<entry key="PositionTitle5">Terzo chakra dell'occhio</entry><entry key="Meaning5">Abilità psichiche, chiarimento spiritoso</entry>
+	<entry key="PositionTitle6">Chakra della parte superiore</entry><entry key="Meaning6">Livello specifico del evoluion cosciente</entry>
+</oracleio>

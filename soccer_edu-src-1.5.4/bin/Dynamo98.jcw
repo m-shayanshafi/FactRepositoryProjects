@@ -1,0 +1,15 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Dynamo98"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\Dynamo98.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\tos_teams\\graviton\\Executor.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\graviton\\Dynamo98.java" #[EndFile]
+
+! Start Breakpoint Structure
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" classification="OracleTranslations" subclass="" language="de" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Karten Des Tarot Standard-78</entry>
+	<entry key="description">Die Standardtarot Plattform mit 22 Karten im higer 
+arcanna und 56 Karten im niedrigeren arcanna. Das niedrigere 
+arcanna ist zu einem Satz Normal Karten mit Ausnahme von der 
+Hinzufügung der "Seite" in den Gesicht Karten spielend identisch. 
+Auch anstelle anstelle den Herzen, anstelle den Spaten, anstelle
+den Vereinen und von den Diamanten; es ist Schalen, Klingen, 
+Wands und pentacles.</entry>
+	<entry key="subgroup0">Höheres Arcanna</entry>
+	<entry key="subgroup1">Senken Sie Arcanna</entry>
+	<entry key="subgroup2">Plattform von 52 spielenden Karten</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Höheres Arcanna</entry>
+	<entry key="grouping1">Schalen</entry>
+	<entry key="grouping2">Pentacles</entry>
+	<entry key="grouping3">Klingen</entry>
+	<entry key="grouping4">Wands</entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Deutsch</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+</oracleio>

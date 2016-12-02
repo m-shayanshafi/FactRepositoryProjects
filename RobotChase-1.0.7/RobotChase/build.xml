@@ -1,0 +1,195 @@
+<!--
+    Ant build file for RobotChase
+
+    Targets suitable for NetBeans free-form project.
+
+    http://ant.apache.org/
+-->
+
+<project name="RobotChase" default="default" basedir=".">
+
+<!-- set global properties for this build -->
+<property name="proj" value="RobotChase"/>
+<property name="main" value="RobotChase"/>
+<property name="srcDir" value="src"/>
+<property name="buildDir" value="build"/>
+<property name="distDir" value="."/>
+<property name="tempDir" value="temp"/>
+<property name="javadocDir" value="javadoc"/>
+<property name="jversion" value="1.5"/>
+<property name="projectDir" value="RobotChase"/>
+<property name="archiveDir" value="${user.home}/Desktop"/>
+<property name="classPath" value="org.gcs.robot"/>
+<property name="version" value="1.0.7"/>
+
+<!-- Initialize -->
+<target name="init" description="Initialize the build process.">
+    <!-- Create a time stamp -->
+    <tstamp/>
+</target>
+
+<!-- Compile source files to class files -->
+<target name="compile" depends="init" description="Compile the program.">
+    <mkdir dir="${buildDir}"/>
+    <javac srcDir="${srcDir}" destDir="${buildDir}"
+        debug="on" source="${jversion}" target="${jversion}"/>
+</target>
+
+<!-- Build jar from classes; copy to Mac bundle -->
+<target name="build" depends="compile" description="Build a jar file.">
+    <jar jarfile="${distDir}/${proj}.jar">
+        <manifest>
+            <attribute name="Main-Class" value="${classPath}.${main}"/>
+        </manifest>
+        <fileset dir="${buildDir}" includes="**/*.class"/>
+        <fileset dir="${basedir}" includes="images/**"/>
+        <fileset dir="${basedir}" includes="help.html"/>
+        <fileset dir="${basedir}" includes="LICENSE.txt"/>
+    </jar>
+    <touch file="build.xml">
+        <mapper type="glob" from="build.xml" to="Info.plist" />
+    </touch>
+    <filter token="version" value="${version}"/>
+    <copy todir="${proj}.app/Contents" filtering="true">
+        <fileset dir="${basedir}" includes="Info.plist"/>
+    </copy>
+    <copy todir="${proj}.app/Contents/Resources/Java">
+        <fileset dir="${distDir}" includes="${proj}.jar"/>
+    </copy>
+</target>
+
+<!-- Run the program -->
+<target name="run" depends="build" description="Run the program.">
+    <java jar="${distDir}/${proj}.jar" fork="true">
+        <jvmarg value="-Xdock:name=${main}"/>
+    </java>
+</target>
+
+<!-- NetBeans profile target -->
+<target name="profile" depends="build" description="Profile project">
+    <fail unless="netbeans.home">This target can only run inside the NetBeans IDE.</fail>
+    
+    <nbprofiledirect>
+        <classpath> <path path="${distDir}/${proj}.jar"/> </classpath>
+    </nbprofiledirect>
+    
+    <java jar="${distDir}/${proj}.jar" fork="true">
+        <jvmarg value="${profiler.info.jvmargs.agent}"/>
+        <jvmarg line="${profiler.info.jvmargs}"/>
+        <jvmarg value="-Xdock:name=${main} [profile]"/>
+    </java>
+</target>
+
+<!-- NetBeans debug target -->
+<target  name="debug-nb" depends="compile" description="Debug the program in NetBeans.">
+    <!-- Run the program -->
+    <nbjpdastart addressproperty="jpda.address" name="${proj}" transport="dt_socket">
+        <classpath path="${distDir}/${buildDir}"/>
+    </nbjpdastart>
+    <java jar="${distDir}/${proj}.jar" fork="true">
+        <classpath path="${distDir}/${buildDir}"/>
+        <jvmarg value="-Xdebug"/>
+        <jvmarg value="-Xnoagent"/>
+        <jvmarg value="-Djava.compiler=none"/>
+        <jvmarg value="-Xrunjdwp:transport=dt_socket,address=${jpda.address}"/>
+    </java>
+</target>
+
+<!-- Clean up all build/dist/temp directories -->
+<target name="clean" description="Clean the project.">
+    <delete dir="${buildDir}"/>
+    <delete dir="${javadocDir}"/>
+</target>
+
+<!-- Generate javadoc HTML documentation -->
+<target name="doc" depends="compile" description="Generate the javadoc.">
+    <mkdir dir="${javadocDir}"/>
+    <javadoc
+        destdir="${javadocDir}"
+        author="true" version="true"
+        access="protected" use="true"
+        overview="${basedir}/overview.html"
+        windowtitle="${proj} v${version} API"
+        link="http://java.sun.com/j2se/1.5.0/docs/api/">
+        <fileset dir="${srcDir}">
+            <include name="**/*.java"/>
+        </fileset>
+        <doctitle>
+            <![CDATA[<h2>${proj} v${version} API</h2>]]>
+        </doctitle>
+        <header>
+            <![CDATA[<a href="http://sourceforge.net/projects/robotchase"target="_top"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=226326&amp;type=11" width="120" height="30" alt="Get RobotChase at SourceForge.net. Fast, secure and Free Open Source software downloads" /></a>]]>
+        </header>
+        <bottom>
+            <![CDATA[<i>Copyright &#169; 2007 Gem City Software. Distributed under the terms of the <a href="http://www.gnu.org/copyleft/gpl.html" target="_top">GPL</a></i>]]>
+        </bottom>
+    </javadoc>
+</target>
+
+<!-- Sign jars -->
+<target name="sign" depends="build" description="Sign jars.">
+	<loadfile srcfile="${user.home}/.keyconf" property="keyconf"/>
+    <signjar alias="jbm" storepass="${keyconf}">
+        <fileset dir="${basedir}">
+            <include name="${proj}.jar"/>
+            <include name="${proj}.app/Contents/Resources/Java/${proj}.jar"/>
+        </fileset>
+    </signjar>
+</target>
+
+<!-- Build a cross-platform tar.gz -->
+<target name="dist1" depends="build, clean, sign" description="Build .tar.gz.">
+    <delete file="${archiveDir}/${proj}-${version}.tar.gz"/>
+    <tar destfile="${archiveDir}/${proj}-${version}.tar.gz" compression="gzip">
+        <tarfileset dir="${basedir}/..">
+             <include name="${projectDir}/**"/>
+             <exclude name="${projectDir}/${proj}.app/**"/>
+             <exclude name="${projectDir}/nbproject/private/private.xml"/>
+        </tarfileset>
+    </tar>
+</target>
+
+<!-- Build a Mac .dmg -->
+<target name="dist2" depends="dist1" description="Build .dmg.">
+    <delete file="${archiveDir}/${proj}-${version}.dmg"/>
+    <mkdir dir="${tempDir}"/>
+    <copy todir="${tempDir}">
+        <fileset dir="${basedir}/..">
+            <include name="${projectDir}/**"/>
+            <exclude name="${projectDir}/${tempDir}/**"/>
+            <exclude name="${projectDir}/${proj}.jar"/>
+        </fileset>
+    </copy>
+    <property name="stub" value="Contents/MacOS/JavaApplicationStub"/>
+    <exec executable="chmod">
+        <arg value="+x"/>
+        <arg value="${tempDir}/${projectDir}/${projectDir}.app/${stub}"/>
+    </exec>
+    <exec executable="hdiutil">
+        <arg value="create"/>
+        <arg value="-srcfolder"/>
+        <arg value="${tempDir}/${projectDir}"/>
+        <arg path="${archiveDir}/${proj}-${version}.dmg"/>
+    </exec>
+    <delete dir="${tempDir}"/>
+</target>
+
+<!-- Build a javadoc archive -->
+<target name="dist3" depends="doc" description="Build a javadoc archive.">
+    <delete file="${archiveDir}/${javadocDir}.tgz"/>
+    <tar destfile="${archiveDir}/${javadocDir}.tgz" compression="gzip">
+        <tarfileset dir="${javadocDir}/..">
+             <include name="${javadocDir}/**"/>
+        </tarfileset>
+    </tar>
+</target>
+
+<!-- Build all distribution files -->
+<target name="all" depends="dist1, dist2, dist3" description="Build all distribution files.">
+</target>
+
+<!-- Default target -->
+<target name="default" depends="clean, build" description="Default clean and build.">
+</target>
+
+</project>

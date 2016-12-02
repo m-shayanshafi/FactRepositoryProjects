@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="ja" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">公有地</entry>
+	<entry key="ObjectTitle0">0-The 愚か者</entry><entry key="ObjectMeaning0">愚劣、揺れるExpiation</entry>
+	<entry key="ObjectTitle1">1-The 手品師</entry><entry key="ObjectMeaning1">意志、Will-Power 、手際よさ</entry>
+	<entry key="ObjectTitle2">2-The 高い尼僧</entry><entry key="ObjectMeaning2">科学、知恵、知識、教育</entry>
+	<entry key="ObjectTitle3">3-The 皇后</entry><entry key="ObjectMeaning3">行為、計画、率先、問題の引き受ける動き</entry>
+	<entry key="ObjectTitle4">4-The 皇帝</entry><entry key="ObjectMeaning4">認識、効果、開発</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">慈悲、Beneficence の親切さ、長所</entry>
+	<entry key="ObjectTitle6">6-The 恋人</entry><entry key="ObjectMeaning6">賢い傾向、証拠、乗り越えられる試験</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">勝利、障害を克服する勝利</entry>
+	<entry key="ObjectTitle8">8 強さ</entry><entry key="ObjectMeaning8">力、力、力、強さ、剛毅</entry>
+	<entry key="ObjectTitle9">9-The 隠者</entry><entry key="ObjectMeaning9">慎重さ、注意、熟考</entry>
+	<entry key="ObjectTitle10">幸運の10 車輪</entry><entry key="ObjectMeaning10">幸運、成功、予想外の運</entry>
+	<entry key="ObjectTitle11">11 正義</entry><entry key="ObjectMeaning11">平衡、バランス、正義</entry>
+	<entry key="ObjectTitle12">12-The は人を掛けた</entry><entry key="ObjectMeaning12">Self-sacrifice 、犠牲、献身、限界</entry>
+	<entry key="ObjectTitle13">13 死</entry><entry key="ObjectMeaning13">死、変更、変形、より悪いののための変化</entry>
+	<entry key="ObjectTitle14">14 14-Temperance</entry><entry key="ObjectMeaning14">組合せ、結合する構造</entry>
+	<entry key="ObjectTitle15">15-The 悪魔</entry><entry key="ObjectMeaning15">永久に不運</entry>
+	<entry key="ObjectTitle16">16-The タワー</entry><entry key="ObjectMeaning16">台なし、中断、打倒、損失、破産</entry>
+	<entry key="ObjectTitle17">17-The 星</entry><entry key="ObjectMeaning17">希望、予想、明るい約束</entry>
+	<entry key="ObjectTitle18">18-The 月</entry><entry key="ObjectMeaning18">たそがれ、詐欺、間違い</entry>
+	<entry key="ObjectTitle19">19-The 日曜日</entry><entry key="ObjectMeaning19">幸福、内容、喜び</entry>
+	<entry key="ObjectTitle20">20 判断</entry><entry key="ObjectMeaning20">更新、結果、問題の決定</entry>
+	<entry key="ObjectTitle21">21-The 世界</entry><entry key="ObjectMeaning21">完了、よい報酬</entry>
+	<entry key="ObjectTitle22">コップのエース</entry><entry key="ObjectMeaning22">、宴会楽しむ、よい喝采</entry>
+	<entry key="ObjectTitle23">コップの2</entry><entry key="ObjectMeaning23">愛、付属品、友情、Sincerity 、愛情</entry>
+	<entry key="ObjectTitle24">コップの3</entry><entry key="ObjectMeaning24">成功、勝利、勝利、好ましい問題</entry>
+	<entry key="ObjectTitle25">コップの4</entry><entry key="ObjectMeaning25">Ennui 、不満、不満、不満</entry>
+	<entry key="ObjectTitle26">コップの5</entry><entry key="ObjectMeaning26">連合、接続点、結婚、遺産</entry>
+	<entry key="ObjectTitle27">コップの6</entry><entry key="ObjectMeaning27">、渡される、消える過去消失させる衰退する</entry>
+	<entry key="ObjectTitle28">コップの7</entry><entry key="ObjectMeaning28">考え、感情、反射、プロジェクト</entry>
+	<entry key="ObjectTitle29">コップの8</entry><entry key="ObjectMeaning29">公平な女の子、友情、付属品、柔軟性</entry>
+	<entry key="ObjectTitle30">コップの9</entry><entry key="ObjectMeaning30">勝利、利点、成功、勝利、乗り越えられる難しさ</entry>
+	<entry key="ObjectTitle31">コップの10</entry><entry key="ObjectMeaning31">1 つが存在するか町は、考察、尊重、美徳、栄光、評判名誉を与える</entry>
+	<entry key="ObjectTitle32">コップのページ</entry><entry key="ObjectMeaning32">公平な青年、信任、正直、思慮分別、完全性</entry>
+	<entry key="ObjectTitle33">コップの騎士</entry><entry key="ObjectMeaning33">到着、アプローチ、前進</entry>
+	<entry key="ObjectTitle34">コップの女王</entry><entry key="ObjectMeaning34">公平な女性、成功、幸福、利点、喜び</entry>
+	<entry key="ObjectTitle35">コップの王</entry><entry key="ObjectMeaning35">公平な人、長所、親切さ、Liberality 、寛大さ</entry>
+	<entry key="ObjectTitle36">Pentacles のエース</entry><entry key="ObjectMeaning36">完全な満足、Felicity 、繁栄、勝利</entry>
+	<entry key="ObjectTitle37">Pentacles の2</entry><entry key="ObjectMeaning37">当惑、心配、難しさ</entry>
+	<entry key="ObjectTitle38">Pentacles の3</entry><entry key="ObjectMeaning38">高潔、高度、威厳、ランク、力</entry>
+	<entry key="ObjectTitle39">Pentacles の4</entry><entry key="ObjectMeaning39">喜び、華美、楽しみ、満足</entry>
+	<entry key="ObjectTitle40">Pentacles の5</entry><entry key="ObjectMeaning40">恋人または主婦、愛、甘さ、愛情、純粋でおよび上品な愛</entry>
+	<entry key="ObjectTitle41">Pentacles の6</entry><entry key="ObjectMeaning41">現在、ギフト、喜び:</entry>
+	<entry key="ObjectTitle42">Pentacles の7</entry><entry key="ObjectMeaning42">お金、財政、宝物、利益、利益</entry>
+	<entry key="ObjectTitle43">Pentacles の8</entry><entry key="ObjectMeaning43">暗い女の子、美、率直、Chastity 、潔白、謙虚さ</entry>
+	<entry key="ObjectTitle44">Pentacles の9</entry><entry key="ObjectMeaning44">思慮分別、Circumspection 、慎重さ、Discernment</entry>
+	<entry key="ObjectTitle45">Pentacles の10</entry><entry key="ObjectMeaning45">家、住居、住居、家族</entry>
+	<entry key="ObjectTitle46">Pentacles のページ</entry><entry key="ObjectMeaning46">暗い青年、経済、順序、規則、管理</entry>
+	<entry key="ObjectTitle47">Pentacles の騎士</entry><entry key="ObjectMeaning47">、知恵信頼できる、有用な人経済、順序、規則</entry>
+	<entry key="ObjectTitle48">Pentacles の女王</entry><entry key="ObjectMeaning48">暗い女性、寛大な女性、Liberality 、精神、寛大さの偉大さ</entry>
+	<entry key="ObjectTitle49">Pentacles の王</entry><entry key="ObjectMeaning49">暗い人、勝利、勇気、勇気、成功</entry>
+	<entry key="ObjectTitle50">剣のエース</entry><entry key="ObjectMeaning50">勝利、繁殖性、豊饒、繁栄</entry>
+	<entry key="ObjectTitle51">剣の2</entry><entry key="ObjectMeaning51">友情、Valour の堅固、勇気</entry>
+	<entry key="ObjectTitle52">剣の3</entry><entry key="ObjectMeaning52">分離、取り外し、破裂、口論、尼僧</entry>
+	<entry key="ObjectTitle53">剣の4</entry><entry key="ObjectMeaning53">孤独、退去、孤独な放棄隠者</entry>
+	<entry key="ObjectTitle54">剣の5</entry><entry key="ObjectMeaning54">の悲しさ、難儀嘆くこと</entry>
+	<entry key="ObjectTitle55">剣の6</entry><entry key="ObjectMeaning55">メッセンジャー、旅行、旅行、公使</entry>
+	<entry key="ObjectTitle56">剣の7</entry><entry key="ObjectMeaning56">希望、信任、欲求、試み、願い</entry>
+	<entry key="ObjectTitle57">剣の8</entry><entry key="ObjectMeaning57">病気、中傷、批評、責任</entry>
+	<entry key="ObjectTitle58">剣の9</entry><entry key="ObjectMeaning58">聖職者、良心、司祭。正直、誠実、完全性</entry>
+	<entry key="ObjectTitle59">剣の10</entry><entry key="ObjectMeaning59">破損、難儀、悲しみ、悲哀</entry>
+	<entry key="ObjectTitle60">剣のページ</entry><entry key="ObjectMeaning60">見落としている権限スパイ</entry>
+	<entry key="ObjectTitle61">剣の騎士</entry><entry key="ObjectMeaning61">専門職が腕である人、Skilfulness の容量、住所、Promptitude 、兵士</entry>
+	<entry key="ObjectTitle62">剣の女王</entry><entry key="ObjectMeaning62">Widowhood 、損失、Privation 、不在、分離</entry>
+	<entry key="ObjectTitle63">剣の王</entry><entry key="ObjectMeaning63">、弁護士法律、力、命令、優越性、権限の人</entry>
+	<entry key="ObjectTitle64">細い棒のエース</entry><entry key="ObjectMeaning64">生れ、開始、初め、起源、源</entry>
+	<entry key="ObjectTitle65">細い棒の2</entry><entry key="ObjectMeaning65">Riches の幸運、富裕、壮大、壮大さ</entry>
+	<entry key="ObjectTitle66">細い棒の3</entry><entry key="ObjectMeaning66">企業、プロジェクト、商業、貿易、交渉</entry>
+	<entry key="ObjectTitle67">細い棒の4</entry><entry key="ObjectMeaning67">社会、連合、連合、一致、ハーモニー</entry>
+	<entry key="ObjectTitle68">細い棒の5</entry><entry key="ObjectMeaning68">金、富裕、利益、相続財産、Riches の幸運、お金</entry>
+	<entry key="ObjectTitle69">細い棒の6</entry><entry key="ObjectMeaning69">試み、希望、欲求、願い、予想</entry>
+	<entry key="ObjectTitle70">細い棒の7</entry><entry key="ObjectMeaning70">成功、利益、利点、利益、勝利</entry>
+	<entry key="ObjectTitle71">細い棒の8</entry><entry key="ObjectMeaning71">理解、観察、方向</entry>
+	<entry key="ObjectTitle72">細い棒の9</entry><entry key="ObjectMeaning72">順序、訓練、よい整理、傾向</entry>
+	<entry key="ObjectTitle73">細い棒の10</entry><entry key="ObjectMeaning73">信任、保証、名誉、誠実</entry>
+	<entry key="ObjectTitle74">細い棒のページ</entry><entry key="ObjectMeaning74">よい他人、よいニュース、喜び、満足</entry>
+	<entry key="ObjectTitle75">細い棒の騎士</entry><entry key="ObjectMeaning75">出発、分離、Disunion</entry>
+	<entry key="ObjectTitle76">細い棒の女王</entry><entry key="ObjectMeaning76">国に、領域の女性住んでいる貪欲貪欲、暴利、女性お金の愛</entry>
+	<entry key="ObjectTitle77">細い棒の王  </entry><entry key="ObjectMeaning77">国に、国の紳士住んでいる、人知識、教育</entry>
+	<entry key="ReversedMeaning0">ちゅうちょ、不安定、悩みの発生のherefrom 。</entry>
+	<entry key="ReversedMeaning1">邪悪な端に、意志適用される、意志狡猾、Knavishness の弱さ。</entry>
+	<entry key="ReversedMeaning2">Conceit 、無知、Unskilfulness の表面的な知識。</entry>
+	<entry key="ReversedMeaning3">力の浪費する休止は集中のVacillation のほしい。</entry>
+	<entry key="ReversedMeaning4">停止、Unripe 点検、未熟。</entry>
+	<entry key="ReversedMeaning5">に親切さ、弱さ、寛大さの愚かな練習。</entry>
+	<entry key="ReversedMeaning6">テストに置かれた場合愚かな計画、失敗。</entry>
+	<entry key="ReversedMeaning7">打ち倒される、Obstacles 著ぎりぎりのところで征服されて。</entry>
+	<entry key="ReversedMeaning8">、Overbearingness 権利の乱用は剛毅の、ほしい。</entry>
+	<entry key="ReversedMeaning9">に慎重さ、Timorousness の恐れ。</entry>
+	<entry key="ReversedMeaning10">病気幸運、失敗、予想外の病気運。</entry>
+	<entry key="ReversedMeaning11">偏屈な信念はバランス、正義、に厳格、不平等、バイアスの濫用の、ほしい。</entry>
+	<entry key="ReversedMeaning12">Selfishness 、自由で、部分的な犠牲。</entry>
+	<entry key="ReversedMeaning13">死はちょうど、部分的な変更、よりよいののための変化脱出した。</entry>
+	<entry key="ReversedMeaning14">無分別な組合せ、Disunion 、衝突する興味、等。</entry>
+	<entry key="ReversedMeaning15">悪のための不運。</entry>
+	<entry key="ReversedMeaning16">のこれらもっとまたはより少なく部分的な程度。</entry>
+	<entry key="ReversedMeaning17">達成されない希望マイナーな程度で失望するか、または達成される予想。</entry>
+	<entry key="ReversedMeaning18">変動、わずかな詐欺、Trifling 間違い。</entry>
+	<entry key="ReversedMeaning19">マイナーな程度のこれら。</entry>
+	<entry key="ReversedMeaning20">結果、遅れ、後で再開される問題の延期。</entry>
+	<entry key="ReversedMeaning21">邪悪な報酬、かRecompense 。</entry>
+	<entry key="ReversedMeaning22">変更、新型、変態、Inconstancy 。</entry>
+	<entry key="ReversedMeaning23">交差させた欲求、障害、反対、妨害。</entry>
+	<entry key="ReversedMeaning24">ビジネス、Quickness 、Celerity 、警戒の探険。</entry>
+	<entry key="ReversedMeaning25">新しい知人、推量、印、Presentiment 。</entry>
+	<entry key="ReversedMeaning26">到着、リターン、ニュース、驚き、偽のプロジェクト。</entry>
+	<entry key="ReversedMeaning27">未来、すぐに、やがて来る、それ。</entry>
+	<entry key="ReversedMeaning28">計画、設計、決断、決定。</entry>
+	<entry key="ReversedMeaning29">、喜び楽しむ、華美喜び。</entry>
+	<entry key="ReversedMeaning30">欠陥、間違い、間違い、欠陥。</entry>
+	<entry key="ReversedMeaning31">戦闘、争い、反対、相違、論争。</entry>
+	<entry key="ReversedMeaning32">Flatterer 、詐欺、術策。</entry>
+	<entry key="ReversedMeaning33">Duplicity 、信任、狡猾な欺瞞の濫用。</entry>
+	<entry key="ReversedMeaning34">よい位置、しかしintermeddling の女性、及び疑惑をもたれるため; 付随の悩みの成功、しかし。</entry>
+	<entry key="ReversedMeaning35">彼の取引、不信の念、疑い、疑いのよい位置の人、しかし狡猾。</entry>
+	<entry key="ReversedMeaning36">金、お金、利益、助け、利益、Riches の財布。</entry>
+	<entry key="ReversedMeaning37">手紙、Missive 、Epistle 、メッセージ。</entry>
+	<entry key="ReversedMeaning38">子供、息子、娘、青年、開始。</entry>
+	<entry key="ReversedMeaning39">障害、妨害。</entry>
+	<entry key="ReversedMeaning40">Disgraceful 愛、Imprudence 、免許証、Profligacy 。</entry>
+	<entry key="ReversedMeaning41">野心、欲求、情熱、目標、憧れ。</entry>
+	<entry key="ReversedMeaning42">妨害、心配、心配、メランコリー。</entry>
+	<entry key="ReversedMeaning43">お世辞、暴利、狡猾な偽善。</entry>
+	<entry key="ReversedMeaning44">詐欺、悪い信頼、術策、詐欺。</entry>
+	<entry key="ReversedMeaning45">の消滅、強盗、損失賭けること。</entry>
+	<entry key="ReversedMeaning46">Prodigality 、Profusion 、無駄、消滅。</entry>
+	<entry key="ReversedMeaning47">雇用、空転、怠慢な失業者からの勇敢な人、しかし。</entry>
+	<entry key="ReversedMeaning48">ある悪、疑った女性、正当に疑い、疑い、不信と見なされる女性。</entry>
+	<entry key="ReversedMeaning49">古く、不道徳な人、危ない人、疑い、恐れ、危険、危険。</entry>
+	<entry key="ReversedMeaning50">当惑、愚かでおよび絶望的な愛、障害、妨害。</entry>
+	<entry key="ReversedMeaning51">偽の友人、裏切りは、ある。</entry>
+	<entry key="ReversedMeaning52">間違い、混乱、Misrule の無秩序。</entry>
+	<entry key="ReversedMeaning53">経済、注意、支出の規則。</entry>
+	<entry key="ReversedMeaning54">損失は逆転させて。かどうか悩む(同じ意義は、)</entry>
+	<entry key="ReversedMeaning55">宣言、暴露提案される、愛驚き。</entry>
+	<entry key="ReversedMeaning56">賢い助言、よい相談、知恵、慎重さ、Circumspection 。</entry>
+	<entry key="ReversedMeaning57">以前裏切り、でき事、事故、驚くべき事件。</entry>
+	<entry key="ReversedMeaning58">賢い不信の念、疑い、恐れ、疑い、影がある特性。</entry>
+	<entry key="ReversedMeaning59">成功を渡すこと、瞬時の利点。</entry>
+	<entry key="ReversedMeaning60">不慮であるそれ、警戒、サポート。</entry>
+	<entry key="ReversedMeaning61">conceited 愚か者、Ingenuousness 、簡易性。</entry>
+	<entry key="ReversedMeaning62">悪い女性、ill-tempered およびbigoted 、Riches 及び不一致の心配、悲しみの喜びとともに豊富。</entry>
+	<entry key="ReversedMeaning63">悪賢い人、悔しさ、心配、悲しみ、恐れ、妨害。</entry>
+	<entry key="ReversedMeaning64">迫害、追求Voilence のVexation 、残酷、専制政治。</entry>
+	<entry key="ReversedMeaning65">驚き、驚き、でき事、異常な発生。</entry>
+	<entry key="ReversedMeaning66">希望、欲求、試み、願い。</entry>
+	<entry key="ReversedMeaning67">繁栄、成功、幸福、利点。</entry>
+	<entry key="ReversedMeaning68">訴訟手続、判断、法律、裁判所、弁護士。</entry>
+	<entry key="ReversedMeaning69">不誠実、裏切り、不忠、背信。</entry>
+	<entry key="ReversedMeaning70">優柔不断、疑い、ちゅうちょ、当惑、心配。</entry>
+	<entry key="ReversedMeaning71">口論、腸は、不一致論じる。</entry>
+	<entry key="ReversedMeaning72">障害、十字、遅れ、不満。</entry>
+	<entry key="ReversedMeaning73">裏切り、Subterfuge 、Duplicity 、棒。</entry>
+	<entry key="ReversedMeaning74">病気のニュース、不満、悔しさ、心配。</entry>
+	<entry key="ReversedMeaning75">破裂、不一致、口論。</entry>
+	<entry key="ReversedMeaning76">よいの有徳の女性、しかし厳密および経済的の障害、抵抗、反対。</entry>
+	<entry key="ReversedMeaning77">自然によくしかし厳しい人、相談、助言、熟考。</entry>
+</oracleio>

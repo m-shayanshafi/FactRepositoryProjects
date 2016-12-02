@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spiral Layout (Biggs)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Disposition En spirale (Biggs)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Base</entry><entry key="Meaning1">Ce que la situation actuelle des querent est construite
+dessus</entry>
+	<entry key="PositionTitle2">Après des actions</entry><entry key="Meaning2">Mesures que le querent a prises dans le passé qui ont 
+contribué à la situation actuelle</entry>
+	<entry key="PositionTitle3">Après des émotions</entry><entry key="Meaning3">Le statut émotif des querent dans le passé</entry>
+	<entry key="PositionTitle4">Après des influences externes</entry><entry key="Meaning4">D'autres peuples actions/emotions qui ont affecté la 
+situation des querent</entry>
+	<entry key="PositionTitle5">Position actuelle</entry><entry key="Meaning5">Là où les stands querent maintenant dans le rapport 
+avec la situation</entry>
+	<entry key="PositionTitle6">Influences externes de futur</entry><entry key="Meaning6">D'autres actions/emotions qui affectera le querent</entry>
+	<entry key="PositionTitle7">Futures émotions</entry><entry key="Meaning7">Émotions que le querent devrait observer dehors pour 
+à l'avenir</entry>
+	<entry key="PositionTitle8">Futures actions</entry><entry key="Meaning8">Mesures que le querent peut prendre à l'avenir</entry>
+	<entry key="PositionTitle9">Résultats</entry><entry key="Meaning9">Les résultats prévus de la situation</entry>
+</oracleio>

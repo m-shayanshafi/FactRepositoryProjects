@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" classification="OracleTranslations" subclass="" language="ru" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Карточки Стандарта 78 Tarot</entry>
+	<entry key="description">Стандартная палуба tarot с 22 карточками в 
+arcanna higer и 56 карточками в более низком 
+arcanna. Более низкое arcanna идентично к пакету 
+нормального играя карточки за исключением добавления "страницы" в 
+карточках стороны. Также, вместо сердец, лопат, клубов и 
+диамантов; будет чашками, шпагами, wands и pentacles.</entry>
+	<entry key="subgroup0">Более Высокое Arcanna</entry>
+	<entry key="subgroup1">Понизьте Arcanna</entry>
+	<entry key="subgroup2">Палуба 52 играя карточек</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Более Высокое Arcanna</entry>
+	<entry key="grouping1">Чашки</entry>
+	<entry key="grouping2">Pentacles</entry>
+	<entry key="grouping3">Шпаги</entry>
+	<entry key="grouping4">Wands</entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Русско</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+</oracleio>

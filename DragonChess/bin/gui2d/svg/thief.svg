@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:#000000;fill-opacity:0.5;stroke:none"
+   width="595.275591"
+   height="841.889764"
+   id="svg72"
+   sodipodi:docbase="/home/drake/prog/dragonchess/src/gui2d/svg/"
+   sodipodi:docname="/home/drake/prog/dragonchess/src/gui2d/svg/thief.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs74">
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#3f3fff"
+     gridopacity="1.000000"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.494118"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.494118"
+     showgrid="true"
+     snaptogrid="true">
+  </sodipodi:namedview>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 325.057 201.701 L 357.165 334.488 C 365.669 340.157 374.173 345.827 382.892 345.721 C 398.991 345.526 421.084 340.157 430.143 326.065 C 442.245 307.745 442.837 267.403 430.866 249.449 C 411.024 218.268 365.669 199.976 325.057 201.701 z "
+     id="bag"
+     sodipodi:nodetypes="ccsssc"
+     transform="matrix(0.329523 0 0 0.329697 -22.1592 -26.7079)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 333.561 193.197 C 305.215 227.213 320.888 278.236 319.388 326.425 C 318.548 353.42 293.876 368.945 291.041 402.961 L 506.475 402.961 C 499.86 384.063 487.731 366.055 486.632 346.268 C 483.797 295.244 514.978 230.047 480.963 193.197 C 466.855 177.914 432.757 179.024 407.262 179.024 C 382.679 179.024 346.709 177.419 333.561 193.197 z "
+     id="cloak"
+     sodipodi:nodetypes="csccssss"
+     transform="matrix(0.329523 0 0 0.329697 -61.0852 -18.4419)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 337.485 212.493 C 337.485 235.17 337.485 263.516 328.981 286.193 C 324.946 296.953 327.254 309.422 323.311 320.209 C 320.477 331.548 314.807 340.052 314.807 354.225 L 465.044 354.225 C 446.586 333.06 439.684 315.634 433.863 291.863 C 428.346 269.335 428.193 238.004 431.028 215.327 L 337.485 212.493 z "
+     id="legs"
+     sodipodi:nodetypes="cssccscc"
+     transform="matrix(0.329523 0 0 0.329697 -54.9052 -2.37395)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 325.057 164.304 C 325.057 175.642 319.388 184.146 322.223 198.319 C 325.057 212.493 336.396 226.666 339.231 238.004 C 344.119 257.551 361.908 280.524 377.53 285.485 C 393.089 274.855 423.045 262.271 435.609 245.204 C 444.113 232.335 444.113 216.673 449.782 205.407 C 455.544 192.443 452.616 178.477 458.286 163.595 C 446.947 172.453 418.601 172.543 390.254 172.808 C 361.908 173.072 333.561 173.51 325.057 164.304 z "
+     id="body"
+     sodipodi:nodetypes="csscsscsc"
+     transform="matrix(0.329523 0 0 0.329697 -56.4142 -10.7849)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 385.9 246.415 L 384.584 294.698 L 409.312 318.792 L 434.039 306.037 L 441.277 246.508 L 385.9 246.415 z "
+     id="head"
+     sodipodi:nodetypes="cccccc"
+     transform="matrix(0.329523 0 0 0.329697 -62.9532 -53.7749)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 520.647 286.194 C 516.907 276.639 502.064 272.02 489.466 272.02 C 475.292 272.02 461.069 279.952 455.45 289.028 C 448.785 299.794 448.283 318.123 452.615 331.548 C 456.348 343.115 472.458 359.895 483.796 359.895 C 469.623 348.556 463.927 336.214 461.119 323.044 C 459.203 314.057 457.888 298.488 463.954 294.698 C 473.007 289.04 497.421 289.04 506.473 294.698 C 512.539 298.488 511.604 314.243 509.308 323.044 C 505.935 335.975 496.647 351.391 483.796 359.895 C 497.969 358.447 518.159 346.82 520.647 334.383 C 524.906 320.209 523.481 293.185 520.647 286.194 z "
+     id="cap"
+     sodipodi:nodetypes="cssscsssscss"
+     transform="matrix(0.329523 0 0 0.329697 -87.2392 -67.7939)">
+  </path>
+  <path
+     style="fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     id="body line 1"
+     d="M 277.795 428.031 C 277.795 354.331 260.787 272.126 286.299 235.276 "
+     sodipodi:nodetypes="cc"
+     transform="matrix(0.329523 0 0 0.329697 -22.1592 -26.7079)">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 294.803 240.287 C 294.803 243.053 292.898 244.038 290.551 244.038 C 288.204 244.038 286.299 242.395 286.299 239.629 C 286.299 236.862 288.204 235.276 290.551 235.276 C 292.898 235.276 294.803 237.52 294.803 240.287 z "
+     id="button"
+     transform="matrix(0.329523 0 0 0.329697 -23.5602 -28.1429)"
+     sodipodi:nodetypes="ccccc">
+  </path>
+  <path
+     style="stroke:#000000; fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke-opacity:100%; stroke-width:1pt; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 410.39 291.582 L 384.584 317.375 L 668.459 317.375 L 642.652 291.582 L 410.39 291.582 z "
+     id="the base"
+     sodipodi:nodetypes="ccccc"
+     transform="matrix(0.329523 0 0 0.329697 -104.052 17.2521)">
+  </path>
+  <path
+     style="fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     id="body line 2"
+     d="M 240.945 238.11 C 246.614 253.619 255.118 255.117 274.96 255.118 "
+     sodipodi:nodetypes="cc"
+     transform="matrix(0.329523 0 0 0.329697 -29.6312 -23.9039)">
+  </path>
+  <path
+     style="fill:#fffa61; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     id="body line 3"
+     d="M 240.945 240.945 C 257.953 250.91 283.969 240.777 292.473 229.438 "
+     sodipodi:nodetypes="cc"
+     transform="matrix(0.329523 0 0 0.329697 -4.41116 -19.2309)">
+  </path>
+
+</svg>

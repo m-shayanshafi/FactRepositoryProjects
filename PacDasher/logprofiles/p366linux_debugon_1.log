@@ -1,0 +1,46 @@
+DEBUG: Beginning log
+DEBUG: MazeFactoryXML.create()
+DEBUG: Millis from StartingPacDasher to Started loading XML was 28313
+DEBUG: Millis from Started loading XML to Ended loading XML was 8953
+DEBUG: 
+
+INITIAL PERFORMANCE ANALYSIS
+
+
+DEBUG: Video card supports page flipping? true
+
+DEBUG: OS Arch: i386
+OS Name: Linux
+OS Version: 2.4.20-6
+Java Version: 1.4.1_02
+Java Vendor: Sun Microsystems Inc.
+
+DEBUG: Millis from XML load ended to game ready was 176
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 65863680
+freeMemory = 64155984
+bytes used per frame = 996
+framesPerSec = 7
+millisPerFrame = 142.85715
+millis minus delay = 122.85715
+numTooLongs = 234
+gcCount = 1
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 65863680
+freeMemory = 63690952
+bytes used per frame = 930
+framesPerSec = 12
+millisPerFrame = 83.333336
+millis minus delay = 63.333336
+numTooLongs = 227
+gcCount = 1
+
+

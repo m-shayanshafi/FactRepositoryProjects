@@ -1,0 +1,135 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "SoccerMaster"
+JDKPROFILE := "JDK version 1.5.0_06"
+ACTIVE := "1"
+OUTPUTPATH := "\\classes"
+COMPILER := "<Default>"
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "<Default>" RUNAPPLET := "" PARAM := "" RUN := "soccer.client.SoccerMaster" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+#[BeginRLibrary]LABEL := "jar1" #[EndRLibrary]
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "soccer"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "client"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\client\\Controller.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Cplayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Cviewer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Executor.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\MenuDefinitions.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Replayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Sensor.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\SndSystem.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\World.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\SoccerMaster.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\VController.java" #[EndFile]
+#[BeginFolder]
+LABEL := "dialog"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\client\\dialog\\SituationDialog.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\AIDialog.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\ActiveCommand.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\DialogManager.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\OutputUpdater.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\PlayDialog.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\ServerDialog.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\ViewDialog.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "view"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\client\\view\\Arena.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\Field.java" #[EndFile]
+#[BeginFolder]
+LABEL := "j3d"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\client\\view\\j3d\\FieldJ3D.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\j3d\\MouseRotateXZ.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\j3d\\MouseZoomOnRightClick.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\j3d\\Robot.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\j3d\\TOSModel.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "action"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\client\\action\\ShowBallCoordAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\SaveSnapshotAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\AbstractClientAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\AbstractToggleAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\ActionMenuItem.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\Actions.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\CoachForwardAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\CoachPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\CoachStepAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\Display3DAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\Display3DResetAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\DisplayChatAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\DisplayNumAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\ExitAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\FastForwardLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\LoadLogAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\PauseLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\PlayBackLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\PlayGameAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\PlayLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\RewindLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\SetUpAIAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\SetUpServerAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\StopGameAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\StopLogPlayAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\ToggleActionMenuItem.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\TurnOnMusicAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\TurnOnSoundAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\ViewGameAction.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\CoachLoadFileAction.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "common"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\common\\InfoData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ViewData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Vector2d.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Util.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Transceiver.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\TalkData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\SeeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\RefereeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\RWLock.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Player.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\PeriodData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Packet.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\KickData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\InitData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\HearData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\EmptyData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\DriveData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Data.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ConnectData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\ByeData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\Ball.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\GState.java" #[EndFile]
+#[BeginFile]SOURCE := "\\common\\TeleportData.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]
+#[EndFolder]

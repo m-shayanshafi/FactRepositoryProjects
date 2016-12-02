@@ -1,0 +1,8 @@
+#!/bin/bash
+PROGRAM_DIR=""
+
+if [ -z "$PROGRAM_DIR" ]; then
+  PROGRAM_DIR=`dirname $0`
+fi
+
+java -Dskindir=../skins -Djava.library.path=$PROGRAM_DIR -jar $PROGRAM_DIR/jdivelog.jar $*

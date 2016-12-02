@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Two cards" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">二张卡片</entry>
+	<entry key="Description">有时使用如同yes/no 答复或选择最佳二个情况。Tarot 一般是坏在yes/no 答复但如果您必须要求一, 这是更好的布局的当中一个为它。事先选择卡片将是"是" 卡片并且将是"没有" 卡片或情况卡片将应付。警告, 较不desireable 卡片有时是最佳的解答无论如何! 有时您需要上路旅行了。</entry>
+	<entry key="PositionTitle0">解答1</entry><entry key="Meaning0">什么您能期望如果您采取解答您预先决定, 这张卡片将代表。</entry>
+	<entry key="PositionTitle1">解答2</entry><entry key="Meaning1">什么您能期望如果您采取解答您预先决定, 这张卡片将代表。</entry>
+</oracleio>

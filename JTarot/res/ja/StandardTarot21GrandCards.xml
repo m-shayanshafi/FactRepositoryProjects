@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">壮大な源の広がり(Cortese)</entry>
+	<entry key="Description">"これはか未来以前問題に決断の全面的な映像を与える為によい一般的使用する広がりを。それはどんな内部及び外の効果をこれがもたらすか処置はとられる前に内部及び外の影響、行為、行為、決断の進行の開始または刺激を検査する機会をでき。。"答えを与えないかもしれないけれども最高の質問がquerent の心で答えられるかもしれないプロセスを強調するためにそれはまた機能するかもしれない- Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">内部の影響1</entry><entry key="Meaning1">仕事の内部の影響、querent の刺激、または何学ぶべきquerent 願い</entry>
+	<entry key="PositionTitle2">内部の影響2</entry><entry key="Meaning2">仕事の内部の影響、querent の刺激、または何学ぶべきquerent 願い</entry>
+	<entry key="PositionTitle3">内部の影響3</entry><entry key="Meaning3">仕事の内部の影響、querent の刺激、または何学ぶべきquerent 願い</entry>
+	<entry key="PositionTitle4">外の影響1</entry><entry key="Meaning4">人々からの外の影響、か影響またはquerent 質問をしたかもしれないquerent のの外の事</entry>
+	<entry key="PositionTitle5">外の影響2</entry><entry key="Meaning5">人々からの外の影響、か影響またはquerent 質問をしたかもしれないquerent のの外の事</entry>
+	<entry key="PositionTitle6">外の影響3</entry><entry key="Meaning6">人々からの外の影響、か影響またはquerent 質問をしたかもしれないquerent のの外の事</entry>
+	<entry key="PositionTitle7">種</entry><entry key="Meaning7">育つ行為、種、または答えられる質問の開始</entry>
+	<entry key="PositionTitle8">初め1</entry><entry key="Meaning8">行為の最初の段階</entry>
+	<entry key="PositionTitle9">初め2</entry><entry key="Meaning9">カード9 を変更する' 初め1 ' 。それはquerent 心である、またはそれは考察の下に行為の初めのそれ以上の検査単にであるかもしれない結果のかすんでいる映像を与えるかもしれない。</entry>
+	<entry key="PositionTitle10">進歩1</entry><entry key="Meaning10">結果が達成される方法</entry>
+	<entry key="PositionTitle11">進歩2</entry><entry key="Meaning11">カード11 を同じように梳く10 を梳く9 つを変更する' 進歩1 ' 。</entry>
+	<entry key="PositionTitle12">変更1</entry><entry key="Meaning12">計画の可能な変更、か決断。このカードはquerent 意志が半ばのコースを変えなければならない方法を検査するのに役立つかもしれない。</entry>
+	<entry key="PositionTitle13">変更2</entry><entry key="Meaning13">カード13 を同じように梳く10 を梳く9 つを変更する' 変更1 ' 。</entry>
+	<entry key="PositionTitle14">結果9-14</entry><entry key="Meaning14">カード9 - 14 で輪郭を描かれるプロセスの結果。</entry>
+	<entry key="PositionTitle15">querent 1 に対する効果</entry><entry key="Meaning15">querent の決断の可能な効果</entry>
+	<entry key="PositionTitle16">querent 2 に対する効果</entry><entry key="Meaning16">querent の決断の可能な効果</entry>
+	<entry key="PositionTitle17">querent 3 に対する効果</entry><entry key="Meaning17">querent の決断の可能な効果</entry>
+	<entry key="PositionTitle18">環境1 に対する効果</entry><entry key="Meaning18">querent 以外の事またはhim/her のまわりの世界へのquerent の関係の決断の可能な効果。</entry>
+	<entry key="PositionTitle19">環境2 に対する効果</entry><entry key="Meaning19">querent 以外の事またはhim/her のまわりの世界へのquerent の関係の決断の可能な効果。</entry>
+	<entry key="PositionTitle20">環境3 に対する効果</entry><entry key="Meaning20">querent 以外の事またはhim/her のまわりの世界へのquerent の関係の決断の可能な効果。</entry>
+</oracleio>

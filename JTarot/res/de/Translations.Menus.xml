@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="de" author="Thomas Dilts" >
+<entry key="menulanguage">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+<entry key="Advisor">Berater</entry>
+<entry key="BadFileMessage">Die Akte, die Sie vorwählten, könnte nicht benutzt 
+werden. Versuchen Sie noch einmal mit einer anderen Akte, die 
+das korrekte Format ist.</entry>
+<entry key="CancelButton">Annullieren Sie</entry>
+<entry key="CardSelectionWizard">Wenden Sie Vorwähler-Zauberer Ein</entry>
+<entry key="ChooseWhichFileToCreate">Wählen Sie, die Sie wünschen und betätigen dann die 
+"herstellen diese Akte" Taste einordnen</entry>
+<entry key="Create this file">Stellen Sie diese Akte her</entry>
+<entry key="DoYouWantToMakeThisDefault">Möchten Sie dieses Ihre Rückstellung Akte tne am 
+Wiederanlauf von jTarot zunächst bilden?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, schlugen Sie Löschen. Möchten Sie wirklich alle 
+Ihre Änderungen weg werfen?</entry>
+<entry key="Graphical objects">Graphische Gegenstände</entry>
+<entry key="Lastusedreadingslistisempty">Letztes benutzte Leseliste ist- leer</entry>
+<entry key="Layout translations">Planübersetzungen</entry>
+<entry key="Layout">Plan</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Wählen Sie manuell in der linken Liste den Gegenstand 
+vor, der im Bild auf dem Recht gezeigt wird und schlagen Sie ' 
+zunächst '.</entry>
+<entry key="ManuallySelectEachCard">Wählen Sie manuell jeden Gegenstand vor</entry>
+<entry key="Menu and message translations">Menü- und Anzeigenübersetzungen</entry>
+<entry key="More">Mehr</entry>
+<entry key="NextButton">Zunächst</entry>
+<entry key="No">Nein</entry>
+<entry key="OpenAFile">Wählen Sie eine Akte vor, um sich zu öffnen</entry>
+<entry key="Oracle translations">Orakelübersetzungen</entry>
+<entry key="RandomlyChooseTheNextCard">Wählen Sie den folgenden Gegenstand vor, um in die 
+Position zu gehen, die im Bild gezeigt wird.</entry>
+<entry key="RandomlySelectCards">Wählen Sie nach dem zufall Gegenstände vor</entry>
+<entry key="Removealllastusedreadings">Entfernen Sie alle letzten benutzten Messwerte</entry>
+<entry key="SaveAFile">Wählen Sie eine Akte vor oder tragen Sie einen neuen 
+Dateinamen ein</entry>
+<entry key="SelectLayoutAndCardSelection">Wählen Sie den Plan, den Sie und die Weise wünschen, 
+Sie die Gegenstände vorwählen möchten; entweder nach dem 
+zufall oder manuell. Wenn Sie wirklich hier verloren sind, 
+stoßen Sie einfach die Taste ' nach dem zufall auserwählten 
+Gegenstände "an</entry>
+<entry key="Smaller group of objects">Kleinere Gruppe Gegenstände</entry>
+<entry key="StartupWizard">StartZauberer</entry>
+<entry key="TheDeckCopyright">Gegenstandabbildung copyright</entry>
+<entry key="Title">jTarot und Runes</entry>
+<entry key="Type of oracle">Art des Orakels</entry>
+<entry key="Use reversed objects">Benutzen Sie aufgehobene Gegenstände</entry>
+<entry key="Yes">Ja</entry>
+<entry key="YouMustFirstSelectAValidCard">Sie müssen einen gültigen Gegenstand zuerst 
+vorwählen</entry>
+<entry key="advancedLabel">Vorgerückt</entry>
+<entry key="advisorsLabel">Berater</entry>
+<entry key="browseroptionsLabel">Zeigen Sie Datenbanksuchroutinewahldialog</entry>
+<entry key="cardisreversed">Dieser Gegenstand wird aufgehoben</entry>
+<entry key="contributeLabel">Wie kann ich diesem Projekt helfen?</entry>
+<entry key="copyrighttitle">Beratertextcopyright</entry>
+<entry key="createsetupfilesLabel">Stellen Sie eine Orakeleinstellung Akte her</entry>
+<entry key="editsetupfileLabel">Redigieren Sie eine Einstellung Akte</entry>
+<entry key="exitLabel">Nehmen Sie heraus</entry>
+<entry key="exportLabel">Export</entry>
+<entry key="exporthtmlLabel">HTML (viele Akten, kompatibel alle 
+Netzdatenbanksuchroutinen)</entry>
+<entry key="exportmhtmlLabel">MHTML (einzelne Akte, MS Windows kompatibel)</entry>
+<entry key="exportwarLabel">WAR (einzelne Akte, kompatibles Konqueror und 
+irgendein mozilla klont)</entry>
+<entry key="generalhelpLabel">Hilfe</entry>
+<entry key="givetranslatehelpLabel">Übersetzen Sie ' Hilfe ' zu Ihrer Sprache</entry>
+<entry key="helpLabel">Hilfe</entry>
+<entry key="ifreversed">Aufgehobene Beschreibung</entry>
+<entry key="imagesLabel">Bilder</entry>
+<entry key="languageLabel">Sprache</entry>
+<entry key="loadsetupfileLabel">Laden Sie eine Einstellung Akte für Gebrauch in diesem
+Programm</entry>
+<entry key="newlayoutLabel">Tun Sie einen neuen Messwert</entry>
+<entry key="openLabel">Öffnen Sie einen vorher gespeicherten Messwert</entry>
+<entry key="optionsLabel">Wahlen</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Druck über ein web browser</entry>
+<entry key="readingsLabel">Messwerte</entry>
+<entry key="recentLabel">Letztes benutzte Messwerte</entry>
+<entry key="reportbugLabel">Berichten Sie über eine Programmstörung</entry>
+<entry key="saveLabel">Außer dem gegenwärtigen Messwert</entry>
+<entry key="screensPersonalReading">Ihre Übersetzung des Messwertes</entry>
+<entry key="screensQuestion">Frage für den Messwert</entry>
+<entry key="screensReading">Erzeugter Messwert</entry>
+<entry key="showallobjectsLabel">Zeigen Sie alle Bilder für dieses Orakel</entry>
+<entry key="showpositionnumbersLabel">Zeigen Sie Planposition Zahlen</entry>
+<entry key="showreversedandnormalLabel">Zeigen Sie die normalen und aufgehobenen zusammen 
+Gegenstandtexte</entry>
+<entry key="thecard">Der Gegenstand</entry>
+<entry key="theposition">Position</entry>
+</oracleio>

@@ -1,0 +1,15 @@
+#!/bin/bash
+PROGRAM_DIR="$INSTALL_PATH/bin"
+SKIN_DIR="$INSTALL_PATH/skins"
+JRE15_HOME="$JAVA_HOME"
+
+if [ -z "$PROGRAM_DIR" ]; then
+  PROGRAM_DIR=`dirname $0`
+fi
+
+for FILE in $PROGRAM_DIR/*.jar; do
+ CLASSPATH="${CLASSPATH:+${CLASSPATH}:}$FILE"
+done
+
+$JRE15_HOME/bin/java -cp $CLASSPATH -Dskindir=$SKIN_DIR -Djava.library.path=$PROGRAM_DIR net.sf.jdivelog.JDiveLog $*
+

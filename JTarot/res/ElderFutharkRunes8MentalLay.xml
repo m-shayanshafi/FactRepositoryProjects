@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Emotional matters" classification="Layout" language="" version="1" author="Aswynn, Northern Mysteries" >
+		<entry key="copyright">Aswynn, Northern Mysteries</entry>
+			<!-- number of objects(cards) in this layout -->
+<entry key="numberofobjects">8</entry>
+			<!-- The first and second row may be floating point numbers with "." as the decimal seperator.
+			This is where the card is positioned on the screen. 1= width(in the case of column) or 
+			height(in the case of row) of one card.
+			
+			Column Row IsSideways=1 -->
+<entry key="screenLayoutxy">
+		        1  0   0 
+			2  0   0 
+			2  1   0 
+			2  2   0 
+			1  2   0 
+			0  2   0 
+			0  1   0 
+			0  0   0 
+</entry>
+			<!-- 
+				Printout table positions.  No overlapping cards allowed in the printouts.
+				minus 1 means no card shown in that table row/column.  A number means that card index is shown at
+				that position.  These may only be integers
+				That row/column
+			 -->
+<entry key="printoutxy">
+			  7   0   1
+			  6  -1   2
+			  5   4    3
+</entry>
+			<!-- Columns Rows in the html printouts. Integer only
+			 -->
+<entry key="printoutsize">3 3</entry>
+			<!-- Column Row on the screen.  Integer only
+			 -->
+<entry key="screensize">3 3</entry>
+			<!-- In the screen, some cards may be hidden by other cards.  By printing the cards onto the screen in a different
+				order, hidden cards will be revealed.
+			 -->
+<entry key="showHiddenOrder">0 1 2 3 4 5 6 7</entry>
+</oracleio>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Grote Uitgespreide Bron (Cortese)</entry>
+	<entry key="Description">"Dit is een goed algemeen-gebruik dat voor het geven van een 
+algemeen beeld van de resolutie aan een probleem in het verleden of de
+toekomst wordt uitgespreid. Het biedt een kans om binnen en 
+buiteninvloeden alvorens een actie wordt gevoerd, de aanvang of de 
+motivatie van de actie, de vooruitgang van de actie, de resolutie te 
+onderzoeken, en welke binnen en buitengevolgen dit zal hebben. 
+Het kan ook handelen om het proces te benadrukken waardoor een 
+vraag het meest bovenste in de querent mening kan worden beantwoord, 
+hoewel het het antwoord kan niet geven." - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Binnen invloeden 1</entry><entry key="Meaning1">Binnen invloeden op het werk, de motivatie van querent, of wat 
+de querent wensen te leren</entry>
+	<entry key="PositionTitle2">Binnen invloeden 2</entry><entry key="Meaning2">Binnen invloeden op het werk, de motivatie van querent, of wat 
+de querent wensen te leren</entry>
+	<entry key="PositionTitle3">Binnen invloeden 3</entry><entry key="Meaning3">Binnen invloeden op het werk, de motivatie van querent, of wat 
+de querent wensen te leren</entry>
+	<entry key="PositionTitle4">Buiten invloeden 1</entry><entry key="Meaning4">Buiten invloeden, of de invloeden van mensen of dingen buiten 
+querent die querent kan veroorzaakt hebben om hun vraag te stellen</entry>
+	<entry key="PositionTitle5">Buiten invloeden 2</entry><entry key="Meaning5">Buiten invloeden, of de invloeden van mensen of dingen buiten 
+querent die querent kan veroorzaakt hebben om hun vraag te stellen</entry>
+	<entry key="PositionTitle6">Buiten invloeden 3</entry><entry key="Meaning6">Buiten invloeden, of de invloeden van mensen of dingen buiten 
+querent die querent kan veroorzaakt hebben om hun vraag te stellen</entry>
+	<entry key="PositionTitle7">Zaad</entry><entry key="Meaning7">Initiatie van de actie, het zaad die zullen groeien, of de vraag
+die zullen worden beantwoord</entry>
+	<entry key="PositionTitle8">Begin 1</entry><entry key="Meaning8">De aanvankelijke stadia van de acties</entry>
+	<entry key="PositionTitle9">Begin 2</entry><entry key="Meaning9">wijzigt kaart 9 ' Begin 1 '. Het kan een wazig beeld van 
+het resultaat geven dat querent in mening heeft, of het kan eenvoudig 
+een verder onderzoek van het begin van de actie bestudeerd worden.</entry>
+	<entry key="PositionTitle10">Vooruitgang 1</entry><entry key="Meaning10">De manier dat het resultaat wordt bereikt</entry>
+	<entry key="PositionTitle11">Vooruitgang 2</entry><entry key="Meaning11">wijzigt kaart 11 ' Vooruitgang 1 ' in zelfde manierkaart 10 9 
+kaarden.</entry>
+	<entry key="PositionTitle12">Veranderingen 1</entry><entry key="Meaning12">Mogelijke veranderingen in plan, of resolutie. Deze kaart 
+kan dienen om om het even welke manieren te onderzoeken dat querent 
+koers in midstream zal moeten veranderen.</entry>
+	<entry key="PositionTitle13">Veranderingen 2</entry><entry key="Meaning13">wijzigt kaart 13 ' Veranderingen 1 ' in zelfde manierkaart 10 9 
+kaarden.</entry>
+	<entry key="PositionTitle14">Resultaat 9-14</entry><entry key="Meaning14">Resultaat van het proces dat in kaarten 9 - 14 wordt geschetst.</entry>
+	<entry key="PositionTitle15">Gevolgen voor querent 1</entry><entry key="Meaning15">Mogelijke gevolgen van de resolutie over querent</entry>
+	<entry key="PositionTitle16">Gevolgen voor querent 2</entry><entry key="Meaning16">Mogelijke gevolgen van de resolutie over querent</entry>
+	<entry key="PositionTitle17">Gevolgen voor querent 3</entry><entry key="Meaning17">Mogelijke gevolgen van de resolutie over querent</entry>
+	<entry key="PositionTitle18">Gevolgen voor milieu 1</entry><entry key="Meaning18">Mogelijke gevolgen van de resolutie over dingen buiten querent 
+of over de querent verhouding met de wereld rond hem/haar.</entry>
+	<entry key="PositionTitle19">Gevolgen voor milieu 2</entry><entry key="Meaning19">Mogelijke gevolgen van de resolutie over dingen buiten querent 
+of over de querent verhouding met de wereld rond hem/haar.</entry>
+	<entry key="PositionTitle20">Gevolgen voor milieu 3</entry><entry key="Meaning20">Mogelijke gevolgen van de resolutie over dingen buiten querent 
+of over de querent verhouding met de wereld rond hem/haar.</entry>
+</oracleio>

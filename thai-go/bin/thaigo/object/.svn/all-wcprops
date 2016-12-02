@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/thai-go/bin/thaigo/object
+END
+Pawn$PawnAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/thai-go/bin/thaigo/object/Pawn$PawnAction.class
+END
+GOPanel$GOPanelAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/GOPanel$GOPanelAction.class
+END
+Pawn.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/Pawn.class
+END
+GOPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/GOPanel.class
+END
+PawnModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/PawnModel.class
+END
+Board.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/Board.class
+END
+BoardModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/thai-go/bin/thaigo/object/BoardModel.class
+END

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">21개의 카드 퍼짐 (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">즉시 과거</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Inobvious현재 요인</entry><entry key="Meaning2">현재안에 중요한 요인. Inobvious.</entry>
+	<entry key="PositionTitle3">마음의 상태</entry><entry key="Meaning3">찾는 사람 마음의 상태</entry>
+	<entry key="PositionTitle4">즉시 미래</entry><entry key="Meaning4">가장 그럴듯한 즉시 미래</entry>
+	<entry key="PositionTitle5">명백한 현재 요인</entry><entry key="Meaning5">현재안에 중요한 요인. 아주 
+명백한</entry>
+	<entry key="PositionTitle6">배짱</entry><entry key="Meaning6">찾는 사람 배짱.</entry>
+	<entry key="PositionTitle7">카드 2 과거 1을 변경한다</entry><entry key="Meaning7">#2을 영향을 미친 과거안에 영향</entry>
+	<entry key="PositionTitle8">카드 2 과거 2을 변경한다</entry><entry key="Meaning8">#2을 영향을 미친 과거안에 영향</entry>
+	<entry key="PositionTitle9">카드 3 지금 1을 변경한다</entry><entry key="Meaning9">현재는#3개의 영향을 미치를 
+좌우한다. Inobvious.</entry>
+	<entry key="PositionTitle10">카드 3 지금 2을 변경한다</entry><entry key="Meaning10">현재는#3개의 영향을 미치를 
+좌우한다. Inobvious.</entry>
+	<entry key="PositionTitle11">카드 5 미래 1을 변경한다</entry><entry key="Meaning11">#5을 영향을 미치는 가능한 미래 
+영향</entry>
+	<entry key="PositionTitle12">카드 5 미래 2을 변경한다</entry><entry key="Meaning12">#5을 영향을 미치는 가능한 미래 
+영향</entry>
+	<entry key="PositionTitle13">카드 6 지금 1을 변경한다</entry><entry key="Meaning13">#6을 영향을 미치는 명백한 
+현재 영향</entry>
+	<entry key="PositionTitle14">카드 6 지금 2을 변경한다</entry><entry key="Meaning14">#6을 영향을 미치는 명백한 
+현재 영향</entry>
+	<entry key="PositionTitle15">육체</entry><entry key="Meaning15">찾는 사람 건강 상황. 가능한 
+건강 또는 생활 상태</entry>
+	<entry key="PositionTitle16">지나서의 안으로의 뿌리</entry><entry key="Meaning16">과거안에 사정의 뿌리</entry>
+	<entry key="PositionTitle17">현재 사정</entry><entry key="Meaning17">현재 사정. 그것은 그리고 바라보아 
+숨기는 불명할지도 모르다, 부정확한 
+가정을, 가능하게 대표할지도 모른다</entry>
+	<entry key="PositionTitle18">영가는</entry><entry key="Meaning18">찾는 사람 영가는. 이것은에 
+투쟁하나 찾는 사람 의식이 있는 욕망을 
+분명히할지도 모른다</entry>
+	<entry key="PositionTitle19">미래 사건</entry><entry key="Meaning19">할 것 같은 미래 사건</entry>
+	<entry key="PositionTitle20">반영</entry><entry key="Meaning20">찾는 사람이 생각해야 하는 무엇에 
+관하여</entry>
+</oracleio>

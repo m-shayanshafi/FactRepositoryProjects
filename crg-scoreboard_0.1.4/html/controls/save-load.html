@@ -1,0 +1,39 @@
+<html><head><title>Save/Load ScoreBoard Controller</title>
+
+<script type="text/javascript" src="../external/prototype/prototype.js"></script>
+</head>
+
+<body >
+<center>
+
+<h2>Save/Load ScoreBoard Controls</h2>
+
+<p>Back to <a href="/index.html">index page</a>.
+
+<table border=solid >
+  <tr><th colspan="100%" >ScoreBoard Save/Load</th></tr>
+  <tr>
+    <td>
+      <a href="/XmlScoreBoard/scoreboard.xml">Save current ScoreBoard</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <form method=post enctype="multipart/form-data" action="/XmlScoreBoard/set?clearScoreBoard=true" target="hiddeniframe" >
+        <input type=file name="myfile" ></input>
+        <input type=submit value="Load" ></input>
+      </form>
+      <iframe style="display: none;" onload="return false;" name="hiddeniframe" ></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <button onclick="new Ajax.Request('/XmlScoreBoard/reloadViewers');" >Reload all viewers</button>
+    </td>
+  </tr>
+</table>
+
+</center>
+</body>
+
+</html>

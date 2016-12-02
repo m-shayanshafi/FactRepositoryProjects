@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Six cards, When will I find true love" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+<entry key="numberofobjects">6</entry>
+<entry key="screenLayoutxy">
+5   0   0 
+4   0   0 
+3   0   0 
+2   0   0 
+1   0   0
+0   0   0
+</entry>
+<entry key="printoutxy">
+5 4 3 2 1 0
+</entry>
+<entry key="printoutsize">6 1</entry>
+<entry key="screensize">6 1</entry>
+<entry key="showHiddenOrder">5 4 3 2 1 0</entry>
+</oracleio>
+

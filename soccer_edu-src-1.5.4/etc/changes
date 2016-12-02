@@ -1,0 +1,166 @@
+===============================================================================
+CHANGES
+===============================================================================
+
+TOS Education Edition ver 1.5.4
+
+=============================================
+
+1, increased collision avoid parameter
+2, two teams can have different number of players
+
+TOS Education Edition ver 1.5.3
+
+=============================================
+
+1, Fixed the positioning bug in 3D.
+ 
+2, moved player number skin from the front to the back in 3D.
+
+3, cosmetic fix in the SFU team (WorldModel.java). introduced 
+some randomness in the player decisionmaking about the ball
+possession. Now players do not turn simultaneously in both 
+teams once the ball possession is changed.
+
+TOS Education Edition ver 1.5.2
+
+=============================================
+
+1, Fixed the bug that caused the player to turn abnormally in 3D.
+ 
+2, added play number skin to players in 3D.
+
+TOS Education Edition ver 1.5.1c,d
+
+=============================================
+
+1. New features.
+
+1.0. Ball dribbling.
+Field players must dribble ball while keeping it under close control by
+using slow kicks. In the previous versions, close dribbling occured
+automatically, as part of player movement.	
+
+1.1. Goalie behavior.
+The goalie can grab the ball and move with it around. However, once he
+crosses the penalty area while holding the ball, a corner kick is assigned
+by the referee. If the goalie is holding the ball longer than the limit
+specified in the configuration file, the server forces the goalie to make a
+slow kick in the randomly chosed direction to the opponent side. Both
+features are a sort of penalty; this is a slight deviation from the rules of
+the real soccer for the sake of simplicity and user convenience. 
+
+1.2. Starting the game.
+The game can be started by clicking on the Run button on the Soccer Master
+without opening the View Game dialogue. If the Soccer Master is not running,
+the server will start the game rightaway after a delay (default 120 s; this
+property can be set in the configuration file). 
+
+1.3. Changing situation by hand.
+Once the game is paused (by clicking on the Pause/Step button), user can
+move objects around with the mouse. Then the game can be resumed. 
+
+1.4. Saving situation to a text file.
+In the paused game mode, current situation can be saved to file by clicking
+on Save button. In the Save As dialogue, user can set the name and location
+of the data file. After saving this file, user can edit it manually.
+Comments contained in the file provide guidance on data encoding
+conventions.
+
+1.5. Restoring situation from a saved file. 
+In the puaes game mode, user can restore previously saved situation by
+clicking on the Open button and loading the situation data file. 
+
+1.6. Repeatedly playing the saved situation. 
+While loading the situation file, in the opened dialog box user can set the
+duration and number of repetitions of the previously saved situation. 
+
+1.7. Playing multiple games continuosly.
+By default, 50 games are played continuosly, with the score being accumuated
+over the games. The number of games can be set in the configuration file.
+Also there is a parameter in this file that controls resetting the score
+after each game (false by default). 
+
+
+2. The SFU basic team
+
+This program has been almost completely re-written with the purpose of
+making it easier to understand and maintain. The team is playing really
+poorly; suggestions on improvements are placed in the comments and
+placeholder methods in the source code. Player behavior is encoded from the
+standpoint of the agent playing for the left-hand team. Transformation of
+coordiantes for the right-hand teams is encapsulated in the standalone
+WorldData class. Using global variables has been avoied wherever possible
+and replaced by global get/set methods.  
+
+
+3. Technical changes
+
+3.1. Thread priorities and real-time statistics.
+To ensure robustness of TOS when real-time constraints are getting critical
+(which may happen on a slow computer), the two Server now are running with
+higher priorities than player threads. The server collect its idling time
+staistics and prints it out with regular intervals. It also prints out the
+time deficit per cent, i.e. the fraction of simulation cycles which have
+been completed late.	
+
+3.2. Symmetry.
+The symmetry issue is getting critical when TOS is running on a slow
+computer. In order to ensure the symmetry of the teams, team data were
+reorganized so that players from both sides are being treated in the same
+way. When it is impossible, left and right teams are swaped after each
+simulation cycle.	
+
+3.3. Packet structure.
+Data structure of many packet types have been changed. So the compatibiltity
+with previous versions is not guaranteed. However, old soccer player
+programs could be recomplied and imcompatibilities, if any, could be fixed
+easily. 
+
+3.4. Source code style.
+In most classes, methods have been reorganized so that their source code
+should be no longer than 50 lines. Many variables have been renamed to
+ensure clarity. 
+
+TOS ver 1.4.2
+
+* players positions and the ball positions are fixed on the scooer
+  field during the PRE_GAME and HALF_TIME period.
+* the color of the soccer ball is now purple in Java 3D.
+* server command line switch port, log and offside are removed and 
+  added into the property file.
+* AI team programs read parameters from a property file instead of
+  getting them from from command-line options
+* a client can send any number of connect packet to the server,
+  the server will always return an init packet, if the client is 
+  already connected, the server will send its original init packet
+  back.
+* a simple viewer client edu.sfu.soccer.agent.Observer that gathers 
+  statistics, include the total time the ball stays in each side and
+  the total kicks by each team.
+ 
+  
+
+TOS ver 1.4.1
+
+* fixed deadlock bugs.
+* reimplemented some synchronization code by using read-write locks.
+* reimplemented the game recording(logging) on the server side.
+
+TOS ver 1.4.0
+
+* cleaned up the code, more classes, packages, and smaller
+  file size.
+* improved 3D, it is enabled in both human play and view,
+  2D/3D can be switched back and forth anytime during the game play.
+* 3D part can load VRML models into the game world.
+* added coach client mode, so the server behaviour can be controlled
+  at the client side.
+* A client with coach ability can step forward/play the game, and fast 
+  forward to the next game period.
+* AI clients are seperated from the main soccer.client package.
+* improved sound and music processing.
+* the game runs at 20 steps per second, it provides more realisitic simulation.
+* a lot of bug fixes.
+  
+

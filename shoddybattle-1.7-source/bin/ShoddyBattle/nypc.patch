@@ -1,0 +1,587 @@
+Pichu: Follow Me, Teeter Dance, Surf,~
+Surf + Reversal,~
+Surf + Bide,~
+Surf + Present,~
+Surf + Encore,~
+Surf + Doubleslap,~
+Surf + Wish,~
+Surf + Charge,~
+Surf + Volt Tackle,~
+Surf + Follow Me,~
+Follow Me + Reversal,~
+Follow Me + Bide,~
+Follow Me + Present,~
+Follow Me + Encore,~
+Follow Me + Doubleslap,~
+Follow Me + Wish,~
+Follow Me + Charge,~
+Follow Me + Volt Tackle,~
+Teeter Dance + Surf,~
+Teeter Dance + Follow Me,~
+Teeter Dance + Reversal,~
+Teeter Dance + Bide,~
+Teeter Dance + Present,~
+Teeter Dance + Encore,~
+Teeter Dance + Doubleslap,~
+Teeter Dance + Wish,~
+Teeter Dance + Charge,~
+Teeter Dance + Volt Tackle;
+
+Pikachu: Follow Me, Teeter Dance, Surf, Fly,~
+Surf + Reversal,~
+Surf + Bide,~
+Surf + Present,~
+Surf + Encore,~
+Surf + Doubleslap,~
+Surf + Wish,~
+Surf + Charge,~
+Surf + Volt Tackle,~
+Surf + Follow Me,~
+Follow Me + Reversal,~
+Follow Me + Bide,~
+Follow Me + Present,~
+Follow Me + Encore,~
+Follow Me + Doubleslap,~
+Follow Me + Wish,~
+Follow Me + Charge,~
+Follow Me + Volt Tackle,~
+Teeter Dance + Surf,~
+Teeter Dance + Follow Me,~
+Teeter Dance + Reversal,~
+Teeter Dance + Bide,~
+Teeter Dance + Present,~
+Teeter Dance + Encore,~
+Teeter Dance + Doubleslap,~
+Teeter Dance + Wish,~
+Teeter Dance + Charge,~
+Teeter Dance + Volt Tackle,~
+Fly + Surf,~
+Fly + Follow Me,~
+Fly + Teeter Dance,~
+Fly + Reversal,~
+Fly + Bide,~
+Fly + Present,~
+Fly + Encore,~
+Fly + Doubleslap,~
+Fly + Wish,~
+Fly + Charge,~
+Fly + Volt Tackle;
+
+Raichu: Follow Me, Teeter Dance, Surf, Fly~
+Surf + Reversal,~
+Surf + Bide,~
+Surf + Present,~
+Surf + Encore,~
+Surf + Doubleslap,~
+Surf + Wish,~
+Surf + Charge,~
+Surf + Volt Tackle,~
+Surf + Follow Me,~
+Follow Me + Reversal,~
+Follow Me + Bide,~
+Follow Me + Present,~
+Follow Me + Encore,~
+Follow Me + Doubleslap,~
+Follow Me + Wish,~
+Follow Me + Charge,~
+Follow Me + Volt Tackle,~
+Teeter Dance + Surf,~
+Teeter Dance + Follow Me,~
+Teeter Dance + Reversal,~
+Teeter Dance + Bide,~
+Teeter Dance + Present,~
+Teeter Dance + Encore,~
+Teeter Dance + Doubleslap,~
+Teeter Dance + Wish,~
+Teeter Dance + Charge,~
+Teeter Dance + Volt Tackle,~
+Fly + Surf,~
+Fly + Follow Me,~
+Fly + Teeter Dance,~
+Fly + Reversal,~
+Fly + Bide,~
+Fly + Present,~
+Fly + Encore,~
+Fly + Doubleslap,~
+Fly + Wish,~
+Fly + Charge,~
+Fly + Volt Tackle;
+
+Drowzee: Belly Drum, Wish,~
+Belly Drum + Barrier,~
+Belly Drum + Assist,~
+Belly Drum + Role Play,~
+Wish + Barrier,~
+Wish + Assist,~
+Wish + Role Play;
+
+Hypno: Belly Drum, Wish,~
+Belly Drum + Barrier,~
+Belly Drum + Assist,~
+Belly Drum + Role Play,~
+Wish + Barrier,~
+Wish + Assist,~
+Wish + Role Play;
+
+Farfetch'd: Yawn, Wish,~
+Yawn + Foresight,~
+Yawn + Mirror Move,~
+Yawn + Gust,~
+Yawn + Quick Attack,~
+Yawn + Flail,~
+Yawn + Featherdance,~
+Yawn + Curse,~
+Yawn + Baton Pass,~
+Wish + Foresight,~
+Wish + Mirror Move,~
+Wish + Gust,~
+Wish + Quick Attack,~
+Wish + Flail,~
+Wish + Featherdance,~
+Wish + Curse,~
+Wish + Baton Pass;
+
+Chansey: Sweet Scent, Wish,~
+Sweet Scent + Present,~
+Sweet Scent + Heal Bell,~
+Sweet Scent + Aromatherapy,~
+Sweet Scent + Sweet Kiss,~
+Wish + Present,~
+Wish + Heal Bell,~
+Wish + Aromatherapy,~
+Wish + Sweet Kiss;
+
+Blissey: Sweet Scent, Wish,~
+Sweet Scent + Present,~
+Sweet Scent + Heal Bell,~
+Sweet Scent + Aromatherapy,~
+Sweet Scent + Sweet Kiss,~
+Wish + Present,~
+Wish + Heal Bell,~
+Wish + Aromatherapy,~
+Wish + Sweet Kiss;
+
+Kangaskhan: Yawn, Wish,~
+Yawn + Stomp,~
+Yawn + Foresight,~
+Yawn + Focus Energy,~
+Yawn + Safeguard,~
+Yawn + Disable,~
+Yawn + Crush Claw,~
+Yawn + Sing,~
+Wish + Stomp,~
+Wish + Foresight,~
+Wish + Focus Energy,~
+Wish + Safeguard,~
+Wish + Disable,~
+Wish + Crush Claw,~
+Wish + Sing;
+
+Exeggcute: Sweet Scent, Wish,~
+Sweet Scent + Synthesis,~
+Sweet Scent + Moonlight,~
+Sweet Scent + Ancientpower,~
+Sweet Scent + Ingrain,~
+Sweet Scent + Curse,~
+Wish + Synthesis,~
+Wish + Moonlight,~
+Wish + Ancientpower,~
+Wish + Ingrain,~
+Wish + Curse;
+
+Exeggutor: Sweet Scent, Wish,~
+Sweet Scent + Synthesis,~
+Sweet Scent + Moonlight,~
+Sweet Scent + Ancientpower,~
+Sweet Scent + Ingrain,~
+Sweet Scent + Curse,~
+Wish + Synthesis,~
+Wish + Moonlight,~
+Wish + Ancientpower,~
+Wish + Ingrain,~
+Wish + Curse,~
+Refresh + Sweet Scent,~
+Refresh + Wish;
+
+Lickitung: Heal Bell, Wish,~
+Heal Bell + Belly Drum,~
+Heal Bell + Magnitude,~
+Heal Bell + Curse,~
+Heal Bell + Smellingsalt,~
+Heal Bell + Helping Hand,~
+Wish + Belly Drum,~
+Wish + Magnitude,~
+Wish + Curse,~
+Wish + Smellingsalt,~
+Wish + Helping Hand;
+
+Plusle: Water Sport,~
+Water Sport + Wish;
+
+Minun: Mud Sport,~
+Mud Sport + Wish;
+
+Taillow: Featherdance,~
+Featherdance + Pursuit,~
+Featherdance + Supersonic,~
+Featherdance + Refresh,~
+Featherdance + Mirror Move,~
+Featherdance + Rage;
+
+Swellow: Featherdance,~
+Featherdance + Pursuit,~
+Featherdance + Supersonic,~
+Featherdance + Refresh,~
+Featherdance + Mirror Move,~
+Featherdance + Rage;
+
+Igglybuff: Tickle,~
+Tickle + Perish Song,~
+Tickle + Present,~
+Tickle + Faint Attack,~
+Tickle + Wish,~
+Tickle + Fake Tears;
+
+Jigglypuff: Tickle,~
+Tickle + Perish Song,~
+Tickle + Present,~
+Tickle + Faint Attack,~
+Tickle + Wish,~
+Tickle + Fake Tears;
+
+Wigglytuff: Tickle,~
+Tickle + Perish Song,~
+Tickle + Present,~
+Tickle + Faint Attack,~
+Tickle + Wish,~
+Tickle + Fake Tears;
+
+Cacnea: Encore,~
+Encore + Grasswhistle,~
+Encore + Acid,~
+Encore + Teeter Dance;
+
+Cacturne: Encore,~
+Encore + Grasswhistle,~
+Encore + Acid,~
+Encore + Teeter Dance;
+
+Corsola: Mud Sport,~
+Mud Sport + Screech,~
+Mud Sport + Mist,~
+Mud Sport + Amnesia,~
+Mud Sport + Barrier,~
+Mud Sport + Ingrain,~
+Mud Sport + Confuse Ray,~
+Mud Sport + Icicle Spear;
+
+Surskit: Mud Sport,~
+Mud Sport + Foresight,~
+Mud Sport + Mud Shot,~
+Mud Sport + Psybeam,~
+Mud Sport + Hydro Pump,~
+Mud Sport + Mind Reader;
+
+Masquerain: Mud Sport,~
+Mud Sport + Foresight,~
+Mud Sport + Mud Shot,~
+Mud Sport + Psybeam,~
+Mud Sport + Hydro Pump,~
+Mud Sport + Mind Reader;
+
+Psyduck: Mud Sport,~
+Mud Sport + Hypnosis,~
+Mud Sport + Psybeam,~
+Mud Sport + Foresight,~
+Mud Sport + Light Screen,~
+Mud Sport + Future Sight,~
+Mud Sport + Psychic,~
+Mud Sport + Cross Chop,~
+Mud Sport + Refresh;
+
+Golduck: Mud Sport,~
+Mud Sport + Hypnosis,~
+Mud Sport + Psybeam,~
+Mud Sport + Foresight,~
+Mud Sport + Light Screen,~
+Mud Sport + Future Sight,~
+Mud Sport + Psychic,~
+Mud Sport + Cross Chop,~
+Mud Sport + Refresh;
+
+Wynaut: Tickle;
+
+Wobbuffet: Tickle;
+
+Whismur: Teeter Dance,~
+Teeter Dance + Take Down,~
+Teeter Dance + Extrasensory,~
+Teeter Dance + Smellingsalt;
+
+Loudred: Teeter Dance,~
+Teeter Dance + Take Down,~
+Teeter Dance + Extrasensory,~
+Teeter Dance + Smellingsalt;
+
+Exploud: Teeter Dance,~
+Teeter Dance + Take Down,~
+Teeter Dance + Extrasensory,~
+Teeter Dance + Smellingsalt;
+
+Spinda: Sing,~
+Sing + Encore,~
+Sing + Assist,~
+Sing + Disable,~
+Sing + Baton Pass,~
+Sing + Wish,~
+Sing + Trick,~
+Sing + Smellingsalt;
+
+Corphish: Water Sport,~
+Water Sport + Mud Sport,~
+Water Sport + Endeavor,~
+Water Sport + Ancientpower;
+
+Crawdaunt: Water Sport,~
+Water Sport + Mud Sport,~
+Water Sport + Endeavor,~
+Water Sport + Ancientpower;
+
+Spoink: Uproar,~
+Uproar + Future Sight,~
+Uproar + Extrasensory,~
+Uproar + Trick;
+
+Grumpig: Uproar,~
+Uproar + Future Sight,~
+Uproar + Extrasensory,~
+Uproar + Trick;
+
+Oddish: Leech Seed,~
+Leech Seed + Razor Leaf,~
+Leech Seed + Flail,~
+Leech Seed + Synthesis,~
+Leech Seed + Charm,~
+Leech Seed + Ingrain;
+
+Gloom: Leech Seed,~
+Leech Seed + Razor Leaf,~
+Leech Seed + Flail,~
+Leech Seed + Synthesis,~
+Leech Seed + Charm,~
+Leech Seed + Ingrain;
+
+Vileplume: Leech Seed,~
+Leech Seed + Razor Leaf,~
+Leech Seed + Flail,~
+Leech Seed + Synthesis,~
+Leech Seed + Charm,~
+Leech Seed + Ingrain;
+
+Bellossom: Leech Seed,~
+Leech Seed + Razor Leaf,~
+Leech Seed + Flail,~
+Leech Seed + Synthesis,~
+Leech Seed + Charm,~
+Leech Seed + Ingrain;
+
+Bellsprout: Teeter Dance,~
+Teeter Dance + Encore,~
+Teeter Dance + Reflect,~
+Teeter Dance + Synthesis,~
+Teeter Dance + Leech Life,~
+Teeter Dance + Ingrain,~
+Teeter Dance + Magical Leaf;
+
+Weepinbell: Teeter Dance,~
+Teeter Dance + Encore,~
+Teeter Dance + Reflect,~
+Teeter Dance + Synthesis,~
+Teeter Dance + Leech Life,~
+Teeter Dance + Ingrain,~
+Teeter Dance + Magical Leaf;
+
+Victreebel: Teeter Dance,~
+Teeter Dance + Encore,~
+Teeter Dance + Reflect,~
+Teeter Dance + Synthesis,~
+Teeter Dance + Leech Life,~
+Teeter Dance + Ingrain,~
+Teeter Dance + Magical Leaf;
+
+Meowth: Petal Dance,~
+Petal Dance + Spite,~
+Petal Dance + Charm,~
+Petal Dance + Hypnosis,~
+Petal Dance + Amnesia,~
+Petal Dance + Assist;
+
+Persian: Petal Dance,~
+Petal Dance + Spite,~
+Petal Dance + Charm,~
+Petal Dance + Hypnosis,~
+Petal Dance + Amnesia,~
+Petal Dance + Assist;
+
+Poliwag: Sweet Kiss,~
+Sweet Kiss + Mist,~
+Sweet Kiss + Splash,~
+Sweet Kiss + Bubblebeam,~
+Sweet Kiss + Haze,~
+Sweet Kiss + Water Sport,~
+Sweet Kiss + Ice Ball;
+
+Poliwhirl: Sweet Kiss,~
+Sweet Kiss + Mist,~
+Sweet Kiss + Splash,~
+Sweet Kiss + Bubblebeam,~
+Sweet Kiss + Haze,~
+Sweet Kiss + Water Sport,~
+Sweet Kiss + Ice Ball;
+
+Poliwrath: Sweet Kiss,~
+Sweet Kiss + Mist,~
+Sweet Kiss + Splash,~
+Sweet Kiss + Bubblebeam,~
+Sweet Kiss + Haze,~
+Sweet Kiss + Water Sport,~
+Sweet Kiss + Ice Ball;
+
+Politoed: Sweet Kiss,~
+Sweet Kiss + Mist,~
+Sweet Kiss + Splash,~
+Sweet Kiss + Bubblebeam,~
+Sweet Kiss + Haze,~
+Sweet Kiss + Water Sport,~
+Sweet Kiss + Ice Ball;
+
+Ralts: Wish, Charm,~
+Wish + Disable,~
+Wish + Will-o-wisp,~
+Wish + Mean Look,~
+Wish + Memento,~
+Wish + Destiny Bond,~
+Charm + Wish,~
+Charm + Disable,~
+Charm + Will-o-wisp,~
+Charm + Mean Look,~
+Charm + Memento,~
+Charm + Destiny Bond;
+
+Kirlia: Wish, Charm,~
+Wish + Disable,~
+Wish + Will-o-wisp,~
+Wish + Mean Look,~
+Wish + Memento,~
+Wish + Destiny Bond,~
+Charm + Wish,~
+Charm + Disable,~
+Charm + Will-o-wisp,~
+Charm + Mean Look,~
+Charm + Memento,~
+Charm + Destiny Bond;
+
+Gardevoir: Wish, Charm,~
+Wish + Disable,~
+Wish + Will-o-wisp,~
+Wish + Mean Look,~
+Wish + Memento,~
+Wish + Destiny Bond,~
+Charm + Wish,~
+Charm + Disable,~
+Charm + Will-o-wisp,~
+Charm + Mean Look,~
+Charm + Memento,~
+Charm + Destiny Bond;
+
+Absol: Wish, Spite,~
+Wish + Baton Pass,~
+Wish + Faint Attack,~
+Wish + Magic Coat,~
+Wish + Curse,~
+Spite + Baton Pass,~
+Spite + Faint Attack,~
+Spite + Magic Coat,~
+Spite + Curse,~
+Wish + Spite;
+
+Bagon: Wish, Iron Defense,~
+Wish + Iron Defense,~
+Wish + Hydro Pump,~
+Wish + Thrash,~
+Wish + Dragon Rage,~
+Wish + Twister,~
+Wish + Dragon Dance,~
+Iron Defense + Hydro Pump,~
+Iron Defense + Thrash,~
+Iron Defense + Dragon Rage,~
+Iron Defense + Twister,~
+Iron Defense + Dragon Dance;
+
+Shelgon: Wish, Iron Defense,~
+Wish + Iron Defense,~
+Wish + Hydro Pump,~
+Wish + Thrash,~
+Wish + Dragon Rage,~
+Wish + Twister,~
+Wish + Dragon Dance,~
+Iron Defense + Hydro Pump,~
+Iron Defense + Thrash,~
+Iron Defense + Dragon Rage,~
+Iron Defense + Twister,~
+Iron Defense + Dragon Dance;
+
+Salamence: Wish, Iron Defense,~
+Wish + Iron Defense,~
+Wish + Hydro Pump,~
+Wish + Thrash,~
+Wish + Dragon Rage,~
+Wish + Twister,~
+Wish + Dragon Dance,~
+Iron Defense + Hydro Pump,~
+Iron Defense + Thrash,~
+Iron Defense + Dragon Rage,~
+Iron Defense + Twister,~
+Iron Defense + Dragon Dance;
+
+Zigzagoon: Extremespeed,~
+Extremespeed + Charm,~
+Extremespeed + Pursuit,~
+Extremespeed + Tickle,~
+Extremespeed + Trick;
+
+Linoone: Extremespeed,~
+Extremespeed + Charm,~
+Extremespeed + Pursuit,~
+Extremespeed + Tickle,~
+Extremespeed + Trick;
+
+Skitty: Pay Day,~
+Pay Day + Helping Hand,~
+Pay Day + Uproar,~
+Pay Day + Fake Tears,~
+Pay Day + Wish,~
+Pay Day + Baton Pass,~
+Pay Day + Tickle;
+
+Delcatty: Pay Day,~
+Pay Day + Helping Hand,~
+Pay Day + Uproar,~
+Pay Day + Fake Tears,~
+Pay Day + Wish,~
+Pay Day + Baton Pass,~
+Pay Day + Tickle,~
+Pay Day + Sweet Kiss;
+
+Swablu: False Swipe,~
+False Swipe + Agility,~
+False Swipe + Haze,~
+False Swipe + Pursuit,~
+False Swipe + Rage;
+
+Altaria: False Swipe,~
+False Swipe + Agility,~
+False Swipe + Haze,~
+False Swipe + Pursuit,~
+False Swipe + Rage,~
+False Swipe + Heal Bell;

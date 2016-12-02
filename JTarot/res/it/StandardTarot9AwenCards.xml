@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Awen Spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione Di Awen (Carr-Gomm)</entry>
+	<entry key="Description">Le tre colonne (C1 - C3) rappresentano il passato, 
+presente e futuro, rispettivamente. In ogni fila, le schede sono
+interpretate come segue: Fila 1: Causa, dinamico, impulso,
+idea guidante, o motivo che è una situazione o un evento. Fila 
+2: Effetto della prima scheda al livello impressionabile, 
+sociale, o di rapporto. Fila 3: Effetto della prima scheda
+al livello fisico della manifestazione.</entry>
+	<entry key="PositionTitle0">Oltre-Causi</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Oltre-Effetto impressionabile</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Fisico medica di Oltre-Effetto</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Attuale-Causi</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Attuale-Effetto impressionabile</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Fisico medica di Attuale-Effetto</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Futuro-Causi</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Futuro-Effetto impressionabile</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Fisico medica di Futuro-Effetto</entry><entry key="Meaning8"></entry>
+</oracleio>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ShoddyBattle/src"/>
+	<classpathentry excluding="shoddybattleclient/" kind="src" path="ShoddyBattleClient/src"/>
+	<classpathentry kind="src" path="ShoddyBattleClient/src/shoddybattleclient"/>
+	<classpathentry excluding="ShoddyBattle/src/|ShoddyBattleClient/src/|ShoddyBattleClient/src/shoddybattleclient/" kind="src" path=""/>
+	<classpathentry kind="lib" path="ShoddyBattle/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattle/database.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattle/jcaptcha-all-1.0-RC6.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattle/jug-lgpl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattle/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattle/socks.jar"/>
+	<classpathentry kind="lib" path="ShoddyBattleClient/ShoddyHelper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

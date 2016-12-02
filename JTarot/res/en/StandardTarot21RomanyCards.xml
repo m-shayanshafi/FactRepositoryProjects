@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Romany Spread (Doane/Peach)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Romany Spread (Doane/Peach)</entry>
+	<entry key="Description">Each row represents events or influences for the time
+period indicated.  Adjacent card in the same row modify one
+another.  Ordering of cards in a row are not necessarily
+significant. Variation:  One variation of this reading is that the middle card
+of each row (18, 11, and 04) should represent the most significant
+event of the time period shown.  This makes cards farther out on
+the edges of the row (21, 15, 14, etc.) less significant. (Doane)</entry>
+	<entry key="PositionTitle0">Past 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Past 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Past 3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Past 4</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Past 5</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Past 6</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Past 6</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Present 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Present 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Present 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Present 4</entry><entry key="Meaning10"></entry>
+	<entry key="PositionTitle11">Present 5</entry><entry key="Meaning11"></entry>
+	<entry key="PositionTitle12">Present 6</entry><entry key="Meaning12"></entry>
+	<entry key="PositionTitle13">Present 7</entry><entry key="Meaning13"></entry>
+	<entry key="PositionTitle14">Future 1</entry><entry key="Meaning14"></entry>
+	<entry key="PositionTitle15">Future 2</entry><entry key="Meaning15"></entry>
+	<entry key="PositionTitle16">Future 3</entry><entry key="Meaning16"></entry>
+	<entry key="PositionTitle17">Future 4</entry><entry key="Meaning17"></entry>
+	<entry key="PositionTitle18">Future 5</entry><entry key="Meaning18"></entry>
+	<entry key="PositionTitle19">Future 6</entry><entry key="Meaning19"></entry>
+	<entry key="PositionTitle20">Future 7</entry><entry key="Meaning20"></entry>
+</oracleio>

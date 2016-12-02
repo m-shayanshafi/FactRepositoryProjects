@@ -1,0 +1,4516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<armorModifierWrapper version="Development"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ArmorModifierWrapper-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<list>
+		<modifier id="0" catId="0">
+			<name>tp4vw</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>97</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="1" catId="3">
+			<name>txkh830nymx</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>18</valueModifier>
+			<valueMultiplier>7</valueMultiplier>
+			<weightModifier>12</weightModifier>
+			<weightMultiplier>3</weightMultiplier>
+		</modifier>
+		<modifier id="2" catId="2">
+			<name>oolcb3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>24</valueMultiplier>
+			<weightModifier>74</weightModifier>
+			<weightMultiplier>48</weightMultiplier>
+		</modifier>
+		<modifier id="3" catId="1">
+			<name>zcf13cd6vyhk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>22</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="4" catId="1">
+			<name>tnbqm4kfinq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>37</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>21</weightMultiplier>
+		</modifier>
+		<modifier id="5" catId="3">
+			<name>yw83gbg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="6" catId="0">
+			<name>xt66i</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>78</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="7" catId="0">
+			<name>6tdyugfeb5lb69</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>55</weightModifier>
+			<weightMultiplier>93</weightMultiplier>
+		</modifier>
+		<modifier id="8" catId="3">
+			<name>rv345w2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>17</valueModifier>
+			<valueMultiplier>54</valueMultiplier>
+			<weightModifier>6</weightModifier>
+			<weightMultiplier>3</weightMultiplier>
+		</modifier>
+		<modifier id="9" catId="2">
+			<name>vabi</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>66</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="10" catId="3">
+			<name>5x0k6tgt3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>66</weightMultiplier>
+		</modifier>
+		<modifier id="11" catId="3">
+			<name>31</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>6</valueMultiplier>
+			<weightModifier>80</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="12" catId="1">
+			<name>tuc7ff08i4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>49</weightModifier>
+			<weightMultiplier>91</weightMultiplier>
+		</modifier>
+		<modifier id="13" catId="0">
+			<name>z</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>43</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="14" catId="0">
+			<name>i8tfzak68uzjfru3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>57</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>75</weightMultiplier>
+		</modifier>
+		<modifier id="15" catId="2">
+			<name>dhe769x7wc4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>98</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>99</weightMultiplier>
+		</modifier>
+		<modifier id="16" catId="1">
+			<name>lqbzojoddncr7hy2vn3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>28</weightMultiplier>
+		</modifier>
+		<modifier id="17" catId="0">
+			<name>e4rsvv</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>33</valueModifier>
+			<valueMultiplier>91</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>41</weightMultiplier>
+		</modifier>
+		<modifier id="18" catId="1">
+			<name>8393jozt7qrb5x7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>34</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="19" catId="0">
+			<name>ybof7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>25</valueMultiplier>
+			<weightModifier>18</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="20" catId="2">
+			<name>mlju4vq8641jmr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>9</weightMultiplier>
+		</modifier>
+		<modifier id="21" catId="0">
+			<name>ivj6zaza</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>59</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="22" catId="3">
+			<name>p5ab9g1bp1darv</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>8</valueModifier>
+			<valueMultiplier>12</valueMultiplier>
+			<weightModifier>99</weightModifier>
+			<weightMultiplier>64</weightMultiplier>
+		</modifier>
+		<modifier id="23" catId="1">
+			<name>ubf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>25</weightMultiplier>
+		</modifier>
+		<modifier id="24" catId="3">
+			<name>j5duuh8yfdizfk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="25" catId="3">
+			<name>rybsv71e8swl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>69</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="26" catId="2">
+			<name>rel5mfu0s3xkrc0662</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>80</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>68</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="27" catId="1">
+			<name>jajo6ijbkdjfp7ysh8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>15</valueModifier>
+			<valueMultiplier>41</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="28" catId="2">
+			<name>x6jrsc1v1hvx6lxw7k4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>36</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>76</weightMultiplier>
+		</modifier>
+		<modifier id="29" catId="0">
+			<name>63y2obs8ui9mt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>81</valueModifier>
+			<valueMultiplier>84</valueMultiplier>
+			<weightModifier>48</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="30" catId="0">
+			<name>u3f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>78</valueModifier>
+			<valueMultiplier>9</valueMultiplier>
+			<weightModifier>86</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="31" catId="0">
+			<name>8s72qccjvar</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>97</weightMultiplier>
+		</modifier>
+		<modifier id="32" catId="3">
+			<name>p2vewo2g9e7b56</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="33" catId="1">
+			<name>x0c9xc8nf870w8l</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>23</valueModifier>
+			<valueMultiplier>93</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="34" catId="1">
+			<name>lhkmb5mcm83</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="35" catId="2">
+			<name>hxnr7v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>89</valueModifier>
+			<valueMultiplier>47</valueMultiplier>
+			<weightModifier>87</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="36" catId="3">
+			<name>ijcdd421plvzf0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>34</weightModifier>
+			<weightMultiplier>78</weightMultiplier>
+		</modifier>
+		<modifier id="37" catId="0">
+			<name>a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>11</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="38" catId="2">
+			<name>qa8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="39" catId="3">
+			<name>n06hsp0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>29</valueMultiplier>
+			<weightModifier>6</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="40" catId="1">
+			<name>hf8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>86</valueModifier>
+			<valueMultiplier>89</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="41" catId="3">
+			<name>087npbc8o3epp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>62</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>10</weightModifier>
+			<weightMultiplier>82</weightMultiplier>
+		</modifier>
+		<modifier id="42" catId="0">
+			<name>qfimc0bvuu1et</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>62</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="43" catId="2">
+			<name>xjoa3636d3h3gonfs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>64</valueMultiplier>
+			<weightModifier>83</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="44" catId="3">
+			<name>scgcoi</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>47</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>75</weightMultiplier>
+		</modifier>
+		<modifier id="45" catId="1">
+			<name>ycba6lp1c3zc1ry</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>14</weightModifier>
+			<weightMultiplier>73</weightMultiplier>
+		</modifier>
+		<modifier id="46" catId="1">
+			<name>veawu3h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>60</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="47" catId="3">
+			<name>zd7nx</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>7</valueMultiplier>
+			<weightModifier>91</weightModifier>
+			<weightMultiplier>32</weightMultiplier>
+		</modifier>
+		<modifier id="48" catId="3">
+			<name>ppniczzhfc6qv8m</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>28</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="49" catId="2">
+			<name>gu1v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>79</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="50" catId="0">
+			<name>jjtejx2yqo4wixe</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>39</valueModifier>
+			<valueMultiplier>33</valueMultiplier>
+			<weightModifier>72</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="51" catId="1">
+			<name>u62uku</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>98</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="52" catId="0">
+			<name>jid</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>22</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="53" catId="0">
+			<name>ukncym21ttji81o</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>91</valueModifier>
+			<valueMultiplier>15</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="54" catId="1">
+			<name>3w4xfiwvbp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>38</valueMultiplier>
+			<weightModifier>13</weightModifier>
+			<weightMultiplier>41</weightMultiplier>
+		</modifier>
+		<modifier id="55" catId="3">
+			<name>ar53cv4v43osy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>18</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>9</weightMultiplier>
+		</modifier>
+		<modifier id="56" catId="0">
+			<name>ub5hyew9yqfxt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>78</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="57" catId="0">
+			<name>puyldr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>49</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="58" catId="2">
+			<name>r7jr7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>41</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>56</weightMultiplier>
+		</modifier>
+		<modifier id="59" catId="3">
+			<name>ijf72i4tk9e8ve</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>82</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>3</weightModifier>
+			<weightMultiplier>0</weightMultiplier>
+		</modifier>
+		<modifier id="60" catId="2">
+			<name>kst6zow47</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>87</valueMultiplier>
+			<weightModifier>17</weightModifier>
+			<weightMultiplier>62</weightMultiplier>
+		</modifier>
+		<modifier id="61" catId="0">
+			<name>e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>88</valueMultiplier>
+			<weightModifier>70</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="62" catId="0">
+			<name>x36sx5fp1x</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>39</valueModifier>
+			<valueMultiplier>79</valueMultiplier>
+			<weightModifier>45</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="63" catId="2">
+			<name>putpsqqcm2b2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>18</valueModifier>
+			<valueMultiplier>96</valueMultiplier>
+			<weightModifier>24</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="64" catId="0">
+			<name>pj2qga8e1utka</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>78</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="65" catId="3">
+			<name>94xoogheboe</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>68</valueMultiplier>
+			<weightModifier>13</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="66" catId="2">
+			<name>08xhk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>18</weightModifier>
+			<weightMultiplier>25</weightMultiplier>
+		</modifier>
+		<modifier id="67" catId="1">
+			<name>zwwjmo2ssg5a37</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>33</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="68" catId="3">
+			<name>uxfi9133sdakimps</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>63</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="69" catId="1">
+			<name>e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>1</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>23</weightMultiplier>
+		</modifier>
+		<modifier id="70" catId="1">
+			<name>w</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>89</valueModifier>
+			<valueMultiplier>79</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="71" catId="0">
+			<name>v3dxc8ikmc7h4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>87</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>87</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="72" catId="1">
+			<name>jr4yi</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>28</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="73" catId="0">
+			<name>o1y</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>5</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="74" catId="3">
+			<name>coqth7euxmqgi7b7q</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>10</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>95</weightMultiplier>
+		</modifier>
+		<modifier id="75" catId="2">
+			<name>db35ippf77d84p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>54</valueModifier>
+			<valueMultiplier>25</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>50</weightMultiplier>
+		</modifier>
+		<modifier id="76" catId="3">
+			<name>t43cb2i5ofkfg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>32</valueModifier>
+			<valueMultiplier>79</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="77" catId="0">
+			<name>2bls</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>96</valueModifier>
+			<valueMultiplier>58</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="78" catId="0">
+			<name>x53q</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>23</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="79" catId="0">
+			<name>51zn40</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>83</valueMultiplier>
+			<weightModifier>27</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="80" catId="3">
+			<name>2xknv</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>88</valueModifier>
+			<valueMultiplier>51</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>8</weightMultiplier>
+		</modifier>
+		<modifier id="81" catId="1">
+			<name>crwx7k7ysrrbpady1ap</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>74</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="82" catId="0">
+			<name>cfrrrh7drwqmkgf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>45</weightMultiplier>
+		</modifier>
+		<modifier id="83" catId="2">
+			<name>asqjvmnvb7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>67</valueModifier>
+			<valueMultiplier>33</valueMultiplier>
+			<weightModifier>28</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="84" catId="1">
+			<name>z28ef3a0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>22</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="85" catId="2">
+			<name>v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>46</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>48</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="86" catId="3">
+			<name>6o5yy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>61</weightModifier>
+			<weightMultiplier>50</weightMultiplier>
+		</modifier>
+		<modifier id="87" catId="0">
+			<name>d2b14</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>88</valueModifier>
+			<valueMultiplier>58</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>44</weightMultiplier>
+		</modifier>
+		<modifier id="88" catId="0">
+			<name>rvcaj23kbh</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>20</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>19</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="89" catId="0">
+			<name>5icztom7cyq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>1</valueMultiplier>
+			<weightModifier>49</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="90" catId="0">
+			<name>hqo9zj3b</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>98</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>55</weightMultiplier>
+		</modifier>
+		<modifier id="91" catId="2">
+			<name>49tbs3l828b5r</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>37</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>82</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="92" catId="1">
+			<name>gubdgnmy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="93" catId="3">
+			<name>cx3s02qq6es17</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>18</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="94" catId="2">
+			<name>hxopqxs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>27</valueMultiplier>
+			<weightModifier>41</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="95" catId="3">
+			<name>is6cls5zvjvakir32</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>39</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="96" catId="1">
+			<name>kwl3idm4w7o7d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>64</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>33</weightModifier>
+			<weightMultiplier>32</weightMultiplier>
+		</modifier>
+		<modifier id="97" catId="2">
+			<name>8h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="98" catId="3">
+			<name>wd3sav</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>53</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="99" catId="1">
+			<name>vk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>29</weightMultiplier>
+		</modifier>
+		<modifier id="100" catId="2">
+			<name>4lx7chofkqw5g</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>96</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>9</weightModifier>
+			<weightMultiplier>40</weightMultiplier>
+		</modifier>
+		<modifier id="101" catId="0">
+			<name>z</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>32</valueModifier>
+			<valueMultiplier>39</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="102" catId="1">
+			<name>xbokyg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>9</valueModifier>
+			<valueMultiplier>9</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>86</weightMultiplier>
+		</modifier>
+		<modifier id="103" catId="1">
+			<name>c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>55</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>74</weightMultiplier>
+		</modifier>
+		<modifier id="104" catId="1">
+			<name>jm1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>3</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="105" catId="1">
+			<name>zgqbzs1vlhpop</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>95</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>77</weightMultiplier>
+		</modifier>
+		<modifier id="106" catId="2">
+			<name>xiz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>47</valueModifier>
+			<valueMultiplier>69</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="107" catId="0">
+			<name>eco5dt73fpbaklw</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>97</valueMultiplier>
+			<weightModifier>79</weightModifier>
+			<weightMultiplier>48</weightMultiplier>
+		</modifier>
+		<modifier id="108" catId="3">
+			<name>dlupft06x18</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>39</weightModifier>
+			<weightMultiplier>31</weightMultiplier>
+		</modifier>
+		<modifier id="109" catId="3">
+			<name>8gc</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>48</valueModifier>
+			<valueMultiplier>7</valueMultiplier>
+			<weightModifier>64</weightModifier>
+			<weightMultiplier>31</weightMultiplier>
+		</modifier>
+		<modifier id="110" catId="2">
+			<name>bh01fh4zpuc0l2ud2qu2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>31</weightMultiplier>
+		</modifier>
+		<modifier id="111" catId="1">
+			<name>73rz82xerl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>38</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>77</weightModifier>
+			<weightMultiplier>25</weightMultiplier>
+		</modifier>
+		<modifier id="112" catId="1">
+			<name>f37apdwh0y7vetcq3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>82</valueModifier>
+			<valueMultiplier>52</valueMultiplier>
+			<weightModifier>91</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="113" catId="2">
+			<name>p3mu0gek</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>23</weightMultiplier>
+		</modifier>
+		<modifier id="114" catId="1">
+			<name>55jwqqnpen8v27gq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>68</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>39</weightModifier>
+			<weightMultiplier>50</weightMultiplier>
+		</modifier>
+		<modifier id="115" catId="3">
+			<name>sy55293c4v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>69</weightMultiplier>
+		</modifier>
+		<modifier id="116" catId="0">
+			<name>1h3wsgwo4r6bcw5x3z</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>46</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="117" catId="3">
+			<name>s20zm53q</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>28</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>9</weightModifier>
+			<weightMultiplier>56</weightMultiplier>
+		</modifier>
+		<modifier id="118" catId="0">
+			<name>emkwt6zhjb5l</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>49</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="119" catId="1">
+			<name>s</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>46</valueModifier>
+			<valueMultiplier>51</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="120" catId="2">
+			<name>ny5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>88</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="121" catId="3">
+			<name>pgz09armykct571g</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>6</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>44</weightMultiplier>
+		</modifier>
+		<modifier id="122" catId="3">
+			<name>fgwwy3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>44</weightMultiplier>
+		</modifier>
+		<modifier id="123" catId="1">
+			<name>p71b3lkuzsxmnggy9f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>59</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>83</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="124" catId="2">
+			<name>pcgd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>34</valueModifier>
+			<valueMultiplier>93</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="125" catId="3">
+			<name>7udnnoked5dswy0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>50</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>39</weightModifier>
+			<weightMultiplier>2</weightMultiplier>
+		</modifier>
+		<modifier id="126" catId="0">
+			<name>7w3k8ee7qpncgb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>57</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>69</weightMultiplier>
+		</modifier>
+		<modifier id="127" catId="2">
+			<name>dg23bx9i7cupp7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>34</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="128" catId="2">
+			<name>vo0dbo5d7ku317c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>20</weightMultiplier>
+		</modifier>
+		<modifier id="129" catId="3">
+			<name>g3le5kfw6p7u6skq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>34</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="130" catId="1">
+			<name>6n1tutr25t8xqg7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>49</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>73</weightMultiplier>
+		</modifier>
+		<modifier id="131" catId="0">
+			<name>fk046rif</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>8</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>4</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="132" catId="1">
+			<name>gjmrcw6y8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>59</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="133" catId="0">
+			<name>q79239ffd69ca6kp5e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>48</weightMultiplier>
+		</modifier>
+		<modifier id="134" catId="0">
+			<name>j4op</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>66</valueModifier>
+			<valueMultiplier>28</valueMultiplier>
+			<weightModifier>24</weightModifier>
+			<weightMultiplier>79</weightMultiplier>
+		</modifier>
+		<modifier id="135" catId="0">
+			<name>olpj0p47suwos22</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>82</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="136" catId="2">
+			<name>ni5lcbzxecv6e7tbi</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>20</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>29</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="137" catId="3">
+			<name>qzfa14suon</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>96</valueModifier>
+			<valueMultiplier>15</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>6</weightMultiplier>
+		</modifier>
+		<modifier id="138" catId="2">
+			<name>c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>88</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="139" catId="0">
+			<name>8i</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>48</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>70</weightModifier>
+			<weightMultiplier>23</weightMultiplier>
+		</modifier>
+		<modifier id="140" catId="3">
+			<name>s1w3lfpew2jsmdjngth</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>33</valueModifier>
+			<valueMultiplier>87</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>88</weightMultiplier>
+		</modifier>
+		<modifier id="141" catId="1">
+			<name>zfqfzgl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>1</weightMultiplier>
+		</modifier>
+		<modifier id="142" catId="3">
+			<name>hu4a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>67</valueModifier>
+			<valueMultiplier>91</valueMultiplier>
+			<weightModifier>71</weightModifier>
+			<weightMultiplier>74</weightMultiplier>
+		</modifier>
+		<modifier id="143" catId="1">
+			<name>omnoanjch</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>15</valueMultiplier>
+			<weightModifier>23</weightModifier>
+			<weightMultiplier>76</weightMultiplier>
+		</modifier>
+		<modifier id="144" catId="0">
+			<name>jyltra80o15w9q1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>1</weightModifier>
+			<weightMultiplier>18</weightMultiplier>
+		</modifier>
+		<modifier id="145" catId="2">
+			<name>ev8he</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>68</valueMultiplier>
+			<weightModifier>78</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="146" catId="1">
+			<name>9ay3mrt932ld</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>61</weightMultiplier>
+		</modifier>
+		<modifier id="147" catId="2">
+			<name>ewj54dn</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>82</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="148" catId="0">
+			<name>875lsqmi4hnn7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>64</valueMultiplier>
+			<weightModifier>45</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="149" catId="2">
+			<name>m87d8rb70t7maywg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>54</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="150" catId="1">
+			<name>a1fc</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="151" catId="0">
+			<name>ckk33sbgf933crfyi</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>36</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>42</weightMultiplier>
+		</modifier>
+		<modifier id="152" catId="1">
+			<name>jn85kfy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>55</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="153" catId="3">
+			<name>7twxjf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>43</weightModifier>
+			<weightMultiplier>16</weightMultiplier>
+		</modifier>
+		<modifier id="154" catId="2">
+			<name>7ksb5n9ssvunmuwp3o</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>38</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>36</weightModifier>
+			<weightMultiplier>31</weightMultiplier>
+		</modifier>
+		<modifier id="155" catId="3">
+			<name>rnbps2pvp9</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>2</valueModifier>
+			<valueMultiplier>91</valueMultiplier>
+			<weightModifier>86</weightModifier>
+			<weightMultiplier>69</weightMultiplier>
+		</modifier>
+		<modifier id="156" catId="2">
+			<name>fypsqcau</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>10</valueMultiplier>
+			<weightModifier>48</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="157" catId="1">
+			<name>c1wvc9bthg6qfytssov</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>63</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>91</weightMultiplier>
+		</modifier>
+		<modifier id="158" catId="3">
+			<name>f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>5</valueMultiplier>
+			<weightModifier>33</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="159" catId="2">
+			<name>ec6w</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>41</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="160" catId="1">
+			<name>h6egk586hohhsay4tx</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="161" catId="1">
+			<name>llb94</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>91</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="162" catId="3">
+			<name>byrdb6tsq645ul5kqdod</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>81</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>71</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="163" catId="2">
+			<name>8j95j6b4cowtp7vlbt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>46</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>15</weightMultiplier>
+		</modifier>
+		<modifier id="164" catId="3">
+			<name>lg8t4ec277b0drgttg15</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>87</valueMultiplier>
+			<weightModifier>82</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="165" catId="1">
+			<name>u93p0rxacpywvgr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>21</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="166" catId="1">
+			<name>8a5h0tmy91jviziwj</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>27</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>41</weightMultiplier>
+		</modifier>
+		<modifier id="167" catId="2">
+			<name>awds6hpb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>91</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="168" catId="1">
+			<name>aybuw8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>39</valueMultiplier>
+			<weightModifier>1</weightModifier>
+			<weightMultiplier>9</weightMultiplier>
+		</modifier>
+		<modifier id="169" catId="3">
+			<name>t49gg4l0svsexgd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>21</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>69</weightMultiplier>
+		</modifier>
+		<modifier id="170" catId="2">
+			<name>xo1jdusmt5pwfzc580h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>67</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="171" catId="1">
+			<name>dr1xcwgo5owwj1or4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>57</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>8</weightMultiplier>
+		</modifier>
+		<modifier id="172" catId="1">
+			<name>jk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>80</valueModifier>
+			<valueMultiplier>52</valueMultiplier>
+			<weightModifier>67</weightModifier>
+			<weightMultiplier>95</weightMultiplier>
+		</modifier>
+		<modifier id="173" catId="3">
+			<name>8iqvgn614l</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>33</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>3</weightModifier>
+			<weightMultiplier>20</weightMultiplier>
+		</modifier>
+		<modifier id="174" catId="3">
+			<name>a8jrnzk3p56oggly</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>7</valueMultiplier>
+			<weightModifier>31</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="175" catId="0">
+			<name>l</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>10</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>72</weightModifier>
+			<weightMultiplier>51</weightMultiplier>
+		</modifier>
+		<modifier id="176" catId="1">
+			<name>yf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>41</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>16</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="177" catId="3">
+			<name>9alebbxxf7531fn0f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>5</valueModifier>
+			<valueMultiplier>69</valueMultiplier>
+			<weightModifier>82</weightModifier>
+			<weightMultiplier>18</weightMultiplier>
+		</modifier>
+		<modifier id="178" catId="1">
+			<name>4388</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>60</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="179" catId="3">
+			<name>rtix2cchuu</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>86</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="180" catId="3">
+			<name>iwh5sq6ysyr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>4</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>69</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="181" catId="0">
+			<name>sq43rwn4mti1pz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>82</valueModifier>
+			<valueMultiplier>77</valueMultiplier>
+			<weightModifier>45</weightModifier>
+			<weightMultiplier>79</weightMultiplier>
+		</modifier>
+		<modifier id="182" catId="3">
+			<name>2tmc6xbrlwtkr8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>57</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>3</weightModifier>
+			<weightMultiplier>81</weightMultiplier>
+		</modifier>
+		<modifier id="183" catId="0">
+			<name>9t28o7atuamyi9c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>89</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>67</weightModifier>
+			<weightMultiplier>62</weightMultiplier>
+		</modifier>
+		<modifier id="184" catId="0">
+			<name>ljgdvh8jd23a6sirb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>77</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="185" catId="2">
+			<name>n25f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>29</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>1</weightMultiplier>
+		</modifier>
+		<modifier id="186" catId="3">
+			<name>v72skxw6wnux4vyl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>27</valueModifier>
+			<valueMultiplier>21</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>61</weightMultiplier>
+		</modifier>
+		<modifier id="187" catId="0">
+			<name>56mo5yf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>71</weightModifier>
+			<weightMultiplier>27</weightMultiplier>
+		</modifier>
+		<modifier id="188" catId="2">
+			<name>7o</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>80</valueMultiplier>
+			<weightModifier>89</weightModifier>
+			<weightMultiplier>81</weightMultiplier>
+		</modifier>
+		<modifier id="189" catId="0">
+			<name>kk2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>10</weightModifier>
+			<weightMultiplier>41</weightMultiplier>
+		</modifier>
+		<modifier id="190" catId="1">
+			<name>aa0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>76</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>42</weightMultiplier>
+		</modifier>
+		<modifier id="191" catId="0">
+			<name>4vop6k0j7u9j3pfu</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>98</valueMultiplier>
+			<weightModifier>55</weightModifier>
+			<weightMultiplier>15</weightMultiplier>
+		</modifier>
+		<modifier id="192" catId="2">
+			<name>f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>54</valueModifier>
+			<valueMultiplier>71</valueMultiplier>
+			<weightModifier>80</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="193" catId="1">
+			<name>6dplu</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>14</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="194" catId="1">
+			<name>pl60efk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>68</valueModifier>
+			<valueMultiplier>37</valueMultiplier>
+			<weightModifier>13</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="195" catId="3">
+			<name>qdh</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="196" catId="2">
+			<name>wwzktlom</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>76</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="197" catId="3">
+			<name>2dz3u8ftqcojcybnl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>59</valueModifier>
+			<valueMultiplier>90</valueMultiplier>
+			<weightModifier>33</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="198" catId="2">
+			<name>a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>10</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>66</weightMultiplier>
+		</modifier>
+		<modifier id="199" catId="1">
+			<name>qy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>56</weightMultiplier>
+		</modifier>
+		<modifier id="200" catId="1">
+			<name>ohk97l61hxloin</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>71</valueModifier>
+			<valueMultiplier>68</valueMultiplier>
+			<weightModifier>77</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="201" catId="2">
+			<name>8eifav2u</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>39</valueMultiplier>
+			<weightModifier>14</weightModifier>
+			<weightMultiplier>27</weightMultiplier>
+		</modifier>
+		<modifier id="202" catId="3">
+			<name>q74k1kmo</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>14</weightModifier>
+			<weightMultiplier>25</weightMultiplier>
+		</modifier>
+		<modifier id="203" catId="0">
+			<name>s829q061dsqu</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>57</valueMultiplier>
+			<weightModifier>80</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="204" catId="1">
+			<name>e8k5luels6zrwa1zbc</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>12</weightModifier>
+			<weightMultiplier>15</weightMultiplier>
+		</modifier>
+		<modifier id="205" catId="3">
+			<name>c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="206" catId="1">
+			<name>83gq18jjm8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="207" catId="3">
+			<name>n85ds6ysnbizm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>55</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>71</weightMultiplier>
+		</modifier>
+		<modifier id="208" catId="0">
+			<name>zzp6cb18p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="209" catId="0">
+			<name>v39lx4mptusn85s7qw</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>88</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>63</weightMultiplier>
+		</modifier>
+		<modifier id="210" catId="0">
+			<name>do</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>13</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="211" catId="0">
+			<name>o9rbk85fvflz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>15</weightMultiplier>
+		</modifier>
+		<modifier id="212" catId="0">
+			<name>synskgi6q0vhrix</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>73</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="213" catId="2">
+			<name>vzay</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="214" catId="3">
+			<name>is92jrc0f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>10</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="215" catId="3">
+			<name>039</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="216" catId="3">
+			<name>wbqjoyigpoykoese</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="217" catId="2">
+			<name>eipozyhs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>88</weightMultiplier>
+		</modifier>
+		<modifier id="218" catId="2">
+			<name>05mh7to</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>94</valueMultiplier>
+			<weightModifier>33</weightModifier>
+			<weightMultiplier>21</weightMultiplier>
+		</modifier>
+		<modifier id="219" catId="0">
+			<name>b8zwlskwwisgv4zyct6</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>30</weightModifier>
+			<weightMultiplier>95</weightMultiplier>
+		</modifier>
+		<modifier id="220" catId="1">
+			<name>o59p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>86</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>62</weightMultiplier>
+		</modifier>
+		<modifier id="221" catId="0">
+			<name>53t8rkon5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>22</weightModifier>
+			<weightMultiplier>94</weightMultiplier>
+		</modifier>
+		<modifier id="222" catId="3">
+			<name>oz5k86k9xdnrqfmtlm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>86</valueModifier>
+			<valueMultiplier>79</valueMultiplier>
+			<weightModifier>27</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="223" catId="0">
+			<name>nd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>6</weightMultiplier>
+		</modifier>
+		<modifier id="224" catId="0">
+			<name>wajyad6tzfinu6u</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>30</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="225" catId="2">
+			<name>9u4xbmq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>29</valueMultiplier>
+			<weightModifier>72</weightModifier>
+			<weightMultiplier>62</weightMultiplier>
+		</modifier>
+		<modifier id="226" catId="1">
+			<name>snq21bb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>85</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>4</weightModifier>
+			<weightMultiplier>43</weightMultiplier>
+		</modifier>
+		<modifier id="227" catId="0">
+			<name>pku53ampcfhbidu4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>20</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="228" catId="3">
+			<name>11cqf7dwpha5bo436g5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>3</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="229" catId="0">
+			<name>d5t</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>94</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>9</weightMultiplier>
+		</modifier>
+		<modifier id="230" catId="0">
+			<name>4z4cj5v9zcsaatemin</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="231" catId="2">
+			<name>by</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>64</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="232" catId="2">
+			<name>nqdywe0uel2qt12a4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>68</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>68</weightModifier>
+			<weightMultiplier>12</weightMultiplier>
+		</modifier>
+		<modifier id="233" catId="0">
+			<name>9wpxxfcwgibdfwu79</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="234" catId="2">
+			<name>2kpq1pxfp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>53</valueModifier>
+			<valueMultiplier>36</valueMultiplier>
+			<weightModifier>48</weightModifier>
+			<weightMultiplier>24</weightMultiplier>
+		</modifier>
+		<modifier id="235" catId="2">
+			<name>r920tqpxowywup</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>32</valueModifier>
+			<valueMultiplier>32</valueMultiplier>
+			<weightModifier>10</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="236" catId="1">
+			<name>praba9</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>74</valueModifier>
+			<valueMultiplier>28</valueMultiplier>
+			<weightModifier>31</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="237" catId="0">
+			<name>6</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>77</weightMultiplier>
+		</modifier>
+		<modifier id="238" catId="2">
+			<name>dh29j2jr8v9w8iqgt6j</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="239" catId="2">
+			<name>myg23f5zoni605t</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="240" catId="1">
+			<name>x7x5bsm5c7q377oxs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>6</weightModifier>
+			<weightMultiplier>51</weightMultiplier>
+		</modifier>
+		<modifier id="241" catId="2">
+			<name>9ofpn4dcpa3x</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>45</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="242" catId="2">
+			<name>xjfdlkijw7cpr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>8</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="243" catId="0">
+			<name>yb2688</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>54</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>84</weightModifier>
+			<weightMultiplier>82</weightMultiplier>
+		</modifier>
+		<modifier id="244" catId="0">
+			<name>mnesbrnpysanul9v0d1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>74</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="245" catId="3">
+			<name>xdzngt480h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>48</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>87</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="246" catId="3">
+			<name>v2cham9k7o9sb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>82</valueMultiplier>
+			<weightModifier>91</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="247" catId="1">
+			<name>ncjb29xnacrwjm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>33</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>45</weightModifier>
+			<weightMultiplier>73</weightMultiplier>
+		</modifier>
+		<modifier id="248" catId="1">
+			<name>ticm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>58</weightModifier>
+			<weightMultiplier>47</weightMultiplier>
+		</modifier>
+		<modifier id="249" catId="0">
+			<name>f6yqh5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>28</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>41</weightMultiplier>
+		</modifier>
+		<modifier id="250" catId="1">
+			<name>yjj4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>25</weightModifier>
+			<weightMultiplier>56</weightMultiplier>
+		</modifier>
+		<modifier id="251" catId="2">
+			<name>t1c60e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>53</valueModifier>
+			<valueMultiplier>20</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>47</weightMultiplier>
+		</modifier>
+		<modifier id="252" catId="3">
+			<name>7bc0gtrkjpt7on</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>40</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="253" catId="3">
+			<name>e3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>48</weightMultiplier>
+		</modifier>
+		<modifier id="254" catId="3">
+			<name>yzz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>49</valueModifier>
+			<valueMultiplier>58</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>84</weightMultiplier>
+		</modifier>
+		<modifier id="255" catId="1">
+			<name>g0br9zrlgu4e0ui4sm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>42</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="256" catId="0">
+			<name>qinchib</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>78</valueModifier>
+			<valueMultiplier>71</valueMultiplier>
+			<weightModifier>88</weightModifier>
+			<weightMultiplier>97</weightMultiplier>
+		</modifier>
+		<modifier id="257" catId="1">
+			<name>snbsrmy2i626tz3m</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>77</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="258" catId="0">
+			<name>q</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>41</weightModifier>
+			<weightMultiplier>15</weightMultiplier>
+		</modifier>
+		<modifier id="259" catId="1">
+			<name>a1ownxb2r</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>95</valueModifier>
+			<valueMultiplier>78</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="260" catId="1">
+			<name>m7s3a5mn3y2cyondz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>53</valueModifier>
+			<valueMultiplier>29</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>21</weightMultiplier>
+		</modifier>
+		<modifier id="261" catId="3">
+			<name>6kg7aoqqs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="262" catId="0">
+			<name>g</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>74</weightMultiplier>
+		</modifier>
+		<modifier id="263" catId="0">
+			<name>dejsux38heywhov</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="264" catId="1">
+			<name>f0ereyg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>71</weightMultiplier>
+		</modifier>
+		<modifier id="265" catId="3">
+			<name>issh</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>48</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="266" catId="3">
+			<name>8glxvn2via8bi1da7fqm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>52</valueMultiplier>
+			<weightModifier>54</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="267" catId="2">
+			<name>ecl85z5a1wtj0k6e63</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>5</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>49</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="268" catId="1">
+			<name>xkmn6sf8u682</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>19</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="269" catId="1">
+			<name>ehtu594wqykb2m6mrz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>76</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>1</weightMultiplier>
+		</modifier>
+		<modifier id="270" catId="2">
+			<name>7j50ctn</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>78</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>12</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="271" catId="2">
+			<name>gd2ljusz9afst7m6e3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>81</weightMultiplier>
+		</modifier>
+		<modifier id="272" catId="3">
+			<name>ptgeknu7pmom</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>37</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="273" catId="3">
+			<name>71p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>14</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="274" catId="0">
+			<name>zs8r3u</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>45</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>26</weightMultiplier>
+		</modifier>
+		<modifier id="275" catId="0">
+			<name>94h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>82</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="276" catId="0">
+			<name>3mu3jhor7ng0l2ra8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>65</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>77</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="277" catId="3">
+			<name>d2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>30</weightModifier>
+			<weightMultiplier>51</weightMultiplier>
+		</modifier>
+		<modifier id="278" catId="3">
+			<name>7u5pored7yl4kmq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>41</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="279" catId="1">
+			<name>hg6u3x1zhsmbbb6w5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>54</valueMultiplier>
+			<weightModifier>25</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="280" catId="1">
+			<name>vu</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>33</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>61</weightMultiplier>
+		</modifier>
+		<modifier id="281" catId="0">
+			<name>2e4yvmywo5s3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>17</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="282" catId="2">
+			<name>7j1j9rq5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>5</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>75</weightMultiplier>
+		</modifier>
+		<modifier id="283" catId="3">
+			<name>wg5fenfenqdiar44</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>34</valueModifier>
+			<valueMultiplier>5</valueMultiplier>
+			<weightModifier>50</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="284" catId="3">
+			<name>wvia</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>16</weightModifier>
+			<weightMultiplier>77</weightMultiplier>
+		</modifier>
+		<modifier id="285" catId="1">
+			<name>c32f5v194osi0seqeuwt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="286" catId="3">
+			<name>zylgbl8m7ed5sl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>81</valueModifier>
+			<valueMultiplier>33</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>28</weightMultiplier>
+		</modifier>
+		<modifier id="287" catId="3">
+			<name>9vv4x5bhhbldp9ro6x5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="288" catId="3">
+			<name>101pyjwe4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>70</valueMultiplier>
+			<weightModifier>16</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="289" catId="3">
+			<name>zhgnrkdm2r43y</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>59</valueModifier>
+			<valueMultiplier>1</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>28</weightMultiplier>
+		</modifier>
+		<modifier id="290" catId="0">
+			<name>9i5kq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>57</valueModifier>
+			<valueMultiplier>51</valueMultiplier>
+			<weightModifier>78</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="291" catId="3">
+			<name>2w26xrw5l7a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>79</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="292" catId="0">
+			<name>f1cwyb5j</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>57</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>25</weightMultiplier>
+		</modifier>
+		<modifier id="293" catId="2">
+			<name>k9</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="294" catId="3">
+			<name>o</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>11</valueModifier>
+			<valueMultiplier>80</valueMultiplier>
+			<weightModifier>79</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="295" catId="1">
+			<name>srg75</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>64</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="296" catId="2">
+			<name>q78pr1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>95</valueModifier>
+			<valueMultiplier>24</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="297" catId="1">
+			<name>a229i3kk9u</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>73</weightMultiplier>
+		</modifier>
+		<modifier id="298" catId="0">
+			<name>uzfk1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>31</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="299" catId="3">
+			<name>i</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>59</weightMultiplier>
+		</modifier>
+		<modifier id="300" catId="0">
+			<name>vx160q8jyedjsmh</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>34</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>60</weightModifier>
+			<weightMultiplier>79</weightMultiplier>
+		</modifier>
+		<modifier id="301" catId="2">
+			<name>s483wd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>27</valueModifier>
+			<valueMultiplier>53</valueMultiplier>
+			<weightModifier>18</weightModifier>
+			<weightMultiplier>67</weightMultiplier>
+		</modifier>
+		<modifier id="302" catId="0">
+			<name>wffn29k15mb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>60</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="303" catId="0">
+			<name>0yuoip4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>63</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>61</weightModifier>
+			<weightMultiplier>42</weightMultiplier>
+		</modifier>
+		<modifier id="304" catId="2">
+			<name>0y1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>67</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="305" catId="3">
+			<name>mvbw7mvp0e5tiqoao</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>1</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>63</weightMultiplier>
+		</modifier>
+		<modifier id="306" catId="2">
+			<name>cvjd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="307" catId="2">
+			<name>yxdbqgc2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>83</valueMultiplier>
+			<weightModifier>4</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="308" catId="2">
+			<name>olxdeusbn</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>64</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="309" catId="3">
+			<name>uwlrzl5vx</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>99</weightMultiplier>
+		</modifier>
+		<modifier id="310" catId="0">
+			<name>oy1mwgjumetc80l</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>10</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>27</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="311" catId="2">
+			<name>e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>49</valueModifier>
+			<valueMultiplier>76</valueMultiplier>
+			<weightModifier>13</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="312" catId="2">
+			<name>tqgsahqc5sgj1487471</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>17</valueModifier>
+			<valueMultiplier>40</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>77</weightMultiplier>
+		</modifier>
+		<modifier id="313" catId="2">
+			<name>9w3dz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>85</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="314" catId="0">
+			<name>k7o69fzgekok5cbu9tg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>20</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="315" catId="0">
+			<name>l7nvyv3sb9pgbg8yvci</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>74</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="316" catId="1">
+			<name>4fms</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>87</weightModifier>
+			<weightMultiplier>76</weightMultiplier>
+		</modifier>
+		<modifier id="317" catId="0">
+			<name>2q2u3bhecgpcdholp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="318" catId="0">
+			<name>hbku781zogp0tfc1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>50</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="319" catId="3">
+			<name>fj8ynr9mettct</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>41</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="320" catId="0">
+			<name>c40</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>97</weightMultiplier>
+		</modifier>
+		<modifier id="321" catId="3">
+			<name>lgp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>2</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>33</weightModifier>
+			<weightMultiplier>94</weightMultiplier>
+		</modifier>
+		<modifier id="322" catId="3">
+			<name>3y</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>71</valueModifier>
+			<valueMultiplier>97</valueMultiplier>
+			<weightModifier>83</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="323" catId="3">
+			<name>36</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>20</valueMultiplier>
+			<weightModifier>1</weightModifier>
+			<weightMultiplier>51</weightMultiplier>
+		</modifier>
+		<modifier id="324" catId="3">
+			<name>5i16g</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="325" catId="0">
+			<name>5ocqgs1e5evuut4h</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>94</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="326" catId="1">
+			<name>7y3fl3gd3jcp61</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="327" catId="3">
+			<name>2h7vydn60d33</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>23</weightMultiplier>
+		</modifier>
+		<modifier id="328" catId="3">
+			<name>vkoqw</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>2</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>29</weightMultiplier>
+		</modifier>
+		<modifier id="329" catId="2">
+			<name>t74npaw6</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>53</weightModifier>
+			<weightMultiplier>18</weightMultiplier>
+		</modifier>
+		<modifier id="330" catId="3">
+			<name>6t25tuhwifwf35lmm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>60</weightModifier>
+			<weightMultiplier>76</weightMultiplier>
+		</modifier>
+		<modifier id="331" catId="0">
+			<name>xx0et</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>38</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>44</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="332" catId="1">
+			<name>ifodoq62lahlmz4i</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>4</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="333" catId="3">
+			<name>h5n5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>99</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>86</weightMultiplier>
+		</modifier>
+		<modifier id="334" catId="1">
+			<name>556f17fvu8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>8</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>75</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="335" catId="2">
+			<name>7m7bg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="336" catId="3">
+			<name>9fxitlwd1tahu9p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>39</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="337" catId="1">
+			<name>hsfcypsv9yhq1zxa</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>47</valueMultiplier>
+			<weightModifier>1</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="338" catId="3">
+			<name>azrj0uj</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>47</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="339" catId="2">
+			<name>icysui9vbe32tkif</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>27</valueModifier>
+			<valueMultiplier>39</valueMultiplier>
+			<weightModifier>0</weightModifier>
+			<weightMultiplier>91</weightMultiplier>
+		</modifier>
+		<modifier id="340" catId="1">
+			<name>w2td2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>50</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>2</weightMultiplier>
+		</modifier>
+		<modifier id="341" catId="0">
+			<name>7cu6cz9nyjxbygo0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>73</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="342" catId="3">
+			<name>1owttfx6r3p</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>53</valueModifier>
+			<valueMultiplier>30</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>40</weightMultiplier>
+		</modifier>
+		<modifier id="343" catId="3">
+			<name>0eglvt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>34</valueModifier>
+			<valueMultiplier>22</valueMultiplier>
+			<weightModifier>64</weightModifier>
+			<weightMultiplier>32</weightMultiplier>
+		</modifier>
+		<modifier id="344" catId="1">
+			<name>cr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>50</valueMultiplier>
+			<weightModifier>68</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="345" catId="3">
+			<name>joz70oz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>39</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="346" catId="3">
+			<name>k</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>74</weightMultiplier>
+		</modifier>
+		<modifier id="347" catId="0">
+			<name>39i9k3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>52</valueMultiplier>
+			<weightModifier>62</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="348" catId="2">
+			<name>9mi3az</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="349" catId="2">
+			<name>3z2bqyfexfc9csmmn</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>6</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>3</weightMultiplier>
+		</modifier>
+		<modifier id="350" catId="0">
+			<name>rv3ueq8wrj</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>43</valueModifier>
+			<valueMultiplier>2</valueMultiplier>
+			<weightModifier>69</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="351" catId="0">
+			<name>yh2s</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>22</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>91</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="352" catId="3">
+			<name>izq8xjob3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>35</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>43</weightMultiplier>
+		</modifier>
+		<modifier id="353" catId="0">
+			<name>89ntd2wsyt3jh6wu14y</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>41</weightModifier>
+			<weightMultiplier>9</weightMultiplier>
+		</modifier>
+		<modifier id="354" catId="3">
+			<name>ow70m0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>1</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>61</weightMultiplier>
+		</modifier>
+		<modifier id="355" catId="3">
+			<name>lyod9fmxo29c9</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>9</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>61</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="356" catId="0">
+			<name>6mn36lp7ttaln3lq113z</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>17</weightModifier>
+			<weightMultiplier>10</weightMultiplier>
+		</modifier>
+		<modifier id="357" catId="2">
+			<name>y60jujpwrta0</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="358" catId="2">
+			<name>1frx3xyluo</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>94</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="359" catId="3">
+			<name>eaudcvf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>6</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>12</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="360" catId="0">
+			<name>jp3brs5tv37xrl3t</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>86</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>91</weightMultiplier>
+		</modifier>
+		<modifier id="361" catId="1">
+			<name>nt8vrfhafkx16kwgazpr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>15</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>76</weightMultiplier>
+		</modifier>
+		<modifier id="362" catId="1">
+			<name>9k8uft4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>28</valueModifier>
+			<valueMultiplier>76</valueMultiplier>
+			<weightModifier>60</weightModifier>
+			<weightMultiplier>44</weightMultiplier>
+		</modifier>
+		<modifier id="363" catId="2">
+			<name>9b7mhsclg9</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="364" catId="2">
+			<name>wqp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>50</valueModifier>
+			<valueMultiplier>47</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>24</weightMultiplier>
+		</modifier>
+		<modifier id="365" catId="1">
+			<name>ypd5r5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>58</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>17</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="366" catId="2">
+			<name>pvvjbqhry211</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>25</valueMultiplier>
+			<weightModifier>49</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="367" catId="0">
+			<name>5fq7e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>74</weightModifier>
+			<weightMultiplier>72</weightMultiplier>
+		</modifier>
+		<modifier id="368" catId="0">
+			<name>9skrsezybm5dd1c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>39</weightMultiplier>
+		</modifier>
+		<modifier id="369" catId="2">
+			<name>zbrswjryauvhozxmac</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>17</valueModifier>
+			<valueMultiplier>89</valueMultiplier>
+			<weightModifier>55</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="370" catId="3">
+			<name>77fuidp0pqkfd9fcb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>40</weightModifier>
+			<weightMultiplier>54</weightMultiplier>
+		</modifier>
+		<modifier id="371" catId="0">
+			<name>0tbpftjzya5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>96</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="372" catId="0">
+			<name>v285oemfd3tw5ls3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>90</valueModifier>
+			<valueMultiplier>88</valueMultiplier>
+			<weightModifier>6</weightModifier>
+			<weightMultiplier>55</weightMultiplier>
+		</modifier>
+		<modifier id="373" catId="0">
+			<name>66sykqavwfdiebd9t2vm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>22</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="374" catId="3">
+			<name>06wxdhiot</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>56</valueModifier>
+			<valueMultiplier>51</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="375" catId="3">
+			<name>qvq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="376" catId="3">
+			<name>8dows7fscseoppue22d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>68</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>12</weightMultiplier>
+		</modifier>
+		<modifier id="377" catId="0">
+			<name>bbbdgd8wx1jz6kdor</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>33</valueModifier>
+			<valueMultiplier>57</valueMultiplier>
+			<weightModifier>87</weightModifier>
+			<weightMultiplier>16</weightMultiplier>
+		</modifier>
+		<modifier id="378" catId="3">
+			<name>2nbonwvg2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>18</valueMultiplier>
+			<weightModifier>1</weightModifier>
+			<weightMultiplier>75</weightMultiplier>
+		</modifier>
+		<modifier id="379" catId="2">
+			<name>x8sm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>71</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="380" catId="3">
+			<name>0acvjtbigwbouw1g</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>96</valueMultiplier>
+			<weightModifier>65</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="381" catId="3">
+			<name>uixb2ellacmop</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>71</valueMultiplier>
+			<weightModifier>23</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="382" catId="1">
+			<name>6d07ucnxljexymk72</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>43</weightMultiplier>
+		</modifier>
+		<modifier id="383" catId="1">
+			<name>jac</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>22</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>60</weightMultiplier>
+		</modifier>
+		<modifier id="384" catId="2">
+			<name>7p2ysm9127</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>31</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="385" catId="3">
+			<name>3gy9juvsu76t7ce</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>55</weightMultiplier>
+		</modifier>
+		<modifier id="386" catId="3">
+			<name>6f1q7k</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>38</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="387" catId="3">
+			<name>h6g045hzwhyxh21fmxtj</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>98</valueModifier>
+			<valueMultiplier>82</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>32</weightMultiplier>
+		</modifier>
+		<modifier id="388" catId="1">
+			<name>qbby8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>91</valueModifier>
+			<valueMultiplier>6</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>73</weightMultiplier>
+		</modifier>
+		<modifier id="389" catId="3">
+			<name>ssiof1660c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>64</valueModifier>
+			<valueMultiplier>10</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="390" catId="0">
+			<name>lgjt2tu1054a0r</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>68</valueModifier>
+			<valueMultiplier>9</valueMultiplier>
+			<weightModifier>55</weightModifier>
+			<weightMultiplier>90</weightMultiplier>
+		</modifier>
+		<modifier id="391" catId="3">
+			<name>dg0skx0vdq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>16</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>89</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="392" catId="3">
+			<name>j2zqteg62wjzcg5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>96</valueMultiplier>
+			<weightModifier>82</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="393" catId="0">
+			<name>lj0nong9tg1v4bnk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>88</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>30</weightModifier>
+			<weightMultiplier>66</weightMultiplier>
+		</modifier>
+		<modifier id="394" catId="1">
+			<name>qklkjgn7pfzw</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>60</valueModifier>
+			<valueMultiplier>97</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>28</weightMultiplier>
+		</modifier>
+		<modifier id="395" catId="3">
+			<name>njncdwllnyt</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>48</weightMultiplier>
+		</modifier>
+		<modifier id="396" catId="3">
+			<name>5a2ejx9yu4m9mk237</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>37</valueModifier>
+			<valueMultiplier>52</valueMultiplier>
+			<weightModifier>58</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="397" catId="0">
+			<name>zundc8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>50</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="398" catId="2">
+			<name>o</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="399" catId="2">
+			<name>gja5d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>61</valueModifier>
+			<valueMultiplier>16</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>22</weightMultiplier>
+		</modifier>
+		<modifier id="400" catId="3">
+			<name>31o4soyej6rxgurzx</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>41</valueModifier>
+			<valueMultiplier>36</valueMultiplier>
+			<weightModifier>36</weightModifier>
+			<weightMultiplier>20</weightMultiplier>
+		</modifier>
+		<modifier id="401" catId="2">
+			<name>c6i3xrni</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>32</valueModifier>
+			<valueMultiplier>58</valueMultiplier>
+			<weightModifier>76</weightModifier>
+			<weightMultiplier>61</weightMultiplier>
+		</modifier>
+		<modifier id="402" catId="0">
+			<name>w9o6xezzzq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>83</valueMultiplier>
+			<weightModifier>78</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="403" catId="3">
+			<name>ek3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>26</valueModifier>
+			<valueMultiplier>64</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>58</weightMultiplier>
+		</modifier>
+		<modifier id="404" catId="0">
+			<name>2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>52</valueModifier>
+			<valueMultiplier>91</valueMultiplier>
+			<weightModifier>85</weightModifier>
+			<weightMultiplier>89</weightMultiplier>
+		</modifier>
+		<modifier id="405" catId="3">
+			<name>68vsild5s7lq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>22</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>68</weightModifier>
+			<weightMultiplier>78</weightMultiplier>
+		</modifier>
+		<modifier id="406" catId="2">
+			<name>6yu4kz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>14</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>83</weightModifier>
+			<weightMultiplier>35</weightMultiplier>
+		</modifier>
+		<modifier id="407" catId="2">
+			<name>muuf1314b</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>18</valueMultiplier>
+			<weightModifier>13</weightModifier>
+			<weightMultiplier>3</weightMultiplier>
+		</modifier>
+		<modifier id="408" catId="2">
+			<name>alw01fk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>58</valueMultiplier>
+			<weightModifier>84</weightModifier>
+			<weightMultiplier>71</weightMultiplier>
+		</modifier>
+		<modifier id="409" catId="0">
+			<name>3gd2ze</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>40</valueModifier>
+			<valueMultiplier>71</valueMultiplier>
+			<weightModifier>57</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="410" catId="2">
+			<name>3ft3dyecmyzhsjccfv</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>63</valueMultiplier>
+			<weightModifier>97</weightModifier>
+			<weightMultiplier>23</weightMultiplier>
+		</modifier>
+		<modifier id="411" catId="0">
+			<name>mf0r4nwkv03gfyr0v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>13</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>11</weightMultiplier>
+		</modifier>
+		<modifier id="412" catId="1">
+			<name>fiwm13qjk0pk9ts</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>79</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="413" catId="1">
+			<name>1r</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>97</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="414" catId="3">
+			<name>mtwr1allp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>57</valueModifier>
+			<valueMultiplier>66</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>16</weightMultiplier>
+		</modifier>
+		<modifier id="415" catId="2">
+			<name>xggmkfe</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>29</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>20</weightMultiplier>
+		</modifier>
+		<modifier id="416" catId="3">
+			<name>0s</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>74</valueModifier>
+			<valueMultiplier>67</valueMultiplier>
+			<weightModifier>27</weightModifier>
+			<weightMultiplier>74</weightMultiplier>
+		</modifier>
+		<modifier id="417" catId="2">
+			<name>huf02v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>11</weightModifier>
+			<weightMultiplier>75</weightMultiplier>
+		</modifier>
+		<modifier id="418" catId="2">
+			<name>6para0ndxgq5n3khtic1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>36</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="419" catId="0">
+			<name>znea8</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>18</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>22</weightModifier>
+			<weightMultiplier>99</weightMultiplier>
+		</modifier>
+		<modifier id="420" catId="3">
+			<name>v14s</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>27</weightMultiplier>
+		</modifier>
+		<modifier id="421" catId="2">
+			<name>5bp5ayw7nmjm</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>70</weightModifier>
+			<weightMultiplier>51</weightMultiplier>
+		</modifier>
+		<modifier id="422" catId="3">
+			<name>a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>80</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="423" catId="3">
+			<name>op6m1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>10</valueModifier>
+			<valueMultiplier>23</valueMultiplier>
+			<weightModifier>9</weightModifier>
+			<weightMultiplier>89</weightMultiplier>
+		</modifier>
+		<modifier id="424" catId="2">
+			<name>ovjgop81l703a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>8</valueModifier>
+			<valueMultiplier>47</valueMultiplier>
+			<weightModifier>61</weightModifier>
+			<weightMultiplier>69</weightMultiplier>
+		</modifier>
+		<modifier id="425" catId="1">
+			<name>ngao6e40</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>80</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="426" catId="1">
+			<name>ymr16z5y9yoxz7thxg</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>29</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>66</weightMultiplier>
+		</modifier>
+		<modifier id="427" catId="3">
+			<name>j5a8ist5p3atn7ors</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>18</valueModifier>
+			<valueMultiplier>3</valueMultiplier>
+			<weightModifier>81</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="428" catId="1">
+			<name>le2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>81</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>21</weightMultiplier>
+		</modifier>
+		<modifier id="429" catId="1">
+			<name>19ai4w7d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>5</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>50</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="430" catId="2">
+			<name>po</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>74</valueModifier>
+			<valueMultiplier>45</valueMultiplier>
+			<weightModifier>7</weightModifier>
+			<weightMultiplier>77</weightMultiplier>
+		</modifier>
+		<modifier id="431" catId="0">
+			<name>xbaf3zfvehf</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>39</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="432" catId="2">
+			<name>6egdh82v3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>28</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>27</weightModifier>
+			<weightMultiplier>82</weightMultiplier>
+		</modifier>
+		<modifier id="433" catId="0">
+			<name>gk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>48</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>77</weightModifier>
+			<weightMultiplier>39</weightMultiplier>
+		</modifier>
+		<modifier id="434" catId="1">
+			<name>98bxs17f8bzr652d0j4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>97</valueModifier>
+			<valueMultiplier>36</valueMultiplier>
+			<weightModifier>88</weightModifier>
+			<weightMultiplier>68</weightMultiplier>
+		</modifier>
+		<modifier id="435" catId="3">
+			<name>cxs</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>80</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>27</weightMultiplier>
+		</modifier>
+		<modifier id="436" catId="1">
+			<name>pd8gpnt9m</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>95</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>47</weightMultiplier>
+		</modifier>
+		<modifier id="437" catId="0">
+			<name>p948jrs7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>45</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>77</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="438" catId="0">
+			<name>dzbw0ft525487et1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>74</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>2</weightMultiplier>
+		</modifier>
+		<modifier id="439" catId="3">
+			<name>2vasnaq</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>37</valueModifier>
+			<valueMultiplier>43</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>92</weightMultiplier>
+		</modifier>
+		<modifier id="440" catId="1">
+			<name>a4b</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>32</weightMultiplier>
+		</modifier>
+		<modifier id="441" catId="3">
+			<name>m6e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>36</valueModifier>
+			<valueMultiplier>20</valueMultiplier>
+			<weightModifier>64</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="442" catId="2">
+			<name>xgf73</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>23</valueModifier>
+			<valueMultiplier>71</valueMultiplier>
+			<weightModifier>18</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="443" catId="3">
+			<name>pwuvoln6ksga6ls30</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>73</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="444" catId="1">
+			<name>okbshm2qmin</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="445" catId="1">
+			<name>5vau7n52t9gx8q265nkz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>69</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>42</weightModifier>
+			<weightMultiplier>12</weightMultiplier>
+		</modifier>
+		<modifier id="446" catId="2">
+			<name>92uj7zx1mo1vaay</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>12</valueModifier>
+			<valueMultiplier>95</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="447" catId="3">
+			<name>z11kb4q16wrfm8yod</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>25</valueMultiplier>
+			<weightModifier>90</weightModifier>
+			<weightMultiplier>85</weightMultiplier>
+		</modifier>
+		<modifier id="448" catId="2">
+			<name>a5ld7gdhpsbmeijus03</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>10</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="449" catId="3">
+			<name>q</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>19</valueModifier>
+			<valueMultiplier>61</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>30</weightMultiplier>
+		</modifier>
+		<modifier id="450" catId="2">
+			<name>y1eodhawdlk2mag</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>15</valueMultiplier>
+			<weightModifier>46</weightModifier>
+			<weightMultiplier>71</weightMultiplier>
+		</modifier>
+		<modifier id="451" catId="2">
+			<name>gu0wfa1</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>3</valueModifier>
+			<valueMultiplier>85</valueMultiplier>
+			<weightModifier>58</weightModifier>
+			<weightMultiplier>95</weightMultiplier>
+		</modifier>
+		<modifier id="452" catId="2">
+			<name>cn5oh08u3ctizdcp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>24</valueModifier>
+			<valueMultiplier>82</valueMultiplier>
+			<weightModifier>47</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="453" catId="1">
+			<name>ct8v8ueg9de2j</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>86</valueModifier>
+			<valueMultiplier>82</valueMultiplier>
+			<weightModifier>37</weightModifier>
+			<weightMultiplier>21</weightMultiplier>
+		</modifier>
+		<modifier id="454" catId="3">
+			<name>ikmx6yypkx1i61</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>9</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>0</weightMultiplier>
+		</modifier>
+		<modifier id="455" catId="0">
+			<name>vj3pgdgkihfxobmouev2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>80</valueModifier>
+			<valueMultiplier>87</valueMultiplier>
+			<weightModifier>6</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="456" catId="0">
+			<name>nc</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>95</valueModifier>
+			<valueMultiplier>49</valueMultiplier>
+			<weightModifier>18</weightModifier>
+			<weightMultiplier>98</weightMultiplier>
+		</modifier>
+		<modifier id="457" catId="2">
+			<name>cuayl3ff2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>35</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>25</weightModifier>
+			<weightMultiplier>31</weightMultiplier>
+		</modifier>
+		<modifier id="458" catId="3">
+			<name>yc4dks37ow6br</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>53</valueModifier>
+			<valueMultiplier>45</valueMultiplier>
+			<weightModifier>93</weightModifier>
+			<weightMultiplier>12</weightMultiplier>
+		</modifier>
+		<modifier id="459" catId="2">
+			<name>o1ywo</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>87</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>87</weightMultiplier>
+		</modifier>
+		<modifier id="460" catId="0">
+			<name>wjs79y1y3zqyku</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>21</valueModifier>
+			<valueMultiplier>46</valueMultiplier>
+			<weightModifier>59</weightModifier>
+			<weightMultiplier>70</weightMultiplier>
+		</modifier>
+		<modifier id="461" catId="0">
+			<name>j5r6if19</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>39</weightModifier>
+			<weightMultiplier>89</weightMultiplier>
+		</modifier>
+		<modifier id="462" catId="3">
+			<name>p2h0za5jvpfa</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>4</weightMultiplier>
+		</modifier>
+		<modifier id="463" catId="0">
+			<name>e2npd0my9d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>51</valueModifier>
+			<valueMultiplier>67</valueMultiplier>
+			<weightModifier>88</weightModifier>
+			<weightMultiplier>7</weightMultiplier>
+		</modifier>
+		<modifier id="464" catId="2">
+			<name>d</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>79</valueModifier>
+			<valueMultiplier>0</valueMultiplier>
+			<weightModifier>26</weightModifier>
+			<weightMultiplier>17</weightMultiplier>
+		</modifier>
+		<modifier id="465" catId="2">
+			<name>efl855af6abfl5rdcb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>82</valueModifier>
+			<valueMultiplier>70</valueMultiplier>
+			<weightModifier>76</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="466" catId="3">
+			<name>4zsp</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>77</valueModifier>
+			<valueMultiplier>59</valueMultiplier>
+			<weightModifier>36</weightModifier>
+			<weightMultiplier>71</weightMultiplier>
+		</modifier>
+		<modifier id="467" catId="3">
+			<name>mm6sm86okhnge9brdx3</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>85</valueModifier>
+			<valueMultiplier>72</valueMultiplier>
+			<weightModifier>30</weightModifier>
+			<weightMultiplier>38</weightMultiplier>
+		</modifier>
+		<modifier id="468" catId="3">
+			<name>y7sryk40l2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>46</valueModifier>
+			<valueMultiplier>94</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>33</weightMultiplier>
+		</modifier>
+		<modifier id="469" catId="1">
+			<name>fy7t4l7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>84</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>12</weightMultiplier>
+		</modifier>
+		<modifier id="470" catId="3">
+			<name>2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>17</valueModifier>
+			<valueMultiplier>48</valueMultiplier>
+			<weightModifier>52</weightModifier>
+			<weightMultiplier>52</weightMultiplier>
+		</modifier>
+		<modifier id="471" catId="3">
+			<name>b07q3oge4c74x1pbcd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>76</valueModifier>
+			<valueMultiplier>8</valueMultiplier>
+			<weightModifier>20</weightModifier>
+			<weightMultiplier>62</weightMultiplier>
+		</modifier>
+		<modifier id="472" catId="0">
+			<name>eza</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>40</valueModifier>
+			<valueMultiplier>90</valueMultiplier>
+			<weightModifier>86</weightModifier>
+			<weightMultiplier>46</weightMultiplier>
+		</modifier>
+		<modifier id="473" catId="3">
+			<name>zymrh5j10n194ttjufy</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>38</valueModifier>
+			<valueMultiplier>57</valueMultiplier>
+			<weightModifier>64</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="474" catId="3">
+			<name>v</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>40</valueModifier>
+			<valueMultiplier>12</valueMultiplier>
+			<weightModifier>34</weightModifier>
+			<weightMultiplier>57</weightMultiplier>
+		</modifier>
+		<modifier id="475" catId="2">
+			<name>3jdlr</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>65</valueMultiplier>
+			<weightModifier>38</weightModifier>
+			<weightMultiplier>43</weightMultiplier>
+		</modifier>
+		<modifier id="476" catId="3">
+			<name>e</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>18</valueMultiplier>
+			<weightModifier>94</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+		<modifier id="477" catId="3">
+			<name>r9emmk</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>41</valueModifier>
+			<valueMultiplier>62</valueMultiplier>
+			<weightModifier>56</weightModifier>
+			<weightMultiplier>53</weightMultiplier>
+		</modifier>
+		<modifier id="478" catId="2">
+			<name>k4</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>30</valueModifier>
+			<valueMultiplier>56</valueMultiplier>
+			<weightModifier>31</weightModifier>
+			<weightMultiplier>13</weightMultiplier>
+		</modifier>
+		<modifier id="479" catId="1">
+			<name>1qfhxfdxwazpz62t</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>70</valueModifier>
+			<valueMultiplier>4</valueMultiplier>
+			<weightModifier>35</weightModifier>
+			<weightMultiplier>78</weightMultiplier>
+		</modifier>
+		<modifier id="480" catId="0">
+			<name>8udqxf6fdxgnr1p3xv5</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>39</valueModifier>
+			<valueMultiplier>12</valueMultiplier>
+			<weightModifier>96</weightModifier>
+			<weightMultiplier>80</weightMultiplier>
+		</modifier>
+		<modifier id="481" catId="2">
+			<name>pj</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>98</valueModifier>
+			<valueMultiplier>38</valueMultiplier>
+			<weightModifier>92</weightModifier>
+			<weightMultiplier>65</weightMultiplier>
+		</modifier>
+		<modifier id="482" catId="3">
+			<name>t8x12f6i1dta865m0k</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>75</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>51</weightModifier>
+			<weightMultiplier>96</weightMultiplier>
+		</modifier>
+		<modifier id="483" catId="0">
+			<name>1xdc</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>92</valueModifier>
+			<valueMultiplier>60</valueMultiplier>
+			<weightModifier>21</weightModifier>
+			<weightMultiplier>91</weightMultiplier>
+		</modifier>
+		<modifier id="484" catId="1">
+			<name>wyd</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>91</valueModifier>
+			<valueMultiplier>92</valueMultiplier>
+			<weightModifier>64</weightModifier>
+			<weightMultiplier>56</weightMultiplier>
+		</modifier>
+		<modifier id="485" catId="0">
+			<name>dc2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>42</valueModifier>
+			<valueMultiplier>51</valueMultiplier>
+			<weightModifier>32</weightModifier>
+			<weightMultiplier>18</weightMultiplier>
+		</modifier>
+		<modifier id="486" catId="3">
+			<name>c</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>50</valueModifier>
+			<valueMultiplier>21</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>40</weightMultiplier>
+		</modifier>
+		<modifier id="487" catId="0">
+			<name>fz</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>0</valueModifier>
+			<valueMultiplier>14</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>83</weightMultiplier>
+		</modifier>
+		<modifier id="488" catId="2">
+			<name>70bh76xtq36pawr6s</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>25</valueModifier>
+			<valueMultiplier>44</valueMultiplier>
+			<weightModifier>2</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="489" catId="2">
+			<name>4l3g3v2a</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>48</valueModifier>
+			<valueMultiplier>31</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>37</weightMultiplier>
+		</modifier>
+		<modifier id="490" catId="3">
+			<name>ddsqc4n</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>28</valueModifier>
+			<valueMultiplier>75</valueMultiplier>
+			<weightModifier>8</weightModifier>
+			<weightMultiplier>45</weightMultiplier>
+		</modifier>
+		<modifier id="491" catId="3">
+			<name>zfmorsrhtu86zg6ak0f</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>44</valueModifier>
+			<valueMultiplier>17</valueMultiplier>
+			<weightModifier>15</weightModifier>
+			<weightMultiplier>46</weightMultiplier>
+		</modifier>
+		<modifier id="492" catId="2">
+			<name>vnncvpy5zfe3cx86</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>15</valueModifier>
+			<valueMultiplier>26</valueMultiplier>
+			<weightModifier>86</weightModifier>
+			<weightMultiplier>39</weightMultiplier>
+		</modifier>
+		<modifier id="493" catId="3">
+			<name>bbkzcs8sv</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>47</valueModifier>
+			<valueMultiplier>55</valueMultiplier>
+			<weightModifier>66</weightModifier>
+			<weightMultiplier>36</weightMultiplier>
+		</modifier>
+		<modifier id="494" catId="3">
+			<name>6</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>93</valueModifier>
+			<valueMultiplier>99</valueMultiplier>
+			<weightModifier>14</weightModifier>
+			<weightMultiplier>14</weightMultiplier>
+		</modifier>
+		<modifier id="495" catId="3">
+			<name>ipz5k</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>83</valueModifier>
+			<valueMultiplier>11</valueMultiplier>
+			<weightModifier>50</weightModifier>
+			<weightMultiplier>2</weightMultiplier>
+		</modifier>
+		<modifier id="496" catId="1">
+			<name>97a380h8775</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>72</valueModifier>
+			<valueMultiplier>19</valueMultiplier>
+			<weightModifier>43</weightModifier>
+			<weightMultiplier>5</weightMultiplier>
+		</modifier>
+		<modifier id="497" catId="2">
+			<name>93lfi4g69uygxmas4p7</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>62</valueModifier>
+			<valueMultiplier>90</valueMultiplier>
+			<weightModifier>5</weightModifier>
+			<weightMultiplier>50</weightMultiplier>
+		</modifier>
+		<modifier id="498" catId="1">
+			<name>y2nef1dnv0yxyd2</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>7</valueModifier>
+			<valueMultiplier>68</valueMultiplier>
+			<weightModifier>28</weightModifier>
+			<weightMultiplier>2</weightMultiplier>
+		</modifier>
+		<modifier id="499" catId="3">
+			<name>vm9ru6smyh1q0ctjb</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>31</valueModifier>
+			<valueMultiplier>93</valueMultiplier>
+			<weightModifier>59</weightModifier>
+			<weightMultiplier>34</weightMultiplier>
+		</modifier>
+		<modifier id="500" catId="3">
+			<name>bl</name>
+			<resistanceModifiers />
+			<resistanceMultipliers />
+			<valueModifier>91</valueModifier>
+			<valueMultiplier>93</valueMultiplier>
+			<weightModifier>95</weightModifier>
+			<weightMultiplier>19</weightMultiplier>
+		</modifier>
+	</list>
+</armorModifierWrapper>

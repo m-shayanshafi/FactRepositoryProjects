@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts (tarot@lazy8.nu).
+La permission est accordée à la copie, distribue et/ou modifie
+ce document en vertu de la version postérieure libre de permis, de 
+version 1.2 ou tout de documentation de GNU éditée par la base libre
+de logiciel. Une copie du permis peut être trouvée à 
+http://www.gnu.org</entry>
+	<entry key="Title">Diffusion Solaire (Doane)</entry>
+	<entry key="Description">Dans chaque rangée, la carte moyenne (4, 11, 18, 25, 
+etc..) représente les conditions ou les influences actuelles. 
+Les trois cartes vers la droite représentent le passé ; 
+les trois vers la gauche, le futur. Chaque rangée se 
+reliera à un certain aspect de la vie ou certaines personnes (ou 
+peut-être toutes les deux)</entry>
+	<entry key="PositionTitle0">Lune 1 Passée</entry><entry key="Meaning0">Émotions, sentiments</entry>
+	<entry key="PositionTitle1">Lune 2 Passée</entry><entry key="Meaning1">Émotions, sentiments</entry>
+	<entry key="PositionTitle2">Lune 3 Passée</entry><entry key="Meaning2">Émotions, sentiments</entry>
+	<entry key="PositionTitle3">Présent De la Lune 4</entry><entry key="Meaning3">Émotions, sentiments</entry>
+	<entry key="PositionTitle4">Futur De la Lune 5</entry><entry key="Meaning4">Émotions, sentiments</entry>
+	<entry key="PositionTitle5">Futur De la Lune 6</entry><entry key="Meaning5">Émotions, sentiments</entry>
+	<entry key="PositionTitle6">Futur De la Lune 7</entry><entry key="Meaning6">Émotions, sentiments</entry>
+	<entry key="PositionTitle7">Mercure 1 Passé</entry><entry key="Meaning7">Pensées, intellect</entry>
+	<entry key="PositionTitle8">Mercure 2 Passé</entry><entry key="Meaning8">Pensées, intellect</entry>
+	<entry key="PositionTitle9">Mercure 3 Passé</entry><entry key="Meaning9">Pensées, intellect</entry>
+	<entry key="PositionTitle10">Présent Du Mercure 4</entry><entry key="Meaning10">Pensées, intellect</entry>
+	<entry key="PositionTitle11">Futur Du Mercure 5</entry><entry key="Meaning11">Pensées, intellect</entry>
+	<entry key="PositionTitle12">Futur Du Mercure 6</entry><entry key="Meaning12">Pensées, intellect</entry>
+	<entry key="PositionTitle13">Futur Du Mercure 7</entry><entry key="Meaning13">Pensées, intellect</entry>
+	<entry key="PositionTitle14">Venus 1 Passé</entry><entry key="Meaning14">Amour, rapports</entry>
+	<entry key="PositionTitle15">Venus 2 Passé</entry><entry key="Meaning15">Amour, rapports</entry>
+	<entry key="PositionTitle16">Venus 3 Passé</entry><entry key="Meaning16">Amour, rapports</entry>
+	<entry key="PositionTitle17">Présent De Venus 4</entry><entry key="Meaning17">Amour, rapports</entry>
+	<entry key="PositionTitle18">Futur De Venus 5</entry><entry key="Meaning18">Amour, rapports</entry>
+	<entry key="PositionTitle19">Futur De Venus 6</entry><entry key="Meaning19">Amour, rapports</entry>
+	<entry key="PositionTitle20">Futur De Venus 7</entry><entry key="Meaning20">Amour, rapports</entry>
+	<entry key="PositionTitle21">Le Soleil 1 Passé</entry><entry key="Meaning21">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle22">Le Soleil 2 Passé</entry><entry key="Meaning22">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle23">Le Soleil 3 Passé</entry><entry key="Meaning23">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle24">Présent Du Soleil 4</entry><entry key="Meaning24">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle25">Futur Du Soleil 5</entry><entry key="Meaning25">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle26">Futur Du Soleil 6</entry><entry key="Meaning26">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle27">Futur Du Soleil 7</entry><entry key="Meaning27">Énergie, le moi, le point central</entry>
+	<entry key="PositionTitle28">Mars 1 Passé</entry><entry key="Meaning28">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle29">Mars 2 Passé</entry><entry key="Meaning29">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle30">Mars 3 Passé</entry><entry key="Meaning30">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle31">Présent De Mars 4</entry><entry key="Meaning31">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle32">Futur De Mars 5</entry><entry key="Meaning32">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle33">Futur De Mars 6</entry><entry key="Meaning33">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle34">Futur De Mars 7</entry><entry key="Meaning34">Conflit, guerre. Peut également représenter la 
+solution ou la réponse à la matière qui est pourquoi ce s'appelle 
+le reconciler</entry>
+	<entry key="PositionTitle35">Jupiter 1 Passé</entry><entry key="Meaning35">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle36">Jupiter 2 Passé</entry><entry key="Meaning36">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle37">Jupiter 3 Passé</entry><entry key="Meaning37">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle38">Présent De Jupiter 4</entry><entry key="Meaning38">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle39">Futur De Jupiter 5</entry><entry key="Meaning39">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle40">Futur De Jupiter 6</entry><entry key="Meaning40">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle41">Futur De Jupiter 7</entry><entry key="Meaning41">Croissance et expansion. Chance. Influences 
+positives</entry>
+	<entry key="PositionTitle42">Saturne 1 Passé</entry><entry key="Meaning42">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle43">Saturne 2 Passé</entry><entry key="Meaning43">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle44">Saturne 3 Passé</entry><entry key="Meaning44">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle45">Présent De Saturne 4</entry><entry key="Meaning45">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle46">Futur De Saturne 5</entry><entry key="Meaning46">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle47">Futur De Saturne 6</entry><entry key="Meaning47">Travail à faire. Influences de négatif à 
+surmonter</entry>
+	<entry key="PositionTitle48">Futur De Saturne 7</entry><entry key="Meaning48">Travail à faire. Influences de négatif à 
+surmonter</entry>
+</oracleio>

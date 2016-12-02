@@ -1,0 +1,1457 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Dragonchess - rules</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I) [Netscape]">
+</head>
+
+<BODY BGCOLOR="#FFFFF0" VLINK="#FF0000">
+
+<H1 ALIGN=CENTER>Dragonchess</H1>
+
+<P><B>Dragonchess</B> was invented by Gary Gygax and published in Dragon
+Magazine #100, August 1985. Gary Gygax is probably best known as the inventor
+of the most well known role playing game (Advanced) Dungeons and Dragons.
+Dragonchess is a three-dimensional chess variant, where the pieces are
+actually characters and monsters from the Dungeons and Dragons setting.
+In the same issue of Dragon Magazine, one also finds a short story by Gary
+Gygax, titled <I>At Moonset Blackcat Comes</I>. Interestingly, Gord, the
+hero of this fantasy story, (also appearing in other works of Gygax), plays
+some games of Dragonchess against a mysterious opponent. When Gord sees
+the board, he says: </P>
+
+<BLOCKQUOTE>
+<P>I have played at <I>Chatranj</I> before, but this board is far different.
+</P>
+</BLOCKQUOTE>
+
+<P>His future opponent replies: </P>
+
+<BLOCKQUOTE>
+<P>Chess has many forms, ... but all are similar, too. </P>
+</BLOCKQUOTE>
+
+<P>Besides this being a nice quote, the above also shows that Gygax has
+been aware of more chess variants. His mentioning of Chatranj, (a different
+spelling of <A HREF="../historic.dir/shatranj.html">Shatranj</A>), is also
+interesting. The fact that pawns do not have an initial double move in
+Dragonchess probably is Gygax tribute to this ancient predecessor of chess
+as we know it; quite fitting for a game supposed to be played in a fantasy
+world, although players may find that this slows the game. </P>
+
+<P>The following description of the game was written by Edward Jackman,
+with some final editing done by Hans Bodlaender. The description below
+addresses some ambiguities and typos in the original description of Gygax.
+</P>
+
+<P>Dragonchess is a <B>trademark</B>, owned by its owner (which might be
+TSR or Gary Gygax.) </P>
+
+<H2>Rules</H2>
+
+<P><B>DRAGONCHESS</B> is played on 3 8x12 boards stacked above each other.
+The near right corner of all three boards is white. The top board represents
+the sky, the middle board the ground and the bottom board the underworld.
+Here is the starting setup: </P>
+
+<PRE>8  - - g - - - r - - - g -    
+7  s - s - s - s - s - s -    
+6  - - - - - - - - - - - -    
+5  - - - - - - - - - - - -    
+4  - - - - - - - - - - - -      TOP (1)
+3  - - - - - - - - - - - -    
+2  S - S - S - S - S - S -    
+1  - - G - - - R - - - G -    
+
+8  o u h t c m k p t h u o    
+7  w w w w w w w w w w w w    
+6  - - - - - - - - - - - -    
+5  - - - - - - - - - - - -    
+4  - - - - - - - - - - - -      MIDDLE (2)
+3  - - - - - - - - - - - -    
+2  W W W W W W W W W W W W    
+1  O U H T C M K P T H U O    
+
+8  - - b - - - e - - - b -    
+7  - d - d - d - d - d - d    
+6  - - - - - - - - - - - -    
+5  - - - - - - - - - - - -    
+4  - - - - - - - - - - - -      BOTTOM (3)
+3  - - - - - - - - - - - -    
+2  - D - D - D - D - D - D    
+1  - - B - - - E - - - B -    
+
+   a b c d e f g h i j k l
+</PRE>
+
+<P>Algebraic notation is used. A cell is noted by the board number, file
+letter and rank number, in that order. For example, the Gold Elemental
+(E) in opening setup starts at 3g1. All pieces are referred to by their
+initial letter except the Dragon which is referred to by the letter R to
+distinguish it from the Dwarf. </P>
+
+<P>The GOLD (uppercase) player moves first. The SCARLET (lowercase) player
+moves second. </P>
+
+<P>Here are the pieces and their moves. In the diagrams, cells that can
+be reached by capturing or non-capturing moves are marked 'x'. Cells that
+can be reached by capturing moves only are marked 'c'. Cells that can be
+reached by non-capturing moves only are marked 'm'. Cells where pieces
+are frozen are marked 'f'. Cells where pieces may be captured from afar
+are marked 'a'. To distinguish between the movements of a piece from two
+or more positions, [brackets] or {braces} are used around the pieces and
+the destination cells. </P>
+
+<H3>Top board</H3>
+
+<H4>Sylph</H4>
+
+<P>Moves as a Berolina pawn. When not capturing, it moves one space diagonally
+towards the opponent's side. It may capture by moving directly ahead one
+space towards the opponent's side. It may also capture by moving straight
+down to the middle board. </P>
+
+<P>While on the middle board, the Sylph cannot move at all except to make
+a non-capturing move back to the top board. It may move to the cell directly
+above it OR any empty one of the six home cells that any friendly Sylph
+occupied at the start of the game. </P>
+
+<P>Sylphs do NOT promote. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - m c m - - - - - - -    
+5   - - - S - - - - - - - -    
+4   - - - - - - - - -[m]- -      TOP (1)
+3   - - - - - - - - - - - -    
+2  [m]-[m]-[m]-[m]-[m]-[m]-    
+1   - - - - - - - - - - - -    
+        
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - c - - - - - - - -    
+4   - - - - - - - - -[S]- -      MIDDLE (2)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    a b c d e f g h i j k l
+
+</PRE>
+
+<H4>Griffin</H4>
+
+<P>While on the top board, the Griffin makes an unblockable move or capture
+three squares one direction and then two squares perpendicularly -- for
+example, a Griffin at 1a1 can move to 1c4 and 1d3. </P>
+
+<P>A Griffin may make an unblockable move or capture from the top to the
+middle board by moving to any of the cells diagonally adjacent to the cell
+directly below it. </P>
+
+<P>While on the middle board, the Griffin can move or capture one square
+diagonally, or return to the top board by making a unblockable move or
+capture to one of the cells diagonally adjacent to the cell above it. </P>
+
+<PRE>8   - x - - - x - - - - - -    
+7   x - - - - - x - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - G - - - - - - - -    
+4   - - - - - - - - - - - -      TOP (1)
+3   x - - - - - x - -[x]-[x]   
+2   - x - - - x - - - - - -    
+1   - - - - - - - - -[x]-[x]   
+        
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - x - x - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - x - x - - - - - - -      MIDDLE (2)
+3   - - - - - - - - -[x]-[x]   
+2   - - - - - - - - - -[G]-    
+1   - - - - - - - - -[x]-[x]   
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Dragon</H4>
+
+<P>The Dragon cannot move off the top board. It may move or capture with
+the power of a chess Bishop or King. </P>
+
+<P>Instead of moving, the Dragon has the additional power of 'capturing
+from afar'. To do this, the Dragon does not move and one enemy piece that
+is either in the cell directly below the Dragon or orthogonally adjacent
+to the cell below the Dragon is removed from the board. The Dragon MAY
+NOT move and capture from afar in the same turn! </P>
+
+<PRE>8   - - x - - - - - x - - -    
+7   - - - x - - - x - - - -    
+6   - - - - x x x - - - - -    
+5   - - - - x R x - - - - -    
+4   - - - - x x x - - - - -      TOP (1)
+3   - - - x - - - x - - - -    
+2   - - x - - - - - x - - -    
+1   - x - - - - - - - x - -    
+        
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - a - - - - - -   
+5   - - - - a a a - - - - -    
+4   - - - - - a - - - - - -      MIDDLE (2)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    a b c d e f g h i j k l
+
+</PRE>
+
+<H3>Middle board</H3>
+
+<H4>Oliphant</H4>
+
+<P>Moves and captures exactly like a Rook in chess. It never leaves the
+middle board. </P>
+
+<PRE>8   - - - - - x - - - - - -    
+7   - - - - - x - - - - - -    
+6   - - - - - x - - - - - -    
+5   x x x x x O x x x x x x    
+4   - - - - - x - - - - - -      MIDDLE (2)
+3   - - - - - x - - - - - -    
+2   - - - - - x - - - - - -    
+1   - - - - - x - - - - - -    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Unicorn</H4>
+
+<P>Moves and captures exactly like a Knight in chess. It never leaves the
+middle board. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - x - x - - - - -    
+5   - - - x - - - x - - - -    
+4   - - - - - U - - - - - -      MIDDLE (2)
+3   - - - x - - - x - - - -    
+2   - - - - x - x - - - - -    
+1   - - - - - - - - - - - -    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Hero</H4>
+
+<P>While on the middle board, the Hero may move or capture one or two cells
+diagonally, jumping over a piece of either color if necessary. The Hero
+can also move or capture to the top and bottom boards by making an unblockable
+move to a cell diagonally adjacent to the cell directly above or below
+it. While on the top or bottom board, the Hero cannot move except to return
+to the middle board by making an unblockable move or capture to a cell
+diagonally adjacent to the cell directly above or below it as the case
+may be. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - x - x - - - - - -{H}-    
+6   - - - - - - - - - - - -    
+5   - x - x - - - - - - - -    
+4   - - - - - - - - - - - -      TOP (1)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+        
+8   x - - - x - - - -{x}-{x}   
+7   - x - x - - - - - - - -    
+6   - - H - - - - - -{x}-{x}   
+5   - x - x - - - - - - - -    
+4   x - - - x - - - - - - -      MIDDLE (2)
+3   - - - - - - - - -[x]-[x]   
+2   - - - - - - - - - - - -    
+1   - - - - - - - - -[x]-[x]   
+
+8   - - - - - - - - - - - -    
+7   - x - x - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - x - x - - - - - - - -    
+4   - - - - - - - - - - - -      BOTTOM (3)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - -[H]-    
+1   - - - - - - - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Thief</H4>
+
+<P>Moves and captures exactly like a Bishop in chess. It never leaves the
+middle board. </P>
+
+<PRE>8   - x - - - - - - - x - -    
+7   - - x - - - - - x - - -    
+6   - - - x - - - x - - - -    
+5   - - - - x - x - - - - -    
+4   - - - - - T - - - - - -      MIDDLE (2)
+3   - - - - x - x - - - - -    
+2   - - - x - - - x - - - -    
+1   - - x - - - - - x - - -    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Cleric</H4>
+
+<P>The Cleric moves and captures exactly as a chess King does on whichever
+board it happens to be on. It may also move or capture to the cell directly
+above or below it. </P>
+
+<PRE>8   x x x - - - - - - - - -    
+7   x C x - - - - - - - - -    
+6   x x x - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - - - - - - - - - - -      TOP (1)
+3   - - - - - - - - - - - -    
+2   - - - -[x]- - - - - - -    
+1   - - - - - - - - - - - -    
+        
+8   - - - - - - - - - - - -    
+7   - x - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - - - - - - - - - - -      MIDDLE (2)
+3   - - -[x x x]- - - - - -    
+2   - - -[x[C]x]- - - -{x}-    
+1   - - -[x x x]- - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - - - - - - - - - - -      BOTTOM (3)
+3   - - - - - - - - -{x x x}   
+2   - - - -[x]- - - -{x{C}x}   
+1   - - - - - - - - -{x x x}   
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Mage</H4>
+
+<P>The Mage moves and captures exactly as a chess Queen while on the middle
+board and may also move and capture to the cell above and below it. </P>
+
+<P>While on the top or bottom board, the Mage may only move or capture
+one cell forward, backward, right or left. It may also move or capture
+one or two cells straight up or down. It may NOT leap over a piece on the
+middle board while going from top to bottom or vice versa. </P>
+
+<PRE>8   -[x]- - - - - - - - - -    
+7  [x[M]x]- - - - - - - - -    
+6   -[x]- - - - - - - - - -    
+5   - - - - - x - - - - - -    
+4   - - - - - - - - - - - -      TOP (1)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - -{x}-    
+1   - - - - - - - - - - - -    
+        
+8   - - x - - x - - x - - -    
+7   -[x]- x - x - x - - - -    
+6   - - - - x x x - - - - -    
+5   x x x x x M x x x x x x    
+4   - - - - x x x - - - - -      MIDDLE (2)
+3   - - - x - x - x - - - -    
+2   - - x - - x - - x -{x}-    
+1   - x - - - x - - - x - -    
+
+8   - - - - - - - - - - - -    
+7   -[x]- - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - x - - - - - -    
+4   - - - - - - - - - - - -      BOTTOM (3)
+3   - - - - - - - - - -{x}-    
+2   - - - - - - - - -{x{M}x}   
+1   - - - - - - - - - -{x}-    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>King</H4>
+
+<P>While on the middle board, the King has the normal move and capture
+of a chess King and may also move and capture to the cell above and below
+it. </P>
+
+<P>While on the top or bottom board, the ONLY thing the King may do is
+move or capture to the cell directly above it or below it back on the middle
+board. The King is a sitting duck when driven off the middle board. </P>
+
+<P>There is no castling move. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   -[K]- - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - x - - - - - -    
+4   - - - - - - - - - - - -      TOP (1)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+        
+8   - - - - - - - - - - - -    
+7   -[x]- - - - - - - - - -    
+6   - - - - x x x - - - - -    
+5   - - - - x K x - - - - -    
+4   - - - - x x x - -{x}- -      MIDDLE (2)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - x - - -{K}- -    
+4   - - - - - - - - - - - -      BOTTOM (3)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Paladin</H4>
+
+<P>The Paladin may move and capture as a chess King or Knight while on
+the middle board. It moves and captures as a chess King while on the top
+or bottom boards. It may move or capture from board to board by making
+a 3d Knight's move -- two cells in any direction and then one cell in a
+perpendicular direction. It's move is unblockable. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   -[x x x]- - - - -{x}- -    
+6   -[x[P]x]- - - -{x}-{x}-    
+5   -[x x x]- x - - -{x}- -    
+4   - - - - - - - - - - - -      TOP (1)
+3   - - - x - - - x - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - x - - - - - -    
+        
+8   - -[x]- - - - - -{x}- -    
+7   - - - - - - - - - - - -    
+6  [x]- - -[x]- -{x}- - -{x}   
+5   - - - - x - x - - - - -    
+4   - -[x]x x x x x -{x}- -      MIDDLE (2)
+3   - - - - x P x - - - - -    
+2   - - - x x x x x - - - -    
+1   - - - - x - x - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - -[x]- - - - -{x x x}-    
+6   -[x]-[x]- - - -{x{P}x}-    
+5   - -[x]- - x - -{x x x}-    
+4   - - - - - - - - - - - -      BOTTOM (3)
+3   - - - x - - - x - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - x - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Warrior</H4>
+
+<P>The Warrior has nearly the same move as the chess Pawn. It may move
+but not capture one cell forward. It may a capturing move one cell diagonally
+forward. It does NOT have the option of moving two cells on its first move.
+</P>
+
+<P>On reaching the opponent's baseline, the Warrior promotes to a Hero
+only. </P>
+
+<P>It is restricted to the middle board. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - c m c - - - - -    
+4   - - - - - W - - - - - -      MIDDLE (2)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    a b c d e f g h i j k l
+</PRE>
+
+<H3>Bottom board</H3>
+
+<H4>Basilisk</H4>
+
+<P>The Basilisk may move or capture one cell directly or diagonally forward
+and may also move without capturing one cell straight backwards. </P>
+
+<P>Though the Basilisk is restricted to the bottom board, it has the power
+to freeze any opposing piece on the cell directly above it on the middle
+board. Freezing is automatic whether an opposing piece moves over the Basilisk
+or the Basilisk moves under the opposing piece. Freezing is temporary --
+once the Basilisk moves away or is captured, the frozen piece regains its
+normal powers. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - - - - f - - - - - -      MIDDLE (2)
+3   - - - - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - x x x - - - - -    
+4   - - - - - B - - - - - -      BOTTOM (3)
+3   - - - - - m - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Elemental</H4>
+
+<P>While on the lower board, the Elemental may move or capture one or two
+cells orthogonally. (It may NOT leap over occupied cells.) It may also
+move but not capture one cell diagonally. </P>
+
+<P>It may also make a capturing move to the middle board by moving one
+cell orthogonally and then one cell up. The intermediate cell MUST be empty.
+</P>
+
+<P>The Elemental may not move while on the middle board except to return
+to the bottom by moving or capturing one cell down and then one cell orthogonally.
+The intermediate cell MUST be empty. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - x - - - - - - - - -    
+4   - x - x - - - - -[E]- -      MIDDLE (2)
+3   - - x - - - - - - - - -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - x - - - - - - - - -    
+5   - m x m - - - - -[x]- -    
+4   x x E x x - - -[x]-[x]-      BOTTOM (3)
+3   - m x m - - - - -[x]- -    
+2   - - x - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<H4>Dwarf</H4>
+
+<P>While on the bottom or middle board, the Dwarf may capture one cell
+diagonally forward or move without capturing one cell forward or laterally.
+</P>
+
+<P>It may move up to the middle board by capturing to the cell directly
+above. </P>
+
+<P>It may move back to the bottom board by making a non-capturing move
+to the cell directly below. </P>
+
+<PRE>8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - - - - - - - -[c m c]-      MIDDLE (2)
+3   - - c - - - - -[m[D]m]-    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+
+8   - - - - - - - - - - - -    
+7   - - - - - - - - - - - -    
+6   - - - - - - - - - - - -    
+5   - - - - - - - - - - - -    
+4   - c m c - - - - - - - -      BOTTOM (3)
+3   - m D m - - - - -[m]- -    
+2   - - - - - - - - - - - -    
+1   - - - - - - - - - - - -    
+    
+    a b c d e f g h i j k l
+</PRE>
+
+<P>Sean Shubin commented: </P>
+
+<BLOCKQUOTE>
+<P>It seems strange to me that the dwarf in dragonchess can never move
+backward. The warrior is fine because it promotes to a hero, which can
+move backwards. Once the dwarves reach the end there is no tactical use
+for them in the game, they might as well have been captured. My solution
+is to add a rule that allows the dwarf to reverse his direction upon reaching
+either end of the board. </P>
+</BLOCKQUOTE>
+
+<P>Play the game with the original rules, or add Sean Shubin's rule. </P>
+
+<H3>Value of the pieces</H3>
+
+<P>Gary Gygax gives these estimations of the relative value of the pieces:
+</P>
+
+<TABLE BORDER=1 >
+<TR>
+<TH>Piece </TH>
+
+<TH>Value </TH>
+</TR>
+
+<TR>
+<TD>King </TD>
+
+<TD>- </TD>
+</TR>
+
+<TR>
+<TD>Mage </TD>
+
+<TD>11 </TD>
+</TR>
+
+<TR>
+<TD>Paladin </TD>
+
+<TD>10 </TD>
+</TR>
+
+<TR>
+<TD>Cleric </TD>
+
+<TD>9 </TD>
+</TR>
+
+<TR>
+<TD>Dragon </TD>
+
+<TD>8 </TD>
+</TR>
+
+<TR>
+<TD>Griffin </TD>
+
+<TD>5 </TD>
+</TR>
+
+<TR>
+<TD>Oliphant </TD>
+
+<TD>5 </TD>
+</TR>
+
+<TR>
+<TD>Hero </TD>
+
+<TD>4.5 </TD>
+</TR>
+
+<TR>
+<TD>Thief </TD>
+
+<TD>4 </TD>
+</TR>
+
+<TR>
+<TD>Elemental </TD>
+
+<TD>4 </TD>
+</TR>
+
+<TR>
+<TD>Basilisk </TD>
+
+<TD>3 </TD>
+</TR>
+
+<TR>
+<TD>Unicorn </TD>
+
+<TD>2.5 </TD>
+</TR>
+
+<TR>
+<TD>Dwarf </TD>
+
+<TD>2 </TD>
+</TR>
+
+<TR>
+<TD>Sylph </TD>
+
+<TD>1 </TD>
+</TR>
+
+<TR>
+<TD>Warrior </TD>
+
+<TD>1 </TD>
+</TR>
+</TABLE>
+
+<P>I believe that the Dragon is far more powerful than stated here, in
+most situations more powerful that any other piece by a good chunk. It
+might be a good idea to reduce its power, restricting its ability to capture
+from afar to the square directly beneath it. </P>
+
+<P>I believe the Paladin is a the second most powerful piece followed by
+the Mage. The Hero is probably more than just a half a Warrior stronger
+than a Thief and the Oliphant is more than just half a Warrior stronger
+than a Hero. </P>
+
+<P>It is a large game with many pieces and games can be long and slow.
+Notice also that in the opening position, the Dragons can capture an unprotected
+Sylph. 
+<HR>Here's the game score of my first try: </P>
+
+<P>Scarlet -- J. Hunter Johnson<BR>
+Gold -- Edward Jackman<BR>
+Played by email 1994-1995<BR>
+</P>
+
+<TABLE>
+<TR>
+<TD></TD>
+
+<TD><B>Scarlet</B></TD>
+
+<TD><B>Gold</B></TD>
+</TR>
+
+<TR>
+<TD>1)</TD>
+
+<TD>Dr1d4 </TD>
+
+<TD>P1h6 </TD>
+</TR>
+
+<TR>
+<TD>2)</TD>
+
+<TD>G1e4 </TD>
+
+<TD>Dr1j5 </TD>
+</TR>
+
+<TR>
+<TD>3)</TD>
+
+<TD>S1g2-1h3 </TD>
+
+<TD>P1g6 </TD>
+</TR>
+
+<TR>
+<TD>4)</TD>
+
+<TD>H2h3</TD>
+
+<TD>S1e7-1f6 </TD>
+</TR>
+
+<TR>
+<TD>5)</TD>
+
+<TD>Dr1d5</TD>
+
+<TD>Dr1i5 </TD>
+</TR>
+
+<TR>
+<TD>6)</TD>
+
+<TD>P2i3</TD>
+
+<TD>W2e6 </TD>
+</TR>
+
+<TR>
+<TD>7)</TD>
+
+<TD>PxDr </TD>
+
+<TD>GxP </TD>
+</TR>
+
+<TR>
+<TD>8)</TD>
+
+<TD>Dr1e6 </TD>
+
+<TD>G1a5 </TD>
+</TR>
+
+<TR>
+<TD>9)</TD>
+
+<TD>Dr1e7 </TD>
+
+<TD>P1f7 </TD>
+</TR>
+
+<TR>
+<TD>10)</TD>
+
+<TD>Dr1d8 </TD>
+
+<TD>C1e8 </TD>
+</TR>
+
+<TR>
+<TD>11)</TD>
+
+<TD>DrxS1c7 </TD>
+
+<TD>G2b6 </TD>
+</TR>
+
+<TR>
+<TD>12)</TD>
+
+<TD>Dr1c6 </TD>
+
+<TD>C1d7 </TD>
+</TR>
+
+<TR>
+<TD>13)</TD>
+
+<TD>Dr1d5 </TD>
+
+<TD>C1e6 </TD>
+</TR>
+
+<TR>
+<TD>14)</TD>
+
+<TD>Dr1c4 </TD>
+
+<TD>G1a5 </TD>
+</TR>
+
+<TR>
+<TD>15)</TD>
+
+<TD>GxS </TD>
+
+<TD>M2d6 </TD>
+</TR>
+
+<TR>
+<TD>16)</TD>
+
+<TD>H2a3</TD>
+
+<TD>GxS1k2 </TD>
+</TR>
+
+<TR>
+<TD>17)</TD>
+
+<TD>H2c5 </TD>
+
+<TD>M2e5 </TD>
+</TR>
+
+<TR>
+<TD>18)</TD>
+
+<TD>W2j3 </TD>
+
+<TD>H2h6 </TD>
+</TR>
+
+<TR>
+<TD>19)</TD>
+
+<TD>G1j5 </TD>
+
+<TD>U2c6 </TD>
+</TR>
+
+<TR>
+<TD>20)</TD>
+
+<TD>G2j2 </TD>
+
+<TD>W2b6 </TD>
+</TR>
+
+<TR>
+<TD>21)</TD>
+
+<TD>G2i3 </TD>
+
+<TD>WxH </TD>
+</TR>
+
+<TR>
+<TD>22)</TD>
+
+<TD>G1h4 </TD>
+
+<TD>GxG </TD>
+</TR>
+
+<TR>
+<TD>23)</TD>
+
+<TD>SxG </TD>
+
+<TD>O2b8 </TD>
+</TR>
+
+<TR>
+<TD>24)</TD>
+
+<TD>G1h8 </TD>
+
+<TD>C1e7 </TD>
+</TR>
+
+<TR>
+<TD>25)</TD>
+
+<TD>Dr1d5 </TD>
+
+<TD>M2f6 </TD>
+</TR>
+
+<TR>
+<TD>26)</TD>
+
+<TD>T2j2 </TD>
+
+<TD>H2g5 </TD>
+</TR>
+
+<TR>
+<TD>27)</TD>
+
+<TD>E3g3 </TD>
+
+<TD>W2h6 </TD>
+</TR>
+
+<TR>
+<TD>28)</TD>
+
+<TD>E3g4 </TD>
+
+<TD>M2g6 </TD>
+</TR>
+
+<TR>
+<TD>29)</TD>
+
+<TD>H2i4 </TD>
+
+<TD>M2f5 </TD>
+</TR>
+
+<TR>
+<TD>30)</TD>
+
+<TD>S1g5 </TD>
+
+<TD>H2f4 </TD>
+</TR>
+
+<TR>
+<TD>31)</TD>
+
+<TD>W2e3 </TD>
+
+<TD>HxS1g5 </TD>
+</TR>
+
+<TR>
+<TD>32)</TD>
+
+<TD>Dr1e5 </TD>
+
+<TD>GxS </TD>
+</TR>
+
+<TR>
+<TD>33)</TD>
+
+<TD>DrxM </TD>
+
+<TD>GxDr </TD>
+</TR>
+
+<TR>
+<TD>34)</TD>
+
+<TD>TxT </TD>
+
+<TD>UxT </TD>
+</TR>
+
+<TR>
+<TD>35)</TD>
+
+<TD>M2c4 </TD>
+
+<TD>W2d6 </TD>
+</TR>
+
+<TR>
+<TD>36)</TD>
+
+<TD>H2h5 </TD>
+
+<TD>S1i7-1j6 </TD>
+</TR>
+
+<TR>
+<TD>37)</TD>
+
+<TD>E3f5 </TD>
+
+<TD>E3g7 </TD>
+</TR>
+
+<TR>
+<TD>38)</TD>
+
+<TD>H2i6+ </TD>
+
+<TD>WxH </TD>
+</TR>
+
+<TR>
+<TD>39)</TD>
+
+<TD>TxW+ </TD>
+
+<TD>T2h7 </TD>
+</TR>
+
+<TR>
+<TD>40)</TD>
+
+<TD>M2g4 </TD>
+
+<TD>W2g6 </TD>
+</TR>
+
+<TR>
+<TD>41)</TD>
+
+<TD>S1f3 </TD>
+
+<TD>P1g8 </TD>
+</TR>
+
+<TR>
+<TD>42)</TD>
+
+<TD>S1g4 </TD>
+
+<TD>O2b4 </TD>
+</TR>
+
+<TR>
+<TD>43)</TD>
+
+<TD>TxT+ </TD>
+
+<TD>DxT </TD>
+</TR>
+
+<TR>
+<TD>44)</TD>
+
+<TD>P2e4 </TD>
+
+<TD>H2f6 </TD>
+</TR>
+
+<TR>
+<TD>45)</TD>
+
+<TD>W2a3 </TD>
+
+<TD>O2b6 </TD>
+</TR>
+
+<TR>
+<TD>46)</TD>
+
+<TD>GxW </TD>
+
+<TD>UxG </TD>
+</TR>
+
+<TR>
+<TD>47)</TD>
+
+<TD>E3h5 </TD>
+
+<TD>E3g5 </TD>
+</TR>
+
+<TR>
+<TD>48)</TD>
+
+<TD>ExE </TD>
+
+<TD>HxE </TD>
+</TR>
+
+<TR>
+<TD>49)</TD>
+
+<TD>W2a4 </TD>
+
+<TD>O2j8 </TD>
+</TR>
+
+<TR>
+<TD>50)</TD>
+
+<TD>D3f3 </TD>
+
+<TD>G1g2 </TD>
+</TR>
+
+<TR>
+<TD>51)</TD>
+
+<TD>O2a3 </TD>
+
+<TD>U2h5 </TD>
+</TR>
+
+<TR>
+<TD>52)</TD>
+
+<TD>S1h5 </TD>
+
+<TD>O2j4 </TD>
+</TR>
+
+<TR>
+<TD>53)</TD>
+
+<TD>M2f3 </TD>
+
+<TD>GxM </TD>
+</TR>
+
+<TR>
+<TD>54)</TD>
+
+<TD>DxG </TD>
+
+<TD>U2f6 </TD>
+</TR>
+
+<TR>
+<TD>55)</TD>
+
+<TD>U2l3 </TD>
+
+<TD>O2j5 </TD>
+</TR>
+
+<TR>
+<TD>56)</TD>
+
+<TD>W2g3 </TD>
+
+<TD>P1g7 </TD>
+</TR>
+
+<TR>
+<TD>57)</TD>
+
+<TD>W2a5 </TD>
+
+<TD>O2a6 </TD>
+</TR>
+
+<TR>
+<TD>58)</TD>
+
+<TD>O2a4 </TD>
+
+<TD>P2g5 </TD>
+</TR>
+
+<TR>
+<TD>59)</TD>
+
+<TD>D2f4 </TD>
+
+<TD>P2f3+ </TD>
+</TR>
+
+<TR>
+<TD>60)</TD>
+
+<TD>K2f1 </TD>
+
+<TD>H2d7 </TD>
+</TR>
+
+<TR>
+<TD>61)</TD>
+
+<TD>U2c3 </TD>
+
+<TD>H2c6 </TD>
+</TR>
+
+<TR>
+<TD>62)</TD>
+
+<TD>C2e2 </TD>
+
+<TD>P3h3 </TD>
+</TR>
+
+<TR>
+<TD>63)</TD>
+
+<TD>O2a3 </TD>
+
+<TD>UxW2e4 </TD>
+</TR>
+
+<TR>
+<TD>64)</TD>
+
+<TD>D3g2 </TD>
+
+<TD>PxD </TD>
+</TR>
+
+<TR>
+<TD>65)</TD>
+
+<TD>C2f3 </TD>
+
+<TD>UxU </TD>
+</TR>
+
+<TR>
+<TD>66)</TD>
+
+<TD>W2b2xU </TD>
+
+<TD>W2c4 </TD>
+</TR>
+
+<TR>
+<TD>67)</TD>
+
+<TD>D2e4 </TD>
+
+<TD>O2j5xW2a5 </TD>
+</TR>
+
+<TR>
+<TD>68)</TD>
+
+<TD>OxO </TD>
+
+<TD>OxO </TD>
+</TR>
+
+<TR>
+<TD>69)</TD>
+
+<TD>K2g2 </TD>
+
+<TD>P3g3 </TD>
+</TR>
+
+<TR>
+<TD>70)</TD>
+
+<TD>U2j4 </TD>
+
+<TD>P1g4+ </TD>
+</TR>
+
+<TR>
+<TD>71)</TD>
+
+<TD>K2h3 </TD>
+
+<TD>HxD </TD>
+</TR>
+
+<TR>
+<TD>72)</TD>
+
+<TD>C2e3 </TD>
+
+<TD>P2g2+ mate in three </TD>
+</TR>
+</TABLE>
+
+<P>If 73) K2g4 then O2g5 mate </P>
+
+<P>If 73) K2i4 then O2i5+ then if 74) K1i4 then S1i4 mate, or if 74) K3i4
+then D3j6, 75) any D3j5 mate </P>
+
+<P>If 73)K1h3 then S1i5, 74)any S1h4 mate </P>
+
+<P>If 73)K3h3 then H2f5, then if 74)W2g4 then Hxg4 mate, or if 74)anything
+other than W2g4 then P3g4 mate </P>
+
+<P>Here's a shorter game: </P>
+
+<TABLE>
+<TR>
+<TD></TD>
+
+<TD><B>Scarlet</B></TD>
+
+<TD><B>Gold</B></TD>
+</TR>
+
+<TR>
+<TD>1)</TD>
+
+<TD>R1d4 </TD>
+
+<TD>G1i5 </TD>
+</TR>
+
+<TR>
+<TD>2)</TD>
+
+<TD>G1e4 </TD>
+
+<TD>GxS1g2 </TD>
+</TR>
+
+<TR>
+<TD>3)</TD>
+
+<TD>RxS1g7 </TD>
+
+<TD>RxR </TD>
+</TR>
+
+<TR>
+<TD>4)</TD>
+
+<TD>GxR </TD>
+
+<TD>P1h6 </TD>
+</TR>
+
+<TR>
+<TD>5)</TD>
+
+<TD>GxM </TD>
+
+<TD>GxP</TD>
+</TR>
+
+<TR>
+<TD>6)</TD>
+
+<TD>GxS </TD>
+
+<TD>G1g2 </TD>
+</TR>
+
+<TR>
+<TD>7)</TD>
+
+<TD>M3f1 </TD>
+
+<TD>P2h4 </TD>
+</TR>
+
+<TR>
+<TD>8)</TD>
+
+<TD>D3f2-3e2 </TD>
+
+<TD>PxD </TD>
+</TR>
+
+<TR>
+<TD>9)</TD>
+
+<TD>W2k3 </TD>
+
+<TD>E3g6 </TD>
+</TR>
+
+<TR>
+<TD>10)</TD>
+
+<TD>M3f2 </TD>
+
+<TD>E3g4 </TD>
+</TR>
+
+<TR>
+<TD>11)</TD>
+
+<TD>C3e1 </TD>
+
+<TD>E3g3 </TD>
+</TR>
+
+<TR>
+<TD>12)</TD>
+
+<TD>C3f1 </TD>
+
+<TD>ExE</TD>
+</TR>
+
+<TR>
+<TD>13)</TD>
+
+<TD>CxE </TD>
+
+<TD>P3i1 </TD>
+</TR>
+
+<TR>
+<TD>14)</TD>
+
+<TD>K1g1 </TD>
+
+<TD>G1a5 </TD>
+</TR>
+
+<TR>
+<TD>15)</TD>
+
+<TD>C3h1 </TD>
+
+<TD>G1d3 mate </TD>
+</TR>
+</TABLE>
+
+<P><B>Edward Jackman</B> 
+<HR>Written by: Edward Jackman. Editorial changes by Hans Bodlaender. Wout
+Broere spotted an error in the diagram of the Sylph move. Sean Shubin commented
+on the move of the Dwarf. 
+<HR>WWW page created: 1995 or 1996. Last modified: January 27, 1999.
+<HR>Taken from www.chessvariants.com
+ 
+</body></html>
+
+
+
+
+

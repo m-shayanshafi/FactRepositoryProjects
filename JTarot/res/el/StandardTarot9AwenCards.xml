@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Awen Spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Awen που διαδίδεται (θαρρ- Gomm)</entry>
+	<entry key="Description">Οι τρεις στήλες (C1 - C3) αντιπροσωπεύουν το παρελθόν, 
+το παρόν, και το μέλλον, αντίστοιχα. Σε κάθε σειρά, οι 
+κάρτες ερμηνεύονται ως εξής: Σειρά 1: Αιτία, 
+δυναμικός, ώθηση, καθοδηγώντας ιδέα, ή κινητήρια ύπαρξη μια 
+κατάσταση ή ένα γεγονός. Σειρά 2: Επίδραση της 
+πρώτης κάρτας συναισθηματικό, στο κοινωνικό, ή επίπεδο σχέσης. 
+Σειρά 3: Επίδραση της πρώτης κάρτας στο φυσικό 
+επίπεδο εκδήλωσης.</entry>
+	<entry key="PositionTitle0">Προηγούμενος-αιτία</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Προηγούμενος-επίδραση συναισθηματικός</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Προηγούμενος-επίδραση φυσικός</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Παρών-αιτία</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Παρών-επίδραση συναισθηματικός</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Παρών-επίδραση φυσικός</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Μελλοντικός-αιτία</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Μελλοντικός-επίδραση συναισθηματικός</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Μελλοντικός-επίδραση φυσικός</entry><entry key="Meaning8"></entry>
+</oracleio>

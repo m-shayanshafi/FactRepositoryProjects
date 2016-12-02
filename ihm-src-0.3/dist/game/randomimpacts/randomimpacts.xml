@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RANDOMIMPACTS>
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.paytv" IMPACT="4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="As a promotion one of your sponsors has offered your players free pay TV. This has boosted team morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.tvcommercial" IMPACT="3" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="The team has done a series of television commercials marketing upcoming games and has boosted team morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.terminalfans" IMPACT="5" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="The team was met with a large gathering of adoring fans at the airport terminal which has boosted team morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.commishpraise" IMPACT="3" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="The Commissioner has publicly praised the team for it's sportsmanship. This ahs provided a boost to team morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.teamdinner" IMPACT="4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="The team arranged a dinner gettogether to help clear the air and improve comaraderie which seems to have improved team morale." />
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.changesrumor" IMPACT="-4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Rumors have been circulating in the press that you are planning to take the team in a new direction and possible changes are in the works. Uncertainty has affected team morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.recentchanges" IMPACT="-3" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Recent changes has much of the team on edge. As a result, team morale has taken a hit." />
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.travelstress" IMPACT="-4" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="The team plane was delayed and they had to take red-eye flight last night leaving the team restless, their energy levels have suffered as a result." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.TEAM" MSGKEY="globalimpacts.gi.flu" IMPACT="-3" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="A flu bug has been circulating among the team and it has resulted in a drop in their overall energy level." />
+
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.baby" IMPACT="10" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% is now a proud father of a newborn (and future hockey talent). His morale couldn't be better." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.marriage" IMPACT="8" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% has tied the knot with his long-time girlfriend and his morale has improved." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.goodpress" IMPACT="4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% received some praise from a newspaper columnist in the local newspaper and it has had a positive effect on his morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.birthday" IMPACT="5" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% is celebrating a birthday today and has experienced a boost in his morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.newhome" IMPACT="4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% recently purchased a house in the area and feels confident about his future with the team." />
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.badpress" IMPACT="-4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% was criticized by a newspaper columnist in the local newspaper today and it has had a negative effect on his morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.teamscuffle" IMPACT="-7" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% had a scuffle with a teammate in practice today and his morale has dropped as a result." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.traderumors" IMPACT="-5" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% has expressed doubts about his future with the team after reading a trade rumor in the local newspaper. It has also hurt his morale." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.familydeath" IMPACT="-12" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% has experienced a death in the family and as a result his morale is low." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.futuredoubts" IMPACT="-4" IMPACT_ON="impact.on.morale" MASTERTRANSLATION="Your player %1% feels the team needs improving and has his doubts as to future team success as the team currently stands, these doubts have also effected his morale." />
+
+
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.hardcheck" IMPACT="-4" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% was hit by a hard check in training and had to quit practice prematurely, has lost some energy." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.travelissues" IMPACT="-3" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% was late for practice today as he had some travel issues, as a result his energy level has taken a hit due to a lack of conditioning." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.hangover" IMPACT="-5" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% has a hangover today after a night of drinking and partying, his energy level has dropped as a result." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.barfight" IMPACT="-6" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% got in a fight at a local bar last night and as a result is a little beat up, his energy level has taken a hit as well." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.weightstrain" IMPACT="-4" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% overworked himself working  out in the weight room and has lost some energy." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.insomnia" IMPACT="-3" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% has been feeling the effects of stress and had recent sleepless nights, which he has." />
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.junkfood" IMPACT="-2" IMPACT_ON="impact.on.energy" MASTERTRANSLATION="Your player %1% has been eating a lot of fast food and junk food of late which has hurt his energy levels, " />
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.weighttrain" IMPACT="5" IMPACT_ON="impact.on.form" MASTERTRANSLATION="Your player %1% has been seeing positive results form his weight training regimen and as a result his form has seen an improvement." />
+
+  <RANDOMIMPACT TYPE="RANDOMIMPACT.PLAYER" MSGKEY="globalimpacts.gi.stiffmuscle" IMPACT="-5" IMPACT_ON="impact.on.form" MASTERTRANSLATION="Your player %1% has been feeling the effects if muscle stiffness and has cut back on his weight training to recouperate, as a result his form has seen a drop." />
+
+</RANDOMIMPACTS>

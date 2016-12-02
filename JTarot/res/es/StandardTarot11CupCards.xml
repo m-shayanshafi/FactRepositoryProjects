@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Taza de la extensión de las relaciones (Sagie)</entry>
+	<entry key="Description">Reccomends de Sagie usando modificantes adicionales en 
+la tarjeta 11 si el resultado es confuso.</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Fundación</entry><entry key="Meaning2">La fundación de la relación</entry>
+	<entry key="PositionTitle3">Pasado Reciente</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Presente</entry><entry key="Meaning4">Estado actual de la relación</entry>
+	<entry key="PositionTitle5">Obstáculos</entry><entry key="Meaning5">Obstáculos ellos ambos cara</entry>
+	<entry key="PositionTitle6">Vistas de #1</entry><entry key="Meaning6">Vistas de #1 con respecto a la relación</entry>
+	<entry key="PositionTitle7">Vistas de #2</entry><entry key="Meaning7">Vistas de #2 con respecto a la relación</entry>
+	<entry key="PositionTitle8">Expectativas de #1</entry><entry key="Meaning8">Expectativas de #1 con respecto a la relación</entry>
+	<entry key="PositionTitle9">Expectativas de #2</entry><entry key="Meaning9">Expectativas de #2 con respecto a la relación</entry>
+	<entry key="PositionTitle10">El Mejor Resultado</entry><entry key="Meaning10"></entry>
+</oracleio>

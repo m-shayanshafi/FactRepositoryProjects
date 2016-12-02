@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="el" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Δημόσιος τομέας</entry>
+	<entry key="ObjectTitle0">0- ανόητος</entry><entry key="ObjectMeaning0">Τρέλα, expiation, δισταγμός</entry>
+	<entry key="ObjectTitle1">1- μάγος</entry><entry key="ObjectMeaning1">, Θα-δύναμη, επιδεξιότητα</entry>
+	<entry key="ObjectTitle2">2- υψηλή ιέρεια</entry><entry key="ObjectMeaning2">Επιστήμη, φρόνηση, γνώση, εκπαίδευση</entry>
+	<entry key="ObjectTitle3">3- αυτοκράτειρα</entry><entry key="ObjectMeaning3">Δράση, σχέδιο, που αναλαμβάνει τη μετακίνηση σε ένα θέμα, 
+πρωτοβουλία</entry>
+	<entry key="ObjectTitle4">4- αυτοκράτορας</entry><entry key="ObjectMeaning4">Πραγματοποίηση, επίδραση, ανάπτυξη</entry>
+	<entry key="ObjectTitle5">το 5- Hierophant</entry><entry key="ObjectMeaning5">Έλεος, ευγένεια ευεργεσίας, καλοσύνη</entry>
+	<entry key="ObjectTitle6">6- εραστές</entry><entry key="ObjectMeaning6">Σοφές διαθέσεις, απόδειξη, δοκιμές που ξεπερνιούνται</entry>
+	<entry key="ObjectTitle7">7- άρμα</entry><entry key="ObjectMeaning7">Θρίαμβος, νίκη, που υπερνικά τα εμπόδια</entry>
+	<entry key="ObjectTitle8">8-δύναμη</entry><entry key="ObjectMeaning8">Η δύναμη, να αναγκάσει, δύναμη, fortitude</entry>
+	<entry key="ObjectTitle9">9- ερημίτης</entry><entry key="ObjectMeaning9">Σύνεση, προσοχή, συζήτηση</entry>
+	<entry key="ObjectTitle10">10-ρόδα της τύχης</entry><entry key="ObjectMeaning10">Καλή τύχη, επιτυχία, απροσδόκητη τύχη</entry>
+	<entry key="ObjectTitle11">11-δικαιοσύνη</entry><entry key="ObjectMeaning11">Ισορροπία, ισορροπία, δικαιοσύνη</entry>
+	<entry key="ObjectTitle12">το 12- κρεμασμένο άτομο</entry><entry key="ObjectMeaning12">Μόνος-θυσία, θυσία, αφοσίωση, συνδεδεμένη</entry>
+	<entry key="ObjectTitle13">13-θάνατος</entry><entry key="ObjectMeaning13">Θάνατος, αλλαγή, μετασχηματισμός, αλλαγή για το χειρότερο</entry>
+	<entry key="ObjectTitle14">14-μετριοπάθεια</entry><entry key="ObjectMeaning14">Συνδυασμός, διαμόρφωση, ένωση</entry>
+	<entry key="ObjectTitle15">15- διάβολος</entry><entry key="ObjectMeaning15">Μοιραίο περιστατικό για καλό</entry>
+	<entry key="ObjectTitle16">16- πύργος</entry><entry key="ObjectMeaning16">Καταστροφή, διάσπαση, συντριβή, απώλεια, πτώχευση</entry>
+	<entry key="ObjectTitle17">17- αστέρι</entry><entry key="ObjectMeaning17">Ελπίδα, προσδοκία, φωτεινές υποσχέσεις</entry>
+	<entry key="ObjectTitle18">18- φεγγάρι</entry><entry key="ObjectMeaning18">Λυκόφως, εξαπάτηση, λάθος</entry>
+	<entry key="ObjectTitle19">19- ήλιος</entry><entry key="ObjectMeaning19">Ευτυχία, περιεχόμενο, χαρά</entry>
+	<entry key="ObjectTitle20">20-κρίση</entry><entry key="ObjectMeaning20">Ανανέωση, αποτέλεσμα, προσδιορισμός ενός θέματος</entry>
+	<entry key="ObjectTitle21">21- κόσμος</entry><entry key="ObjectMeaning21">Ολοκλήρωση, καλή ανταμοιβή</entry>
+	<entry key="ObjectTitle22">Ασσος των φλυτζανιών</entry><entry key="ObjectMeaning22">Εορτασμός, συμπόσιο, καλή ευθυμία</entry>
+	<entry key="ObjectTitle23">Δύο από τα φλυτζάνια</entry><entry key="ObjectMeaning23">Αγάπη, σύνδεση, φιλία, ειλικρίνεια, αγάπη</entry>
+	<entry key="ObjectTitle24">Τρία από τα φλυτζάνια</entry><entry key="ObjectMeaning24">Επιτυχία, θρίαμβος, νίκη, ευνοϊκό ζήτημα</entry>
+	<entry key="ObjectTitle25">Τέσσερα από τα φλυτζάνια</entry><entry key="ObjectMeaning25">Ennui, δυσαρέσκεια, δυσαρέσκεια, δυσαρέσκεια</entry>
+	<entry key="ObjectTitle26">Πέντε από τα φλυτζάνια</entry><entry key="ObjectMeaning26">Ένωση, σύνδεση, γάμος, κληρονομιά</entry>
+	<entry key="ObjectTitle27">Έξι από τα φλυτζάνια</entry><entry key="ObjectMeaning27">Το, που πέρασαν παρελθόν από, που εξασθενίστηκε, 
+εξαφανίστηκε, εξαφανίστηκε</entry>
+	<entry key="ObjectTitle28">Επτά από τα φλυτζάνια</entry><entry key="ObjectMeaning28">Ιδέα, συναίσθημα, αντανάκλαση, πρόγραμμα</entry>
+	<entry key="ObjectTitle29">Οκτώ από τα φλυτζάνια</entry><entry key="ObjectMeaning29">Ένα δίκαιο κορίτσι, φιλία, σύνδεση, τρυφερότητα</entry>
+	<entry key="ObjectTitle30">Εννέα από τα φλυτζάνια</entry><entry key="ObjectMeaning30">Νίκη, πλεονέκτημα, επιτυχία, θρίαμβος, δυσκολίες που 
+ξεπερνιούνται</entry>
+	<entry key="ObjectTitle31">Τα δέκα από τα φλυτζάνια</entry><entry key="ObjectMeaning31">Η πόλη όπου το ένα κατοικεί, τιμή, εκτίμηση, εκτίμηση, 
+αρετή, δόξα, φήμη</entry>
+	<entry key="ObjectTitle32">Σελίδα των φλυτζανιών</entry><entry key="ObjectMeaning32">Μια δίκαιη νεολαία, εμπιστοσύνη, εντιμότητα, 
+διακριτικότητα, ακεραιότητα</entry>
+	<entry key="ObjectTitle33">Ιππότης των φλυτζανιών</entry><entry key="ObjectMeaning33">Αφιξη, προσέγγιση, πρόοδος</entry>
+	<entry key="ObjectTitle34">Βασίλισσα των φλυτζανιών</entry><entry key="ObjectMeaning34">Μια δίκαιη γυναίκα, επιτυχία, ευτυχία, πλεονέκτημα, 
+ευχαρίστηση</entry>
+	<entry key="ObjectTitle35">Βασιλιάς των φλυτζανιών</entry><entry key="ObjectMeaning35">Ένα δίκαιο άτομο, καλοσύνη, ευγένεια, ελευθεροφροσύνη, 
+γενναιοδωρία</entry>
+	<entry key="ObjectTitle36">Ασσος των πενταλφών</entry><entry key="ObjectMeaning36">Τέλεια ικανοποίηση, ευτυχία, ευημερία, θρίαμβος</entry>
+	<entry key="ObjectTitle37">Δύο από τις πεντάλφες</entry><entry key="ObjectMeaning37">Αμηχανία, ανησυχία, δυσκολίες</entry>
+	<entry key="ObjectTitle38">Τρεις από τις πεντάλφες</entry><entry key="ObjectMeaning38">Αριστοκρατία, ανύψωση, αξιοπρέπεια, τάξη, δύναμη</entry>
+	<entry key="ObjectTitle39">Τέσσερις από τις πεντάλφες</entry><entry key="ObjectMeaning39">Ευχαρίστηση, Gaiety, απόλαυση, ικανοποίηση</entry>
+	<entry key="ObjectTitle40">Πέντε από τις πεντάλφες</entry><entry key="ObjectMeaning40">Εραστής ή κυρία, αγάπη, γλυκύτητα, αγάπη, καθαρή και 
+αδιάφθορη αγάπη</entry>
+	<entry key="ObjectTitle41">Έξι από τις πεντάλφες</entry><entry key="ObjectMeaning41">Παρουσιάζει, δώρα, ικανοποίηση:</entry>
+	<entry key="ObjectTitle42">Επτά από τις πεντάλφες</entry><entry key="ObjectMeaning42">Χρήματα, χρηματοδότηση, θησαυρός, κέρδος, κέρδος</entry>
+	<entry key="ObjectTitle43">Οκτώ από τις πεντάλφες</entry><entry key="ObjectMeaning43">Ένα μελαχροινό κορίτσι, ομορφιά, ειλικρίνεια, αγνότητα, 
+αθωότητα, σεμνότητα</entry>
+	<entry key="ObjectTitle44">Εννέα από τις πεντάλφες</entry><entry key="ObjectMeaning44">Διακριτικότητα, προσοχή, σύνεση, διάκριση</entry>
+	<entry key="ObjectTitle45">Οι δέκα από τις πεντάλφες</entry><entry key="ObjectMeaning45">Σπίτι, κατοικία, κατοικία, οικογένεια</entry>
+	<entry key="ObjectTitle46">Σελίδα των πενταλφών</entry><entry key="ObjectMeaning46">Μια σκοτεινή νεολαία, οικονομία, διαταγή, κανόνας, 
+διαχείριση</entry>
+	<entry key="ObjectTitle47">Ιππότης των πενταλφών</entry><entry key="ObjectMeaning47">Ένα χρήσιμο άτομο, αξιόπιστο, φρόνηση, οικονομία, 
+διαταγή, κανονισμός</entry>
+	<entry key="ObjectTitle48">Βασίλισσα των πενταλφών</entry><entry key="ObjectMeaning48">Μια μελαχροινή γυναίκα, μια γενναιόδωρη γυναίκα, 
+ελευθεροφροσύνη, μεγαλείο της ψυχής, γενναιοδωρία</entry>
+	<entry key="ObjectTitle49">Βασιλιάς των πενταλφών</entry><entry key="ObjectMeaning49">Ένα μελαχροινό άτομο, νίκη, ανδρεία, θάρρος, επιτυχία</entry>
+	<entry key="ObjectTitle50">Ασσος των ξιφών</entry><entry key="ObjectMeaning50">Θρίαμβος, γονιμότητα, γονιμότητα, ευημερία</entry>
+	<entry key="ObjectTitle51">Δύο από τα ξίφη</entry><entry key="ObjectMeaning51">Φιλία, ανδρεία, σταθερότητα, θάρρος</entry>
+	<entry key="ObjectTitle52">Τρία από τα ξίφη</entry><entry key="ObjectMeaning52">Μια καλόγρια, χωρισμός, αφαίρεση, ρήξη, φιλονικία</entry>
+	<entry key="ObjectTitle53">Τέσσερα από τα ξίφη</entry><entry key="ObjectMeaning53">Μοναξιά, υποχώρηση, εγκατάλειψη, απόμερη, ερημίτης</entry>
+	<entry key="ObjectTitle54">Πέντε από τα ξίφη</entry><entry key="ObjectMeaning54">Πένθος, θλίψη, κατάθλιψη</entry>
+	<entry key="ObjectTitle55">Έξι από τα ξίφη</entry><entry key="ObjectMeaning55">Απεσταλμένος, αγγελιοφόρος, ταξίδι, ταξίδι</entry>
+	<entry key="ObjectTitle56">Επτά από τα ξίφη</entry><entry key="ObjectMeaning56">Ελπίδα, εμπιστοσύνη, επιθυμία, προσπάθεια, επιθυμία</entry>
+	<entry key="ObjectTitle57">Οκτώ από τα ξίφη</entry><entry key="ObjectMeaning57">Ασθένεια, συκοφαντία, κριτική, επίπληξη</entry>
+	<entry key="ObjectTitle58">Εννέα από τα ξίφη</entry><entry key="ObjectMeaning58">Ένας εκκλησιαστικός, ένας ιερέας, συνείδηση. 
+Εντιμότητα, καλή πίστη, ακεραιότητα</entry>
+	<entry key="ObjectTitle59">Τα δέκα από τα ξίφη</entry><entry key="ObjectMeaning59">Δάκρυα, κατάθλιψη, θλίψη, θλίψη</entry>
+	<entry key="ObjectTitle60">Σελίδα των ξιφών</entry><entry key="ObjectMeaning60">Ένας κατάσκοπος, παράβλεψη, αρχή</entry>
+	<entry key="ObjectTitle61">Ιππότης των ξιφών</entry><entry key="ObjectMeaning61">Ένας στρατιώτης, ένα άτομο το του οποίου επάγγελμα είναι 
+όπλα, skilfulness, ικανότητα, διεύθυνση, Promptitude</entry>
+	<entry key="ObjectTitle62">Βασίλισσα των ξιφών</entry><entry key="ObjectMeaning62">Χηρεία, απώλεια, στέρηση, απουσία, χωρισμός</entry>
+	<entry key="ObjectTitle63">Βασιλιάς των ξιφών</entry><entry key="ObjectMeaning63">Ένας δικηγόρος, ένα άτομο του νόμου, δύναμη, εντολή, 
+ανωτερότητα, αρχή</entry>
+	<entry key="ObjectTitle64">Ασσος των ράβδων</entry><entry key="ObjectMeaning64">Γέννηση, έναρξη, αρχή, προέλευση, πηγή</entry>
+	<entry key="ObjectTitle65">Δύο από τις ράβδους</entry><entry key="ObjectMeaning65">Πλούτοι, τύχη, χλιδή, μεγαλοπρέπεια, Μεγαλείο</entry>
+	<entry key="ObjectTitle66">Τρεις από τις ράβδους</entry><entry key="ObjectMeaning66">Επιχείρηση, επιχείρηση, εμπόριο, εμπόριο, διαπραγμάτευση</entry>
+	<entry key="ObjectTitle67">Τέσσερις από τις ράβδους</entry><entry key="ObjectMeaning67">Κοινωνία, Ένωση, ένωση, συμφωνία, αρμονία</entry>
+	<entry key="ObjectTitle68">Πέντε από τις ράβδους</entry><entry key="ObjectMeaning68">Χρυσός, χλιδή, κέρδος, κληρονομιά, πλούτοι, τύχη, χρήματα</entry>
+	<entry key="ObjectTitle69">Έξι από τις ράβδους</entry><entry key="ObjectMeaning69">Προσπάθεια, ελπίδα, επιθυμία, επιθυμία, προσδοκία</entry>
+	<entry key="ObjectTitle70">Επτά από τις ράβδους</entry><entry key="ObjectMeaning70">Επιτυχία, κέρδος, πλεονέκτημα, κέρδος, νίκη</entry>
+	<entry key="ObjectTitle71">Οκτώ από τις ράβδους</entry><entry key="ObjectMeaning71">Κατανόηση, παρατήρηση, κατεύθυνση</entry>
+	<entry key="ObjectTitle72">Εννέα από τις ράβδους</entry><entry key="ObjectMeaning72">Διαταγή, πειθαρχία, καλή ρύθμιση, διάθεση</entry>
+	<entry key="ObjectTitle73">Οι δέκα από τις ράβδους</entry><entry key="ObjectMeaning73">Εμπιστοσύνη, ασφάλεια, τιμημένη, καλή πίστη</entry>
+	<entry key="ObjectTitle74">Σελίδα των ράβδων</entry><entry key="ObjectMeaning74">Καλές πιό παράξενες, καλές ειδήσεις, ευχαρίστηση, 
+ικανοποίηση</entry>
+	<entry key="ObjectTitle75">Ιππότης των ράβδων</entry><entry key="ObjectMeaning75">Αναχώρηση, χωρισμός, disunion</entry>
+	<entry key="ObjectTitle76">Βασίλισσα των ράβδων</entry><entry key="ObjectMeaning76">Γυναίκα που ζει στη χώρα, κυρία του φέουδου, αγάπη των 
+χρημάτων, φιλαργυρία, τοκογλυφία</entry>
+	<entry key="ObjectTitle77">Βασιλιάς των ράβδων  </entry><entry key="ObjectMeaning77">Ατομο που ζει κύριος των χωρών, χώρα, γνώση, εκπαίδευση</entry>
+	<entry key="ReversedMeaning0">Δισταγμός, αστάθεια, πρόβλημα που προκύπτει herefrom.</entry>
+	<entry key="ReversedMeaning1">Ισχύων για τις κακές άκρες, η αδυναμία, cunning, 
+Knavishness.</entry>
+	<entry key="ReversedMeaning2">Αλαζονεία, άγνοια, Unskilfulness, επιφανειακή γνώση.</entry>
+	<entry key="ReversedMeaning3">Απραξία, frittering μακριά της δύναμης, ανάγκη της 
+ταλάντευσης συγκέντρωσης.</entry>
+	<entry key="ReversedMeaning4">Διακοπή, έλεγχος, ανώριμος, unripe.</entry>
+	<entry key="ReversedMeaning5">Πέρα από-ευγένεια, αδυναμία, ανόητη άσκηση της 
+γενναιοδωρίας.</entry>
+	<entry key="ReversedMeaning6">Παράλογα σχέδια, αποτυχία όταν τίθεται στη δοκιμή.</entry>
+	<entry key="ReversedMeaning7">Νικημένος, κατακτημένος από τα εμπόδια στην τελευταία 
+στιγμή.</entry>
+	<entry key="ReversedMeaning8">Κατάχρηση της εξουσίας, Overbearingness, ανάγκη 
+fortitude.</entry>
+	<entry key="ReversedMeaning9">Πέρα από-σύνεση, Timorousness, φόβος.</entry>
+	<entry key="ReversedMeaning10">Αρρωστος-τύχη, αποτυχία, απροσδόκητη άρρωστος-τύχη.</entry>
+	<entry key="ReversedMeaning11">Θρησκοληψία, ανάγκη της ισορροπίας, κατάχρηση της 
+δικαιοσύνης, πέρα από-δριμύτητα, ανισότητα, προκατάληψη.</entry>
+	<entry key="ReversedMeaning12">Εγωισμός, αποδεσμευμένη, μερική θυσία.</entry>
+	<entry key="ReversedMeaning13">Ο θάνατος δραπέτευσε ακριβώς, μερική αλλαγή, αλλαγή προς 
+το καλύτερο.</entry>
+	<entry key="ReversedMeaning14">Απερίσκεπτοι συνδυασμοί, disunion, διαφωνώντας 
+ενδιαφέροντα, κ.λπ....</entry>
+	<entry key="ReversedMeaning15">Μοιραίο περιστατικό για το κακό.</entry>
+	<entry key="ReversedMeaning16">Αυτοί σε έναν λίγο πολύ μερικό βαθμό.</entry>
+	<entry key="ReversedMeaning17">Οι ελπίδες που δεν εκπληρώθηκαν, προσδοκίες απογοήτευσαν ή 
+εκπλήρωσαν σε έναν δευτερεύοντα βαθμό.</entry>
+	<entry key="ReversedMeaning18">Διακύμανση, μικρές εξαπατήσεις, ασήμαντα λάθη.</entry>
+	<entry key="ReversedMeaning19">Αυτοί σε έναν δευτερεύοντα βαθμό.</entry>
+	<entry key="ReversedMeaning20">Αναβολή του αποτελέσματος, καθυστέρηση, θέμα που ανοίγεται 
+πάλι αργότερα.</entry>
+	<entry key="ReversedMeaning21">Κακή ανταμοιβή, ή αποζημίωση.</entry>
+	<entry key="ReversedMeaning22">Αλλαγή, καινοτομία, μεταμόρφωση, αστάθεια.</entry>
+	<entry key="ReversedMeaning23">Διασχισμένες επιθυμίες, εμπόδια, αντίθεση, εμπόδιο.</entry>
+	<entry key="ReversedMeaning24">Αποστολή της επιχείρησης, Quickness, ταχύτητα, 
+επαγρύπνηση.</entry>
+	<entry key="ReversedMeaning25">Νέα εξοικείωση, υπόθεση, σημάδι, προαίσθημα.</entry>
+	<entry key="ReversedMeaning26">Αφιξη, επιστροφή, ειδήσεις, έκπληξη, ψεύτικα προγράμματα.</entry>
+	<entry key="ReversedMeaning27">Το μέλλον, αυτό που πρόκειται να έρθει, σύντομα, σύντομα.</entry>
+	<entry key="ReversedMeaning28">Σχέδιο, σχέδιο, ψήφισμα, απόφαση.</entry>
+	<entry key="ReversedMeaning29">Gaiety, εορτασμός, χαρά, ευχαρίστηση.</entry>
+	<entry key="ReversedMeaning30">Ελαττώματα, λάθη, λάθη, ατέλειες.</entry>
+	<entry key="ReversedMeaning31">Αγώνας, σύγκρουση, αντίθεση, διαφορές, διαφωνία.</entry>
+	<entry key="ReversedMeaning32">Flatterer, εξαπάτηση, τέχνασμα.</entry>
+	<entry key="ReversedMeaning33">Υποκρισία, κατάχρηση της εμπιστοσύνης, απάτη, cunning.</entry>
+	<entry key="ReversedMeaning34">Μια γυναίκα στην καλή θέση, αλλά, και για να δυσπιστηθεί  
+Επιτυχία, αλλά με κάποιο συνοδευτικό πρόβλημα.</entry>
+	<entry key="ReversedMeaning35">Ένα άτομο της καλής θέσης, αλλά εφευρετικός στις 
+συναλλαγές του, δυσπιστία, αμφιβολία, υποψία.</entry>
+	<entry key="ReversedMeaning36">Πορτοφόλι του χρυσού, χρήματα, κέρδος, βοήθεια, κέρδος, 
+πλούτοι.</entry>
+	<entry key="ReversedMeaning37">Επιστολή, Missive, επιστολή, μήνυμα.</entry>
+	<entry key="ReversedMeaning38">Παιδιά, γιοι, κόρες, νεολαίες, έναρξη.</entry>
+	<entry key="ReversedMeaning39">Εμπόδια, εμπόδια.</entry>
+	<entry key="ReversedMeaning40">Ατιμωτική αγάπη, ασυνεσία, άδεια, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Φιλοδοξία, επιθυμία, πάθος, στόχος, Longing.</entry>
+	<entry key="ReversedMeaning42">Διαταραχή, ανησυχία, ανησυχία, μελαγχολία.</entry>
+	<entry key="ReversedMeaning43">Κολακεία, τοκογλυφία, Υποκρισία, εφευρετική.</entry>
+	<entry key="ReversedMeaning44">Εξαπάτηση, κακή πίστη, τεχνάσματα, εξαπάτηση.</entry>
+	<entry key="ReversedMeaning45">Παιχνίδι, διασκεδασμός, ληστεία, απώλεια.</entry>
+	<entry key="ReversedMeaning46">Ασωτία, αφθονία, απόβλητα, διασκεδασμός.</entry>
+	<entry key="ReversedMeaning47">Ένα γενναίο άτομο, αλλά από την απασχόληση, μη 
+απασχόλησης, άνεργος, αμελή.</entry>
+	<entry key="ReversedMeaning48">Ορισμένο κακό, μια ύποπτη γυναίκα, μια γυναίκα θεώρησε 
+δίκαια με την υποψία, αμφιβολία, δυσπιστία.</entry>
+	<entry key="ReversedMeaning49">Ένας και κακοήθης ηληκιωμένος, ένα επικίνδυνο άτομο, 
+αμφιβολία, φόβος, κίνδυνος, κίνδυνος.</entry>
+	<entry key="ReversedMeaning50">Ανόητης και μάταιης αγάπη αμηχανίας, εμπόδιο, εμπόδιο.</entry>
+	<entry key="ReversedMeaning51">Οι ψεύτικοι φίλοι, προδοσία, βρίσκονται.</entry>
+	<entry key="ReversedMeaning52">Λάθος, σύγχυση, Misrule, αναταραχή.</entry>
+	<entry key="ReversedMeaning53">Οικονομία, προφύλαξη, κανονισμός των δαπανών.</entry>
+	<entry key="ReversedMeaning54">Πρόβλημα απωλειών (ίδια κοινοποίηση, είτε που 
+αντιστρέφεται είτε όχι.)</entry>
+	<entry key="ReversedMeaning55">Διακήρυξη, αγάπη προτεινόμενη, αποκάλυψη, έκπληξη.</entry>
+	<entry key="ReversedMeaning56">Σοφές συμβουλές, καλή συμβουλή, φρόνηση, σύνεση, προσοχή.</entry>
+	<entry key="ReversedMeaning57">Προδοσία στο παρελθόν, γεγονός, ατύχημα, αξιοπρόσεκτο 
+γεγονός.</entry>
+	<entry key="ReversedMeaning58">Σοφή δυσπιστία, υποψία, φόβος, αμφιβολία, σκιερός 
+χαρακτήρας.</entry>
+	<entry key="ReversedMeaning59">Διάβαση της επιτυχίας, στιγμιαίο πλεονέκτημα.</entry>
+	<entry key="ReversedMeaning60">Αυτός που είναι απρόβλεπτος, επαγρύπνηση, υποστήριξη.</entry>
+	<entry key="ReversedMeaning61">Ένας ματαιόδοξος ανόητος, Ingenuousness, απλότητα.</entry>
+	<entry key="ReversedMeaning62">Μια κακή γυναίκα, ill-tempered και φανατικός, πλούτοι και
+ασυμφωνία, αφθονία μαζί με την ανησυχία, χαρά με τη θλίψη.</entry>
+	<entry key="ReversedMeaning63">Ένα κακό άτομο, πικρία, ανησυχία, θλίψη, φόβος, 
+διαταραχή.</entry>
+	<entry key="ReversedMeaning64">Δίωξη, αναζητήσεις Voilence, παρενόχληση, σκληρότητα, 
+τυραννία.</entry>
+	<entry key="ReversedMeaning65">Έκπληξη, κατάπληξη, γεγονός, εξαιρετικό περιστατικό.</entry>
+	<entry key="ReversedMeaning66">Ελπίδα, επιθυμία, προσπάθεια, επιθυμία.</entry>
+	<entry key="ReversedMeaning67">Ευημερία, επιτυχία, ευτυχία, πλεονέκτημα.</entry>
+	<entry key="ReversedMeaning68">Νομικές διαδικασίες, κρίση, νόμος, δικηγόρος, δικαστήριο.</entry>
+	<entry key="ReversedMeaning69">Απιστία, προδοσία, disloyalty, προδοσία.</entry>
+	<entry key="ReversedMeaning70">Indecision, αμφιβολία, δισταγμός, αμηχανία, ανησυχία.</entry>
+	<entry key="ReversedMeaning71">Φιλονικίες, διαφωνίες εντέρων, ασυμφωνία.</entry>
+	<entry key="ReversedMeaning72">Εμπόδια, σταυροί, καθυστέρηση, δυσαρέσκεια.</entry>
+	<entry key="ReversedMeaning73">Προδοσία, κόλπο, υποκρισία, φραγμός.</entry>
+	<entry key="ReversedMeaning74">Ανεπαρκείς ειδήσεις, δυσαρέσκεια, πικρία, ανησυχία.</entry>
+	<entry key="ReversedMeaning75">Ρήξη, ασυμφωνία, φιλονικία.</entry>
+	<entry key="ReversedMeaning76">Ένα αγαθό μια ενάρετη γυναίκα, αλλά ακριβής και 
+οικονομικός, εμπόδια, αντίσταση, αντίθεση.</entry>
+	<entry key="ReversedMeaning77">Ένα φυσικά καλό αλλά αυστηρό άτομο, συμβουλή, συμβουλές,
+συζήτηση.</entry>
+</oracleio>

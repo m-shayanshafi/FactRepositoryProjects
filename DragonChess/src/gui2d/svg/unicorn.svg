@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   style="fill:#000000;fill-opacity:0.5;stroke:none"
+   width="595.275591"
+   height="841.889764"
+   id="svg1"
+   sodipodi:docbase="/home/drake/prog/dragonchess-old/pics/"
+   sodipodi:docname="/home/drake/prog/dragonchess-old/pics/unicorn.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">  <defs
+     id="defs3">
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     gridoriginx="0.000000"
+     gridoriginy="0.000000"
+     gridspacingx="2.834646"
+     gridspacingy="2.834646"
+     gridtolerance="5.000000"
+     gridcolor="#3f3fff"
+     gridopacity="1.000000"
+     guidetolerance="5.000000"
+     guidecolor="#0000ff"
+     guideopacity="0.498039"
+     guidehicolor="#ff0000"
+     guidehiopacity="0.498039"
+     snaptogrid="true">
+  </sodipodi:namedview>
+  <path
+     style="fill:#de1717; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     d="M 221.586 177.677 C 222.463 177.397 222.861 174.574 222.099 174.627 C 219.146 174.931 213.619 176.196 210.436 177.314 C 209.599 177.634 209.364 180.417 210.124 180.339 C 213.077 179.935 218.425 178.785 221.586 177.677 z M 280.815 243.235 L 187.137 243.235 L 198.157 234.509 C 200.732 232.499 199.007 228.624 201.016 226.344 C 204.968 221.858 211.857 218.826 216.036 214.331 C 220.757 209.251 223.266 202.923 227.713 197.619 L 230.721 194.03 C 229.495 195.322 228.81 197.254 227.042 197.904 C 222.454 199.595 215.986 198.938 211.655 201.057 C 206.69 203.487 203.675 208.695 199.156 211.551 C 198.131 212.2 195.079 212.205 195.019 211.574 C 194.906 210.374 198.358 207.707 198.637 206.058 C 198.743 205.435 196.82 204.378 196.174 204.755 C 194.061 205.998 192.811 209.689 190.364 210.916 C 188.787 211.709 184.636 212.039 184.1 210.819 C 182.637 207.48 182.132 201.232 184.374 197.238 C 189.462 188.166 198.847 180.16 206.084 171.62 L 180.815 143.235 L 214.69 165.525 L 219.362 162.524 L 219.32 150.886 L 224.309 154.92 L 224.452 146.441 L 235.774 159.378 C 258.697 161.342 271.281 182.446 270.788 195.244 L 269.793 234.509 L 280.815 243.235 z "
+     id="Unicorn"
+     transform="matrix(1 0 0 1 -39.8699 -5.12484)">
+  </path>
+  <path
+     style="fill:#fff561; fill-opacity:100%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width:1px; stroke-linejoin:miter; stroke-linecap:butt; "
+     id="base line"
+     d="M 249.449 272.126 L 323.15 272.126 "
+     sodipodi:nodetypes="cc"
+     transform="matrix(0.98746 0 0 0.639608 -88.5696 55.5522)">
+  </path>
+
+</svg>

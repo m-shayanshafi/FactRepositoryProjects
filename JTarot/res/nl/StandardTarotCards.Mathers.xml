@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="nl" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Openbaar domein</entry>
+	<entry key="ObjectTitle0">0- Dwaas</entry><entry key="ObjectMeaning0">Dwaasheid, Expiation, het Wankelen</entry>
+	<entry key="ObjectTitle1">1- Tovenaar</entry><entry key="ObjectMeaning1">Zal,-Macht, Handigheid</entry>
+	<entry key="ObjectTitle2">2- Hoge Priestess</entry><entry key="ObjectMeaning2">Wetenschap, Wijsheid, Kennis, Onderwijs</entry>
+	<entry key="ObjectTitle3">3- Keizerin</entry><entry key="ObjectMeaning3">Actie, Plan, dat Beweging in een kwestie onderneemt, Initiatief</entry>
+	<entry key="ObjectTitle4">4- Keizer</entry><entry key="ObjectMeaning4">Totstandbrenging, Effect, Ontwikkeling</entry>
+	<entry key="ObjectTitle5">5- Hierophant</entry><entry key="ObjectMeaning5">Genade, Beneficence Vriendelijkheid, Goedheid</entry>
+	<entry key="ObjectTitle6">6- Minnaars</entry><entry key="ObjectMeaning6">Wijze Regelingen, Bewijs, Overwonnen Proeven</entry>
+	<entry key="ObjectTitle7">7- Blokkenwagen</entry><entry key="ObjectMeaning7">Triomf, Overwinning, die hindernissen overwint</entry>
+	<entry key="ObjectTitle8">8-sterkte</entry><entry key="ObjectMeaning8">De macht, zou dwingen, Sterkte, Fortitude kunnen</entry>
+	<entry key="ObjectTitle9">9- Hermit</entry><entry key="ObjectMeaning9">Voorzichtigheid, Voorzichtigheid, Overleg</entry>
+	<entry key="ObjectTitle10">10-wiel van Fortuin</entry><entry key="ObjectMeaning10">Goed Fortuin, Succes, Onverwacht Geluk</entry>
+	<entry key="ObjectTitle11">11-rechtvaardigheid</entry><entry key="ObjectMeaning11">Evenwicht, Saldo, Rechtvaardigheid</entry>
+	<entry key="ObjectTitle12">de 12- gehangen man</entry><entry key="ObjectMeaning12">Zelf-offer, Offer, Verbindende Toewijding,</entry>
+	<entry key="ObjectTitle13">13-dood</entry><entry key="ObjectMeaning13">Dood, Verandering, Transformatie, Wijziging voor slechter</entry>
+	<entry key="ObjectTitle14">14-matiging</entry><entry key="ObjectMeaning14">Combinatie, Bouw, het Verenigen zich</entry>
+	<entry key="ObjectTitle15">15- Duivel</entry><entry key="ObjectMeaning15">Noodlottigheid voor Goed</entry>
+	<entry key="ObjectTitle16">16- Toren</entry><entry key="ObjectMeaning16">Ruïne, Verstoring, Omverwerping, Verlies, Faillissement</entry>
+	<entry key="ObjectTitle17">17- Ster</entry><entry key="ObjectMeaning17">Hoop, Verwachting, Heldere beloften</entry>
+	<entry key="ObjectTitle18">18- Maan</entry><entry key="ObjectMeaning18">Twilight, Teleurstelling, Fout</entry>
+	<entry key="ObjectTitle19">19- Zon</entry><entry key="ObjectMeaning19">Geluk, Inhoud, Vreugde</entry>
+	<entry key="ObjectTitle20">20-oordeel</entry><entry key="ObjectMeaning20">Vernieuwing, Resultaat, Bepaling van een Kwestie</entry>
+	<entry key="ObjectTitle21">21- Wereld</entry><entry key="ObjectMeaning21">Voltooiing, Goede Beloning</entry>
+	<entry key="ObjectTitle22">Aas van Koppen</entry><entry key="ObjectMeaning22">Het feesten, Banket, Goede Cheer</entry>
+	<entry key="ObjectTitle23">Twee van Koppen</entry><entry key="ObjectMeaning23">Liefde, Gehechtheid, Vriendschap, Sincerity, Affectie</entry>
+	<entry key="ObjectTitle24">Drie van Koppen</entry><entry key="ObjectMeaning24">Succes, Triomf, Overwinning, Gunstige kwestie</entry>
+	<entry key="ObjectTitle25">Vier van Koppen</entry><entry key="ObjectMeaning25">Ennui, Ongenoegen, Ontevredenheid, Ontevredenheid</entry>
+	<entry key="ObjectTitle26">Vijf van Koppen</entry><entry key="ObjectMeaning26">Unie, Verbinding, Huwelijk, Overerving</entry>
+	<entry key="ObjectTitle27">Zes van Koppen</entry><entry key="ObjectMeaning27">Het Langzaam verdwenen Verleden, wordt overgegaan dat door, 
+verdween, verdween</entry>
+	<entry key="ObjectTitle28">Zeven van Koppen</entry><entry key="ObjectMeaning28">Idee, Gevoel, Bezinning, Project</entry>
+	<entry key="ObjectTitle29">Acht van Koppen</entry><entry key="ObjectMeaning29">Een eerlijk Meisje, Vriendschap, Gehechtheid, Tederheid</entry>
+	<entry key="ObjectTitle30">Negen van Koppen</entry><entry key="ObjectMeaning30">Overwinning, Voordeel, Succes, Triomf, overwonnen Moeilijkheden</entry>
+	<entry key="ObjectTitle31">Tien van Koppen</entry><entry key="ObjectMeaning31">De Stad waarin één, Eer, Overweging, Achting, Deugd, Glorie, 
+Reputatie verblijft</entry>
+	<entry key="ObjectTitle32">Pagina van Koppen</entry><entry key="ObjectMeaning32">De eerlijke Jeugd, Vertrouwen, Eerlijkheid, Discretie, 
+Integriteit</entry>
+	<entry key="ObjectTitle33">Ridder van Koppen</entry><entry key="ObjectMeaning33">Aankomst, Benadering, Vooruitgang</entry>
+	<entry key="ObjectTitle34">Koningin van Koppen</entry><entry key="ObjectMeaning34">Een eerlijke Vrouw, Succes, Geluk, Voordeel, Genoegen</entry>
+	<entry key="ObjectTitle35">Koning van Koppen</entry><entry key="ObjectMeaning35">Een eerlijke Mens, Goedheid, Vriendelijkheid, Liberality, 
+Grootmoedigheid</entry>
+	<entry key="ObjectTitle36">Aas van Pentacles</entry><entry key="ObjectMeaning36">Perfecte Tevredenheid, Geluk, Welvaart, Triomf</entry>
+	<entry key="ObjectTitle37">Twee van Pentacles</entry><entry key="ObjectMeaning37">Verlegenheid, Zorg, Moeilijkheden</entry>
+	<entry key="ObjectTitle38">Drie van Pentacles</entry><entry key="ObjectMeaning38">Nobility, Verhoging, Waardigheid, Rang, Macht</entry>
+	<entry key="ObjectTitle39">Vier van Pentacles</entry><entry key="ObjectMeaning39">Genoegen, Gaiety, Plezier, Tevredenheid</entry>
+	<entry key="ObjectTitle40">Vijf van Pentacles</entry><entry key="ObjectMeaning40">Minnaar of Maitresse, Liefde, Zoetheid, Affectie, Zuivere en 
+Reine Liefde</entry>
+	<entry key="ObjectTitle41">Zes van Pentacles</entry><entry key="ObjectMeaning41">Stelt, Giften, Voldoening voor:</entry>
+	<entry key="ObjectTitle42">Zeven van Pentacles</entry><entry key="ObjectMeaning42">Geld, Financiën, Schat, Aanwinst, Winst</entry>
+	<entry key="ObjectTitle43">Acht van Pentacles</entry><entry key="ObjectMeaning43">Een donker Meisje, Schoonheid, Openhartigheid, Chastity, 
+Onschuld, Bescheidenheid</entry>
+	<entry key="ObjectTitle44">Negen van Pentacles</entry><entry key="ObjectMeaning44">Discretie, Circumspection, Voorzichtigheid, 
+Onderscheidingsvermogen</entry>
+	<entry key="ObjectTitle45">Tien van Pentacles</entry><entry key="ObjectMeaning45">Huis, Woning, Habitation, Familie</entry>
+	<entry key="ObjectTitle46">Pagina van Pentacles</entry><entry key="ObjectMeaning46">De donkere Jeugd, Economie, Orde, Regel, Beheer</entry>
+	<entry key="ObjectTitle47">Ridder van Pentacles</entry><entry key="ObjectMeaning47">Een nuttige Betrouwbare Mens, Wijsheid, Economie, Orde, 
+Verordening</entry>
+	<entry key="ObjectTitle48">Koningin van Pentacles</entry><entry key="ObjectMeaning48">Een donkere Vrouw, een grootmoedige Vrouw, Liberality, Greatness
+van Ziel, Grootmoedigheid</entry>
+	<entry key="ObjectTitle49">Koning van Pentacles</entry><entry key="ObjectMeaning49">Een donkere Mens, Overwinning, Moed, Moed, Succes</entry>
+	<entry key="ObjectTitle50">Aas van Zwaarden</entry><entry key="ObjectMeaning50">Triomf, Vruchtbaarheid, Vruchtbaarheid, Welvaart</entry>
+	<entry key="ObjectTitle51">Twee van Zwaarden</entry><entry key="ObjectMeaning51">Vriendschap, Valour, Stevigheid, Moed</entry>
+	<entry key="ObjectTitle52">Drie van Zwaarden</entry><entry key="ObjectMeaning52">Nun, Scheiding, Verwijdering, Breuk, Ruzie</entry>
+	<entry key="ObjectTitle53">Vier van Zwaarden</entry><entry key="ObjectMeaning53">Solitude, Terugtocht, Solitair Verlaten, Hermit</entry>
+	<entry key="ObjectTitle54">Vijf van Zwaarden</entry><entry key="ObjectMeaning54">Het rouwen, Droefheid, Kwelling</entry>
+	<entry key="ObjectTitle55">Zes van Zwaarden</entry><entry key="ObjectMeaning55">Gezant, Boodschapper, Reis, Reis</entry>
+	<entry key="ObjectTitle56">Zeven van Zwaarden</entry><entry key="ObjectMeaning56">Hoop, Vertrouwen, Wens, Poging, Wens</entry>
+	<entry key="ObjectTitle57">Acht van Zwaarden</entry><entry key="ObjectMeaning57">Ziekte, Calumny, Kritiek, Schuld</entry>
+	<entry key="ObjectTitle58">Negen van Zwaarden</entry><entry key="ObjectMeaning58">Ecclesiastic, een Priester, Geweten. Eerlijkheid, Goed 
+Geloof, Integriteit</entry>
+	<entry key="ObjectTitle59">Tien van Zwaarden</entry><entry key="ObjectMeaning59">Scheuren, Kwelling, Zorg, Verdriet</entry>
+	<entry key="ObjectTitle60">Pagina van Zwaarden</entry><entry key="ObjectMeaning60">Een Spion, het Overzien, Instantie</entry>
+	<entry key="ObjectTitle61">Ridder van Zwaarden</entry><entry key="ObjectMeaning61">Een Militair, een mens het van wie beroep wapens, Kundigheid, 
+Capaciteit, Adres, Promptitude is</entry>
+	<entry key="ObjectTitle62">Koningin van Zwaarden</entry><entry key="ObjectMeaning62">Weduwschap, Verlies, Privation, Afwezigheid, Scheiding</entry>
+	<entry key="ObjectTitle63">Koning van Zwaarden</entry><entry key="ObjectMeaning63">Een Advocaat, een Mens van Wet, Macht, Bevel, Superioriteit, 
+Instantie</entry>
+	<entry key="ObjectTitle64">Aas van Wands</entry><entry key="ObjectMeaning64">Geboorte, Begin, Begin, Oorsprong, Bron</entry>
+	<entry key="ObjectTitle65">Twee van Wands</entry><entry key="ObjectMeaning65">Rijkdom, Fortuin, Opulence, Magnificence, Grandeur</entry>
+	<entry key="ObjectTitle66">Drie van Wands</entry><entry key="ObjectMeaning66">Onderneming, Onderneming, Handel, Handel, Onderhandeling</entry>
+	<entry key="ObjectTitle67">Vier van Wands</entry><entry key="ObjectMeaning67">De maatschappij, Unie, Vereniging, Verdrag, Harmonie</entry>
+	<entry key="ObjectTitle68">Vijf van Wands</entry><entry key="ObjectMeaning68">Goud, Opulence, Aanwinst, Erfenis, Rijkdom, Fortuin, Geld</entry>
+	<entry key="ObjectTitle69">Zes van Wands</entry><entry key="ObjectMeaning69">Poging, Hoop, Wens, Wens, Verwachting</entry>
+	<entry key="ObjectTitle70">Zeven van Wands</entry><entry key="ObjectMeaning70">Succes, Aanwinst, Voordeel, Winst, Overwinning</entry>
+	<entry key="ObjectTitle71">Acht van Wands</entry><entry key="ObjectMeaning71">Begrip, Observatie, Richting</entry>
+	<entry key="ObjectTitle72">Negen van Wands</entry><entry key="ObjectMeaning72">Orde, Discipline, Goede Regeling, Regeling</entry>
+	<entry key="ObjectTitle73">Tien van Wands</entry><entry key="ObjectMeaning73">Vertrouwen, Veiligheid, Ere, Goed Geloof</entry>
+	<entry key="ObjectTitle74">Pagina van Wands</entry><entry key="ObjectMeaning74">Goed Vreemder, Goed Nieuws, Genoegen, Tevredenheid</entry>
+	<entry key="ObjectTitle75">Ridder van Wands</entry><entry key="ObjectMeaning75">Vertrek, Scheiding, Disunion</entry>
+	<entry key="ObjectTitle76">Koningin van Wands</entry><entry key="ObjectMeaning76">Vrouw die in het land, Dame van Manor, Liefde van Geld, Avarice,
+Woeker leeft</entry>
+	<entry key="ObjectTitle77">Koning van Wands  </entry><entry key="ObjectMeaning77">Mens die in het land, Land Heer leeft, Kennis, Onderwijs</entry>
+	<entry key="ReversedMeaning0">Aarzeling, Instabiliteit die, Probleem herefrom voordoet zich.</entry>
+	<entry key="ReversedMeaning1">Zal van toepassing geweest op kwade einden, zal de Zwakheid van,
+Sluwheid, Knavishness.</entry>
+	<entry key="ReversedMeaning2">Zelfgenoegzaamheid, Onwetendheid, Unskilfulness, Oppervlakkige 
+Kennis.</entry>
+	<entry key="ReversedMeaning3">Inactiviteit, die van macht, Behoefte verkwist van Vacillation 
+van de Concentratie.</entry>
+	<entry key="ReversedMeaning4">Onderbreking, Onrijpe Controle, Onrijp.</entry>
+	<entry key="ReversedMeaning5">Over-vriendelijkheid, zwakheid, Dwaze oefening van 
+grootmoedigheid.</entry>
+	<entry key="ReversedMeaning6">Onverstandige Plannen, Mislukking wanneer gezet aan de test.</entry>
+	<entry key="ReversedMeaning7">Omvergeworpen, Veroverd door Hindernissen op het laatste 
+ogenblik.</entry>
+	<entry key="ReversedMeaning8">Misbruik van Macht, Overbearingness, Behoefte van Fortitude.</entry>
+	<entry key="ReversedMeaning9">Over-voorzichtigheid, Timorousness, Vrees.</entry>
+	<entry key="ReversedMeaning10">Ziek-fortuin, Mislukking, Onverwacht ziek-Geluk.</entry>
+	<entry key="ReversedMeaning11">Bigotry, Behoefte van Saldo, Misbruik van Rechtvaardigheid, 
+over-Strengheid, Ongelijkheid, Bias.</entry>
+	<entry key="ReversedMeaning12">Egoïsme, Losgemaakt, Gedeeltelijk offer.</entry>
+	<entry key="ReversedMeaning13">De dood ontsnapte enkel, Gedeeltelijke verandering, Wijziging 
+voor beter.</entry>
+	<entry key="ReversedMeaning14">Onverstandige combinaties, Disunion, Botsende belangen, enz.</entry>
+	<entry key="ReversedMeaning15">Noodlottigheid voor Kwaad.</entry>
+	<entry key="ReversedMeaning16">Deze in een min of meer gedeeltelijke graad.</entry>
+	<entry key="ReversedMeaning17">De vervulde niet hoop, Verwachtingen stelde of vervulde in een 
+minder belangrijke graad teleur.</entry>
+	<entry key="ReversedMeaning18">Schommeling, lichte Teleurstellingen, Trifling Fouten.</entry>
+	<entry key="ReversedMeaning19">Deze in een minder belangrijke graad.</entry>
+	<entry key="ReversedMeaning20">Uitstel van Resultaat, Vertraging, later heropende Kwestie.</entry>
+	<entry key="ReversedMeaning21">Kwade Beloning, of Recompense.</entry>
+	<entry key="ReversedMeaning22">Verandering, Nieuwigheid, Metamorfose, Inconstancy.</entry>
+	<entry key="ReversedMeaning23">Gekruiste wensen, Hindernissen, Oppositie, Belemmering.</entry>
+	<entry key="ReversedMeaning24">Expeditie van zaken, Quickness, Celerity, Waakzaamheid.</entry>
+	<entry key="ReversedMeaning25">Nieuwe Kennis, Gissing, Teken, Presentiment.</entry>
+	<entry key="ReversedMeaning26">Aankomst, Terugkeer, Nieuws, Verrassing, Valse projecten.</entry>
+	<entry key="ReversedMeaning27">De Toekomst, dat die moet komen, binnenkort, spoedig.</entry>
+	<entry key="ReversedMeaning28">Plan, Ontwerp, Resolutie, Besluit.</entry>
+	<entry key="ReversedMeaning29">Gaiety, het Feesten, Vreugde, Genoegen.</entry>
+	<entry key="ReversedMeaning30">Fouten, Fouten, Fouten, Onvolmaaktheden.</entry>
+	<entry key="ReversedMeaning31">Gevecht, Geschil, Oppositie, Verschillen, Geschil.</entry>
+	<entry key="ReversedMeaning32">Flatterer, Teleurstelling, Artifice.</entry>
+	<entry key="ReversedMeaning33">Dupliciteit, Misbruik van Vertrouwen, Sluwe Fraude.</entry>
+	<entry key="ReversedMeaning34">Een Vrouw in goede positie, maar het intermeddling, en om worden
+gewantrouwd; Succes, maar met wat begeleidend probleem.</entry>
+	<entry key="ReversedMeaning35">Een Mens van goede positie, maar shifty in zijn Transacties, 
+Wantrouwen, Twijfel, Verdenking.</entry>
+	<entry key="ReversedMeaning36">Beurs van Goud, Geld, Aanwinst, Hulp, Winst, Rijkdom.</entry>
+	<entry key="ReversedMeaning37">Brief, Missive, Epistle, Bericht.</entry>
+	<entry key="ReversedMeaning38">Kinderen, Zonen, Dochters, Jongeren, Begin.</entry>
+	<entry key="ReversedMeaning39">Hindernissen, Belemmeringen.</entry>
+	<entry key="ReversedMeaning40">Beschamende Liefde, Imprudence, Vergunning, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Ambitie, Wens, Hartstocht, Doel, Longing.</entry>
+	<entry key="ReversedMeaning42">Storing, Zorg, Bezorgdheid, Melancholie.</entry>
+	<entry key="ReversedMeaning43">Gevlei, Woeker, Shifty Schijnheiligheid.</entry>
+	<entry key="ReversedMeaning44">Misleiding, Slecht geloof, Artifices, Teleurstelling.</entry>
+	<entry key="ReversedMeaning45">Het gokken, Dissipatie, Diefstal, Verlies.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Overvloed, Afval, Dissipatie.</entry>
+	<entry key="ReversedMeaning47">Een moedige Mens, maar uit Onachtzame Werkgelegenheid, 
+Nutteloos, Werkloos.</entry>
+	<entry key="ReversedMeaning48">Bepaald Kwaad, een verdachte Vrouw, een Vrouw beschouwde juist 
+met Verdenking, Twijfel, Wantrouwen.</entry>
+	<entry key="ReversedMeaning49">Een oude en wrede Mens, een Gevaarlijke Mens, Twijfel, Vrees, 
+Risico, Gevaar.</entry>
+	<entry key="ReversedMeaning50">Dwaze en Hopeloze Liefde de van de verlegenheid, Hindernis, 
+Belemmering.</entry>
+	<entry key="ReversedMeaning51">De valse Vrienden, Treachery, ligt.</entry>
+	<entry key="ReversedMeaning52">Fout, Verwarring, Misrule, Wanorde.</entry>
+	<entry key="ReversedMeaning53">Economie, Voorzorgsmaatregel, Verordening van Uitgaven.</entry>
+	<entry key="ReversedMeaning54">Het Probleem van verliezen (zelfde omgekeerd signification, al 
+dan niet niet.)</entry>
+	<entry key="ReversedMeaning55">Verklaring, voorgestelde Liefde, Revelatie, Verrassing.</entry>
+	<entry key="ReversedMeaning56">Wijze Raad, Goed Advies, Wijsheid, Voorzichtigheid, 
+Circumspection.</entry>
+	<entry key="ReversedMeaning57">Treachery in het verleden, Gebeurtenis, Ongeval, Opmerkelijk 
+Incident.</entry>
+	<entry key="ReversedMeaning58">Wijs wantrouwen, Verdenking, Vrees, Twijfel, Shady karakter.</entry>
+	<entry key="ReversedMeaning59">Het overgaan van Succes, Kortstondig Voordeel.</entry>
+	<entry key="ReversedMeaning60">Dat die, Waakzaamheid, Steun onvoorzien is.</entry>
+	<entry key="ReversedMeaning61">Een verwaande dwaas, Ingenuousness, Eenvoud.</entry>
+	<entry key="ReversedMeaning62">Een Slechte Vrouw, slecht gehumeurd en dweepziek, Rijkdom en 
+Onenigheid, Overvloed samen met Zorg, Vreugde met Zorg.</entry>
+	<entry key="ReversedMeaning63">Een Slechte Mens, Verdriet, Zorg, Zorg, Vrees, Storing.</entry>
+	<entry key="ReversedMeaning64">Vervolging, Achtervolgingen Voilence, Vexation, Wreedheid, 
+Tirannie.</entry>
+	<entry key="ReversedMeaning65">Verrassing, Verbazing, Gebeurtenis, Buitengewoon Voorkomen.</entry>
+	<entry key="ReversedMeaning66">Hoop, Wens, Poging, Wens.</entry>
+	<entry key="ReversedMeaning67">Welvaart, Succes, Geluk, Voordeel.</entry>
+	<entry key="ReversedMeaning68">Gerechtelijke procedures, Oordeel, Wet, Advocaat, Rechtbank.</entry>
+	<entry key="ReversedMeaning69">Infidelity, Treachery, Disloyalty, Perfidy.</entry>
+	<entry key="ReversedMeaning70">Aarzeling, Twijfel, Aarzeling, Verlegenheid, Bezorgdheid.</entry>
+	<entry key="ReversedMeaning71">Ruzies, de geschillen van de Darm, Onenigheid.</entry>
+	<entry key="ReversedMeaning72">Hindernissen, Kruisen, Vertraging, Ongenoegen.</entry>
+	<entry key="ReversedMeaning73">Treachery, Subterfuge, Dupliciteit, Staaf.</entry>
+	<entry key="ReversedMeaning74">Ziek Nieuws, Ongenoegen, Verdriet, Zorg.</entry>
+	<entry key="ReversedMeaning75">Breuk, Onenigheid, Ruzie.</entry>
+	<entry key="ReversedMeaning76">Een goed een deugdzame Vrouw, maar strikt en economisch, 
+Hindernissen, Weerstand, Oppositie.</entry>
+	<entry key="ReversedMeaning77">Een natuurlijk goede maar strenge mens, Advies, Raad, Overleg.</entry>
+</oracleio>

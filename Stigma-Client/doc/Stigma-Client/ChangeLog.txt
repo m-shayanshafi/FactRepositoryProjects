@@ -1,0 +1,310 @@
+Stigma - The Game: Client change log
+====================================
+
+Project started: December, 2005. Rewritten in 2008.
+This file contains changes made to project since: 2008/02/20
+
+
+Key:
+ * changes in end-user functionality, may be interesting for everybody
+ - changes in code, important for developers  
+
+All #numbers refers to tickets numbers on http://sourceforge.net/apps/trac/stigma/
+
+
+Client 0.5.0 - 2011/03/30
+----------------------------------
+
+Features:
+    * Chat added
+    * Various updates to components' styles. New synth painter: GlossyPainter.
+    * Client will check every 2s if logger configuration has changed.
+    * (#231) Added 'gender' attribute to actor.
+    * (#225) Added XP bar (static).
+    * (#232) Gender of a player's actor affects background image in equipment window.
+    * (#242) Disabled dragging columns in tables.
+    * (#243) Clicking a table header causes the contents to be sorted by clicked column.
+    * (#208) Table headers visually respond to mouse events.
+    * (#272) Added 'recent' column to item tables; used for default sorting order.
+    * (#246) Using 'weight' icon instead of a label where appropriate.
+    * (#247) Gold display in inventory window.
+    * (#256) Resistances displayed in character/statistics window.
+    * Created popup menus from item tables and actor list.
+    - (#266) Client now does not perform precise cooldown down-counting. PlayerController pauses for required time; ui classes calculate current value as needed.
+    - (#231) Actors have 'gender' attribute.
+    - Log4j updated to 1.2.16 version. 
+    - MySQL connector updated to 5.1.13 version.
+    - (#236) Removed name and description attributes from tile type.
+    - (#219) Added MechanicInternals with XP leveling requirement formula.
+    - (#177) Using 'idle' command to allow player requests not to end when target is reached (used in 'follow').
+    - (#178) Added 'interruptible' attribute to player requests; made some request not interruptible.
+    
+
+Fixes:
+    * (#267) Dropped support for running client with 'Default LAF' (without synth).
+    * (#245) Client receives gold amount of player's actors.
+    * (#242) Disabled column moving in actors and items tables.
+    * (#256) Added resistances to player statistic panel (removed 'Proficiencies')
+    * (#70) Actor movement animation more smooth.
+    - UiEvent structures simplified - less code to maintain, yet a little harder component development.
+    - (#206) No more separate versions of XML files - just application version will be used.
+    - (#213) Fixed inconsistency in protocol - item weight synchronization.
+    - (#266) Rebuilt PlayerController, removed cooldownThread.
+    - (#269) Exception when mouse pointer leaves client window after hovering over actor table.
+    - (#245) Fixed gold not being sent in player's actors list.
+
+
+
+Client 0.4.3 - 2010/10/24
+----------------------------------
+
+Features:
+    * (#224) Refactored 'Choose actor' panel.
+    * (#23) Added tooltip describing other actors.
+	* Default client font changed to Sans; Dialog font is also used in some contexts.
+	* (#223) Added buttons to show statistics and items windows next to equipment window.
+	* Client closes when disconnected and auto-login is enabled.
+	- Reworked client state management and auto-login functionality.
+
+Fixes:
+	* (#211) Critical chance added to weapon attack
+	* (#234) Changed layout of 'Statistics' window.
+	- Fixed a bug that caused an assertion fail when a multiple-item stack left field of view.
+    - Updated i18n4j version to 0.4.2
+
+
+
+Client 0.4.2 - 2010/10/11
+----------------------------------
+
+Fixes:
+    * Item tooltips refactored (many icons added).
+    * (#24) Added 'Statistics' window.
+    * (#181) Fixed item types for armors sometimes not loading.
+    * (#216) Added new component for displaying currency values. 
+    * (#148) Added 'overloaded' indicator.
+    * (#197) Automatic 'goto' will move player into 'proximity' of target, not to it's exact location.
+    * (#211) Removed 'drop indicator' from item table.
+    * (#210) Hidden gaps between cells in item table.
+    - (#181) Fixed problem with loading items types on client. 
+    - (#205) More 'state consistency' checks in authorization module, fixes some thread-race errors
+ 
+
+
+Client 0.4.1 - 2010/08/15
+----------------------------------
+
+Features:
+    * (#188) Item icons used in tooltips.
+    * (#189) Item icons used in equipment window.
+    * (#190) Item icons used in item tables.
+    * (#193) New damage and attack icons (fire icon by Yusuke Kamiyamane).
+    - (#187) Created ImageProxyComponent for displaying ImageProxy.
+    - (#186) ImageDB now can return icons for items.
+
+Fixes:
+    * (#195) Problems with refreshing visible actors list fixed.
+    * (#196) Not fully loaded item (stub type) cannot be unequipped (caused client crash).
+    * (#194) Re-positioned actor list table on main game window.
+    * (#199) Item tool tip displays proper amount of seconds of cooldown (was displaying turns number).
+    * (#198) Added vertical gap between components in "Ground" frame.
+    * (#204) Inventory, Equipment etc windows will update properly after some changes on server side or when item type is loaded.
+    * (#203) Actors list refreshed properly when moving.
+  
+
+
+Client 0.4.0 - 2010/07/20
+----------------------------------
+
+Features:
+    * Support for picking up, dropping and equipping items.
+    * Inventory, Character sheet (including equipment) and Ground windows added.
+    * (#182) Changed login procedure - other actors/clients of same player will be disconnected just after acceptance of password (was: after choosing new actor)
+    * (#74) Added default user name and password on client login screen and disabled password clearing after login on client.
+    * (#95) Added "About" button to login dialog that window containing license.
+    * I18n utility moved to separate project (i18n4j) and re-attached to Stigma as external library.
+    * (#52) 'Connection timed out' detection added.
+    * Player actor choosing screen reworked.
+    * (#124) Client sends "pings" to server to sustain connection. Those can be used to measure "lag". 
+    * (#33) Path-finding is used every move if player actor is not following the MapType-derived shortest path.
+    * Issuing an invalid move order halts player actor instead of being ignored.
+    * Added command line arguments to ReadMe.txt.
+    - Removed widgets, GUI is now done using 'sprite engine' and standard Swing components.
+    - GUI is using customized Synth Look&Feel.
+    - Renamed packages to pl.minions.org.* - now they match existing domain.
+    - (#118) 'Time-stamp' protocol implemented for items (items data synchronization client-server).
+    - AllClassesLoader added to i18n tool - no more "static registering" of classes needed.
+    - Single Commands wrapping class split to many packages.
+    - Single Deltas wrapping class split to many packages. Separate package delta created.
+    - Single NetworkMessage wrapping class split to many packages.
+    - Great re-factoring - Deltas split to Events and WorldData. Changed interpretation of Events - more descriptive, less general.
+    - 'Time-stamp' protocol refactored to be more generic.
+    - ArchetypeAsyncDB will always return some Archetype, user is responsible for checking whether or not it is "accumulated".
+    - (#115) ArchetypeAsyncDB will accumulated archetypes in XmlReader thread instead of user thread.
+    - (#123) Renamed "resistance deflection" to "relative resistance"
+    - (#67) Moved MapInstance completion from GUI classes to Client (CommandThread)
+    - Created SystemMessage class for transporting different events to player.
+    - Added possibility for monitoring progress of processing XML files.
+    
+Fixes:
+    * (#76) Fixed phantom player actor after logging out on safe map and logging in again.
+    * (#99) When missing translated string i18n utility will no longer crash application.
+    * (#107) Newly logged player's actor didn't have actual stamina level restored.
+    - (#75) Introduced thread safety to ActorAnimator and SpriteLayer classes.
+    * (#110) Player receive archetypes of his actors when logging in.
+
+
+
+Client 0.3.0 - 2009/07/01
+----------------------------------
+
+Features:
+    * (#37) Created some stubs for calculating actor dynamic characteristics (ActorCalculator class) - less data is sent to client.
+    * (#38) Added logout button.
+    * (#38) Player's actors disabled (for example due to recent logout) are listed, but cannot be chosen.
+    * (#53) Added a button for refreshing enabled/disabled states of player actors while logging in.
+    * Modified terrain rendering.
+    * (#64) Added "Stigma Client <version>" text visible when not in game.
+    * Modified client frame caption.
+    * Changed actor ellipses from a graphic primitive to a colored image.
+    * Actors and viewport movement 'almost' smooth.
+    * Clipped rendered map to seven tiles in each direction around player actor (15x15 tiles viewport).  
+    - (#25) 'Time-stamp' protocol implemented (actor data synchronization client-server).
+    - (#40) Entrance/Exit renamed to EntryZone/ExitZone.
+    - Game rendering moved to SpriteCanvas.
+    - Map renamed to MapInstance.
+    - TileSet renamed to TerrainSet.
+    - LoginState enum values changed to UPPER_CASE.
+    - Added BufferedImageFiltering class.
+
+Fixes:
+    - (#45) Fixed cleanup of game widgets on disconnect.
+    - (#32) Fixed cleanup of path finder on disconnect.
+    - (#28) Fixes in path finding algorithm.
+    - (#12) There's now a single background panel widget instead of every widget having it's own background.
+    - Cooldown thread now checks time after entering a critical section, not before.
+    
+Translations:
+    * Stub for future Polish translation added.
+
+
+
+Client 0.2.4 - 2009/04/12
+----------------------------------
+
+Fixes:
+    * (#8) Client now remembers whether it sent an authentication response to server for current login state (no more "double messages in row" problem).
+    - (#9) ThreadSafeMap - added reference counter, less possibility of ConcurentModificationException 
+    - (#10) BufferOverflowException error while encoding some commands fixed,
+            changed fixed sizes of commands/deltas.
+
+Features:
+    * Displayed Actors have tips displaying their names.
+    * (#4) Added "Click & go" to client, preserving ability to move using directional keys.
+    * Added an icon representing player's movement destination. 
+    - (#13) Server sends information about failed commands (does NOT change protocol, just interpretation).
+    - (#3) Path-finding algorithm implementation (based on A*).
+    - Added auto-size feature to Text widget (sacrificing displaying the Text widget during single paintHierarchy call).
+    - Simplified Tip class. Now auto-sizes by default.
+    - Frequently occurring log messages moved form debug level to trace for efficiency.
+    - Much more informational "toString()" method of Commands and Deltas.
+    - Added PlayerController class for handling high-level user input.
+	- Client swallowed commands when they were two frequent. This feature became obsolete and has been removed.
+
+
+
+Client 0.2.3 - 2008/12/17
+----------------------------------
+
+Fixes:
+    * Sending bad password and then trying to type in login window no longer crashes client (reported by sacher).
+    * Client will not try to send login message with empty login/password (reported by sacher).
+
+
+
+Client 0.2.2 - 2008/12/14
+----------------------------------
+
+Features:
+    * Selecting text in edit fields in now fully supported in our widgets engine and therefore in login screen.
+    - Mouse dragging updates mouse position in WidgetsUI.
+    * Clipboard operations in edit fields are now fully supported in our graphics engine and therefore in login screen.
+    * 'Tabbing' through login/password edits - much more functional login window.
+    - LineEdit has "next line edit" property.
+    * Pressing 'ENTER' on login screen will have the same effect as pressing the OK button.
+    - LineEdit has "enter pressed action" property.
+    * Main color theme changed.
+    - Palette class is now easier to use - utility class with static final fields.
+    - BBCodeParser gets now the default font and color in constructor instead of depending on Palette class.
+    - Moved Palette class to ...widgets package.
+    * Rearranged in-game widgets.
+    - Separated Login and PlayerActorChooser widgets for easier separate customization.
+
+Fixes:
+    * Password is no longer remembered by UI after hitting "OK" on log-in screen.
+    - Fixed LayoutAssistant bug that would throw an exception upon receiving a null Alignment (now just leaves unaligned).
+
+
+
+Client 0.2.1 - 2008/12/05
+----------------------------------
+
+Fixes:
+    * All resources (XML, images) are now loaded using hexadecimal numbers.
+    * Major performance boost with new mechanism for loading and caching images.
+    - New ImageDB with ImageProxy, which, for example, can report an error. This way it is possible to know, after a certain amount of time, if the image is unreachable.
+    - TileWidget checks if tile image exists and when told it does not exist, the widget ceases trying to retrieve it
+    * Moved some client threads around.
+    * Added additional 100 ms command cooldown on client (less possibility for server to reject client).
+
+
+
+Client 0.2.0 - 2008/11/23
+----------------------------------
+
+Features:
+    * Client can use uncompressed resources, configured by server parameter.
+    * Added support for tile images. They are used if present and loaded. Otherwise tile color and a black border for non-passable tiles are used.
+    * Replaced FPS bar with estimated FPS counter (debug mode).
+
+Resources:
+    * Added default actor image (local image).
+
+Fixes:
+    * Fixed bugs that made it impossible to use maps with more than one segment.
+    * Fixed problem with phantom actor on new map after 'seeing' actor entering from that map.  
+    * Client run as an applet can load images from it's JAR file.
+    * Improved performance by disabling composition buffers in segment widgets.
+    
+    
+
+Client 0.1.0 - 2008/11/16
+----------------------------------
+
+Features:
+    * Establishing and reestablishing connection to server.
+    * Security keys exchange with the server.
+    * Logging to the server using any registered account.
+    * Choosing an 'actor' from available to logged in user.
+    * Error detection and handling during login (bad client version, bad user name/password etc.)
+    * First practical use of the 'minions widgets'. They seem to actually work.
+    * Map loading and rendering.
+    * Navigation on map using keyboard (to be removed in future versions).
+    * Map changing when player 'actor' changes map.
+    * Rendering moves of other 'actors'.
+
+==============================================================
+=== switched to new development plan - new version numbers ===
+===            below are 'deprecated' versions             ===
+==============================================================
+
+Client 0.1 Beta - 2008/03/20
+----------------------------------
+
+Features:
+    * (Re)Establishing connection to the server
+    * Security keys exchange with the server
+    * Logging to the server using any registered account
+    * Choosing an 'actor' from available for logged account account
+    * Error detection and handling during logging in (like bad client version, bad username/password etc.)
+    * First practical use of the 'stigma widgets'. They seem to actually work.

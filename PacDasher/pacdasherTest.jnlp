@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+"
+  codebase="http://localhost:8080/pacdasher"
+  href="pacdasherTest.jnlp">
+  <information>
+    <title>PacDasher</title>
+    <vendor>James McCabe</vendor>
+    <homepage href="."/>
+    <description>PacDasher</description>
+    <description kind="short">PacDasher</description>
+    <icon href="images/pacLeft.gif"/>
+    <icon kind="splash" href="images/pacLeft.gif"/>
+    <offline-allowed/>
+  </information>
+  <security>
+    <!-- all permission necessary for full-screen exclusive mode -->
+    <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.5+" initial-heap-size="64m"/>
+    <jar href="jars/pacdasher.jar"/>
+    <jar href="jars/pacdasher_resources.jar"/>
+    <jar href="jars/jaxp-api.jar"/>
+    <jar href="jars/sax.jar"/>
+    <jar href="jars/xercesImpl.jar"/>
+    <jar href="jars/xml-apis.jar"/>
+  </resources>
+  <application-desc
+    main-class="com.oranda.pacdasher.PacDasherMain">
+    <argument>pacdasherVariety.xml</argument>
+  </application-desc>
+</jnlp>

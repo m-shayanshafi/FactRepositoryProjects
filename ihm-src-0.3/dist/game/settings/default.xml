@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SETTINGS>
+<SETTING DESCRIPTION="Minus points for no training over all attributes per day " NAME="TRAINING_ATTRIBUTES_MINUS" TYPE="double" VALUE="1.0"/>
+<SETTING DESCRIPTION="Plus points for training over one attribute per day " NAME="TRAINING_ATTRIBUTES_PLUS" TYPE="double" VALUE="1.5"/>
+<SETTING DESCRIPTION="Energy lost for one training unit " NAME="TRAINING_ENERGY_MINUS" TYPE="double" VALUE="0.5"/>
+<SETTING DESCRIPTION="Energy win for 'relaxing' training " NAME="TRAINING_ENERGY_PLUS" TYPE="double" VALUE="2.0"/>
+<SETTING DESCRIPTION="Impact on Players Form for game won " NAME="IMPACT_GAMEWON_FORM" TYPE="double" VALUE="1.0"/>
+<SETTING DESCRIPTION="Impact on Players motivation for game won " NAME="IMPACT_GAMEWON_MOTIVATION" TYPE="double" VALUE="1.0"/>
+<SETTING DESCRIPTION="Impact on Players Form for game tied " NAME="IMPACT_GAMETIED_FORM" TYPE="double" VALUE="0.0"/>
+<SETTING DESCRIPTION="Impact on Players motivation for game tied " NAME="IMPACT_GAMETIED_MOTIVATION" TYPE="double" VALUE="0.0"/>
+<SETTING DESCRIPTION="Impact on Players Form for game lost " NAME="IMPACT_GAMELOST_FORM" TYPE="double" VALUE="-1.0"/>
+<SETTING DESCRIPTION="Impact on Players motivation for game lost " NAME="IMPACT_GAMELOST_MOTIVATION" TYPE="double" VALUE="-1.0"/>
+<SETTING DESCRIPTION="Impact on Players Form for goal " NAME="IMPACT_GOAL_FORM" TYPE="double" VALUE="0.5"/>
+<SETTING DESCRIPTION="Impact on Players motivation for goal " NAME="IMPACT_GOAL_MOTIVATION" TYPE="double" VALUE="0.5"/>
+<SETTING DESCRIPTION="Impact on Players Form for assist " NAME="IMPACT_ASSIST_FORM" TYPE="double" VALUE="0.1"/>
+<SETTING DESCRIPTION="Impact on Players motivation for assist " NAME="IMPACT_ASSIST_MOTIVATION" TYPE="double" VALUE="0.1"/>
+<SETTING DESCRIPTION="Impact on Players Form for game palyed " NAME="IMPACT_GAMEPLAYED_FORM" TYPE="double" VALUE="0.1"/>
+<SETTING DESCRIPTION="Impact on Players motivation for game played " NAME="IMPACT_GAMEPLAYED_MOTIVATION" TYPE="double" VALUE="0.1"/>
+<SETTING DESCRIPTION="Impact on Players Form for penalty " NAME="IMPACT_PENALTY_FORM" TYPE="double" VALUE="-0.1"/>
+<SETTING DESCRIPTION="Impact on Players motivation for penalty " NAME="IMPACT_PENALTY_MOTIVATION" TYPE="double" VALUE="-0.1"/>
+<SETTING DESCRIPTION="Impact on Players Form for goal against " NAME="IMPACT_GOALAGAINST_FORM" TYPE="double" VALUE="-0.5"/>
+<SETTING DESCRIPTION="Impact on Players motivation for goal against " NAME="IMPACT_GOALAGAINST_MOTIVATION" TYPE="double" VALUE="-0.5"/>
+<SETTING DESCRIPTION="Do not sell goalie if less than n are in the current team " NAME="AUTO_TRANSFER_GOALIE_MIN_POS_COUNT" TYPE="int" VALUE="2"/>
+<SETTING DESCRIPTION="Do not sell defense if less than n are in the current team " NAME="AUTO_TRANSFER_DEFENSE_MIN_POS_COUNT" TYPE="int" VALUE="6"/>
+<SETTING DESCRIPTION="Do not sell center if less than n are in the current team " NAME="AUTO_TRANSFER_CENTER_MIN_POS_COUNT" TYPE="int" VALUE="3"/>
+<SETTING DESCRIPTION="Do not sell winger if less than n are in the current team " NAME="AUTO_TRANSFER_WING_MIN_POS_COUNT" TYPE="int" VALUE="6"/>
+<SETTING DESCRIPTION="Sell goalie if more than n are in the current team " NAME="AUTO_TRANSFER_GOALIE_MAX_POS_COUNT" TYPE="int" VALUE="3"/>
+<SETTING DESCRIPTION="Sell defense if more than n are in the current team " NAME="AUTO_TRANSFER_DEFENSE_MAX_POS_COUNT" TYPE="int" VALUE="9"/>
+<SETTING DESCRIPTION="Sell center if more than n are in the current team " NAME="AUTO_TRANSFER_CENTER_MAX_POS_COUNT" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="Sell winger if more than n are in the current team " NAME="AUTO_TRANSFER_WING_MAX_POS_COUNT" TYPE="int" VALUE="9"/>
+<SETTING DESCRIPTION="Do not transfer (buy) more than n players/year from the transfer list " NAME="AUTO_TRANSFER_MAX_COUNT" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="Prospects at game start count " NAME="SCENARIO_PROSPECTS_START_COUNT" TYPE="int" VALUE="20"/>
+<SETTING DESCRIPTION="Contracts for players are generated for  1 - X years " NAME="SCENARIO_START_MAX_CONTRACT_YEARS" TYPE="int" VALUE="4"/>
+<SETTING DESCRIPTION="Prospects max improvement per week " NAME="PROSPECTS_MAX_WEEKLY_IMPROVEMENT" TYPE="double" VALUE="0.25"/>
+<SETTING DESCRIPTION="Prospects minimal age " NAME="PROSPECTS_MIN_AGE" TYPE="int" VALUE="12"/>
+<SETTING DESCRIPTION="Prospects maximal age " NAME="PROSPECTS_MAX_AGE" TYPE="int" VALUE="19"/>
+<SETTING DESCRIPTION="Monthly salary multiplier (each one of 0 - 100 marketvaluepoints stay for x credits) " NAME="PLAYER_CONTRACT_SALARY_MULTIPLIER" TYPE="int" VALUE="4000"/>
+<SETTING DESCRIPTION="Salary multiplier (each one of 0 - 100 marketvaluepoints stay for x credits) " NAME="PLAYER_CONTRACT_TRANSFER_FEE_MULTIPLIER" TYPE="int" VALUE="2000"/>
+<SETTING DESCRIPTION="Percent a salary / transferfee may differ from the FAIR value " NAME="PLAYER_CONTRACT_FAIR_RANGE" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="How many injuries per team in one year " NAME="INJURIES_COMMON_PER_YEAR" TYPE="int" VALUE="15"/>
+<SETTING DESCRIPTION="How many injuries per team in one year " NAME="INJURIES_AVERAGE_PER_YEAR" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="How many injuries per team in one year " NAME="INJURIES_RARE_PER_YEAR" TYPE="int" VALUE="2"/>
+<SETTING DESCRIPTION="Max injured players per team at once " NAME="INJURIES_MAX_PER_TEAM" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="Random events per year on user's Team " NAME="GLOBAL_IMPACTS_RANDOM_EVENTS_TEAM_YEAR" TYPE="int" VALUE="10"/>
+<SETTING DESCRIPTION="Random events per year on user's Player " NAME="GLOBAL_IMPACTS_RANDOM_EVENTS_PLAYER_YEAR" TYPE="int" VALUE="20"/>
+<SETTING DESCRIPTION="Max players match energy (reseted) " NAME="MATCH_PLAYER_ENERGY_MAX" TYPE="int" VALUE="100"/>
+<SETTING DESCRIPTION="Players match energy loss by minute on ice (also dpendent on players overall energy) " NAME="MATCH_PLAYER_ENERGY_MINUTE_LOSS" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="Players match energy win by minute off ice (also dependent on players overall energy) " NAME="MATCH_PLAYER_ENERGY_MINUTE_WIN" TYPE="int" VALUE="3"/>
+<SETTING DESCRIPTION="How much % a offered sponsring amount may vary." NAME="SPONSORING_AMOUNT_RANGE" TYPE="int" VALUE="15"/>
+<SETTING DESCRIPTION="" NAME="SPONSORING_NEGOTIATION_INCREASE_BONUS" TYPE="int" VALUE="5"/>
+<SETTING DESCRIPTION="How much % (to the 100%) the happienes of a company may decrease while one negotiation round." NAME="SPONSORING_NEGOTIATION_HAPPINESS_DECREASE" TYPE="int" VALUE="55"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_MAIN_VALUE" TYPE="int" VALUE="10000"/>
+<SETTING DESCRIPTION="" NAME="SPONSORING_TYPE_ARENA_BOARD_VALUE" TYPE="int" VALUE="1000"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_ARENA_ICE_VALUE" TYPE="int" VALUE="1000"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_MEDIA_TV_VALUE" TYPE="int" VALUE="5000"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_MEDIA_RADIO_VALUE" TYPE="int" VALUE="2000"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_MEDIA_WEB_VALUE" TYPE="int" VALUE="1500"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_TEAM_MAIN_VALUE" TYPE="int" VALUE="5000"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_TEAM_STICK_VALUE" TYPE="int" VALUE="500"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_TEAM_SKATES_VALUE" TYPE="int" VALUE="200"/>
+<SETTING DESCRIPTION="Value/Multiplikator of a Sponsoring." NAME="SPONSORING_TYPE_TEAM_EQUIPMENT_VALUE" TYPE="int" VALUE="2000"/>
+<SETTING DESCRIPTION="Cost per Seat for category increase" NAME="INFRASTRUCTURE_ARENA_COST_PER_SEAT_INCREASE" TYPE="int" VALUE="5000"/>
+<SETTING DESCRIPTION="Cost per Seat for cheap comfort" NAME="INFRASTRUCTURE_ARENA_COST_PER_SEAT_COMFORT_CHEAP" TYPE="int" VALUE="150"/>
+<SETTING DESCRIPTION="Cost per Seat for normal comfort" NAME="INFRASTRUCTURE_ARENA_COST_PER_SEAT_COMFORT_NORMAL" TYPE="int" VALUE="250"/>
+<SETTING DESCRIPTION="Cost per Seat for cheap comfort" NAME="INFRASTRUCTURE_ARENA_COST_PER_SEAT_COMFORT_DELUXE" TYPE="int" VALUE="350"/>
+<SETTING DESCRIPTION="Match Engine Class." NAME="MATCH_ENGINE" TYPE="java.lang.string" VALUE="org.icehockeymanager.ihm.game.match.textengine.TextMatch"/>
+<SETTING DESCRIPTION="Use the simple Gui 0 = no / 1 = yes" NAME="MATCH_USE_SIMPLEGUI" TYPE="int" VALUE="0"/>
+</SETTINGS>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Vinte e um Propagações Do Cartão (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">passado imediato</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Fator atual de Inobvious</entry><entry key="Meaning2">Um fator importante no presente. Inobvious.</entry>
+	<entry key="PositionTitle3">Estado de mente</entry><entry key="Meaning3">Estado do seeker de mente</entry>
+	<entry key="PositionTitle4">Futuro imediato</entry><entry key="Meaning4">Futuro imediato mais provável</entry>
+	<entry key="PositionTitle5">Fator atual óbvio</entry><entry key="Meaning5">Um fator importante no presente. Muito óbvio</entry>
+	<entry key="PositionTitle6">Sentimentos do gut</entry><entry key="Meaning6">Sentimentos do gut do seeker.</entry>
+	<entry key="PositionTitle7">Modifica o cartão 2 1 passado</entry><entry key="Meaning7">Influências no passado que afetou #2</entry>
+	<entry key="PositionTitle8">Modifica o cartão 2 2 passados</entry><entry key="Meaning8">Influências no passado que afetou #2</entry>
+	<entry key="PositionTitle9">Modifica o cartão 3 agora 1</entry><entry key="Meaning9">Influências da corrente que afetam # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle10">Modifica o cartão 3 agora 2</entry><entry key="Meaning10">Influências da corrente que afetam # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle11">Modifica o futuro 1 do cartão 5</entry><entry key="Meaning11">Influências futuras possíveis, afetando #5</entry>
+	<entry key="PositionTitle12">Modifica o futuro 2 do cartão 5</entry><entry key="Meaning12">Influências futuras possíveis, afetando #5</entry>
+	<entry key="PositionTitle13">Modifica o cartão 6 agora 1</entry><entry key="Meaning13">Influências atuais óbvias, afetando #6</entry>
+	<entry key="PositionTitle14">Modifica o cartão 6 agora 2</entry><entry key="Meaning14">Influências atuais óbvias, afetando #6</entry>
+	<entry key="PositionTitle15">Físico</entry><entry key="Meaning15">Situação do exame do seeker. Saúde ou status 
+possível da vida</entry>
+	<entry key="PositionTitle16">Raiz dentro past</entry><entry key="Meaning16">A raiz da matéria no passado</entry>
+	<entry key="PositionTitle17">Matéria atual</entry><entry key="Meaning17">Uma matéria atual. Pode ser escondida ou 
+desconhecida e negligenciada, ou pode representar as suposições, 
+possivelmente incorretas</entry>
+	<entry key="PositionTitle18">O espiritual</entry><entry key="Meaning18">O espiritual do seeker . Isto pode opôr a ou 
+iluminar os desejos conscious do seeker</entry>
+	<entry key="PositionTitle19">Evento futuro</entry><entry key="Meaning19">Um evento futuro provável</entry>
+	<entry key="PositionTitle20">Reflexões</entry><entry key="Meaning20">O que o seeker deve pensar sobre</entry>
+</oracleio>

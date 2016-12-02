@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Σχεδιάγραμμα chakra επτά καρτών</entry>
+	<entry key="Description">Κάθε κάρτα αντιστοιχεί σε ένα από τα επτά chakras του 
+σώματος. Η κατάλληλη τη μελέτη του αντηκειμένου θα 
+ενθαρρυνόταν κατά χρησιμοποίηση αυτού του σχεδιαγράμματος και ο 
+κατάλογος προορίζεται κατωτέρω μόνο ως οδηγός αναφοράς που 
+εξάγεται από το βιβλίο Guiley. Οι ερμηνείες κάθε θέσης 
+μπορούν να ποικίλουν ανάλογα με τις εκμαθήσεις σας</entry>
+	<entry key="PositionTitle0">Chakra ρίζας</entry><entry key="Meaning0">Μόνος-συντήρηση και ένστικτα</entry>
+	<entry key="PositionTitle1">Ιερό chakra</entry><entry key="Meaning1">Σεξουαλικότητα</entry>
+	<entry key="PositionTitle2">Ηλιακό πλέγμα</entry><entry key="Meaning2">Συγκινήσεις</entry>
+	<entry key="PositionTitle3">Καρδιά chakral</entry><entry key="Meaning3">Υψηλότερη συνείδηση, απεριόριστη αγάπη</entry>
+	<entry key="PositionTitle4">Chakra λαιμού</entry><entry key="Meaning4">Δημιουργικότητα και μόνη έκφραση</entry>
+	<entry key="PositionTitle5">Τρίτο chakra ματιών</entry><entry key="Meaning5">Ψυχικές δυνατότητες, πνευματικός Διαφωτισμός</entry>
+	<entry key="PositionTitle6">Chakra κορωνών</entry><entry key="Meaning6">Μεμονωμένο επίπεδο συνειδητού evoluion</entry>
+</oracleio>

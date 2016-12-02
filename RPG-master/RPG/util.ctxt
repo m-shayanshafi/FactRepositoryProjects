@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=frame\ p
+comment0.target=java.awt.Point\ map_to_frame(javax.swing.JFrame,\ java.awt.Point)
+comment1.params=d\ i
+comment1.target=java.awt.image.BufferedImage\ resize_img(java.awt.Dimension,\ java.awt.image.BufferedImage)
+comment2.params=p
+comment2.target=java.awt.Point\ screen_point_adjust(java.awt.Point)
+comment3.params=img
+comment3.target=java.awt.image.BufferedImage\ toBufferedImage(java.awt.Image)
+comment4.params=img
+comment4.target=java.awt.image.BufferedImage\ blur(java.awt.image.BufferedImage)
+numComments=5

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Yes or No Spread (Peach)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Sí o ninguna extensión (melocotón)</entry>
+	<entry key="Description">El melocotón sugiere que las tarjetas estén leídas 
+adentro la orden siguiente: 1+2, 3+4, 7+8, 5+6, 9+10 observan 
+que ' las influencias provechosas ' y ' adversas ' están siempre con 
+respecto al resultado demostrado en la tarjeta 2. Así si la 
+respuesta viene encima de no, las tarjetas 3 y 4 ayudarán a ese 
+resultado y ayudarán no no necesariamente a querent. Puesto que
+el melocotón dice esa tarjeta si la tarjeta 2 es vertical, la 
+respuesta a la pregunta era sí; si está invertido, no, 
+entonces usted debe permitir probablemente "permite tarjetas 
+invertidas" </entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Situación actual para el querent</entry>
+	<entry key="PositionTitle1">tarjeta que contesta</entry><entry key="Meaning1">Si es vertical, la respuesta a la pregunta era sí; 
+si está invertido, no. También la tarjeta del resultado 
+para la lectura.</entry>
+	<entry key="PositionTitle2">Influencias Provechosas 1</entry><entry key="Meaning2">Razonó el resultado ocurrirá</entry>
+	<entry key="PositionTitle3">Influencias Provechosas 2</entry><entry key="Meaning3">Razonó el resultado ocurrirá</entry>
+	<entry key="PositionTitle4">Pensamientos 1 de Querent</entry><entry key="Meaning4">Pensamientos de Querent con respecto a la materia</entry>
+	<entry key="PositionTitle5">Pensamientos 2 de Querent</entry><entry key="Meaning5">Pensamientos de Querent con respecto a la materia</entry>
+	<entry key="PositionTitle6">Influencia Adversa 1</entry><entry key="Meaning6">Cosas que están trabajando contra el resultado</entry>
+	<entry key="PositionTitle7">Influencia Adversa 2</entry><entry key="Meaning7">Cosas que están trabajando contra el resultado</entry>
+	<entry key="PositionTitle8">Sensaciones 1 de Querent</entry><entry key="Meaning8">Sensaciones de Querent con respecto a la materia</entry>
+	<entry key="PositionTitle9">Sensaciones 2 de Querent</entry><entry key="Meaning9">Sensaciones de Querent con respecto a la materia</entry>
+</oracleio>

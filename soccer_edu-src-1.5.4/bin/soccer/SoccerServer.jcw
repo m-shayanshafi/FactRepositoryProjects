@@ -1,0 +1,18 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "SoccerServer"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\SoccerServer.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\server\\Host.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerWorld.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\HeartOfWorld.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerRules.java" #[EndFile]
+#[BeginFile]SOURCE := "\\server\\SoccerServer.java" #[EndFile]
+
+! Start Breakpoint Structure
+

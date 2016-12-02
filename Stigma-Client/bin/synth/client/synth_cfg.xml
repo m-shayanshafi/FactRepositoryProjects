@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synth>
+	<color id="panelDark" value="#ff404040" />
+	<color id="panelDarkTransparent" value="#7f404040" />
+	<color id="panelBright" value="#ff575757" />
+	<color id="panelBrightTransparent" value="#7f575757" />
+	<color id="panelBorder" value="#ffbfbfbf" />
+	<color id="panelBorderDark" value="#ff808080" />
+	<color id="selectionColor" value="WHITE" />
+	<color id="caretColor" value="WHITE" />
+	<color id="nullColor" value="#00000000" />
+
+	<object class="pl.org.minions.utils.ui.synth.ColorPainter" id="ColorPainter" />
+	<object class="pl.org.minions.utils.ui.synth.RoundedPainter" id="RoundedPainter" />
+	<object class="pl.org.minions.utils.ui.synth.BulletPainter" id="BulletPainter" />
+	<object class="pl.org.minions.stigma.client.ui.swing.GlossyPainter"
+		id="GlossyPainter" />
+
+	<object class="pl.org.minions.utils.ui.synth.NullPainter" id="NullPainter" />
+
+	<style id="backingStyle">
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<font name="Sans" size="12" />
+		<state>
+			<color value="BLACK" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="RED_STYLE">
+		<!-- debug red colored style -->
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<state>
+			<color value="RED" type="BACKGROUND" />
+			<color value="RED" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="BLUE_ROLLOVER">
+		<!-- debug blue rollover style -->
+		<state value="MOUSE_OVER">
+			<color value="BLUE" type="BACKGROUND" />
+			<color value="BLUE" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="viewportBackground">
+		<painter idref="ColorPainter" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+		</state>
+	</style>
+
+	<style id="rootPane">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets bottom="2" left="2" right="2" top="2" />
+		<state>
+			<color idref="panelDarkTransparent" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="internalFrame">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets bottom="4" left="4" right="4" top="4" />
+		<state>
+			<color idref="panelBrightTransparent" type="BACKGROUND" />
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+	</style>
+
+
+	<style id="titlePane">
+		<opaque value="false" />
+		<insets bottom="0" left="0" right="0" top="0" />
+		<font name="Sans" size="13" style="BOLD" />
+		<object id="maximizeIcon"
+			class="pl.org.minions.stigma.client.ui.swing.ResourcerIconUIResource">
+			<string>img/client/icons/frame/maximize.png</string>
+		</object>
+		<object id="minimizeIcon"
+			class="pl.org.minions.stigma.client.ui.swing.ResourcerIconUIResource">
+			<string>img/client/icons/frame/minimize.png</string>
+		</object>
+		<object id="iconifyIcon"
+			class="pl.org.minions.stigma.client.ui.swing.ResourcerIconUIResource">
+			<string>img/client/icons/frame/iconify.png</string>
+		</object>
+		<object id="closeIcon"
+			class="pl.org.minions.stigma.client.ui.swing.ResourcerIconUIResource">
+			<string>img/client/icons/frame/close.png</string>
+		</object>
+		<property key="InternalFrameTitlePane.maximizeIcon" type="idref"
+			value="maximizeIcon" />
+		<property key="InternalFrameTitlePane.minimizeIcon" type="idref"
+			value="minimizeIcon" />
+		<property key="InternalFrameTitlePane.iconifyIcon" type="idref"
+			value="iconifyIcon" />
+		<property key="InternalFrameTitlePane.closeIcon" type="idref"
+			value="closeIcon" />
+		<property key="InternalFrameTitlePane.titleAlignment" type="string"
+			value="CENTER" />
+		<insets bottom="2" left="2" right="2" top="2" />
+		<state>
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+		<state value="SELECTED">
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="label">
+		<painter idref="ColorPainter" method="labelBackground" />
+		<painter idref="NullPainter" method="labelBorder" />
+		<opaque value="false" />
+		<font name="Sans" size="12" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="DISABLED">
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="GRAY" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="grayedLabel">
+		<opaque value="false" />
+		<font name="Sans" size="10" style="ITALIC" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="GRAY" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="bigLabel">
+		<opaque value="false" />
+		<font name="Sans" size="14" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="textField">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets bottom="2" left="2" right="2" top="2" />
+		<font name="Dialog" size="15" />
+		<property key="TextField.caretForeground" type="idref" value="caretColor" />
+		<property key="PasswordField.caretForeground" type="idref"
+			value="caretColor" />
+		<state>
+			<color value="BLACK" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="GRAY" type="TEXT_FOREGROUND" />
+			<color idref="selectionColor" type="TEXT_BACKGROUND" />
+		</state>
+	</style>
+
+	<style id="panel">
+		<painter idref="ColorPainter" />
+		<opaque value="false" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="opaquePanel">
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+		</state>
+	</style>
+
+	<style id="scrollPane">
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<insets bottom="1" left="1" right="1" top="1" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="comboBox">
+		<property key="ComboBox.buttonWhenNotEditable" type="boolean"
+			value="true" />
+		<property key="ComboBox.pressedWhenPopupVisible" type="boolean"
+			value="true" />
+		<property key="ComboBox.rendererUseListColors" type="boolean"
+			value="false" />
+		<!-- Insets: top left bottom right -->
+		<!--<property key="ComboBox.popupInsets" type="insets" value="0 2 2 2" 
+			/> -->
+	</style>
+
+	<style id="comboBoxListRenderer">
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBright" type="FOREGROUND" />
+			<color idref="panelBright" type="TEXT_BACKGROUND" />
+
+			<color idref="panelBorder" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="SELECTED">
+			<color idref="selectionColor" type="TEXT_FOREGROUND" />
+			<color idref="panelDark" type="BACKGROUND" />
+		</state>
+	</style>
+
+	<style id="cbRenderer">
+		<opaque value="true" />
+		<state>
+			<color idref="selectionColor" type="TEXT_FOREGROUND" />
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBright" type="FOREGROUND" />
+		</state>
+		<state value="DISABLED">
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelDark" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="table">
+		<painter idref="RoundedPainter" />
+		<property key="Table.alternateRowColor" type="idref" value="panelBright" />
+		<property key="Table.gridColor" type="idref" value="panelBorderDark" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="tableHeader">
+		<insets left="1" right="1" top="2" bottom="2" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="tableHeaderButton">
+		<insets left="4" right="4" top="0" bottom="0" />
+		<opaque value="true" />
+	</style>
+
+	<style id="glossyButton">
+		<painter idref="GlossyPainter" />
+		<opaque value="false" />
+		<insets left="4" right="4" top="2" bottom="2" />
+
+		<font name="Dialog" size="12" style="BOLD" />
+
+		<color id="GlossyButton.background" value="#ff686868" />
+		<color id="GlossyButton.foreground" value="#ffacacac" />
+		<color id="GlossyButton.text" value="BLACK" />
+		<color id="GlossyButton.mouseOver.text" value="WHITE" />
+		<color id="GlossyButton.pressed.background" value="#ff7f7f7f" />
+		<color id="GlossyButton.pressed.foreground" value="#ff404040" />
+		<color id="GlossyButton.disabled.text" value="#ff3f3f3f" />
+		
+		<color id="GlossyButton.gloss" value="#ffd3d3d3" />
+		<color id="GlossyButton.mouseOver.gloss" value="#ffeaeaea" />
+		<color id="GlossyButton.pressed.gloss" value="#ffcfcfcf" />
+		<color id="GlossyButton.disabled.gloss" value="#ffb6b6b6" />
+
+		<state>
+			<property key="GlossyPainter.glossColor" type="idref"
+				value="GlossyButton.gloss" />
+			<color idref="GlossyButton.background" type="BACKGROUND" />
+			<color idref="GlossyButton.foreground" type="FOREGROUND" />
+			<color idref="GlossyButton.text" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="FOCUSED">
+			<property key="GlossyPainter.glossColor" type="idref"
+				value="GlossyButton.mouseOver.gloss" />
+			<color idref="GlossyButton.text" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="MOUSE_OVER">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.mouseOver.gloss" />
+			<color idref="GlossyButton.mouseOver.text" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="FOCUSED and MOUSE_OVER">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.mouseOver.gloss" />
+			<color idref="GlossyButton.mouseOver.text" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="PRESSED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+		</state>
+		<state value="FOCUSED and PRESSED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+		</state>
+		<state value="FOCUSED and MOUSE_OVER and PRESSED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+			<color idref="GlossyButton.mouseOver.text" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="SELECTED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+		</state>
+		<state value="FOCUSED and SELECTED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+		</state>
+		<state value="MOUSE_OVER and SELECTED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+			<color idref="GlossyButton.mouseOver.text" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="FOCUSED and SELECTED and MOUSE_OVER">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.pressed.gloss" />
+			<color idref="GlossyButton.pressed.background" type="BACKGROUND" />
+			<color idref="GlossyButton.pressed.foreground" type="FOREGROUND" />
+			<color idref="GlossyButton.mouseOver.text" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="DISABLED and FOCUSED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.disabled.gloss" />
+			<color idref="GlossyButton.disabled.text" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="DISABLED">
+            <property key="GlossyPainter.glossColor" type="idref"
+                value="GlossyButton.disabled.gloss" />
+			<color idref="GlossyButton.disabled.text" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="arrowButtonIcons">
+		<state>
+			<property key="GlossyPainter.arrowPath" type="string"
+				value="img/client/icons/arrow_tip_up.png" />
+		</state>
+
+		<state value="DISABLED">
+			<property key="GlossyPainter.arrowPath" type="string"
+				value="img/client/icons/arrow_tip_up_disabled.png" />
+		</state>
+
+		<state value="MOUSE_OVER">
+			<property key="GlossyPainter.arrowPath" type="string"
+				value="img/client/icons/arrow_tip_up_rollover.png" />
+		</state>
+	</style>
+
+	<style id="scrollBar">
+		<property key="ScrollBar.squareButtons" type="boolean" value="true" />
+		<property key="ScrollBar.thumbHeight" type="integer" value="16" />
+		<insets left="2" right="2" top="2" bottom="2" />
+		<painter idref="ColorPainter" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="scrollBarTrack">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="4" right="4" top="4" bottom="4" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+
+	</style>
+
+	<style id="scrollBarThumb">
+		<painter idref="RoundedPainter" />
+		<insets left="4" right="4" top="4" bottom="4" />
+		<opaque value="false" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+		<state value="MOUSE_OVER">
+			<color idref="panelBright" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="indicatorButton">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="2" right="2" top="2" bottom="2" />
+
+		<font name="Dialog" size="12" style="BOLD" />
+
+		<state>
+			<color value="BLACK" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="GRAY" type="TEXT_BACKGROUND" />
+			<color value="BLACK" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="DISABLED">
+			<color value="BLACK" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="GRAY" type="TEXT_BACKGROUND" />
+			<color value="BLACK" type="TEXT_FOREGROUND" />
+		</state>
+
+	</style>
+
+	<style id="smallButton">
+		<insets left="1" right="1" top="2" bottom="2" />
+	</style>
+
+	<style id="logoutButton">
+		<insets left="2" right="2" top="1" bottom="1" />
+	</style>
+
+	<style id="menuLeftButton">
+		<insets left="2" right="1" top="1" bottom="1" />
+	</style>
+
+	<style id="menuRightButton">
+		<insets left="1" right="2" top="1" bottom="1" />
+	</style>
+
+	<style id="menuInnerButton">
+		<insets left="1" right="1" top="1" bottom="1" />
+	</style>
+
+	<style id="invisible">
+		<painter idref="ColorPainter" />
+		<opaque value="false" />
+		<insets left="0" right="0" top="0" bottom="0" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color idref="nullColor" type="TEXT_BACKGROUND" />
+			<color idref="nullColor" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="physicalSlotButton">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="16" right="16" top="16" bottom="16" />
+
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="PRESSED">
+			<color value="DARK_GRAY" type="BACKGROUND" />
+			<color idref="nullColor" type="FOREGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="SELECTED">
+			<color idref="nullColor" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="DISABLED">
+			<color idref="nullColor" type="BACKGROUND" />
+			<color value="GRAY" type="FOREGROUND" />
+			<color idref="nullColor" type="TEXT_FOREGROUND" />
+		</state>
+
+		<state value="DISABLED and SELECTED">
+			<color idref="nullColor" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color idref="nullColor" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="roundedPanel">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="8" right="8" top="8" bottom="8" />
+		<state>
+			<color idref="panelDark" type="BACKGROUND" />
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="popupMenu">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="4" right="4" top="4" bottom="4" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBorder" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="menuItem">
+		<painter idref="RoundedPainter" />
+		<opaque value="false" />
+		<insets left="2" right="2" top="2" bottom="2" />
+		<property key="Separator.thickness" type="integer" value="1" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBright" type="FOREGROUND" />
+			<color idref="panelBorder" type="TEXT_FOREGROUND" />
+		</state>
+		<state value="MOUSE_OVER">
+			<color idref="selectionColor" type="TEXT_FOREGROUND" />
+			<color idref="panelDark" type="BACKGROUND" />
+		</state>
+		<state value="DISABLED">
+			<color value="GRAY" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="brightPanel">
+		<painter idref="ColorPainter" />
+		<opaque value="true" />
+		<state>
+			<color idref="panelBright" type="BACKGROUND" />
+			<color idref="panelBorderDark" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="progressBar">
+		<painter idref="BulletPainter" />
+		<opaque value="false" />
+		<insets bottom="2" left="4" right="4" top="2" />
+		<font name="Dialog" size="12" style="BOLD" />
+		<state>
+			<color value="LIGHT_GRAY" type="BACKGROUND" />
+			<color value="DARK_GRAY" type="TEXT_BACKGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="BLACK" type="FOCUS" />
+		</state>
+	</style>
+
+	<style id="hpProgressBar">
+		<state>
+			<color value="RED" type="BACKGROUND" />
+			<color value="#800000" type="TEXT_BACKGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="BLACK" type="FOCUS" />
+		</state>
+	</style>
+
+	<style id="spProgressBar">
+		<state>
+			<color value="GREEN" type="BACKGROUND" />
+			<color value="#018000" type="TEXT_BACKGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="BLACK" type="FOCUS" />
+		</state>
+	</style>
+
+	<style id="xpProgressBar">
+		<state>
+			<color value="BLUE" type="BACKGROUND" />
+			<color value="#000080" type="TEXT_BACKGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+			<color value="BLACK" type="FOCUS" />
+		</state>
+	</style>
+
+	<style id="cooldownIndicator">
+		<opaque value="false" />
+		<insets left="6" right="6" top="6" bottom="6" />
+		<state>
+			<color value="BLUE" type="BACKGROUND" />
+			<color value="WHITE" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="chatTextPanel">
+		<painter idref="ColorPainter" />
+		<opaque value="false" />
+		<insets left="0" right="0" top="1" bottom="0" />
+		<state>
+			<color idref="nullColor" type="BACKGROUND" />
+			<color idref="panelBright" type="FOREGROUND" />
+		</state>
+	</style>
+
+	<style id="transparentTextPane">
+		<opaque value="false" /><!-- overriden by component -->
+		<painter idref="ColorPainter" />
+		<state>
+			<color idref="panelDarkTransparent" type="BACKGROUND" />
+			<color value="WHITE" type="TEXT_FOREGROUND" />
+		</state>
+	</style>
+
+	<bind key=".*" type="region" style="backingStyle" />
+
+	<bind key="Label" type="region" style="label" />
+	<bind key="GrayedLabel" type="name" style="grayedLabel" />
+	<bind key="BigLabel" type="name" style="bigLabel" />
+
+	<bind key="(Text|Password)Field" type="region" style="textField" />
+
+	<bind key="Panel" type="region" style="panel" />
+	<bind key="RoundedPanel" type="name" style="roundedPanel" />
+	<bind key="BackgroundPanel" type="name" style="brightPanel" />
+
+	<bind key="InternalFrame.*" type="region" style="internalFrame" />
+	<bind key="RootPane" type="region" style="rootPane" />
+	<bind key="InternalFrameTitlePane" type="region" style="titlePane" />
+
+	<bind key="LicenseInfoPanel" type="name" style="opaquePanel" />
+
+	<bind key="ScrollPane" type="region" style="scrollPane" />
+	<bind key="Viewport" type="region" style="viewportBackground" />
+
+	<bind key="ScrollBar" type="region" style="scrollBar" />
+	<bind key="ScrollBarTrack" type="region" style="scrollBarTrack" />
+	<bind key="ScrollBarThumb" type="region" style="scrollBarThumb" />
+
+	<bind key="MenuBar" type="region" style="brightPanel" />
+	<bind key="PopupMenu" type="region" style="popupMenu" />
+	<bind key="MenuItem" type="region" style="menuItem" />
+	<bind key="Menu" type="region" style="glossyButton" />
+	<bind key="Menu" type="region" style="menuInnerButton" />
+	<bind key="PopupMenuSeparator" type="region" style="menuItem" />
+
+	<!--<bind key="Button" type="region" style="defaultButton" /> -->
+	<bind key="Button" type="region" style="glossyButton" />
+	<bind key="ArrowButton" type="region" style="glossyButton" />
+	<bind key="ArrowButton" type="region" style="smallButton" />
+	<bind key="ArrowButton" type="region" style="arrowButtonIcons" />
+	<bind key="ToggleButton" type="region" style="glossyButton" />
+
+	<bind key="Table" type="region" style="table" />
+	<bind key="TableHeader" type="region" style="tableHeader" />
+	<bind key="ButtonTableHeader.renderer" type="name" style="tableHeaderButton" />
+
+
+
+	<bind key="ComboBox" type="region" style="comboBox" />
+	<bind key="ComboBox.list" type="name" style="comboBoxListRenderer" />
+	<bind key="ComboBox.listRenderer" type="name" style="comboBoxListRenderer" />
+	<bind key="ComboBox.renderer" type="name" style="cbRenderer" />
+	<!-- <bind key="ComboPopup.popup" type="name" style="RED_STYLE" /> -->
+
+	<bind key="ChatTargetChooser" type="name" style="popupMenu" />
+
+	<bind key="TransparentTextPane" type="name" style="transparentTextPane" />
+	<bind key="ChatTextPanel" type="name" style="chatTextPanel" />
+	<bind key="ChatTextPanel.Viewport" type="name" style="invisible" />
+
+	<bind key="LogoutButton" type="name" style="logoutButton" />
+	<bind key="MenuLeftButton" type="name" style="menuLeftButton" />
+	<bind key="MenuRightButton" type="name" style="menuRightButton" />
+	<bind key="MenuInnerButton" type="name" style="menuInnerButton" />
+	<bind key="InternalFrameTitlePane.menuButton" type="name" style="invisible" />
+	<bind key="InternalFrameTitlePane.iconifyButton" type="name"
+		style="smallButton" />
+	<bind key="InternalFrameTitlePane.maximizeButton" type="name"
+		style="smallButton" />
+	<bind key="InternalFrameTitlePane.closeButton" type="name" style="smallButton" />
+	<bind key="PhysicalSlotButton_.*" type="name" style="physicalSlotButton" />
+	<bind key="ProgressBar" type="region" style="progressBar" />
+	<bind key="HpProgressBar" type="name" style="hpProgressBar" />
+	<bind key="SpProgressBar" type="name" style="spProgressBar" />
+	<bind key="xpProgressBar" type="name" style="xpProgressBar" />
+	<bind key="CooldownComponent" type="name" style="cooldownIndicator" />
+	<bind key="IndicatorIcon" type="name" style="indicatorButton" />
+
+</synth>

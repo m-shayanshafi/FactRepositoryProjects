@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/dis.jar"/>
+	<classpathentry kind="lib" path="lib/j3d-org.jar"/>
+	<classpathentry kind="lib" path="lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="lib/js.jar"/>
+	<classpathentry kind="lib" path="lib/uri.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="lib/vlc_uri.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-all.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-common.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-core.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-ecmascript.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-j3d.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-jaxp.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-jsai.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-net.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-parser.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-render.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-sav.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-script-base.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-xml-util.jar"/>
+	<classpathentry kind="lib" path="lib/xj3d-xml.jar"/>
+	<classpathentry kind="lib" path="raytracer.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

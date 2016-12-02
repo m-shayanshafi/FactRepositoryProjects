@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Πηγή που διαδίδεται μεγάλη (Cortese)</entry>
+	<entry key="Description">"Αυτό είναι μια καλή γενικός-χρήση που διαδίδεται για το 
+δόσιμο μιας γενικής εικόνας του ψηφίσματος σε ένα πρόβλημα στο 
+παρελθόν ή το μέλλον. Παρέχει μια ευκαιρία να εξεταστούν 
+οι εσωτερικές και εξωτερικές επιρροές προτού να ληφθούν μέτρα, η
+έναρξη ή το κίνητρο της δράσης, η πρόοδος της δράσης, το 
+ψήφισμα, και ποια εσωτερικά και εξωτερικά αποτελέσματα αυτό θα 
+έχει. Μπορεί επίσης να ενεργήσει για να δώσει έμφαση στη 
+διαδικασία από την οποία μια ερώτηση ανώτατη στο querent 
+μυαλό μπορεί να απαντηθεί, αν και μπορεί να μην δώσει την 
+απάντηση." - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Εσωτερικές επιρροές 1</entry><entry key="Meaning1">Εσωτερικές επιρροές στην εργασία, τα κίνητρα του querent,
+ή τι οι querent επιθυμίες να μάθει</entry>
+	<entry key="PositionTitle2">Εσωτερικές επιρροές 2</entry><entry key="Meaning2">Εσωτερικές επιρροές στην εργασία, τα κίνητρα του querent,
+ή τι οι querent επιθυμίες να μάθει</entry>
+	<entry key="PositionTitle3">Εσωτερικές επιρροές 3</entry><entry key="Meaning3">Εσωτερικές επιρροές στην εργασία, τα κίνητρα του querent,
+ή τι οι querent επιθυμίες να μάθει</entry>
+	<entry key="PositionTitle4">Εξωτερικές επιρροές 1</entry><entry key="Meaning4">Εξωτερικές επιρροές, ή οι επιρροές από τους ανθρώπους ή 
+πράγματα έξω από τον querent που μπορεί να είχε αναγκάσει τον
+querent για να υποβάλει την ερώτησή τους</entry>
+	<entry key="PositionTitle5">Εξωτερικές επιρροές 2</entry><entry key="Meaning5">Εξωτερικές επιρροές, ή οι επιρροές από τους ανθρώπους ή 
+πράγματα έξω από τον querent που μπορεί να είχε αναγκάσει τον
+querent για να υποβάλει την ερώτησή τους</entry>
+	<entry key="PositionTitle6">Εξωτερικές επιρροές 3</entry><entry key="Meaning6">Εξωτερικές επιρροές, ή οι επιρροές από τους ανθρώπους ή 
+πράγματα έξω από τον querent που μπορεί να είχε αναγκάσει τον
+querent για να υποβάλει την ερώτησή τους</entry>
+	<entry key="PositionTitle7">Σπόρος</entry><entry key="Meaning7">Έναρξη της δράσης, του σπόρου που θα αυξηθούν, ή της 
+ερώτησης που θα απαντηθούν</entry>
+	<entry key="PositionTitle8">Αρχές 1</entry><entry key="Meaning8">Τα αρχικά στάδια των ενεργειών</entry>
+	<entry key="PositionTitle9">Αρχές 2</entry><entry key="Meaning9">τροποποιεί την κάρτα 9 "αρχές 1". Μπορεί να δώσει μια
+μουντή εικόνα της έκβασης που ο querent έχει κατά νου, ή 
+μπορεί απλά να είναι μια περαιτέρω εξέταση των αρχών της δράσης
+υπό εξέταση.</entry>
+	<entry key="PositionTitle10">Πρόοδος 1</entry><entry key="Meaning10">Ο τρόπος ότι η έκβαση επιτυγχάνεται</entry>
+	<entry key="PositionTitle11">Πρόοδος 2</entry><entry key="Meaning11">τροποποιεί την κάρτα που 11 "πρόοδος 1" στην ίδια κάρτα 
+10 τρόπων λαναρίζουν 9.</entry>
+	<entry key="PositionTitle12">Αλλαγές 1</entry><entry key="Meaning12">Πιθανές αλλαγές στο σχέδιο, ή ψήφισμα. Αυτή η κάρτα
+μπορεί να χρησιμεύσει να εξετάσει οποιουσδήποτε τρόπους ότι ο 
+querent θα πρέπει να αλλάξει τη σειρά μαθημάτων midstream.</entry>
+	<entry key="PositionTitle13">Αλλαγές 2</entry><entry key="Meaning13">τροποποιεί την κάρτα που 13 "αλλαγές 1" στην ίδια κάρτα 
+10 τρόπων λαναρίζουν 9.</entry>
+	<entry key="PositionTitle14">Έκβαση 9-14</entry><entry key="Meaning14">Έκβαση της διαδικασίας που περιγράφεται στις κάρτες 9 - 
+14.</entry>
+	<entry key="PositionTitle15">Αποτελέσματα σε querent 1</entry><entry key="Meaning15">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τον querent</entry>
+	<entry key="PositionTitle16">Αποτελέσματα σε querent 2</entry><entry key="Meaning16">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τον querent</entry>
+	<entry key="PositionTitle17">Αποτελέσματα σε querent 3</entry><entry key="Meaning17">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τον querent</entry>
+	<entry key="PositionTitle18">Αποτελέσματα στο περιβάλλον 1</entry><entry key="Meaning18">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τα πράγματα 
+εκτός από τον querent ή σχετικά με τη querent σχέση στον 
+κόσμο γύρω από τον/την.</entry>
+	<entry key="PositionTitle19">Αποτελέσματα στο περιβάλλον 2</entry><entry key="Meaning19">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τα πράγματα 
+εκτός από τον querent ή σχετικά με τη querent σχέση στον 
+κόσμο γύρω από τον/την.</entry>
+	<entry key="PositionTitle20">Αποτελέσματα στο περιβάλλον 3</entry><entry key="Meaning20">Πιθανά αποτελέσματα του ψηφίσματος σχετικά με τα πράγματα 
+εκτός από τον querent ή σχετικά με τη querent σχέση στον 
+κόσμο γύρω από τον/την.</entry>
+</oracleio>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Veintiuno Extensiones De la Tarjeta (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">pasado inmediato</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Actual factor de Inobvious</entry><entry key="Meaning2">Un factor importante en el presente. Inobvious.</entry>
+	<entry key="PositionTitle3">Estado de la mente</entry><entry key="Meaning3">Estado del buscador de la mente</entry>
+	<entry key="PositionTitle4">Futuro inmediato</entry><entry key="Meaning4">Futuro inmediato más probable</entry>
+	<entry key="PositionTitle5">Actual factor obvio</entry><entry key="Meaning5">Un factor importante en el presente. Muy obvio</entry>
+	<entry key="PositionTitle6">Sensaciones de la tripa</entry><entry key="Meaning6">Sensaciones de la tripa del buscador.</entry>
+	<entry key="PositionTitle7">Modifica la tarjeta 2 último 1</entry><entry key="Meaning7">Influencias en el pasado que afectó #2</entry>
+	<entry key="PositionTitle8">Modifica la tarjeta 2 últimos 2</entry><entry key="Meaning8">Influencias en el pasado que afectó #2</entry>
+	<entry key="PositionTitle9">Ahora modifica la tarjeta 3 1</entry><entry key="Meaning9">Influencias de la corriente que afectan # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle10">Ahora modifica la tarjeta 3 2</entry><entry key="Meaning10">Influencias de la corriente que afectan # 3. 
+Inobvious.</entry>
+	<entry key="PositionTitle11">Modifica el futuro 1 de la tarjeta 5</entry><entry key="Meaning11">Influencias futuras posibles, afectando #5</entry>
+	<entry key="PositionTitle12">Modifica el futuro 2 de la tarjeta 5</entry><entry key="Meaning12">Influencias futuras posibles, afectando #5</entry>
+	<entry key="PositionTitle13">Ahora modifica la tarjeta 6 1</entry><entry key="Meaning13">Influencias actuales obvias, afectando #6</entry>
+	<entry key="PositionTitle14">Ahora modifica la tarjeta 6 2</entry><entry key="Meaning14">Influencias actuales obvias, afectando #6</entry>
+	<entry key="PositionTitle15">Físico</entry><entry key="Meaning15">Situación de la comprobación del buscador. 
+Salud o estado posible de la vida</entry>
+	<entry key="PositionTitle16">Raíz adentro más allá</entry><entry key="Meaning16">La raíz de la materia en el pasado</entry>
+	<entry key="PositionTitle17">Materia actual</entry><entry key="Meaning17">Una cuestión actual. Puede ser ocultada o 
+desconocida y pasada por alto, o puede representar las asunciones, 
+posiblemente incorrectas</entry>
+	<entry key="PositionTitle18">El espiritual</entry><entry key="Meaning18">El espiritual del buscador . Esto puede estar en 
+conflicto con o iluminar los deseos conscientes del buscador</entry>
+	<entry key="PositionTitle19">Acontecimiento futuro</entry><entry key="Meaning19">Un probable acontecimiento futuro</entry>
+	<entry key="PositionTitle20">Reflexiones</entry><entry key="Meaning20">Qué el buscador debe pensar</entry>
+</oracleio>

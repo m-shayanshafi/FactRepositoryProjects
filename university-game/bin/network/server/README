@@ -1,0 +1,9 @@
+export set CLASSPATH=/media/MY\ DISK/workspace_java/Tablut/src/network/mysql-connector-java-5.1.12-bin.jar:$CLASSPATH
+
+
+mysqld_safe --user=mysql &
+mysqladmin version
+mysqladmin variables
+mysqladmin -u root shutdown
+mysqld_safe --log &
+

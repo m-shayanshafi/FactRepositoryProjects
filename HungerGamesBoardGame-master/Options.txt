@@ -1,0 +1,14 @@
+Show Mouse Coordinates (true-on, false-off):
+false
+Enable Cheats (true-on, false-off):
+false
+Observer Mode (true-on, false-off):
+false
+Music (true-on, false-off):
+true
+Log Memory (true-on, false-off):
+false
+Data Type (0-bytes, 1-kilobytes, 2-megabytes):
+2
+Garbage Collections per Second (numerical value between 1 and 1000 including 1 and 1000):
+1000

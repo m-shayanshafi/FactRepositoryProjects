@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Three Runes" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">3Runes</entry>
+	<entry key="Description">이것은 간단한 과거의, 현재와 미래 
+배치 이다. 진짜로 길고 깊은 분석을 요구하지
+않는 간단한 상황을 기술하기 위하여 이 배치는
+제일 이다. 때때로 이것은 더 복잡한 배치를 
+하기의 앞에 너가 너의 아이디어, 감각, 또는 질문을 
+초점을 맞출것을 돕 위하여 한다. 복잡한 
+배치에서 잔여 명확한 질문을 아직도 지정하기
+위하여 후에 더 복잡한 배치 더 또한 이것은 할 수 
+있는다.</entry>
+	<entry key="PositionTitle0">지나서</entry><entry key="Meaning0">일어난 무엇이 과거안에. 너가 이미 
+있있는 무엇을. 너가 이 문제로 너와 가져오고 
+있는 무엇을.</entry>
+	<entry key="PositionTitle1">현재</entry><entry key="Meaning1">너가 지금 이는 곳에. 너가 지금 느끼고 
+있는 무엇에. 지금 일어나고 있는 무엇이 너에게.</entry>
+	<entry key="PositionTitle2">미래</entry><entry key="Meaning2">앞으로는 일어나기 위하여 가고 있는 무엇이.
+일반적으로 이것은 너무 격원한 미래가 아니다 
+그러나 시간대는 질문에 의존한다.</entry>
+</oracleio>

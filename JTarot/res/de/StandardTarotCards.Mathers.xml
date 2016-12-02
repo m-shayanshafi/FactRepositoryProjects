@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="de" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">Dummkopf 0-The</entry><entry key="ObjectMeaning0">Unsinnigkeit, Sühne, Zögernd</entry>
+	<entry key="ObjectTitle1">Magier 1-The</entry><entry key="ObjectMeaning1">Wille, Werden-Energie, Geschicklichkeit</entry>
+	<entry key="ObjectTitle2">Hohe Priesterin 2-The</entry><entry key="ObjectMeaning2">Wissenschaft, Klugheit, Wissen, Ausbildung</entry>
+	<entry key="ObjectTitle3">Kaiserin 3-The</entry><entry key="ObjectMeaning3">Tätigkeit, Plan, aufnehmenbewegung in einer 
+Angelegenheit, Initiative</entry>
+	<entry key="ObjectTitle4">Kaiser 4-The</entry><entry key="ObjectMeaning4">Realisierung, Effekt, Entwicklung</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Gnade, Wohltätigkeit-Freundlichkeit, Güte</entry>
+	<entry key="ObjectTitle6">Geliebte 6-The</entry><entry key="ObjectMeaning6">Kluge Einteilungen, Beweis, Versuche Übergestiegen</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Triumph, Sieg, Hindernisse überwindend</entry>
+	<entry key="ObjectTitle8">8-Stärken</entry><entry key="ObjectMeaning8">Energie, Macht, Kraft, Stärke, Kraft</entry>
+	<entry key="ObjectTitle9">Einsiedler 9-The</entry><entry key="ObjectMeaning9">Besonnenheit, Vorsicht, Bedachtsamkeit</entry>
+	<entry key="ObjectTitle10">10-Wheel des Vermögens</entry><entry key="ObjectMeaning10">Glück, Erfolg, Unerwartetes Glück</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Gleichgewicht, Balance, Gerechtigkeit</entry>
+	<entry key="ObjectTitle12">12-The hing Mann</entry><entry key="ObjectMeaning12">Self-sacrifice, Opfer, Hingabe, Grenze</entry>
+	<entry key="ObjectTitle13">13-Tod</entry><entry key="ObjectMeaning13">Tod, Änderung, Umwandlung, Änderung für das 
+schlechtere</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Kombination, Anpassung, Vereinigend</entry>
+	<entry key="ObjectTitle15">Teufel 15-The</entry><entry key="ObjectMeaning15">Verhängnis für gutes</entry>
+	<entry key="ObjectTitle16">Aufsatz 16-The</entry><entry key="ObjectMeaning16">Ruine, Unterbrechung, Over-throw, Verlust, Bankrott</entry>
+	<entry key="ObjectTitle17">Stern 17-The</entry><entry key="ObjectMeaning17">Hoffnung, Erwartung, helle Versprechungen</entry>
+	<entry key="ObjectTitle18">Mond 18-The</entry><entry key="ObjectMeaning18">Dämmerung, Täuschung, Störung</entry>
+	<entry key="ObjectTitle19">Sonne 19-The</entry><entry key="ObjectMeaning19">Glück, Inhalt, Freude</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Erneuerung, Resultat, Ermittlung einer Angelegenheit</entry>
+	<entry key="ObjectTitle21">Welt 21-The</entry><entry key="ObjectMeaning21">Beendigung, Gute Belohnung</entry>
+	<entry key="ObjectTitle22">As der Schalen</entry><entry key="ObjectMeaning22">Genießen, Bankett, Guter Beifall</entry>
+	<entry key="ObjectTitle23">Zwei von Schalen</entry><entry key="ObjectMeaning23">Liebe, Zubehör, Freundschaft, Aufrichtigkeit, Neigung</entry>
+	<entry key="ObjectTitle24">Drei von Schalen</entry><entry key="ObjectMeaning24">Erfolg, Triumph, Sieg, erfolgreicher Ausgang</entry>
+	<entry key="ObjectTitle25">Vier von Schalen</entry><entry key="ObjectMeaning25">Langeweile, Verdruß, Unzufriedenheit, Unzufriedenheit</entry>
+	<entry key="ObjectTitle26">Fünf von Schalen</entry><entry key="ObjectMeaning26">Anschluß, Verzweigung, Verbindung, Erbschaft</entry>
+	<entry key="ObjectTitle27">Sechs von Schalen</entry><entry key="ObjectMeaning27">Die Vergangenheit, vorbei geführt, verblassen, 
+verschwunden, verschwunden</entry>
+	<entry key="ObjectTitle28">Sieben von Schalen</entry><entry key="ObjectMeaning28">Idee, Gefühl, Reflexion, Projekt</entry>
+	<entry key="ObjectTitle29">Acht von Schalen</entry><entry key="ObjectMeaning29">Ein angemessenes Mädchen, Freundschaft, Zubehör, 
+Weichheit</entry>
+	<entry key="ObjectTitle30">Neun von Schalen</entry><entry key="ObjectMeaning30">Sieg, Vorteil, Erfolg, Triumph, Schwierigkeiten 
+übergestiegen</entry>
+	<entry key="ObjectTitle31">10 von Schalen</entry><entry key="ObjectMeaning31">Die Stadt, worin man liegt, ehren, Betrachtung, 
+Achtung, Tugend, Ruhm, Renommee</entry>
+	<entry key="ObjectTitle32">Seite der Schalen</entry><entry key="ObjectMeaning32">Eine angemessene Jugend, Vertrauen, Rechtschaffenheit, 
+Diskretion, Vollständigkeit</entry>
+	<entry key="ObjectTitle33">Ritter der Schalen</entry><entry key="ObjectMeaning33">Ankunft, Annäherung, Fortschritt</entry>
+	<entry key="ObjectTitle34">Königin der Schalen</entry><entry key="ObjectMeaning34">Eine angemessene Frau, Erfolg, Glück, Vorteil, 
+Vergnügen</entry>
+	<entry key="ObjectTitle35">König der Schalen</entry><entry key="ObjectMeaning35">Ein angemessener Mann, Güte, Freundlichkeit, 
+Großzügigkeit, Großzügigkeit</entry>
+	<entry key="ObjectTitle36">As von Pentacles</entry><entry key="ObjectMeaning36">Vollkommener Contentment, Glück, Wohlstand, Triumph</entry>
+	<entry key="ObjectTitle37">Zwei von Pentacles</entry><entry key="ObjectMeaning37">Verlegenheit, Sorge, Schwierigkeiten</entry>
+	<entry key="ObjectTitle38">Drei von Pentacles</entry><entry key="ObjectMeaning38">Adel, Aufzug, Würde, Rank, Energie</entry>
+	<entry key="ObjectTitle39">Vier von Pentacles</entry><entry key="ObjectMeaning39">Vergnügen, Fröhlichkeit, Genuß, Zufriedenheit</entry>
+	<entry key="ObjectTitle40">Fünf von Pentacles</entry><entry key="ObjectMeaning40">Geliebt-oder Geliebte-, Liebe-, Süsse-, Neigung, reine
+und tugendhafte Liebe</entry>
+	<entry key="ObjectTitle41">Sechs von Pentacles</entry><entry key="ObjectMeaning41">Geschenke, Geschenke, Befriedigung:</entry>
+	<entry key="ObjectTitle42">Sieben von Pentacles</entry><entry key="ObjectMeaning42">Geld, Finanzierung, Schatz, Gewinn, Profit</entry>
+	<entry key="ObjectTitle43">Acht von Pentacles</entry><entry key="ObjectMeaning43">Ein dunkles Mädchen, Schönheit, Offenheit, 
+Keuschheit, Unschuld, Bescheidenheit</entry>
+	<entry key="ObjectTitle44">Neun von Pentacles</entry><entry key="ObjectMeaning44">Diskretion, Umsicht, Besonnenheit, Einsicht</entry>
+	<entry key="ObjectTitle45">10 von Pentacles</entry><entry key="ObjectMeaning45">Haus, Wohnung, Behausung, Familie</entry>
+	<entry key="ObjectTitle46">Seite von Pentacles</entry><entry key="ObjectMeaning46">Eine dunkle Jugend, Wirtschaft, Auftrag, Richtlinie, 
+Management</entry>
+	<entry key="ObjectTitle47">Ritter von Pentacles</entry><entry key="ObjectMeaning47">Ein nützlicher Mann, vertrauenswürdig, Klugheit, 
+Wirtschaft, Auftrag, Regelung</entry>
+	<entry key="ObjectTitle48">Königin von Pentacles</entry><entry key="ObjectMeaning48">Eine dunkle Frau, eine großzügige Frau, 
+Großzügigkeit, Größe der Seele, Großzügigkeit</entry>
+	<entry key="ObjectTitle49">König von Pentacles</entry><entry key="ObjectMeaning49">Ein dunkler Mann, Sieg, Tapferkeit, Mut, Erfolg</entry>
+	<entry key="ObjectTitle50">As der Klingen</entry><entry key="ObjectMeaning50">Triumph, Fecundity, Ergiebigkeit, Wohlstand</entry>
+	<entry key="ObjectTitle51">Zwei von Klingen</entry><entry key="ObjectMeaning51">Freundschaft, Valour, Festigkeit, Mut</entry>
+	<entry key="ObjectTitle52">Drei von Klingen</entry><entry key="ObjectMeaning52">Eine Nonne, Trennung, Abbau, Abbruch, Streit</entry>
+	<entry key="ObjectTitle53">Vier von Klingen</entry><entry key="ObjectMeaning53">Einsamkeit, Rückzug, Aufgeben, Allein, Einsiedler</entry>
+	<entry key="ObjectTitle54">Fünf von Klingen</entry><entry key="ObjectMeaning54">Beklagen, Traurigkeit, Kummer</entry>
+	<entry key="ObjectTitle55">Sechs von Klingen</entry><entry key="ObjectMeaning55">Abgesandter, Kurier, Reise, Spielraum</entry>
+	<entry key="ObjectTitle56">Sieben von Klingen</entry><entry key="ObjectMeaning56">Hoffnung, Vertrauen, Wunsch, Versuch, Wunsch</entry>
+	<entry key="ObjectTitle57">Acht von Klingen</entry><entry key="ObjectMeaning57">Krankheit, Verleumdung, Kritik, Schuld</entry>
+	<entry key="ObjectTitle58">Neun von Klingen</entry><entry key="ObjectMeaning58">Ein Geistliches, ein Priester, Gewissenhaftigkeit. 
+Rechtschaffenheit, Guter Glaube, Vollständigkeit</entry>
+	<entry key="ObjectTitle59">10 von Klingen</entry><entry key="ObjectMeaning59">Risse, Kummer, Leid, Sorge</entry>
+	<entry key="ObjectTitle60">Seite der Klingen</entry><entry key="ObjectMeaning60">Ein Spion, Übersehend, Berechtigung</entry>
+	<entry key="ObjectTitle61">Ritter der Klingen</entry><entry key="ObjectMeaning61">Ein Soldat, ein Mann dessen Beruf Arme ist, 
+Skilfulness, Kapazität, Adresse, Promptitude</entry>
+	<entry key="ObjectTitle62">Königin der Klingen</entry><entry key="ObjectMeaning62">Witwenschaft, Verlust, Not, Abwesenheit, Trennung</entry>
+	<entry key="ObjectTitle63">König der Klingen</entry><entry key="ObjectMeaning63">Ein Rechtsanwalt, ein Mann des Gesetzes, Energie, 
+Befehl, Überlegenheit, Berechtigung</entry>
+	<entry key="ObjectTitle64">As von Wands</entry><entry key="ObjectMeaning64">Geburt, Anfang, Anfang, Ursprung, Quelle</entry>
+	<entry key="ObjectTitle65">Zwei von Wands</entry><entry key="ObjectMeaning65">Riches, Vermögen, Opulence, Großartigkeit, 
+Herrlichkeit</entry>
+	<entry key="ObjectTitle66">Drei von Wands</entry><entry key="ObjectMeaning66">Unternehmen, Übernahme, Handel, Handel, Vermittlung</entry>
+	<entry key="ObjectTitle67">Vier von Wands</entry><entry key="ObjectMeaning67">Gesellschaft, Anschluß, Verbindung, Übereinstimmung, 
+Harmonie</entry>
+	<entry key="ObjectTitle68">Fünf von Wands</entry><entry key="ObjectMeaning68">Gold, Opulence, Gewinn, Erbe, Riches, Vermögen, Geld</entry>
+	<entry key="ObjectTitle69">Sechs von Wands</entry><entry key="ObjectMeaning69">Versuch, Hoffnung, Wunsch, Wunsch, Erwartung</entry>
+	<entry key="ObjectTitle70">Sieben von Wands</entry><entry key="ObjectMeaning70">Erfolg, Gewinn, Vorteil, Profit, Sieg</entry>
+	<entry key="ObjectTitle71">Acht von Wands</entry><entry key="ObjectMeaning71">Verständnis, Beobachtung, Richtung</entry>
+	<entry key="ObjectTitle72">Neun von Wands</entry><entry key="ObjectMeaning72">Auftrag, Disziplin, Gute Anordnung, Einteilung</entry>
+	<entry key="ObjectTitle73">10 von Wands</entry><entry key="ObjectMeaning73">Vertrauen, Sicherheit, Ehre, Guter Glaube</entry>
+	<entry key="ObjectTitle74">Seite von Wands</entry><entry key="ObjectMeaning74">Ein Guter Fremder, Gute Nachrichten, Vergnügen, 
+Zufriedenheit</entry>
+	<entry key="ObjectTitle75">Ritter von Wands</entry><entry key="ObjectMeaning75">Abfahrt, Trennung, Disunion</entry>
+	<entry key="ObjectTitle76">Königin von Wands</entry><entry key="ObjectMeaning76">Frau, die im Land, Dame des Manor, Liebe des Geldes, 
+Geiz, Wucher lebt</entry>
+	<entry key="ObjectTitle77">König von Wands  </entry><entry key="ObjectMeaning77">Mann, der im Land, Land-Herr, Wissen, Ausbildung lebt</entry>
+	<entry key="ReversedMeaning0">Zögern, Instabilität, Mühe entstehendes herefrom.</entry>
+	<entry key="ReversedMeaning1">Wille angewendet an den schlechten Enden, Schwäche des Willen, 
+Verschlagenheit, Knavishness.</entry>
+	<entry key="ReversedMeaning2">Einbildung, Unwissenheit, Unskilfulness, Oberflächliches 
+Wissen.</entry>
+	<entry key="ReversedMeaning3">Die Untätigkeit, weg vertrödelnd von der Energie, wünscht von
+der Konzentration Vacillation.</entry>
+	<entry key="ReversedMeaning4">Stillstand, Überprüfung, Unreif, Unausgereift.</entry>
+	<entry key="ReversedMeaning5">Über-Freundlichkeit, Schwäche, dumme Übung der 
+Großzügigkeit.</entry>
+	<entry key="ReversedMeaning6">Unkluge Pläne, Ausfall, wenn Sie zum Test gesetzt werden.</entry>
+	<entry key="ReversedMeaning7">Besiegt, erobert durch Obstacles am letzten Moment.</entry>
+	<entry key="ReversedMeaning8">Mißbrauch der Energie, Overbearingness, wünschen von der 
+Kraft.</entry>
+	<entry key="ReversedMeaning9">Über-Besonnenheit, Timorousness, Furcht.</entry>
+	<entry key="ReversedMeaning10">Krank-Vermögen, Ausfall, Unerwartetes Krank-Glück.</entry>
+	<entry key="ReversedMeaning11">Bigotry, wünschen von der Balance, Mißbrauch von 
+Gerechtigkeit, Über-Schwierigkeit, Verschiedenheit, Vorspannung.</entry>
+	<entry key="ReversedMeaning12">Egoismus, ungebundenes, teilweises Opfer.</entry>
+	<entry key="ReversedMeaning13">Tod entging gerade, teilweise Änderung, Änderung für das 
+bessere.</entry>
+	<entry key="ReversedMeaning14">Schlecht beratene Kombinationen, Disunion, zusammenstoßende 
+Interessen, usw..</entry>
+	<entry key="ReversedMeaning15">Verhängnis für Übel.</entry>
+	<entry key="ReversedMeaning16">Diese in mehr oder weniger teilweiser Grad.</entry>
+	<entry key="ReversedMeaning17">Hoffnungen nicht erfüllt, Erwartungen enttäuscht oder in einem
+kleinen Grad erfüllt.</entry>
+	<entry key="ReversedMeaning18">Fluktuation, geringfügige Täuschungen, Trifling Fehler.</entry>
+	<entry key="ReversedMeaning19">Diese in einem kleinen Grad.</entry>
+	<entry key="ReversedMeaning20">Aufschub des Resultats, verzögert, die Angelegenheit, die 
+später wieder geöffnet wird.</entry>
+	<entry key="ReversedMeaning21">Schlechte Belohnung oder Recompense.</entry>
+	<entry key="ReversedMeaning22">Änderung, Neuheit, Metamorphose, Unbeständigkeit.</entry>
+	<entry key="ReversedMeaning23">Gekreuzte Wünsche, Hindernisse, Opposition, Behinderung.</entry>
+	<entry key="ReversedMeaning24">Expedition des Geschäfts, Schnelligkeit, Geschwindigkeit, 
+Wachsamkeit.</entry>
+	<entry key="ReversedMeaning25">Neue Bekanntschaft, Vermutung, Zeichen, Vorgefühl.</entry>
+	<entry key="ReversedMeaning26">Ankunft, Rückkehr, Nachrichten, Überraschung, falsche 
+Projekte.</entry>
+	<entry key="ReversedMeaning27">Die Zukunft, die, die kommen soll kurz bald.</entry>
+	<entry key="ReversedMeaning28">Plan, Design, Auflösung, Entscheidung.</entry>
+	<entry key="ReversedMeaning29">Fröhlichkeit, Genießend, Freude, Vergnügen.</entry>
+	<entry key="ReversedMeaning30">Störungen, Störungen, Fehler, Unvollkommenheiten.</entry>
+	<entry key="ReversedMeaning31">Kampf, Streit, Opposition, Unterschiede, Debatte.</entry>
+	<entry key="ReversedMeaning32">Ein Schmeichler, Täuschung, List.</entry>
+	<entry key="ReversedMeaning33">Doppelzüngigkeit, Vertrauensbruch, Betrug, schlau.</entry>
+	<entry key="ReversedMeaning34">Eine Frau in der guten Position, aber im Intermeddling und 
+mißtraut werden; Erfolg, aber mit etwas begleitender Mühe.</entry>
+	<entry key="ReversedMeaning35">Ein Mann der guten Position, aber shifty in seinen Umgang, 
+Mißtrauen, Zweifel, Misstrauen.</entry>
+	<entry key="ReversedMeaning36">Geldbeutel Gold, Geld, Gewinn, Hilfe, Profit, Riches.</entry>
+	<entry key="ReversedMeaning37">Buchstabe, Sendschreiben, Epistel, Anzeige.</entry>
+	<entry key="ReversedMeaning38">Kinder, Söhne, Töchter, Jugend, Anfang.</entry>
+	<entry key="ReversedMeaning39">Hindernisse, Behinderungen.</entry>
+	<entry key="ReversedMeaning40">Disgraceful Liebe, Unvorsichtigkeit, Lizenz, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Ehrgeiz, Wunsch, Neigung, Ziel, Sehnend.</entry>
+	<entry key="ReversedMeaning42">Störung, Sorge, Angst, Melancholie.</entry>
+	<entry key="ReversedMeaning43">Flattery, Wucher, Hypokrisie, Shifty.</entry>
+	<entry key="ReversedMeaning44">Betrug, schlechter Glaube, Listen, Täuschung.</entry>
+	<entry key="ReversedMeaning45">Spielen, Ableitung, Raub, Verlust.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Überfülle, Vergeudung, Ableitung.</entry>
+	<entry key="ReversedMeaning47">Ein tapferer Mann, aber aus Beschäftigung, Leerlauf, 
+Arbeitslose heraus, nachlässig.</entry>
+	<entry key="ReversedMeaning48">Bestimmtes Übel, eine mißtrauische Frau, eine Frau gerecht 
+betrachtet mit Misstrauen, Zweifel, Mißtrauen.</entry>
+	<entry key="ReversedMeaning49">Ein alter und schändlicher Mann, ein gefährlicher Mann, 
+Zweifel, Furcht, Gefahr, Gefahr.</entry>
+	<entry key="ReversedMeaning50">Verlegenheit-, dumme und hoffnungsloseliebe, Hindernis, 
+Behinderung.</entry>
+	<entry key="ReversedMeaning51">Falsche Freunde, Treachery, Liegt.</entry>
+	<entry key="ReversedMeaning52">Störung, Durcheinander, Misrule, Störung.</entry>
+	<entry key="ReversedMeaning53">Wirtschaft, Vorkehrung, Regelung der Aufwendung.</entry>
+	<entry key="ReversedMeaning54">Verlust-Mühe (die gleiche Bedeutung, ob aufgehoben oder nicht.)</entry>
+	<entry key="ReversedMeaning55">Erklärung, Liebe vorgeschlagen, Enthüllung, Überraschung.</entry>
+	<entry key="ReversedMeaning56">Kluger Rat, Guter Ratschlag, Klugheit, Besonnenheit, Umsicht.</entry>
+	<entry key="ReversedMeaning57">Treachery in der Vergangenheit, Fall, Unfall, bemerkenswertes 
+Ereignis.</entry>
+	<entry key="ReversedMeaning58">Kluges Mißtrauen, Misstrauen, Furcht, Zweifel, schattiger 
+Buchstabe.</entry>
+	<entry key="ReversedMeaning59">Führen Des Erfolges, Momentaner Vorteil.</entry>
+	<entry key="ReversedMeaning60">Das, das unvorhergesehen ist, Wachsamkeit, Unterstützung.</entry>
+	<entry key="ReversedMeaning61">Ein eingebildeter Dummkopf, Ingenuousness, Einfachheit.</entry>
+	<entry key="ReversedMeaning62">Eine schlechte Frau, ein bösartiges und bigoted, Riches und 
+Zwietracht, Überfluß zusammen mit Sorge, Freude mit Leid.</entry>
+	<entry key="ReversedMeaning63">Ein Gemeiner Mann, Verdruß, Sorge, Leid, Furcht, Störung.</entry>
+	<entry key="ReversedMeaning64">Verfolgung, Verfolgungen Voilence, Vexation, Grausamkeit, 
+Tyrannei.</entry>
+	<entry key="ReversedMeaning65">Überraschung, Erstaunen, Fall, Außerordentliches Auftreten.</entry>
+	<entry key="ReversedMeaning66">Hoffnung, Wunsch, Versuch, Wunsch.</entry>
+	<entry key="ReversedMeaning67">Wohlstand, Erfolg, Glück, Vorteil.</entry>
+	<entry key="ReversedMeaning68">Gerichtsverfahren, Urteil, Gesetz, Rechtsanwalt, Tribunal.</entry>
+	<entry key="ReversedMeaning69">Untreue, Treachery, Disloyalty, Niedertracht.</entry>
+	<entry key="ReversedMeaning70">Unentschlossenheit, Zweifel, Zögern, Verlegenheit, Angst.</entry>
+	<entry key="ReversedMeaning71">Streite, Darmdebatten, Zwietracht.</entry>
+	<entry key="ReversedMeaning72">Hindernisse, Kreuze, Verzögert, Verdruß.</entry>
+	<entry key="ReversedMeaning73">Treachery, Subterfuge, Doppelzüngigkeit, Stab.</entry>
+	<entry key="ReversedMeaning74">Kranke Nachrichten, Verdruß, Verdruß, Sorge.</entry>
+	<entry key="ReversedMeaning75">Abbruch, Zwietracht, Streit.</entry>
+	<entry key="ReversedMeaning76">Ein gutes eine rechtschaffene Frau, aber ein streng und 
+ökonomisch, Hindernisse, Widerstand, Opposition.</entry>
+	<entry key="ReversedMeaning77">Ein natürlich guter aber strenger Mann, Berater, Rat, 
+Bedachtsamkeit.</entry>
+</oracleio>

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Yaha! A Math Game for Everyone.</h1>
+
+Yaha! is a traditional math game popular among Chinese speaking populations. It 
+has been historically given a varieties of names, but the essence of the game is
+the same: the players are given 4 playing cards, their task is to use the 4 
+numbers represented by the cards, use them once and only once, to get the number
+24. The players are allowed to apply all four arithmetic operations: addition, 
+subtraction, multiplication and division, as well as parenthesis as they see 
+fit. The winner is whoever comes up with a correct solution first.
+
+This program is a simulation of the game. It is at present form designed to be 
+played by only one player. The plan is to make it a networked games so multiple
+users can play simultaneously. Contact me if you want to contribute. 
+
+Time to play!. Remember, your goal is to form an arithmetic expression by 
+dragging cards and operators into appropriate slots and let the result of your 
+expression equals to 24. Got it? Click the picture below to load the game. 
+
+<p align="center">
+<applet code="Yaha.class"
+codebase="." ARCHIVE="yaha-1.0.jar"
+align="baseline" width="640" height="400">
+</applet>
+</p>
+
+Question and Answers:
+
+Why 24, but not any other numbers?
+    It turns out that the probability of getting an answer of 24 is larger than any other numbers [1]. So, the game is fun to play.
+Why do I get an error message while trying to load the game?
+    Please make sure your browser supports Java. 
+What numbers do "A", "K", "Q" and "J" represent?
+    "A" = 1, "K"=13, "Q"=12, "J" =11
+What shall I do if I cannot figure out the solution?
+    Probably there is actually no solution. If it is the case, the correct action is to click "No solution" button. But maybe it has. Anyway, you'd better make you decision as soon as possible.
+What is that little disc for?
+    It is a clock reminding you the remaining time for this deal of game. If time out, you will not be allowed to continue. You set the time limit by selecting "Beginner-Expert" choice. 
+How long am I allowed to play for a new deal of cards?
+    Beginners have 2 minutes, Intermediate players have 1.5 minutes, and Experts have only 1 minute to finish their job.
+What does that score count for?
+    Its value is determined by your answer, your response time and the level your selected, such that
+
+        * You score increases when you get the right answer, otherwise your score decreases.
+        * The more quickly you response, the higher score you will get.
+        * Experts get higher score when they have the right answer, but lose more points when they make a mistake.
+
+Can I play the game offline?
+    Yes. You may download the JAR file (right click, then "save as"), go to where the downloaded file is, and issue the command javaw -jar yaha.jar in a command console to start the game.
+Can I get the source code?
+    Of course. Yaha! is an open source software. It is released under GNU AGPL license. So it is free, as in freedom. Grab the code here. 
+Any roadmap?
+    A networked version so multiple people can play in competition mode, personal score record, highest score, etc. If you are interested in the development, drop me an email.
+
+[1] Yixun Shi, 1999, A mathematical study of the game "twenty-four points", The Mathematics Teacher. Vol. 92, Iss. 9, p. 828 
+</body>
+</html>

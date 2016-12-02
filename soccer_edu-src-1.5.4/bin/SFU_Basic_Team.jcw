@@ -1,0 +1,18 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "SFU_Basic_Team"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\SFU_Basic_Team.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\Formation.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\WorldModel.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\SFU_Basic_Team.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\AIPlayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\WorldData.java" #[EndFile]
+
+! Start Breakpoint Structure
+

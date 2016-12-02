@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">太陽傳播(Doane)</entry>
+	<entry key="Description">在各列, 中間卡片(4, 11, 18, 25, 等) 代表當前情況或影響。三張卡片在右邊代表過去; 三到左邊, 未來。各列與或生活的某一方面將關係或某些人(或或許兩個)</entry>
+	<entry key="PositionTitle0">月亮1 過去</entry><entry key="Meaning0">情感, 感覺</entry>
+	<entry key="PositionTitle1">月亮2 過去</entry><entry key="Meaning1">情感, 感覺</entry>
+	<entry key="PositionTitle2">月亮3 過去</entry><entry key="Meaning2">情感, 感覺</entry>
+	<entry key="PositionTitle3">月亮4 禮物</entry><entry key="Meaning3">情感, 感覺</entry>
+	<entry key="PositionTitle4">月亮5 未來</entry><entry key="Meaning4">情感, 感覺</entry>
+	<entry key="PositionTitle5">月亮6 未來</entry><entry key="Meaning5">情感, 感覺</entry>
+	<entry key="PositionTitle6">月亮7 未來</entry><entry key="Meaning6">情感, 感覺</entry>
+	<entry key="PositionTitle7">水星1 過去</entry><entry key="Meaning7">想法, 智力</entry>
+	<entry key="PositionTitle8">水星2 過去</entry><entry key="Meaning8">想法, 智力</entry>
+	<entry key="PositionTitle9">水星3 過去</entry><entry key="Meaning9">想法, 智力</entry>
+	<entry key="PositionTitle10">水星4 禮物</entry><entry key="Meaning10">想法, 智力</entry>
+	<entry key="PositionTitle11">水星5 未來</entry><entry key="Meaning11">想法, 智力</entry>
+	<entry key="PositionTitle12">水星6 未來</entry><entry key="Meaning12">想法, 智力</entry>
+	<entry key="PositionTitle13">水星7 未來</entry><entry key="Meaning13">想法, 智力</entry>
+	<entry key="PositionTitle14">金星1 過去</entry><entry key="Meaning14">愛, 關係</entry>
+	<entry key="PositionTitle15">金星2 過去</entry><entry key="Meaning15">愛, 關係</entry>
+	<entry key="PositionTitle16">金星3 過去</entry><entry key="Meaning16">愛, 關係</entry>
+	<entry key="PositionTitle17">金星4 禮物</entry><entry key="Meaning17">愛, 關係</entry>
+	<entry key="PositionTitle18">金星5 未來</entry><entry key="Meaning18">愛, 關係</entry>
+	<entry key="PositionTitle19">金星6 未來</entry><entry key="Meaning19">愛, 關係</entry>
+	<entry key="PositionTitle20">金星7 未來</entry><entry key="Meaning20">愛, 關係</entry>
+	<entry key="PositionTitle21">太陽1 過去</entry><entry key="Meaning21">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle22">太陽2 過去</entry><entry key="Meaning22">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle23">太陽3 過去</entry><entry key="Meaning23">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle24">太陽4 禮物</entry><entry key="Meaning24">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle25">太陽5 未來</entry><entry key="Meaning25">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle26">太陽6 未來</entry><entry key="Meaning26">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle27">太陽7 未來</entry><entry key="Meaning27">能量, 自我, 中央點</entry>
+	<entry key="PositionTitle28">火星1 過去</entry><entry key="Meaning28">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle29">火星2 過去</entry><entry key="Meaning29">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle30">火星3 過去</entry><entry key="Meaning30">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle31">火星4 禮物</entry><entry key="Meaning31">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle32">火星5 未來</entry><entry key="Meaning32">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle33">火星6 未來</entry><entry key="Meaning33">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle34">火星7 未來</entry><entry key="Meaning34">衝突, 戰爭。可以還代表解答或答復對是的問題為什麼這稱reconciler</entry>
+	<entry key="PositionTitle35">木星1 過去</entry><entry key="Meaning35">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle36">木星2 過去</entry><entry key="Meaning36">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle37">木星3 過去</entry><entry key="Meaning37">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle38">木星4 禮物</entry><entry key="Meaning38">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle39">木星5 未來</entry><entry key="Meaning39">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle40">木星6 未來</entry><entry key="Meaning40">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle41">木星7 未來</entry><entry key="Meaning41">成長和擴展。運氣。正面影響</entry>
+	<entry key="PositionTitle42">土星1 過去</entry><entry key="Meaning42">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle43">土星2 過去</entry><entry key="Meaning43">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle44">土星3 過去</entry><entry key="Meaning44">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle45">土星4 禮物</entry><entry key="Meaning45">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle46">土星5 未來</entry><entry key="Meaning46">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle47">土星6 未來</entry><entry key="Meaning47">工作做。陰性影響克服</entry>
+	<entry key="PositionTitle48">土星7 未來</entry><entry key="Meaning48">工作做。陰性影響克服</entry>
+</oracleio>

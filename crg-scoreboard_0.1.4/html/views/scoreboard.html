@@ -1,0 +1,872 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>CRG ScoreBoard</title>
+
+<script type="text/javascript" src="../external/prototype/prototype.js"></script>
+<script type="text/javascript" src="../external/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="../javascript/window-util.js"></script>
+<script type="text/javascript" src="../javascript/object-util.js"></script>
+<script type="text/javascript" src="../javascript/xml-util.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-viewer.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-controller.js"></script>
+
+<script type="text/javascript">
+
+var teamScoresPosition = "normal";
+function teamScoresNormal() {
+  if (teamScoresPosition == "normal") return;
+  teamScoresPosition = "normal";
+  var fontResize = function () {
+    autoSetFontSize($("Team1NameBox"), $("Team1Name"), 10);
+    autoSetFontSize($("Team2NameBox"), $("Team2Name"), 10);
+  };
+  new Effect.Parallel( [
+    new Effect.Morph("Team1NameBox", { style: "height: 10%;", sync: true }),
+    new Effect.Morph("Team2NameBox", { style: "height: 10%;", sync: true }),
+    new Effect.Morph("Team1Logo", { style: "right: 55%;", sync: true }),
+    new Effect.Morph("Team2Logo", { style: "left: 55%;", sync: true }),
+//    new Effect.Morph("Team1ScoreBox", { style: "top: 31%; right: 55%; width: 40%; height: 25%;", sync: true }),
+//    new Effect.Morph("Team2ScoreBox", { style: "top: 31%; left: 55%; width: 40%; height: 25%;", sync: true }),
+//    new Effect.Morph("Team1Score", { style: "font-size: 21.5%; line-height: 88%;", sync: true }),
+//    new Effect.Morph("Team2Score", { style: "font-size: 21.5%; line-height: 88%;", sync: true }),
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20, afterFinish: fontResize });
+}
+function teamScoresLarge() {
+  if (teamScoresPosition == "large") return;
+  teamScoresPosition = "large";
+  var fontResize = function () {
+    autoSetFontSize($("Team1NameBox"), $("Team1Name"), 10);
+    autoSetFontSize($("Team2NameBox"), $("Team2Name"), 10);
+  };
+  new Effect.Parallel( [
+    new Effect.Morph("Team1NameBox", { style: "height: 30%;", sync: true }),
+    new Effect.Morph("Team2NameBox", { style: "height: 30%;", sync: true }),
+    new Effect.Morph("Team1Logo", { style: "right: 100%;", sync: true }),
+    new Effect.Morph("Team2Logo", { style: "left: 100%;", sync: true }),
+//    new Effect.Morph("Team1ScoreBox", { style: "top: 20%; right: 51%; width: 47%; height: 33%;", sync: true }),
+//    new Effect.Morph("Team2ScoreBox", { style: "top: 20%; left: 51%; width: 47%; height: 33%;", sync: true }),
+//    new Effect.Morph("Team1Score", { style: "font-size: 26%; line-height: 95%;", sync: true }),
+//    new Effect.Morph("Team2Score", { style: "font-size: 26%; line-height: 95%;", sync: true }),
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20, afterFinish: fontResize });
+}
+
+var team1Jammer = false;
+function team1JammerHide() {
+  if (!team1Jammer) return;
+  team1Jammer = false;
+  new Effect.Parallel( [
+    new Effect.Morph("Team1JammerBox", { style: "right: 100%;", sync: true }),
+  ], { queue: { position: "end", scope: "team1JammerQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function team1JammerShow() {
+  if (team1Jammer) return;
+  team1Jammer = true;
+  new Effect.Parallel( [
+    new Effect.Morph("Team1JammerBox", { style: "right: 55%;", sync: true }),
+  ], { queue: { position: "end", scope: "team1JammerQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+var team2Jammer = false;
+function team2JammerHide() {
+  if (!team2Jammer) return;
+  team2Jammer = false;
+  new Effect.Parallel( [
+    new Effect.Morph("Team2JammerBox", { style: "left: 100%;", sync: true }),
+  ], { queue: { position: "end", scope: "team2JammerQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function team2JammerShow() {
+  if (team2Jammer) return;
+  team2Jammer = true;
+  new Effect.Parallel( [
+    new Effect.Morph("Team2JammerBox", { style: "left: 55%;", sync: true }),
+  ], { queue: { position: "end", scope: "team2JammerQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function teamJammerHide() {
+  if (!team1Jammer && !team2Jammer) return;
+  team1Jammer = false;
+  team2Jammer = false;
+  new Effect.Parallel( [
+    new Effect.Morph("Team1JammerBox", { style: "right: 100%;", sync: true }),
+    new Effect.Morph("Team2JammerBox", { style: "left: 100%;", sync: true }),
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function teamJammerShow() {
+  if (team1Jammer && team2Jammer) return;
+  var team1Pos = "100%";
+  var team2Pos = "100%";
+  if ((team1Jammer = ((ScoreBoard.Team("1").get("Position", "Jammer").getContent() != "") || (ScoreBoard.Team("1").LeadJammer.getContent() == "true"))))
+    team1Pos = "55%";
+  if ((team2Jammer = ((ScoreBoard.Team("2").get("Position", "Jammer").getContent() != "") || (ScoreBoard.Team("2").LeadJammer.getContent() == "true"))))
+    team2Pos = "55%";
+  new Effect.Parallel( [
+    new Effect.Morph("Team1JammerBox", { style: "right: "+team1Pos+";", sync: true }),
+    new Effect.Morph("Team2JammerBox", { style: "left: "+team2Pos+";", sync: true }),
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var periodPosition = "";
+function clockPeriodHide() {
+  if (periodPosition == "hide") return;
+  periodPosition = "hide";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 59%; right: 130%; height: 12%; width: 16%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 59%; right: 100%; height: 12%; width: 28%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockPeriodSmall() {
+  if (periodPosition == "small") return;
+  periodPosition = "small";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 59%; right: 81%; height: 12%; width: 16%", sync: true }),
+    new Effect.Morph("ClockPeriodName", { style: "font-size: 4.5%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 59%; right: 51%; height: 12%; width: 28%;", sync: true }),
+    new Effect.Morph("ClockPeriodTime", { style: "font-size: 9.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockPeriodLarge() {
+  if (periodPosition == "large") return;
+  periodPosition = "large";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 65%; right: 59%; height: 10%; width: 32%;", sync: true }),
+    new Effect.Morph("ClockPeriodName", { style: "font-size: 7%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 77%; right: 55%; height: 16%; width: 40%;", sync: true }),
+    new Effect.Morph("ClockPeriodTime", { style: "font-size: 12.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var jamShow = false;
+function clockJamHide() {
+  if (!jamShow) return;
+  jamShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockJamNameBox", { style: "left: 104%;", sync: true }),
+    new Effect.Morph("ClockJamTimeBox", { style: "left: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockJamShow() {
+  if (jamShow) return;
+  jamShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockJamNameBox", { style: "left: 59%;", sync: true }),
+    new Effect.Morph("ClockJamTimeBox", { style: "left: 55%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var lineupShow = false;
+function clockLineupHide() {
+  if (!lineupShow) return;
+  lineupShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockLineupNameBox", { style: "left: 130%;", sync: true }),
+    new Effect.Morph("ClockLineupTimeBox", { style: "left: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockLineupShow() {
+  if (lineupShow) return;
+  lineupShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockLineupNameBox", { style: "left: 81%;", sync: true }),
+    new Effect.Morph("ClockLineupTimeBox", { style: "left: 51%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var adImgShow = false;
+function adHide() {
+  if (!adImgShow) return;
+  adImgShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ScoreBoardAd", { style: "top: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function adShow() {
+  if (adImgShow) return;
+  adImgShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ScoreBoardAd", { style: "top: 73.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+
+}
+
+var timeoutShow = false;
+function clockTimeoutHide() {
+  if (!timeoutShow) return;
+  timeoutShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockTimeoutNameBox", { style: "top: 102%;", sync: true }),
+    new Effect.Morph("ClockTimeoutTimeBox", { style: "top: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockTimeoutShow() {
+  if (timeoutShow) return;
+  timeoutShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockTimeoutNameBox", { style: "top: 78%;", sync: true }),
+    new Effect.Morph("ClockTimeoutTimeBox", { style: "top: 76%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var intermissionShow = false;
+var lastAdsShowing = false;
+function clockIntermissionHide() {
+  var adsShowing = (ScoreBoard.get("Page", "scoreboard.html").get("AdsShowDuringIntermission").getContent() == "true");
+  if (!intermissionShow && (lastAdsShowing == adsShowing)) return;
+  intermissionShow = false;
+  lastAdsShowing = adsShowing;
+  var nameBoxStyle = adsShowing ? "top: 100%; left: 2.5%; height: 12%; width: 45%;" : "top: 100%; left: 20%; height: 12%; width: 60%;";
+  var nameStyle = adsShowing    ? "font-size: 7.75%; line-height: 110%;"             : "font-size: 7.75%; line-height: 110%;";
+  var timeBoxStyle = adsShowing ? "top: 100%; right: 10%; height: 12%; width: 30%;" : "top: 115%; right: 20%; height: 23%; width: 60%;";
+  var timeStyle = adsShowing    ? "font-size: 9.5%; line-height: 100%;"             : "font-size: 19%; line-height: 90%;";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockIntermissionNameBox", { style: nameBoxStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionName", { style: nameStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionTimeBox", { style: timeBoxStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionTime", { style: timeStyle, sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20, afterFinish: setIntermissionNameFontSize });
+}
+function clockIntermissionShow() {
+  var adsShowing = (ScoreBoard.get("Page", "scoreboard.html").get("AdsShowDuringIntermission").getContent() == "true");
+  if (intermissionShow && (lastAdsShowing == adsShowing)) return;
+  intermissionShow = true;
+  lastAdsShowing = adsShowing;
+  var nameBoxStyle = adsShowing ? "top: 59%; left: 2.5%; height: 12%; width: 45%;" : "top: 59%; left: 20%; height: 12%; width: 60%;";
+  var nameStyle = adsShowing    ? "font-size: 7.75%; line-height: 110%;"             : "font-size: 7.75%; line-height: 110%;";
+  var timeBoxStyle = adsShowing ? "top: 59%; right: 10%; height: 12%; width: 30%;" : "top: 74%; right: 20%; height: 23%; width: 60%;";
+  var timeStyle = adsShowing    ? "font-size: 9.5%; line-height: 100%;"             : "font-size: 19%; line-height: 90%;";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockIntermissionNameBox", { style: nameBoxStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionName", { style: nameStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionTimeBox", { style: timeBoxStyle, sync: true }),
+    new Effect.Morph("ClockIntermissionTime", { style: timeStyle, sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20, afterFinish: setIntermissionNameFontSize });
+}
+function setIntermissionNameFontSize() {
+  autoSetFontSize($("ClockIntermissionNameBox"), $("ClockIntermissionName"), 7.75);
+}
+
+function showJam() {
+  clockLineupHide();
+  clockTimeoutHide();
+  adHide();
+  clockIntermissionHide();
+  clockJamShow();
+  clockPeriodLarge();
+  teamJammerShow();
+}
+
+function showLineup() {
+  teamJammerHide();
+  clockIntermissionHide();
+  clockTimeoutHide();
+  clockJamHide();
+  clockPeriodSmall();
+  clockLineupShow();
+  adShow();
+}
+
+function showTimeout() {
+  teamJammerHide();
+  clockLineupHide();
+  adHide();
+  clockIntermissionHide();
+  clockJamHide();
+  clockPeriodSmall();
+  clockTimeoutShow();
+}
+
+function showIntermission() {
+  teamJammerHide();
+  clockLineupHide();
+  clockTimeoutHide();
+  clockJamHide();
+  clockPeriodHide();
+  if (ScoreBoard.get("Page", "scoreboard.html").get("AdsShowDuringIntermission").getContent() == "true") {
+    clockIntermissionShow();
+    adShow();
+  } else {
+    adHide();
+    clockIntermissionShow();
+  }
+}
+
+
+function jamChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showJam();
+}
+function lineupChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showLineup();
+}
+function timeoutChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showTimeout();
+}
+function intermissionChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true") {
+    if ((ScoreBoard.Clock('Period').Running.getContent() != "true") || (ScoreBoard.Clock('Timeout').Running.getContent() != "true"))
+      showIntermission();
+  } else {
+    if (ScoreBoard.Clock('Jam').Running.getContent() == "true")
+      showJam();
+    else if (ScoreBoard.Clock('Lineup').Running.getContent() == "true")
+      showLineup();
+    else if (ScoreBoard.Clock('Timeout').Running.getContent() == "true")
+      showTimeout();
+    else
+      showJam();
+  }
+}
+
+function setupScoreBoard() {
+  var sbpage = ScoreBoard.get("Page", "scoreboard.html");
+
+  var teamLogoCheck = function() {
+    var t1logoFile = ScoreBoard.Team('1').TeamLogo.Filename.getContent();
+    var t2logoFile = ScoreBoard.Team('2').TeamLogo.Filename.getContent();
+    if ((t1logoFile == "" || t1logoFile == null) && (t2logoFile == "" || t2logoFile == null))
+      teamScoresLarge();
+    else
+      teamScoresNormal();
+  };
+  ScoreBoard.Team('1').TeamLogo.Filename.observe("content:change", function(event) { teamLogoCheck(); });
+  ScoreBoard.Team('2').TeamLogo.Filename.observe("content:change", function(event) { teamLogoCheck(); });
+  teamLogoCheck();
+
+  if (sbpage.get("AutoClockPosition").getContent() == null)
+    sbpage.get("AutoClockPosition").setContent("true");
+  if (sbpage.get("ManualClockPosition").getContent() == null)
+    sbpage.get("ManualClockPosition").setContent("jam");
+
+  sbpage.get("ClockPositions", "jam").setContent("jam");
+  sbpage.get("ClockPositions", "lineup").setContent("lineup");
+  sbpage.get("ClockPositions", "timeout").setContent("timeout");
+  sbpage.get("ClockPositions", "intermission").setContent("intermission");
+
+  var manualClockPositionSet = function(position) {
+    if (position == "jam")
+      showJam();
+    else if (position == "lineup")
+      showLineup();
+    else if (position == "timeout")
+      showTimeout();
+    else if (position == "intermission")
+      showIntermission();
+  };
+  sbpage.get("ManualClockPosition").observe("content:change", function(event) { manualClockPositionSet(event.memo.value); });
+
+  if (sbpage.get("AutoClockPosition").getContent() == "true") {
+    if (ScoreBoard.Clock("Jam").Running.getContent() == "true")
+      showJam();
+    else if (ScoreBoard.Clock("Lineup").Running.getContent() == "true")
+      showLineup();
+    else if (ScoreBoard.Clock("Timeout").Running.getContent() == "true")
+      showTimeout();
+    else if (ScoreBoard.Clock("Intermission").Running.getContent() == "true")
+      showIntermission();
+    else
+      manualClockPositionSet(sbpage.get("ManualClockPosition").getContent());
+  } else {
+    manualClockPositionSet(sbpage.get("ManualClockPosition").getContent());
+  }
+
+  ScoreBoard.Clock("Jam").Running.observe("content:change", function(event) { jamChange(event.memo.value); });
+  ScoreBoard.Clock("Lineup").Running.observe("content:change", function(event) { lineupChange(event.memo.value); });
+  ScoreBoard.Clock("Timeout").Running.observe("content:change", function(event) { timeoutChange(event.memo.value); });
+  ScoreBoard.Clock("Intermission").Running.observe("content:change", function(event) { intermissionChange(event.memo.value); });
+
+  sbpage.get("IntermissionName").observe("content:change", setIntermissionNameFontSize);
+  setIntermissionNameFontSize();
+
+  ScoreBoard.Team("1").Name.observe("content:change", function(event) { autoSetFontSize($("Team1NameBox"), $("Team1Name"), 10); });
+  ScoreBoard.Team("2").Name.observe("content:change", function(event) { autoSetFontSize($("Team2NameBox"), $("Team2Name"), 10); });
+  autoSetFontSize($("Team1NameBox"), $("Team1Name"), 10);
+  autoSetFontSize($("Team2NameBox"), $("Team2Name"), 10);
+
+  ScoreBoard.Team("1").get("Position", "Jammer").observe("content:change", function() { autoSetFontSize($("Team1JammerBox"), $("Team1Jammer"), 7.5); });
+  ScoreBoard.Team("2").get("Position", "Jammer").observe("content:change", function() { autoSetFontSize($("Team2JammerBox"), $("Team2Jammer"), 7.5); });
+  autoSetFontSize($("Team1JammerBox"), $("Team1Jammer"), 7.5);
+  autoSetFontSize($("Team2JammerBox"), $("Team2Jammer"), 7.5);
+  ScoreBoard.Team("1").get("Position", "Jammer").observe("content:change", function() { autoSetFontSize($("Team1JammerBox"), $("Team1JammerHighlight"), 7.5); });
+  ScoreBoard.Team("2").get("Position", "Jammer").observe("content:change", function() { autoSetFontSize($("Team2JammerBox"), $("Team2JammerHighlight"), 7.5); });
+  autoSetFontSize($("Team1JammerBox"), $("Team1JammerHighlight"), 7.5);
+  autoSetFontSize($("Team2JammerBox"), $("Team2JammerHighlight"), 7.5);
+
+  var team1JammerChange = function () {
+    if ((ScoreBoard.Clock("Jam").Running.getContent() == "true") && ((ScoreBoard.Team("1").get("Position", "Jammer").getContent() != "") || (ScoreBoard.Team("1").LeadJammer.getContent() == "true")))
+      team1JammerShow();
+    else
+      team1JammerHide();
+  };
+  var team2JammerChange = function () {
+    if ((ScoreBoard.Clock("Jam").Running.getContent() == "true") && ((ScoreBoard.Team("2").get("Position", "Jammer").getContent() != "") || (ScoreBoard.Team("2").LeadJammer.getContent() == "true")))
+      team2JammerShow();
+    else
+      team2JammerHide();
+  };
+  ScoreBoard.Team("1").get("Position", "Jammer").observe("content:change", team1JammerChange);
+  ScoreBoard.Team("2").get("Position", "Jammer").observe("content:change", team2JammerChange);
+  ScoreBoard.Team("1").LeadJammer.observe("content:change", team1JammerChange);
+  ScoreBoard.Team("2").LeadJammer.observe("content:change", team2JammerChange);
+  team1JammerChange();
+  team2JammerChange();
+
+  var team1JammerPulsate = false;
+  var team2JammerPulsate = false;
+  var startTeam1JammerPulsate = function () {
+    if (team1JammerPulsate) return;
+    team1JammerPulsate = true;
+    doTeam1JammerPulsate();
+  };
+  var startTeam2JammerPulsate = function () {
+    if (team2JammerPulsate) return;
+    team2JammerPulsate = true;
+    doTeam2JammerPulsate();
+  };
+  var doTeam1JammerPulsate = function () {
+    if (team1JammerPulsate) {
+      new Effect.Opacity("Team1JammerHighlight", { duration: 0.5, from: 0.0, to: 1.0, queue: { position: "end", scope: "Team1JammerHightlightQueue" } });
+      new Effect.Opacity("Team1JammerHighlight", { duration: 0.5, from: 1.0, to: 0.0, queue: { position: "end", scope: "Team1JammerHightlightQueue" }, afterFinish: doTeam1JammerPulsate });
+    }
+  };
+  var doTeam2JammerPulsate = function () {
+    if (team2JammerPulsate) {
+      new Effect.Opacity("Team2JammerHighlight", { duration: 0.5, from: 0.0, to: 1.0, queue: { position: "end", scope: "Team2JammerHightlightQueue" } });
+      new Effect.Opacity("Team2JammerHighlight", { duration: 0.5, from: 1.0, to: 0.0, queue: { position: "end", scope: "Team2JammerHightlightQueue" }, afterFinish: doTeam2JammerPulsate });
+    }
+  };
+  var team1JammerPulsateChange = function () {
+    if (ScoreBoard.Team("1").LeadJammer.getContent() == "true")
+      startTeam1JammerPulsate();
+    else
+      team1JammerPulsate = false;
+  };
+  var team2JammerPulsateChange = function () {
+    if (ScoreBoard.Team("2").LeadJammer.getContent() == "true")
+      startTeam2JammerPulsate();
+    else
+      team2JammerPulsate = false;
+  };
+  ScoreBoard.Team("1").LeadJammer.observe("content:change", team1JammerPulsateChange);
+  ScoreBoard.Team("2").LeadJammer.observe("content:change", team2JammerPulsateChange);
+  team1JammerPulsateChange();
+  team2JammerPulsateChange();
+
+  var team1JammerLeadText = function () {
+    if ((ScoreBoard.Team("1").LeadJammer.getContent() == "true") && (ScoreBoard.Team("1").get("Position", "Jammer").getContent() == ""))
+      $("Team1JammerLead").show();
+    else
+      $("Team1JammerLead").hide();
+  };
+  var team2JammerLeadText = function () {
+    if ((ScoreBoard.Team("2").LeadJammer.getContent() == "true") && (ScoreBoard.Team("2").get("Position", "Jammer").getContent() == ""))
+      $("Team2JammerLead").show();
+    else
+      $("Team2JammerLead").hide();
+  };
+  ScoreBoard.Team("1").get("Position", "Jammer").observe("content:change", team1JammerLeadText);
+  ScoreBoard.Team("2").get("Position", "Jammer").observe("content:change", team2JammerLeadText);
+  ScoreBoard.Team("1").LeadJammer.observe("content:change", team1JammerLeadText);
+  ScoreBoard.Team("2").LeadJammer.observe("content:change", team2JammerLeadText);
+  team1JammerLeadText();
+  team2JammerLeadText();
+
+  var team1TimeoutPulsate = false;
+  var team2TimeoutPulsate = false;
+  var startTeam1TimeoutPulsate = function () {
+    if (team1TimeoutPulsate) return;
+    team1TimeoutPulsate = true;
+    doTeam1TimeoutPulsate();
+  };
+  var startTeam2TimeoutPulsate = function () {
+    if (team2TimeoutPulsate) return;
+    team2TimeoutPulsate = true;
+    doTeam2TimeoutPulsate();
+  };
+  var doTeam1TimeoutPulsate = function () {
+    if (team1TimeoutPulsate) {
+      new Effect.Opacity("Team1TimeoutsHighlight", { duration: 0.5, from: 0.0, to: 1.0, queue: { position: "end", scope: "Team1HightlightQueue" } });
+      new Effect.Opacity("Team1TimeoutsHighlight", { duration: 0.5, from: 1.0, to: 0.0, queue: { position: "end", scope: "Team1HightlightQueue" }, afterFinish: doTeam1TimeoutPulsate });
+    }
+  };
+  var doTeam2TimeoutPulsate = function () {
+    if (team2TimeoutPulsate) {
+      new Effect.Opacity("Team2TimeoutsHighlight", { duration: 0.5, from: 0.0, to: 1.0, queue: { position: "end", scope: "Team2HightlightQueue" } });
+      new Effect.Opacity("Team2TimeoutsHighlight", { duration: 0.5, from: 1.0, to: 0.0, queue: { position: "end", scope: "Team2HightlightQueue" }, afterFinish: doTeam2TimeoutPulsate });
+    }
+  };
+  var timeoutHighlightChange = function() {
+    if (ScoreBoard.Clock("Timeout").Running.getContent() == "true") {
+      if (ScoreBoard.TimeoutOwner.getContent() == "1")
+        startTeam1TimeoutPulsate();
+      else
+        team1TimeoutPulsate = false;
+      if (ScoreBoard.TimeoutOwner.getContent() == "2")
+        startTeam2TimeoutPulsate();
+      else
+        team2TimeoutPulsate = false;
+    } else {
+      team1TimeoutPulsate = false;
+      team2TimeoutPulsate = false;
+    }
+  };
+  timeoutHighlightChange();
+  ScoreBoard.TimeoutOwner.observe("content:change", timeoutHighlightChange);
+  ScoreBoard.Clock("Timeout").Running.observe("content:change", timeoutHighlightChange);
+
+  var intermissionViewTextShowChange = function (show) {
+    if (show == "true")
+      $("IntermissionViewText").style.opacity = "1";
+    else
+      $("IntermissionViewText").style.opacity = "0";
+  };
+  sbpage.get("IntermissionViewTextShow").observe("content:change", function (event) { intermissionViewTextShowChange(event.memo.value); });
+  intermissionViewTextShowChange(sbpage.get("IntermissionViewTextShow").getContent());
+  autoSetFontSize($("IntermissionViewTextBox"), $("IntermissionViewText"), 10);
+  sbpage.get("Text", "Intermission").observe("content:change", function () { autoSetFontSize($("IntermissionViewTextBox"), $("IntermissionViewText"), 10); });
+
+  var intermissionViewClockShowChange = function (show) {
+    if (show == "true")
+      $("IntermissionViewClock").show();
+    else
+      $("IntermissionViewClock").hide();
+  };
+  sbpage.get("IntermissionViewClockShow").observe("content:change", function (event) { intermissionViewClockShowChange(event.memo.value); });
+  intermissionViewClockShowChange(sbpage.get("IntermissionViewClockShow").getContent());
+
+  if ((sbpage.get("ViewPanel").getContent() == null) || (!$("ViewPanel"+sbpage.get("ViewPanel").getContent())))
+    sbpage.get("ViewPanel").setContent("ScoreBoard");
+  var setViewPanel = function (panel) {
+    var showPanel = $("ViewPanel"+panel);
+    if (!showPanel)
+      return;
+    var effects = $$(".ViewPanel").without(showPanel).map(function (p) { return new Effect.Morph(p, { style: "opacity: 0;", sync: true }); });
+    effects.push(new Effect.Morph(showPanel, { style: "opacity: 1;", sync: true }));
+    new Effect.Parallel( effects, { queue: { position: "end", scope: "viewPanelQueue" }, duration: 0.5, transition: Effect.Transitions.linear, fps: 20 });
+
+    try {
+      if (panel == "Video") {
+        $("VideoElement").autoplay = true;
+        $("VideoElement").play();
+      } else {
+        $("VideoElement").autoplay = false;
+        $("VideoElement").pause();
+      }
+    } catch (err) {
+      /* Browser does not support video element */
+    }
+  };
+  setViewPanel(sbpage.get("ViewPanel").getContent());
+  sbpage.get("ViewPanel").observe("content:change", function (event) { setViewPanel(event.memo.value); });
+
+  if (sbpage.get("AutoScoreBoardAdChange").getContent() == null)
+    sbpage.get("AutoScoreBoardAdChange").setContent("true");
+
+  sbpage.get("AdsShowDuringIntermission").observe("content:change", function () {
+    intermissionChange(ScoreBoard.Clock("Intermission").Running.getContent());
+  });
+
+  var adIndex = 0;
+  var changeAd = function() {
+    if (ScoreBoard.get("Page", "scoreboard.html").get("AutoScoreBoardAdChange").getContent() == "true") {
+      var imgs = ScoreBoard.Image.filter(function(i) { return (i.Type.getContent() == "ad"); }).toArray();
+      if (sbpage.get("AdsRandomOrder").getContent() == "true")
+        adIndex = Math.floor(Math.random() * imgs.length);
+      else if (imgs.length <= ++adIndex)
+        adIndex = 0;
+      $("ScoreBoardAd").src = imgs[adIndex].Filename.getContent();
+      $("IntermissionAd").src = imgs[adIndex].Filename.getContent();
+    }
+  };
+  changeAd();
+  var lastLineupTime = 0;
+  ScoreBoard.Clock("Lineup").Time.observe("content:change", function(event) {
+    var time = Math.floor(event.memo.value / 1000);
+    if (time == lastLineupTime)
+      return;
+    lastLineupTime = time;
+    if (((0 == (time % 5)) && (0 != time) && (30 != time)) && (sbpage.get("AdsUseLineupClock").getContent() == "true"))
+      changeAd();
+  });
+  var adChangeTimer = function() {
+    if (sbpage.get("AdsUseLineupClock").getContent() != "true")
+      changeAd();
+    var interval = new Number(sbpage.get("AdsDisplaySeconds").getContent());
+    if (isNaN(interval) || (interval < 1))
+      interval = 5;
+    setTimeout(adChangeTimer, interval * 1000);
+  };
+  adChangeTimer();
+}
+
+function setupWindow() {
+  resizeWindow();
+
+  setupScoreBoard();
+
+  startScoreBoardWatchdog(watchdog);
+}
+
+function resizeWindow() {
+  document.body.style.width = document.viewport.getWidth() + "px";
+  document.body.style.height = document.viewport.getHeight() + "px";
+
+  /* Fix to 4x3 aspect, fit to browser size, centered (if needed) */
+  var w = get4x3W();
+  var h = getH();
+  if (w > getW()) {
+    w = getW();
+    h = get4x3H();
+  }
+  var t = (getH() - h) / 2;
+  var l = (getW() - w) / 2;
+
+  $("mainDiv").setStyle( { top: t+"px", left: l+"px", width: w+"px", height: h+"px" } );
+
+  $$(".box").each(function(e) { e.setStyle( { fontSize: w+"px" } ); });
+}
+
+function watchdog(interval, sinceRequest, sinceResponse) {
+//FIXME - this should track the xmlhttp and abort the last one to avoid having a lot pending
+  if (1000 < sinceResponse) {
+    getScoreBoard(0, "");
+  }
+}
+
+function startAll() {
+  var cursorShow = true;
+  var cursorFunction = function() {
+    cursorShow = !cursorShow;
+    $$(".cursorControl").each(function(c) { c.style.cursor = (cursorShow ? "" : "url(../images/blank.cur),none" ); });
+  };
+  document.observe("keydown", function(event) {
+    if (Event.KEY_ESC == event.keyCode)
+      cursorFunction();
+  });
+  cursorFunction();
+  Event.observe(window, "resize", resizeWindow);
+
+  var rate = getParam("pollRate");
+  startScoreBoard("views/scoreboard.html", (null==rate) ? "100" : rate, "setupWindow();");
+}
+
+</script>
+
+<style type="text/css" >
+* { position: absolute; }
+#mainDiv { position: fixed; }
+
+.full { top: 0%; bottom: 0%; left: 0%; right: 0%; }
+img.full { width: 100%; height: 100%; }
+video.full { width: 100%; height: 100%; }
+
+a {
+  text-align: center;
+  letter-spacing: 0px;
+  text-decoration: none;
+  overflow: hidden;
+  font-stretch: condensed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  line-height: 100%;
+}
+
+/* For manual positioning */
+/* [sbelement='ScoreBoard.Page(scoreboard.html).View(ScoreBoard)'] > *{ border: 1px solid white; } */
+
+#Team1Name,#Team2Name { color: #ffffff; text-align: center; }
+
+#Team1NameBox       { top: 0%; right: 52.5%; width: 45%; height: 10%; }
+#Team1Name          { font-size: 10%; }
+#Team2NameBox       { top: 0%; left: 52.5%; width: 45%; height: 10%; }
+#Team2Name          { font-size: 10%; }
+#Team1Logo          { top: 10%; right: 55%; width: 40%; height: 20%; }
+#Team2Logo          { top: 10%; left: 55%; width: 40%; height: 20%; }
+#Team1ScoreBox      { top: 31%; right: 57.5%; width: 35%; height: 20%; }
+#Team2ScoreBox      { top: 31%; left: 57.5%; width: 35%; height: 20%; }
+#Team1Score         { font-size: 18%; line-height: 82.5%; }
+#Team2Score         { font-size: 18%; line-height: 82.5%; }
+
+#Team1JammerBox     { top: 53%; right: 100%; width: 40%; height: 10%; }
+#Team2JammerBox     { top: 53%; left: 100%; width: 40%; height: 10%; }
+
+#TeamTimeoutsBox    { top: 31%; left: 43.125%; width: 13.75%; height: 5%; }
+#TeamTimeoutsName   { font-size: 2.75%; line-height: 140% }
+#Team1TimeoutsBox   { top: 39.325%; right: 50.625%; width: 6.25%; height: 8.325%; }
+#Team1Timeouts      { font-size: 6%;}
+#Team2TimeoutsBox   { top: 39.325%; left: 50.625%; width: 6.25%; height: 8.325%; }
+#Team2Timeouts      { font-size: 6%;}
+
+#ClockPeriodNameBox { top: 64%; right: 132%; height: 10%; width: 32%; }
+#ClockPeriodName    { font-size: 7%; }
+#ClockPeriodTimeBox { top: 76%; right: 100%; height: 16%; width: 40%; }
+#ClockPeriodTime    { font-size: 12.5%; }
+
+#ClockJamNameBox    { top: 65%; left: 104%; height: 10%; width: 32%; }
+#ClockJamName       { font-size: 7%; }
+#ClockJamTimeBox    { top: 77%; left: 100%; height: 16%; width: 40%; }
+#ClockJamTime       { font-size: 12.5%; }
+
+#ClockLineupNameBox { top: 59%; left: 100%; height: 12%; width: 16%; }
+#ClockLineupName    { font-size: 3.5%; line-height: 250%; }
+#ClockLineupTimeBox { top: 59%; left: 100%; height: 12%; width: 28%; }
+#ClockLineupTime    { font-size: 9.5%; }
+
+#ClockTimeoutNameBox { top: 102%; left: 10%; height: 12%; width: 35%; }
+#ClockTimeoutName    { font-size: 7.75%; line-height: 110%; }
+#ClockTimeoutTimeBox { top: 100%; left: 55%; height: 16%; width: 35%; }
+#ClockTimeoutTime    { font-size: 12.5%; }
+
+#ClockIntermissionNameBox { top: 100%; left: 20%; height: 12%; width: 60%; }
+#ClockIntermissionName    { font-size: 7.75%; line-height: 110%; }
+#ClockIntermissionTimeBox { top: 115%; right: 20%; height: 23%; width: 60%; }
+#ClockIntermissionTime    { font-size: 19%; line-height: 90%; }
+
+#ScoreBoardAd { top: 100%; left: 0%; width: 100%; height: 26.5%; }
+
+</style>
+
+</head>
+
+<body onload="startAll();" style="overflow: hidden; background: #000000;" >
+
+<div id="mainDiv" >
+  <div id="topDiv" style="bottom: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="bottomDiv" style="top: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="leftDiv" style="right: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="rightDiv" style="left: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+
+
+  <div id="ViewPanelScoreBoard" class="ViewPanel full cursorControl" >
+    <div id="Team1NameBox" class="box"><a id="Team1Name" sbelement="ScoreBoard.Team(1).Name" class="full" ></a></div>
+    <img id="Team1Logo" sbelement="ScoreBoard.Team(1).TeamLogo.Filename" onload="this.style.display='';" onerror="this.style.display='none';" />
+    <div id="Team1ScoreBox" class="box">
+      <a id="Team1Score" sbelement="ScoreBoard.Team(1).Score" class="full" ></a>
+      <img src="/images/score-box.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="Team1JammerBox" class="box" >
+      <a id="Team1Jammer" sbelement="ScoreBoard.Team(1).Position(Jammer)" class="full" style="color: white; z-index: -1;" ></a>
+      <a id="Team1JammerHighlight" sbelement="ScoreBoard.Team(1).Position(Jammer)" class="full" style="color: #ff0000; opacity: 0;" ></a>
+      <a id="Team1JammerLead" class="full" style="font-size: 7.5%; color: white; display: none;" >Lead</a>
+    </div>
+
+    <div id="Team1TimeoutsBox" class="box" >
+      <a id="Team1Timeouts" sbelement="ScoreBoard.Team(1).Timeouts" class="full" ></a>
+      <img id="Team1TimeoutsHighlight" src="/images/timeouts-number-red.png" style="z-index: -4; opacity: 0" class="full" />
+      <img src="/images/timeouts-number.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="Team2NameBox" class="box"><a id="Team2Name" sbelement="ScoreBoard.Team(2).Name" class="full" ></a></div>
+    <img id="Team2Logo" sbelement="ScoreBoard.Team(2).TeamLogo.Filename" onload="this.style.display='';" onerror="this.style.display='none';" />
+    <div id="Team2ScoreBox" class="box">
+      <a id="Team2Score" sbelement="ScoreBoard.Team(2).Score" class="full" ></a>
+      <img src="/images/score-box.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="Team2JammerBox" class="box" >
+      <a id="Team2Jammer" sbelement="ScoreBoard.Team(2).Position(Jammer)" class="full" style="color: white; z-index: -1;" ></a>
+      <a id="Team2JammerHighlight" sbelement="ScoreBoard.Team(2).Position(Jammer)" class="full" style="color: #ff0000; opacity: 0;" ></a>
+      <a id="Team2JammerLead" class="full" style="font-size: 7.5%; color: white; display: none;" >Lead</a>
+    </div>
+
+    <div id="Team2TimeoutsBox" class="box" >
+      <a id="Team2Timeouts" sbelement="ScoreBoard.Team(2).Timeouts" class="full" ></a>
+      <img id="Team2TimeoutsHighlight" src="/images/timeouts-number-red.png" style="z-index: -4; opacity: 0" class="full" />
+      <img src="/images/timeouts-number.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="TeamTimeoutsBox" class="box">
+      <a id="TeamTimeoutsName" class="full" >Timeouts</a>
+      <img src="/images/timeouts.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockPeriodNameBox" class="box">
+      <script type="text/javascript"> function prefixPeriod(num) { return "Period "+num; }; </script>
+      <a id="ClockPeriodName" sbelement="ScoreBoard.Clock(Period).Number" class="full contentfilter:prefixPeriod" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockPeriodTimeBox" class="box">
+      <a id="ClockPeriodTime" sbelement="ScoreBoard.Clock(Period).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockJamNameBox" class="box">
+      <script type="text/javascript"> function prefixJam(num) { return "Jam "+num; }; </script>
+      <a id="ClockJamName" sbelement="ScoreBoard.Clock(Jam).Number" class="full contentfilter:prefixJam" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockJamTimeBox" class="box">
+      <a id="ClockJamTime" sbelement="ScoreBoard.Clock(Jam).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockLineupNameBox" class="box">
+      <a id="ClockLineupName" class="full" >Lineup</a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockLineupTimeBox" class="box">
+      <a id="ClockLineupTime" sbelement="ScoreBoard.Clock(Lineup).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+ 
+    <div id="ClockTimeoutNameBox" class="box">
+      <a id="ClockTimeoutName" class="full" >Timeout</a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockTimeoutTimeBox" class="box">
+      <a id="ClockTimeoutTime" sbelement="ScoreBoard.Clock(Timeout).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockIntermissionNameBox" class="box">
+      <a id="ClockIntermissionName" sbelement="ScoreBoard.Page(scoreboard.html).IntermissionName" class="full" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockIntermissionTimeBox" class="box">
+      <a id="ClockIntermissionTime" sbelement="ScoreBoard.Clock(Intermission).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <img id="ScoreBoardBackground" sbelement="ScoreBoard.Page(scoreboard.html).Image(ScoreBoardBackground)" style="z-index: -100;" class="full" />
+    <img id="ScoreBoardAd" sbelement="ScoreBoard.Page(scoreboard.html).Image(Ad)" style="z-index: -5;" />
+  </div>
+
+  <div id="ViewPanelIntermission" class="ViewPanel full cursorControl" >
+    <div id="IntermissionViewClockBox" class="box" style="bottom: 26.5%; left: 0%; width: 100%; height: 73.5%;" >
+      <a id="IntermissionViewClock" sbelement="ScoreBoard.Clock(Intermission).Time" class="contentfilter:msToMinSecNoZeroMin" style="top: 12.5%; left: 0%; width: 100%; height: 87.5%; font-size: 35%" ></a>
+    </div>
+    <div id="IntermissionViewTextBox" class="box" style="bottom: 26.5%; left: 0%; width: 100%; height: 73.5%;" >
+      <a id="IntermissionViewText" sbelement="ScoreBoard.Page(scoreboard.html).Text(Intermission)" class="full" style="font-size: 10%;" ></a>
+    </div>
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(IntermissionBackground)" style="z-index: -100;" class="full" />
+    <img id="IntermissionAd" sbelement="ScoreBoard.Page(scoreboard.html).Image(Ad)" style="top: 73.5%; left: 0%; width: 100%; z-index: -5;" />
+  </div>
+
+  <div id="ViewPanelCountdown" class="ViewPanel full cursorControl" >
+    <div class="box" >
+      <a sbelement="ScoreBoard.Clock(Countdown).Time" class="contentfilter:msToMinSecNoZeroMin" style="top: 12%; bottom: 0%; left: 0%; right: 0%; font-size: 80%; line-height: 80%;" ></a>
+    </div>
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(CountdownBackground)" style="z-index: -100;" class="full" />
+  </div>
+
+  <div id="ViewPanelImage" class="ViewPanel full cursorControl" >
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(ImageOnly)" class="full" />
+  </div>
+
+  <div id="ViewPanelVideo" class="ViewPanel full cursorControl" >
+    <video id="VideoElement" sbelement="ScoreBoard.Page(scoreboard.html).Video(VideoOnly)" autoplay onended="this.currentTime=0;" style="z-index: -200;" class="full" ></video>
+  </div>
+
+</div>
+
+</body>
+
+</html>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Yes or No Spread (Peach)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Sim ou nenhuma propagação (pêssego)</entry>
+	<entry key="Description">O pêssego sugere que os cartões estejam lidos dentro a
+seguinte ordem: 1+2, 3+4, 7+8, 5+6, 9+10 anotam que ' as 
+influências úteis ' e ' adversas ' são sempre com respeito ao 
+resultado mostrado no cartão 2. Assim se a resposta vier acima 
+do No., os cartões 3 e 4 estarão ajudando a esse resultado e 
+estarão ajudando não necessariamente ao querent. Desde que o 
+pêssego diz esse cartão se o cartão 2 fosse ereto, a resposta à 
+pergunta era yes; se invertido, No., então você provavelmente 
+deve permitir "permite cartões invertidos" </entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Situação atual para o querent</entry>
+	<entry key="PositionTitle1">cartão respondendo</entry><entry key="Meaning1">Se ereta, a resposta à pergunta era yes; se 
+invertido, No.. Também o cartão do resultado para a leitura.</entry>
+	<entry key="PositionTitle2">Influências Úteis 1</entry><entry key="Meaning2">Raciocinou o resultado ocorrerá</entry>
+	<entry key="PositionTitle3">Influências Úteis 2</entry><entry key="Meaning3">Raciocinou o resultado ocorrerá</entry>
+	<entry key="PositionTitle4">Pensamentos 1 de Querent</entry><entry key="Meaning4">Pensamentos de Querent a respeito da matéria</entry>
+	<entry key="PositionTitle5">Pensamentos 2 de Querent</entry><entry key="Meaning5">Pensamentos de Querent a respeito da matéria</entry>
+	<entry key="PositionTitle6">Influência Adversa 1</entry><entry key="Meaning6">Coisas que estão trabalhando de encontro ao resultado</entry>
+	<entry key="PositionTitle7">Influência Adversa 2</entry><entry key="Meaning7">Coisas que estão trabalhando de encontro ao resultado</entry>
+	<entry key="PositionTitle8">Sentimentos 1 de Querent</entry><entry key="Meaning8">Sentimentos de Querent a respeito da matéria</entry>
+	<entry key="PositionTitle9">Sentimentos 2 de Querent</entry><entry key="Meaning9">Sentimentos de Querent a respeito da matéria</entry>
+</oracleio>

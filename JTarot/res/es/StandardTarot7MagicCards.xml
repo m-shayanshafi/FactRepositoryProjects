@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Magic seven layout (Doane)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Disposición de la magia siete (Doane)</entry>
+	<entry key="Description">Estrella de David</entry>
+	<entry key="PositionTitle0">Más allá de</entry><entry key="Meaning0">Más allá del acontecimiento que conduce al estado 
+actual</entry>
+	<entry key="PositionTitle1">Presente</entry><entry key="Meaning1">El estado actual</entry>
+	<entry key="PositionTitle2">Futuro inmediato</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Solución</entry><entry key="Meaning3">Solución sugerida, qué el querent debe hacer para 
+obtener más control sobre la situación actual</entry>
+	<entry key="PositionTitle4">Ambiente</entry><entry key="Meaning4">El ambiente actual y/o su afecta en la materia</entry>
+	<entry key="PositionTitle5">Oposición</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Resultado</entry><entry key="Meaning6"></entry>
+</oracleio>

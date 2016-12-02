@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/util.jar lib/junit.jar
+Main-Class: net.sf.bloodball.BloodBall
+

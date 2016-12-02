@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: James McCabe, oranda.com
+Main-Class: com.oranda.pacdasher.PacDasherMain
+Class-Path: ./pacdasher.jar ./pacdasher_resources.jar ./jaxp-api.jar ./sax.jar ./xercesImpl.jar xml-apis.jar

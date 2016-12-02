@@ -1,0 +1,10 @@
+Here's an explanation of the newly created folders - 
+
+REMEMBER, WHEN ACCESSING A FILE:
+Resources/Splashes/OpeningSplash.jpeg
+NOT 
+/Resources/Splashes/OpeningSplash.jpeg
+
+ffs Java
+
+So: Icons, character stuff goes into assets, chapter splashes go into splashes, and backgrounds go into backgrounds. The fonts folder is for different versions of FIXEDSYS, until that works. 

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53/towerdefence-pgui/src/org/mysoft/td/pgui/renderer
+END
+GenericObjectRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/GenericObjectRenderer.java
+END
+GenericWorldRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/GenericWorldRenderer.java
+END
+RendererConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/RendererConfig.java
+END
+GenericGameRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/53/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/GenericGameRenderer.java
+END
+AimingTurrentRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/53/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/AimingTurrentRenderer.java
+END
+RendererManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/RendererManager.java
+END
+ProcessingRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/53/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/ProcessingRenderer.java
+END
+RendererException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/RendererException.java
+END
+GraphicsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/34/towerdefence-pgui/src/org/mysoft/td/pgui/renderer/GraphicsRenderer.java
+END

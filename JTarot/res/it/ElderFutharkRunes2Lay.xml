@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Two Runes" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Due Runes</entry>
+	<entry key="Description">A volte usato come una risposta di yes/no o scegliere il
+la cosa migliore di due situazioni. Tarot è generalmente 
+difettoso alle risposte di yes/no ma se dovete chiedere uno, questa è
+una delle disposizioni migliori per esso. Scelga in anticipo che
+il rune sarà "sì" il rune e che non sarà "no" il rune o che 
+situazione di cui la scheda si occuperà. Avvertendo, a volte il
+rune meno desireable è comunque la soluzione migliore! A volte 
+dovete prendere la strada più di meno avete viaggiato.</entry>
+	<entry key="PositionTitle0">Soluzione 1</entry><entry key="Meaning0">Che cosa potete prevedere se prendete la soluzione avete
+predeterminato che questa scheda rappresenterà.</entry>
+	<entry key="PositionTitle1">Soluzione 2</entry><entry key="Meaning1">Che cosa potete prevedere se prendete la soluzione avete
+predeterminato che questa scheda rappresenterà.</entry>
+</oracleio>

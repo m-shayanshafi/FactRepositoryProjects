@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Romany Spread (Doane/Peach)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion De Bohémien (Doane/Peach)</entry>
+	<entry key="Description">Chaque rangée représente des événements ou des 
+influences pour la période de temps indiquée. La carte 
+adjacente dans la même rangée modifient un un autre. La 
+commande des cartes dans une rangée ne sont pas nécessairement 
+significative. Variation : Une variation de cette lecture 
+est que la carte moyenne de chaque rangée (18, 11, et 04) devrait 
+représenter l'événement le plus significatif de la période de 
+temps montrée. Ceci rend des cartes plus lointaines dehors sur 
+les bords de la rangée (21, 15, 14, etc...) moins significatif.
+(Doane)</entry>
+	<entry key="PositionTitle0">Après 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Après 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Après 3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Après 4</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Après 5</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Après 6</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Après 6</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Présent 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Présent 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Présent 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Présent 4</entry><entry key="Meaning10"></entry>
+	<entry key="PositionTitle11">Présent 5</entry><entry key="Meaning11"></entry>
+	<entry key="PositionTitle12">Présent 6</entry><entry key="Meaning12"></entry>
+	<entry key="PositionTitle13">Présent 7</entry><entry key="Meaning13"></entry>
+	<entry key="PositionTitle14">Futur 1</entry><entry key="Meaning14"></entry>
+	<entry key="PositionTitle15">Futur 2</entry><entry key="Meaning15"></entry>
+	<entry key="PositionTitle16">Futur 3</entry><entry key="Meaning16"></entry>
+	<entry key="PositionTitle17">Futur 4</entry><entry key="Meaning17"></entry>
+	<entry key="PositionTitle18">Futur 5</entry><entry key="Meaning18"></entry>
+	<entry key="PositionTitle19">Futur 6</entry><entry key="Meaning19"></entry>
+	<entry key="PositionTitle20">Futur 7</entry><entry key="Meaning20"></entry>
+</oracleio>

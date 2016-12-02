@@ -1,0 +1,21 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "AIPLayerTest"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "\\soccer\\classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "tos_tests.AIPLayerTest" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\tos_tests\\AIPlayerTest.java" #[EndFile]
+#[EndFolder]

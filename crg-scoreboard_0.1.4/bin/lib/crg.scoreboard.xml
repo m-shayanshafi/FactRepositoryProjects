@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document SystemTime="1254451495502">
+  <ScoreBoard>
+    <Page Id="scoreboard.html">
+      <ViewPanel>ScoreBoard</ViewPanel>
+      <Image Id="ScoreBoardBackground">/images/fullscreen/scoreboard.jpg</Image>
+      <Image Id="Ad"/>
+      <Image Id="IntermissionBackground">/images/fullscreen/intermission.jpg</Image>
+      <Image Id="CountdownBackground">/images/fullscreen/countdown.jpg</Image>
+      <Image Id="ImageOnly">/images/fullscreen/american_flag.jpg</Image>
+      <Video Id="VideoOnly">/video/american-flag.mp4</Video>
+      <AutoClockPosition>true</AutoClockPosition>
+      <ManualClockPosition>jam</ManualClockPosition>
+      <ClockPositions Id="jam">jam</ClockPositions>
+      <ClockPositions Id="lineup">lineup</ClockPositions>
+      <ClockPositions Id="timeout">timeout</ClockPositions>
+      <ClockPositions Id="intermission">intermission</ClockPositions>
+      <AutoScoreBoardAdChange>true</AutoScoreBoardAdChange>
+    </Page>
+    <Page Id="one-operator.html">
+      <Operator Id="default">
+        <Control Id="StartJam">
+          <Key/>
+        </Control>
+        <Control Id="StopJam">
+          <Key/>
+        </Control>
+        <Control Id="Timeout">
+          <Key/>
+        </Control>
+        <Control Id="Team1ScoreUp">
+          <Key/>
+        </Control>
+        <Control Id="Team2ScoreUp">
+          <Key/>
+        </Control>
+        <Control Id="Team1ScoreDown">
+          <Key/>
+        </Control>
+        <Control Id="Team2ScoreDown">
+          <Key/>
+        </Control>
+      </Operator>
+    </Page>
+  </ScoreBoard>
+  </document>
+

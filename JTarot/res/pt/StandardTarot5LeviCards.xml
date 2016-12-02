@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação Da Roda De Eliphas Levi (Guiley)</entry>
+	<entry key="Description">A disposição é assim que nomeado porque é baseada 
+na roda de Eliphas Levi, uma versão de que é vista no trump 10 na 
+plataforma do Cavaleiro-Waite; Levi não inventou esta 
+disposição. A roda de Levi atribuiu letras do Tetragramaton 
+(Yod, ele, Vau, ele, respectivamente) a cada uma das quatro posições
+mostradas acima. A roda de Levi oferece também algumas 
+interpretações adicionais dos quatro ternos do tarot, os quatro Rank
+de cartões da corte, e o meaning das letras T, O, R, e A.</entry>
+	<entry key="PositionTitle0">Presente</entry><entry key="Meaning0">Situação atual</entry>
+	<entry key="PositionTitle1">Influências waning</entry><entry key="Meaning1">Obstáculos superados já. Muda que ocorreram no 
+passado.</entry>
+	<entry key="PositionTitle2">Escondido</entry><entry key="Meaning2">Influências escondidas ou inconscientes</entry>
+	<entry key="PositionTitle3">Emergir</entry><entry key="Meaning3">Influências emergentes.</entry>
+	<entry key="PositionTitle4">Síntese</entry><entry key="Meaning4">Extrai junto outras quatro influências.</entry>
+</oracleio>

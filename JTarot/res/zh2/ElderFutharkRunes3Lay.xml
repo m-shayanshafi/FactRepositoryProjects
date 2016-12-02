@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Three Runes" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">三Runes</entry>
+	<entry key="Description">這是一種簡單的過去, 今後佈局。這種佈局是最佳描述真正地不要求長和深刻的分析的簡單的情況。有時這做在做一種更加複雜的佈局之前為了幫助您聚焦您的想法、感覺, 或問題。並且這可能做在一種更加複雜的佈局進一步指定一個具體問題殘餘從複雜佈局之後。</entry>
+	<entry key="PositionTitle0">通過</entry><entry key="Meaning0">什麼從前發生□。什麼您已經知道。什麼您帶來與您入這個問題。</entry>
+	<entry key="PositionTitle1">禮物</entry><entry key="Meaning1">那裡您是現在。什麼您現在感覺。什麼現在發生在您身上。</entry>
+	<entry key="PositionTitle2">未來</entry><entry key="Meaning2">什麼在將來發生。這通常不是太遙遠的未來但是期限取決於問題。</entry>
+</oracleio>

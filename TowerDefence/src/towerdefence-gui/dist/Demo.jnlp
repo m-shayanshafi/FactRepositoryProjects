@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://tdsystem.googlecode.com/svn/towerdefence-gui/dist/" href="Demo.jnlp">
+    <information>
+        <title>JavaFX Tower Defence Game System 0.0.1</title>
+        <vendor>marcin.koch.pl@gmail.com</vendor>
+        <homepage href=""/>
+        <description>Main</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="Main.jar" main="true"/>
+        <jar href="lib/towerdefence-engine_bin.jar"/>
+    </resources>
+    <applet-desc name="JavaFX Tower Defence Game System 0.0.1" main-class="com.sun.javafx.runtime.adapter.Applet" width="660" height="500">
+        <param name="MainJavaFXScript" value="org.mysoft.td.gui.Main">
+    </applet-desc>
+    <update check="background">
+</jnlp>

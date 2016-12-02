@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Planetary Spread (Peach)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione Planetaria (Pesca)</entry>
+	<entry key="Description">"le schede di questa latta di diffusione e devono 
+essere accoppiate e leggere dentro la giustapposizione, cioè, la 
+scheda nella posizione della luna dovrebbe essere accoppiata con 
+quella nella posizione del sole; la scheda nella posizione di 
+Venus con quella nella posizione di Marte e così via." - pesca</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Voi, dove siete ora. Situazione attuale</entry>
+	<entry key="PositionTitle1">Luna</entry><entry key="Meaning1">Emozioni, sensibilità</entry>
+	<entry key="PositionTitle2">Mercurio</entry><entry key="Meaning2">Pensieri, intellect</entry>
+	<entry key="PositionTitle3">Venus</entry><entry key="Meaning3">Amore, rapporti</entry>
+	<entry key="PositionTitle4">Sole</entry><entry key="Meaning4">Energia, il ego, il punto centrale</entry>
+	<entry key="PositionTitle5">Marte</entry><entry key="Meaning5">Conflitto, guerra. Inoltre può rappresentare la 
+soluzione o la risposta alla materia che è perchè è denominato il 
+reconciler</entry>
+	<entry key="PositionTitle6">Jupiter</entry><entry key="Meaning6">Sviluppo ed espansione. Fortuna. Influenze 
+positive</entry>
+	<entry key="PositionTitle7">Saturno</entry><entry key="Meaning7">Lavoro da fare. Influenze della negazione da 
+sormontare</entry>
+</oracleio>

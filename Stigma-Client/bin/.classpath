@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="3rdparty/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="3rdparty/i18n4j-0.4.2.jar"/>
+	<classpathentry kind="lib" path="3rdparty/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="3rdparty/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

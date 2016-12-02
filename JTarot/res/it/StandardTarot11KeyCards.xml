@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Key Spread (Efran)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione Di Chiave (Efran)</entry>
+	<entry key="Description">"qui è la disposizione che uso, una di Tarot ho 
+inventato (per quanto so). Ho sviluppato i principi fondamentali
+della disposizione molto presto dopo che fossi interessato nel Tarot 
+(non ho pensato gran parte di quei standard), ma ancora sto lavorando 
+esso. Non è significato per essere soprattutto preventivo. 
+Invece, è inteso per aiutare il querent ad esaminare la loro 
+domanda ad una nuova luce. (per questo motivo, è una 
+disposizione ragionevole per le auto-letture, se le fate.) Ci 
+sono elementi preventivi, ma tendo ad usarlo piuttosto largamente." 
+- Efran</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Querent e posizione rispetto al vostro 
+question/situation</entry>
+	<entry key="PositionTitle1">Accoppiamento con 3 qui sotto</entry><entry key="Meaning1">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle2">Accoppii con 2 qui sopra</entry><entry key="Meaning2">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle3">Accoppii con 5 qui sotto</entry><entry key="Meaning3">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle4">Accoppii con 4 qui sopra</entry><entry key="Meaning4">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle5">Accoppii con 7 qui sotto</entry><entry key="Meaning5">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle6">Accoppii con 6 qui sopra</entry><entry key="Meaning6">Ogni accoppiamento rappresenta un conflitto fra due 
+influenze, fattori, gente, opinioni, ecc avversari. 
+L'interpretazione dipenderà dalla domanda, ma i conflitti 
+tendono ad essere problemi o ostacoli le facce querent. Potete 
+desiderare scegliere un'opzione in un'eccedenza di accoppiamento 
+l'altra, o tenti di riconciliare i due, o semplicemente riconosca che 
+un conflitto esiste.</entry>
+	<entry key="PositionTitle7">Oltre</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Presente</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Futuro</entry><entry key="Meaning9">Dove le cose capo. Ciò potrebbe essere il futuro 
+se nessun'azione è intrapresa, o il futuro voluto, o il futuro se una
+certa azione specifica è intrapresa. Potreste provare ad 
+aggiungere una scheda fra 9 e 10 per rappresentare l'azione o la 
+decisione che condurranno per cardare il futuro dei 10, o avete 
+parecchie schede 'future 'per vari risultati possibili (due sarebbero 
+ragionevoli). Se state bene con una singola scheda 'previsione 
+'del futuro, la disposizione è probabilmente giusta come è.</entry>
+	<entry key="PositionTitle10">Summaryt</entry><entry key="Meaning10">Un sommario della lettura, o un commento finale sulla 
+situazione, o consiglio, o una chiarificazione delle schede 8-10 se 
+sono poco chiari. Non uso sempre questa scheda -- ho trovato che
+non chiarisce generalmente le cose molto. (veda la scheda 10 per
+altre cose per mettere qui preferibilmente.) Ritengo che ci 
+dovrebbe essere una scheda qui, perché allora la disposizione è 
+modellata approssimativamente come una chiave (quindi il nome), che 
+nel mio parere sembra fredda. Ritengo sospetto che la 
+disposizione sembrerebbe unbalanced senza una scheda qui. [ nota
+di ed.: 'la I 'si riferisce a Efran che ha fatto la disposizione
+]</entry>
+</oracleio>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="JMines release" default="all" basedir=".">
+
+	<target name="all" depends="clean, version, binary, binary-jre, sources, javadoc, license"/>
+
+	<!-- Clean the release directory -->
+	<target name="clean">
+		<echo>Clean the release directory</echo>
+		<delete dir="release"/>
+	</target>
+
+	<!-- Search the release version number in the project properties file -->
+	<target name="version">
+		<echo>Search the release version number in the project properties file</echo>
+		<property file="res/default.properties"/>
+		<echo>Version found: ${version}</echo>
+	</target>
+
+	<!-- Clean, create and jar the classes in the release directory -->
+	<target name="binary" depends="version">
+		<echo>Clean, create and jar the classes in the release directory</echo>
+		<delete file="release/JMines-${version}-bin.jar"/>
+		<delete dir="release/bin"/>
+
+		<mkdir dir="release/bin"/>
+		<javac srcdir="src" destdir="release/bin"/>
+
+		<jar destfile="release/JMines-${version}-bin.jar">
+			<fileset dir="release/bin"/>
+			<fileset dir="." excludes=".settings/**, src/**, bin/**, doc/**, jre/**, release/**, res/img/splashscreen.xcf, *.*"/>
+			<manifest>
+				<attribute name="Main-Class" value="jmines.view.Launcher"/>
+				<attribute name="SplashScreen-Image" value="res/img/splashscreen.png"/>
+				<attribute name="Class-Path" value="res/laf/kunststoff.jar"/>
+			</manifest>
+		</jar>
+
+		<delete dir="release/bin"/>
+	</target>
+
+	<!-- Create a batch file, and zip it with the jre and the jmines jar file -->
+	<target name="binary-jre" depends="version, binary">
+		<echo>Create a batch file, and zip it with the jre and the jmines jar file</echo>
+		<delete dir="release/bin-jre"/>
+
+		<mkdir dir="release/bin-jre"/>
+
+		<echo file="release/bin-jre/JMines.bat" append="false">
+			@echo Loading JMines...
+			@start /min .\jre\bin\javaw.exe -jar JMines.jar %*
+			@exit
+		</echo>
+		<copy file="release/JMines-${version}-bin.jar" tofile="release/bin-jre/JMines.jar"/>
+		<copy todir="release/bin-jre/jre">
+			<fileset dir="jre" />
+		</copy>
+
+		<zip destfile="release/JMines-${version}-bin-jre.zip">
+			<zipfileset dir="release/bin-jre"/>
+		</zip>
+
+		<delete dir="release/bin-jre"/>
+	</target>
+
+	<!-- Clean and zip the JMines Eclipse project (without doc, release and bin directories) in the release directory -->
+	<target name="sources" depends="version">
+		<echo>Clean and zip the JMines Eclipse project (without doc, release and bin directories) in the release directory</echo>
+		<delete file="release/JMines-${version}-src.zip"/>
+
+		<zip destfile="release/JMines-${version}-src.zip">
+			<zipfileset dir="." excludes="release/**"/>
+		</zip>
+		
+		<copy file="release/JMines-${version}-src.zip" tofile="release/JMines-${version}-src-jre.zip"/>
+	</target>
+
+	<!-- Clean, create and zip the javadoc in the release directory -->
+	<target name="javadoc" depends="version">
+		<echo>Clean, create and zip the javadoc in the release directory</echo>
+		<delete file="release/JMines-${version}-doc.zip"/>
+		<delete dir="release/doc"/>
+
+		<mkdir dir="release/doc"/>
+		<javadoc access="private" author="true" classpath="" destdir="release/doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="jmines, jmines.control, jmines.control.actions, jmines.control.actions.board, jmines.control.actions.displayandsounds, jmines.control.actions.game, jmines.control.actions.info, jmines.control.actions.language, jmines.control.actions.other, jmines.control.actions.robot, jmines.control.listeners, jmines.model, jmines.model.events, jmines.view, jmines.view.components, jmines.view.dialogs, jmines.view.persistence" source="1.5" sourcepath="src" splitindex="true" use="true" version="true">
+			<link href="http://java.sun.com/javase/6/docs/api/"/>
+		</javadoc>
+
+		<zip destfile="release/JMines-${version}-doc.zip" basedir="release/doc"/>
+
+		<delete dir="release/doc"/>
+
+		<copy file="release/JMines-${version}-doc.zip" tofile="release/JMines-${version}-doc-jre.zip"/>
+	</target>
+
+	<!-- Copy the license file in the release directory -->
+	<target name="license" depends="version">
+		<echo>Copy the license file in the release directory</echo>
+		<copy file="COPYING.txt" tofile="release/JMines-${version}-COPYING.txt"/>
+		<copy file="COPYING.txt" tofile="release/JMines-${version}-COPYING-jre.txt"/>
+	</target>
+
+</project>

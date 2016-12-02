@@ -1,0 +1,118 @@
+DEBUG: Beginning log
+DEBUG: MazeFactoryXML.create()
+DEBUG: Millis from Starting PacDasher to Started loading XML was 1603
+DEBUG: Millis from Started loading XML to Ended loading XML was 651
+DEBUG: 
+
+INITIAL PERFORMANCE ANALYSIS
+
+
+DEBUG: Video card supports page flipping? true
+
+DEBUG: OS Arch: x86
+OS Name: Windows 2000
+OS Version: 5.0
+Java Version: 1.4.2-beta
+Java Vendor: Sun Microsystems Inc.
+
+DEBUG: Millis from XML load ended to game ready was -1192
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 65665144
+bytes used per frame = 1032
+framesPerSec = 37
+millisPerFrame = 27.027027
+millis minus delay = 7.027027
+numTooLongs = 1
+gcCount = 1
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 66227416
+bytes used per frame = 956
+framesPerSec = 42
+millisPerFrame = 23.809525
+millis minus delay = 3.8095245
+numTooLongs = 0
+gcCount = 4
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 65976240
+bytes used per frame = 1027
+framesPerSec = 41
+millisPerFrame = 24.390244
+millis minus delay = 4.3902435
+numTooLongs = 0
+gcCount = 5
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 65500192
+bytes used per frame = 952
+framesPerSec = 50
+millisPerFrame = 20.0
+millis minus delay = 0.0
+numTooLongs = 0
+gcCount = 5
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 65073904
+bytes used per frame = 852
+framesPerSec = 49
+millisPerFrame = 20.408163
+millis minus delay = 0.40816307
+numTooLongs = 0
+gcCount = 5
+
+
+DEBUG: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+totalMemory = 67043328
+freeMemory = 64615080
+bytes used per frame = 917
+framesPerSec = 50
+millisPerFrame = 20.0
+millis minus delay = 0.0
+numTooLongs = 0
+gcCount = 5
+
+
+DEBUG: MazeFactoryXML.create()
+DEBUG: Millis from Starting PacDasher to Started loading XML was 68339
+DEBUG: Millis from Started loading XML to Ended loading XML was 20
+DEBUG: 
+
+INITIAL PERFORMANCE ANALYSIS
+
+
+DEBUG: Video card supports page flipping? true
+
+DEBUG: OS Arch: x86
+OS Name: Windows 2000
+OS Version: 5.0
+Java Version: 1.4.2-beta
+Java Vendor: Sun Microsystems Inc.
+

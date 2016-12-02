@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="Development"
+	terrainSetId="1" sizeY="15" sizeX="15" segmentSizeY="15" segmentSizeX="15"
+	safeEntryZoneId="2" maxActors="15" id="3"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/MapTypeData-Development.xsd">
+	<description></description>
+	<entryZoneList>
+		<entryZone id="1">
+			<desc></desc>
+			<name>Rabbit hole</name>
+			<pos y="13" x="8" />
+			<pos y="12" x="8" />
+			<pos y="13" x="5" />
+			<pos y="12" x="5" />
+			<pos y="12" x="6" />
+			<pos y="13" x="7" />
+			<pos y="13" x="6" />
+			<pos y="12" x="7" />
+		</entryZone>
+		<entryZone id="2">
+			<desc></desc>
+			<name>Old wardrobe</name>
+			<pos y="2" x="3" />
+			<pos y="1" x="3" />
+			<pos y="1" x="4" />
+			<pos y="2" x="4" />
+		</entryZone>
+	</entryZoneList>
+	<exitZoneList>
+		<exitZone destMap="1" destEntryZone="10" id="1">
+			<desc></desc>
+			<name>Kansas</name>
+			<pos y="13" x="12" />
+			<pos y="12" x="13" />
+			<pos y="12" x="12" />
+			<pos y="13" x="13" />
+			<pos y="13" x="10" />
+			<pos y="12" x="11" />
+			<pos y="12" x="10" />
+			<pos y="13" x="11" />
+		</exitZone>
+	</exitZoneList>
+	<name>Maze</name>
+	<tiles>//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAAACAAAAAgAAAAIAAAACAAD//QAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAD//QAA//0AAAACAAD//QAAAAIAAAACAAD//QAAAAIAAAACAAAAAgAAAAIAAP/9AAAAAgAAAAIAAAACAAD//QAA//0AAAACAAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAAAAIAAP/9AAD//QAA//0AAAACAAD//QAA//0AAAACAAD//QAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAP/9AAAAAgAAAAIAAAACAAD//QAA//0AAAACAAD//QAAAAIAAAACAAD//QAA//0AAP/9AAD//QAA//0AAP/9AAAAAgAA//0AAP/9AAD//QAA//0AAAACAAD//QAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAA//0AAAACAAAAAgAAAAIAAAACAAD//QAA//0AAAACAAD//QAAAAIAAAACAAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAAAAIAAAACAAD//QAA//0AAAACAAD//QAAAAIAAAACAAAAAgAA//0AAAACAAAAAgAAAAIAAAACAAD//QAA//0AAAACAAD//QAA//0AAAABAAAAAQAAAAEAAAABAAAAAQAA//0AAP/9AAD//QAA//0AAAACAAD//QAAAAIAAAACAAD//QAA//0AAAABAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAACAAAAAgAAAAIAAAACAAD//QAAAAIAAP/9AAD//QAA//0AAAABAAAAAAAA//4AAAAAAAAAAQAA//0AAP/9AAD//QAA//0AAP/9AAD//QAAAAIAAAACAAD//QAA//0AAAABAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAQAA//0AAAABAAAAAQAAAAEAAAABAAD//QAA//0AAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAA//0AAAABAAAAAQAAAAEAAAABAAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA//0AAP/9AAD//QAA
+	</tiles>
+</map>

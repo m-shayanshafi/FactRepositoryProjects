@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="pos" type="position"/>
+
+  <xs:element name="staticNpcs" type="staticNpcs"/>
+
+  <xs:complexType name="staticNpcs">
+    <xs:sequence>
+      <xs:element name="npcMap">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="key" minOccurs="0" type="position"/>
+                  <xs:element name="value" minOccurs="0" type="npcDescription"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="position">
+    <xs:all/>
+    <xs:attribute name="x" type="xs:short" use="required"/>
+    <xs:attribute name="y" type="xs:short" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="npcDescription">
+    <xs:sequence>
+      <xs:element name="aiScript" type="aiDescription" nillable="true" minOccurs="0"/>
+      <xs:element name="archetypes">
+        <xs:simpleType>
+          <xs:list itemType="xs:short"/>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="name" type="xs:string"/>
+  </xs:complexType>
+
+  <xs:complexType name="aiDescription">
+    <xs:sequence>
+      <xs:element name="params">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="key" minOccurs="0" type="xs:string"/>
+                  <xs:element name="value" minOccurs="0" type="xs:string"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="name" type="xs:string"/>
+  </xs:complexType>
+</xs:schema>
+

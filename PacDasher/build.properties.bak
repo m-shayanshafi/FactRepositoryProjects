@@ -1,0 +1,13 @@
+# ant properties file
+build.compiler = javac1.5
+imagesdir = images
+classesdir = ../../../ekaJavaDeploy/classes/PacDasher
+packagedir = ../../../ekaJavaDeploy/package/PacDasher
+webserverdir = ../../../Tomcat4.1/webapps/ROOT/pacdasher
+webservermirrordir = ../../../oranda.com/public_html/java/pacdasher
+srcdir = ../../src/com/oranda
+version = 0993
+retroweaver_jar1 = jars/lib/retroweaver.jar
+retroweaver_jar2 = jars/lib/bcel-5.1.jar
+retroweaver_jar3 = jars/lib/jace.jar
+retroweaver_jar4 = jars/lib/Regex.jar

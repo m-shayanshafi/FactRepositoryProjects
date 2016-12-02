@@ -1,0 +1,2 @@
+This folder is made to keep track of stuff that's relevant to the game but doesn't belong in its distro - like the map of the world, and stats, balance ideas,
+and stuff like that. Feel free to add relevant information.

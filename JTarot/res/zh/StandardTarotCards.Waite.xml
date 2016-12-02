@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="zh" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">公共领域</entry>
+	<entry key="ObjectTitle0">0-The 傻瓜</entry><entry key="ObjectMeaning0">愚蠢, 疯狂, 奢侈, 醉, 神志失常, 疯狂, bewrayment 。</entry>
+	<entry key="ObjectTitle1">1-The 魔术师</entry><entry key="ObjectMeaning1">技巧, 外交, 地址, 微妙; 憔悴, 痛苦, 损失, 灾害, 敌人圈套; 自信, 意志; Querent, 如果男性。</entry>
+	<entry key="ObjectTitle2">2-The 高的女教士</entry><entry key="ObjectMeaning2">秘密, 奥秘, 未来unrevealed; 感兴趣Querent 的妇女, 如果男性; Querent, 如果女性; 沈默, 固执; 奥秘, 智慧, 科学。</entry>
+	<entry key="ObjectTitle3">3-The 女皇</entry><entry key="ObjectMeaning3">多产, 行动, 主动性, 几天的长度; 未知, 秘密; 并且困难, 疑义, 无知。</entry>
+	<entry key="ObjectTitle4">4-The 皇帝</entry><entry key="ObjectMeaning4">稳定, 力量, 保护, 认识; 一个了不起的人; 援助, 原因, 信念; 并且当局和意志。</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">婚姻, 联盟, 囚禁, 奴役; 由其他帐户、慈悲和善良; 启发; Querent 求助的人。</entry>
+	<entry key="ObjectTitle6">6-The 恋人</entry><entry key="ObjectMeaning6">吸引力, 爱, 秀丽, 试验克服。</entry>
+	<entry key="ObjectTitle7">7-The 运输车</entry><entry key="ObjectMeaning7">Succour, 上帝打仗, 并且胜利, 推测, 复仇, 麻烦。</entry>
+	<entry key="ObjectTitle8">8 力量</entry><entry key="ObjectMeaning8">力量, 能量, 行动, 勇气, 高尚; 并且完成成功和荣誉。</entry>
+	<entry key="ObjectTitle9">9-The 隐士</entry><entry key="ObjectMeaning9">慎重, 慎重; 并且和特别是谋反, 掩饰, 诈骗, 腐败。</entry>
+	<entry key="ObjectTitle10">时运10 轮子</entry><entry key="ObjectMeaning10">命运, 时运, 成功, 海拔, 运气, 幸福。</entry>
+	<entry key="ObjectTitle11">11 正义</entry><entry key="ObjectMeaning11">产权, 公正, 诚实, 执行委员; 该当的边的胜利在法律。</entry>
+	<entry key="ObjectTitle12">12-The 垂悬了人</entry><entry key="ObjectMeaning12">智慧, 慎重, 法眼, 试验, 牺牲, 直觉, 占卜,
+预言。</entry>
+	<entry key="ObjectTitle13">13 死亡</entry><entry key="ObjectMeaning13">末端, 必死, 破坏, 腐败并且, 为一个人,
+一个恩人的损失为妇女, 许多对立性; 为佣人, 婚姻的失败射出。</entry>
+	<entry key="ObjectTitle14">14 节制</entry><entry key="ObjectMeaning14">经济, 缓和, 节俭, 管理, 适应。</entry>
+	<entry key="ObjectTitle15">15-The 恶魔</entry><entry key="ObjectMeaning15">破坏, 暴力, 热烈, 非凡努力, 力量, 致命; 那被预先判定但不是因此罪恶。</entry>
+	<entry key="ObjectTitle16">16-The 塔</entry><entry key="ObjectMeaning16">苦难, 困厄, 贫困, 患难, 灾难, 耻辱, 欺骗,
+废墟。这是卡片特别是未预见到的浩劫。</entry>
+	<entry key="ObjectTitle17">17-The 星</entry><entry key="ObjectMeaning17">损失, 偷窃, 缺乏, 放弃; 其他读书说希望和明亮的远景,</entry>
+	<entry key="ObjectTitle18">18-The 月亮</entry><entry key="ObjectMeaning18">暗藏的敌人, 危险, 诽谤, 黑暗, 恐怖, 欺骗, 隐密力量, 错误。</entry>
+	<entry key="ObjectTitle19">19-The 太阳</entry><entry key="ObjectMeaning19">物质幸福, 幸运婚姻, 自得。</entry>
+	<entry key="ObjectTitle20">20 评断</entry><entry key="ObjectMeaning20">位置, 更新, 结果的变动。其它帐户指定总损失虽则诉讼。</entry>
+	<entry key="ObjectTitle21">21-The 世界</entry><entry key="ObjectMeaning21">确定的成功, 报偿, 远航, 路线, 移出, 飞行, 地方的变动。</entry>
+	<entry key="ObjectTitle22">杯子一点</entry><entry key="ObjectMeaning22">真实的心脏的议院, 喜悦, 内容, 住宅, 养料, 丰盈, 生育力; 圣洁表, 幸福于此。</entry>
+	<entry key="ObjectTitle23">二杯子</entry><entry key="ObjectMeaning23">爱、激情、友谊、亲合力、联合、一致、同情、性的相互关系, 和-- 作为一个建议除占卜所有办公室之外-- 不是在自然里的那个欲望, 但由哪自然是sanctified.&lt;p&gt;Additional meanings:&lt;/p&gt;Favourable 在乐趣和事务事, 并且爱; 并且财富和荣誉。</entry>
+	<entry key="ObjectTitle24">三杯子</entry><entry key="ObjectMeaning24">任何问题结论在丰足、完美和快乐; 愉快的问题, 胜利, 满额, solace, 愈合,</entry>
+	<entry key="ObjectTitle25">四杯子</entry><entry key="ObjectMeaning25">疲倦, 憎恶, 反感, 虚构的vexations, 好象这个世界酒导致了饱足唯一; 其它酒, 好象一件神仙的礼物, 现在被提供挥霍者, 但他不看安慰在其中。这并且是被混和的乐趣卡片。</entry>
+	<entry key="ObjectTitle26">五杯子</entry><entry key="ObjectMeaning26">这是损失卡片, 但某事依然是; 三被采取了, 但二被留下; 这是继承卡片, 继承物, 传输, 但不对应于期望; 与一些口译员这是婚姻卡片, 但不是没有冤苦或失望。</entry>
+	<entry key="ObjectTitle27">六杯子</entry><entry key="ObjectMeaning27">过去的卡片和记忆, 看后面, 和-- 例如-- 在童年; 幸福, 享受, 但来自宁可过去; 消失了的事。其它读书扭转这, 给新联系, 新知识, 新环境, 并且孩子然后disporting 在一个不熟悉的界域。</entry>
+	<entry key="ObjectTitle28">七杯子</entry><entry key="ObjectMeaning28">神仙的厚待, 反射, 情绪, 想像力, 事物的图象看在观照玻璃; 某一达到在这些程度, 但没什么永久或结实被建议。</entry>
+	<entry key="ObjectTitle29">八杯子</entry><entry key="ObjectMeaning29">卡片讲话为本身在表面, 但其它读书是整个地相反的-- 给喜悦, 温和, 胆怯, 荣誉, 谦逊。实践上, 它通常被发现卡片显示事情的衰落, 或认为重要的事情真正地是轻微的后果-- 或为好或邪恶。</entry>
+	<entry key="ObjectTitle30">九杯子</entry><entry key="ObjectMeaning30">一致, 自得, 物理bien-?tre; 并且胜利, 成功, 好处; 满意为咨询被做的Querent 或人。</entry>
+	<entry key="ObjectTitle31">十倍杯子</entry><entry key="ObjectMeaning31">自得, 整个心脏的歇息; 那个状态的完美; 并且人的爱和友谊的完美; 如果与几张图片卡片, 负责Querent 的兴趣的人; 并且镇、村庄或国家由Querent 居住。</entry>
+	<entry key="ObjectTitle32">杯子页</entry><entry key="ObjectMeaning32">公平的年轻人, 一个被推动回报服务和与谁Querent 将被联络; 一个用功青年时期; 新闻, 消息; 应用, 反射, 凝思; 并且这些事被指挥对事务。</entry>
+	<entry key="ObjectTitle33">杯子的骑士</entry><entry key="ObjectMeaning33">到来, 方法-- 有时那信使; 前进, 提议, demeanour, 邀请, 鼓动。</entry>
+	<entry key="ObjectTitle34">杯子的女王/王后</entry><entry key="ObjectMeaning34">好, 公平的妇女; 诚实, 虔诚妇女, 将做服务对Querent; 爱恋的智力, 和因此视觉礼物; 成功, 幸福, 乐趣; 并且智慧, 贤良; 一个完善的配偶和一个好母亲。</entry>
+	<entry key="ObjectTitle35">杯子的国王</entry><entry key="ObjectMeaning35">公平的人、商人, 法律, 或神性; 负责任, 配置迫使Querent; 并且产权、艺术和科学, 包括那些公开宣称科学、法律和艺术; 创造性的智力。</entry>
+	<entry key="ObjectTitle36">Pentacles 一点</entry><entry key="ObjectMeaning36">完善的自得, 幸福, 销魂; 还迅速智力; 金子&lt; p&gt;Additional meanings:&lt;/p&gt;The 最有利所有卡片。</entry>
+	<entry key="ObjectTitle37">二Pentacles</entry><entry key="ObjectMeaning37">一方面它代表作为欢乐、休闲和它的连接卡片, 是设计的主题; 但它并且读作为新闻和消息在文字, 如同障碍, 鼓动, 麻烦, embroilment 。</entry>
+	<entry key="ObjectTitle38">三Pentacles</entry><entry key="ObjectMeaning38">贸易, 熟练劳动; 通常, 然而, 把视为贵族卡片, 贵族政府, renown, 荣耀。</entry>
+	<entry key="ObjectTitle39">四Pentacles</entry><entry key="ObjectMeaning39">财产的保证, 劈开对那你有, 礼物, 遗产, 继承。</entry>
+	<entry key="ObjectTitle40">五Pentacles</entry><entry key="ObjectMeaning40">卡片预言物质麻烦高于一切, 是否以形式说明了-- 那是凋残-- 或否则。为一些cartomancists, 这是爱和恋人妻子, 丈夫, 朋友, 女主人卡片; 并且和谐, 亲合力。这些选择无法谐调。</entry>
+	<entry key="ObjectTitle41">六Pentacles</entry><entry key="ObjectMeaning41">礼物, 礼物, 称心其它帐户认为注意, 警惕性现在是被接受的时间, 当前繁荣, 等。</entry>
+	<entry key="ObjectTitle42">七Pentacles</entry><entry key="ObjectMeaning42">这些是极为矛盾的; 在扼要, 这是金钱, 事务, 以货易货卡片; 但一读书给争吵,
+争吵-- 和另一无罪, 机巧, purgation 。</entry>
+	<entry key="ObjectTitle43">八Pentacles</entry><entry key="ObjectMeaning43">工作、就业、委员会、技巧、技巧在工艺和事务, 或许在准备阶段。</entry>
+	<entry key="ObjectTitle44">九Pentacles</entry><entry key="ObjectMeaning44">慎重, 安全, 成功, 成就, 确信, 法眼。</entry>
+	<entry key="ObjectTitle45">十倍Pentacles</entry><entry key="ObjectMeaning45">获取, riches; 家庭事关, 档案, 提取, 家庭的住宅。</entry>
+	<entry key="ObjectTitle46">Pentacles 页</entry><entry key="ObjectMeaning46">应用, 研究, 奖学金, 反射其它读书认为新闻、消息和bringer 因此; 并且规则, 管理。</entry>
+	<entry key="ObjectTitle47">Pentacles 的骑士</entry><entry key="ObjectMeaning47">公共事业, serviceableness, 兴趣, 责任, rectitude 所有正常和外在平面。</entry>
+	<entry key="ObjectTitle48">Pentacles 的女王/王后</entry><entry key="ObjectMeaning48">富裕, 宽厚, 壮丽, 安全, 自由。</entry>
+	<entry key="ObjectTitle49">Pentacles 的国王</entry><entry key="ObjectMeaning49">Valour, 体会智力、事务和正常智力才能、有时数学这种类的礼物和达到; 成功在这些道路里。</entry>
+	<entry key="ObjectTitle50">剑一点</entry><entry key="ObjectMeaning50">胜利, 过份程度在一切, 占领, 力量的胜利。这是巨大力量卡片, 在爱并且在仇恨。冠也许运载更高的意义比通常来临在球形时运告诉范围内。</entry>
+	<entry key="ObjectTitle51">二剑</entry><entry key="ObjectMeaning51">整合和它建议的equipoise, 勇气, 友谊, 一致在胳膊状态; 其它读书给柔软, 喜爱, 亲热。和谐的建议和其它有利读书必须被考虑以合格的方式, 因为剑一般不是象征性的慈善力量在人的事理。</entry>
+	<entry key="ObjectTitle52">三剑</entry><entry key="ObjectMeaning52">撤除、缺席、延迟、分裂、破裂, 分散作用, 和所有设计自然地符号化, 太简单和明显的以至于不能要求具体列举。</entry>
+	<entry key="ObjectTitle53">四剑</entry><entry key="ObjectMeaning53">警惕性、撤退、孑然、隐士的歇息、流放、坟茔和棺材。它是这些建议了设计的为时。</entry>
+	<entry key="ObjectTitle54">五剑</entry><entry key="ObjectMeaning54">退化, 破坏, 废止, 臭名昭著, dishonour, 损失, 以这些的变形和类似物。</entry>
+	<entry key="ObjectTitle55">六剑</entry><entry key="ObjectMeaning55">远航由水, 路线, 方式, 使节, commissionary, 适当。</entry>
+	<entry key="ObjectTitle56">七剑</entry><entry key="ObjectMeaning56">设计, 试图, 祝愿, 希望, 信心; 并且争吵, 也许失败的计划, 心烦。设计是不定的在它的进口里, 因为意义广泛是与彼此不一致。</entry>
+	<entry key="ObjectTitle57">八剑</entry><entry key="ObjectMeaning57">坏消息, 猛烈恼怒, 危机, 责备, 力量在长圆规, 冲突, 诽谤; 并且憔悴。</entry>
+	<entry key="ObjectTitle58">九剑</entry><entry key="ObjectMeaning58">死亡, 失败, 流产, 延迟, 欺骗, 失望, 绝望。</entry>
+	<entry key="ObjectTitle59">十倍剑</entry><entry key="ObjectMeaning59">任何由设计intimated; 并且痛苦, 苦恼, 泪花, 悲伤, 荒芜。这不是特别是猛烈死亡卡片。</entry>
+	<entry key="ObjectTitle60">剑页</entry><entry key="ObjectMeaning60">当局, 监督, 特勤局, 警惕性, 暗中侦察, 考试, 和质量此外属于。</entry>
+	<entry key="ObjectTitle61">剑的骑士</entry><entry key="ObjectMeaning61">技巧, 勇敢, 容量, 防御, 地址, 仇怨, 愤怒,
+战争, 破坏, 反对, 抵抗, 废墟。有因此卡片符号化死亡的感觉, 但它运载这个意思只在它的与致命其它卡片的接近度。</entry>
+	<entry key="ObjectTitle62">剑的女王/王后</entry><entry key="ObjectMeaning62">Widowhood 、女性悲伤和窘态, 缺席, 不育,
+哀悼, 缺乏, 分离。</entry>
+	<entry key="ObjectTitle63">剑的国王</entry><entry key="ObjectMeaning63">任何出现从评断想法和所有它的连接力量, 命令, 当局, 好战的智力, 法律, 冠办公室中, 等等。</entry>
+	<entry key="ObjectTitle64">鞭子一点</entry><entry key="ObjectMeaning64">创作, 发明, 企业, 导致这些的力量; 原则, 起点, 来源; 诞生、家庭、起源, 和实际上是在他们之后的性能力; 起点企业; 根据其它帐户, 金钱, 时运, 继承。</entry>
+	<entry key="ObjectTitle65">二鞭子</entry><entry key="ObjectMeaning65">在供选择的读书之间没有婚姻可能; 一方面, riches, 时运, 壮丽; 在另一边, 物理痛苦, 疾病, 恼怒, 悲伤, mortification 。设计给一个建议; 这阁下俯视他的统治和供选择地冥想地球; 它看起来象病, mortification, 亚历山大的悲伤在这世界的wealth.&lt;p&gt;Additional 之中伟大小姐也许期待琐细的失望的meanings:&lt;/p&gt;A 。</entry>
+	<entry key="ObjectTitle66">三鞭子</entry><entry key="ObjectMeaning66">他象征建立了力量, 企业, 努力, 贸易, 商务, 发现; 那些是他的船, 负担他的商品, 航行在海。卡片并且符号化能合作在事务, 好象成功的商人王子看从他的边往你的出于对帮助you.&lt;p&gt;Additional meanings:&lt;/p&gt;A 非常好卡片考虑; 合作将倾向企业。</entry>
+	<entry key="ObjectTitle67">四鞭子</entry><entry key="ObjectMeaning67">他们几乎是仅此一次在表面-- 避难所乡下生活、避风港, 国内收获家的种类, 歇息、一致、和谐、繁荣、和平, 和被完善的工作这些。</entry>
+	<entry key="ObjectTitle68">五鞭子</entry><entry key="ObjectMeaning68">模仿、as, 例如, 假货战斗, 而且吃力竞争和奋斗查寻在riches 和时运以后。这样它连接用生活争斗。因此一些归属认为, 这是金子, 获取, 富裕卡片。</entry>
+	<entry key="ObjectTitle69">六鞭子</entry><entry key="ObjectMeaning69">卡片是因此设计, 它可能报道几意义;
+在表面, 这是一个胜者胜利, 但这是还了不起的新闻, 譬如也许运载陈述由国王的传讯者; 这是期望被加冠充满它自己的欲望,
+希望冠, 等等。</entry>
+	<entry key="ObjectTitle70">七鞭子</entry><entry key="ObjectMeaning70">这是valour 卡片, 为, 在表面, 六攻击一,
+有, 然而, 有利位置。在智力飞机上, 它符号化讨论, 罗嗦的冲突; 在事务-- 交涉, 贸易, 以货易货, 竞争战争。这是进一步成功卡片, 为了战斗员是在上面并且他的敌人也许无法到达him.&lt;p&gt;Additional meanings:&lt;/p&gt;A 黑暗孩子。</entry>
+	<entry key="ObjectTitle71">八鞭子</entry><entry key="ObjectMeaning71">活动在事业, 这样的活动, 快速性道路,
+作为那一个明确信使; 伟大的匆碌, 巨大希望, 速度往许诺确定的幸福的末端; 一般, 那在进展中; 并且love.&lt;p&gt;Additional 箭头meanings:&lt;/p&gt;Domestic 争执为一个已婚人。</entry>
+	<entry key="ObjectTitle72">九鞭子</entry><entry key="ObjectMeaning72">卡片符号化力量在反对。如果攻击, 人大胆地将遇见猛击; 并且他的修造显示, 那他也许证明一个强大的反对者。以这主要意义有所有它可能的附属-- 延迟, 悬浮, adjournment.&lt;p&gt;Additional meanings:&lt;/p&gt;Generally 讲话, 一张坏卡片。</entry>
+	<entry key="ObjectTitle73">十倍鞭子</entry><entry key="ObjectMeaning73">许多significances 卡片, 和一些读书无法谐调。我留出那用荣誉和良好信誉诚意解救它。首要意思简单地是压迫, 但这并且是时运, 获取, 任一成功, 并且这然后是这些事压迫。这并且是假似乎, 乔装, 背信弃义卡片。图接近的地方也许遭受他运载的标尺。成功是显得荒谬如果九剑随后而来, 并且如果这是诉讼的问题, 有将是某些loss.&lt;p&gt;Additional meanings:&lt;/p&gt;Difficulties 和矛盾, 如果在一张好卡片附近。</entry>
+	<entry key="ObjectTitle74">鞭子页</entry><entry key="ObjectMeaning74">黑暗的年轻人, 忠实, 恋人, 使节, 邮差。在一个人旁边, 他将负担有利证词关于他。一个危险敌手, 如果被杯子页跟随。有他的衣服的首要质量。他也许符号化家庭智力。</entry>
+	<entry key="ObjectTitle75">鞭子的骑士</entry><entry key="ObjectMeaning75">离开, 缺席, 飞行, 移出。一个黑暗的年轻人, 友好。住址改变。</entry>
+	<entry key="ObjectTitle76">鞭子的女王/王后</entry><entry key="ObjectMeaning76">一名黑暗的妇女, 乡下妇女, 友好, 纯洁, 爱, 高尚。如果卡片在她旁边符号化一个人, 她很好被配置往他; 如果妇女, 她是对Querent 感兴趣。并且, 金钱爱, 或有些成功在事务。</entry>
+	<entry key="ObjectTitle77">鞭子的国王  </entry><entry key="ObjectMeaning77">黑暗的人, 友好, 乡民, 一般结婚, 诚实和纯谨。卡片总符号化诚实, 和也许意味新闻关于一份意想不到的遗产下落在非常长期之前。</entry>
+	<entry key="ReversedMeaning0">疏忽, 缺席, 发行, 粗心大意, 无积极性, 无效, 虚荣。</entry>
+	<entry key="ReversedMeaning1">医师, 魔术家, 精神病, 耻辱, 不安。</entry>
+	<entry key="ReversedMeaning2">激情, 道德或物理热情, 自负, 表面知识。</entry>
+	<entry key="ReversedMeaning3">光, 真相, 解开包含的事态, 公开rejoicings; 根据其它读书, 犹豫不决。</entry>
+	<entry key="ReversedMeaning4">仁爱, 慈心, 信用; 并且混乱对敌人, 阻碍, 未成熟。</entry>
+	<entry key="ReversedMeaning5">社会, 好理解, 一致, overkindness, 弱点。</entry>
+	<entry key="ReversedMeaning6">失败, 愚蠢设计。其它帐户讲话所有种类婚姻被挫败和对立性。</entry>
+	<entry key="ReversedMeaning7">暴乱, 争吵, 争执, 诉讼, 失败。</entry>
+	<entry key="ReversedMeaning8">专制, 恶习如果力量, 弱点, 龃龉, 有时甚而耻辱。</entry>
+	<entry key="ReversedMeaning9">隐含, 乔装, 政策, 恐惧, unreasoned 小心。</entry>
+	<entry key="ReversedMeaning10">增量, 丰盈, 多余。</entry>
+	<entry key="ReversedMeaning11">法律在所有它的部门, 法律复杂化, 顽固, 偏心, 过份严肃。</entry>
+	<entry key="ReversedMeaning12">自私, 人群, 身体精明。</entry>
+	<entry key="ReversedMeaning13">惯性, 睡眠, 慵倦, 僵化, somnambulism; 希望毁坏了。</entry>
+	<entry key="ReversedMeaning14">事连接用教会, 宗教, 派别, 教士, 有时平衡与Querent 结婚的教士; 并且disunion, 不幸的组合, 竞争的兴趣。</entry>
+	<entry key="ReversedMeaning15">邪恶的致命, 弱点, 微小, 盲目性。</entry>
+	<entry key="ReversedMeaning16">根据一个帐户, 同样在少许程度并且压迫, 监禁, 暴政。</entry>
+	<entry key="ReversedMeaning17">傲慢, 傲气, 无能。</entry>
+	<entry key="ReversedMeaning18">不稳定、反复无常、沈默、少许程度欺骗和错误。</entry>
+	<entry key="ReversedMeaning19">同样在一点感觉。</entry>
+	<entry key="ReversedMeaning20">弱点, pusillanimity, 朴素; 并且研讨, 决定, 句子。</entry>
+	<entry key="ReversedMeaning21">惯性, 固定性, 停滞, 永久性。</entry>
+	<entry key="ReversedMeaning22">位置的意想不到的变动。</entry>
+	<entry key="ReversedMeaning23">激情。</entry>
+	<entry key="ReversedMeaning24">安慰, 治疗, 事务的结尾。</entry>
+	<entry key="ReversedMeaning25">Presentiment 。</entry>
+	<entry key="ReversedMeaning26">没被看见为长期某些亲戚的回归。</entry>
+	<entry key="ReversedMeaning27">继承迅速下落。</entry>
+	<entry key="ReversedMeaning28">成功, 如果由三杯子陪同。</entry>
+	<entry key="ReversedMeaning29">完善的满意。</entry>
+	<entry key="ReversedMeaning30">好事务。</entry>
+	<entry key="ReversedMeaning31">哀痛; 并且严肃的争吵。</entry>
+	<entry key="ReversedMeaning32">所有种类障碍。</entry>
+	<entry key="ReversedMeaning33">不规则性。</entry>
+	<entry key="ReversedMeaning34">富有的婚姻为一个人和一卓越一个为妇女。</entry>
+	<entry key="ReversedMeaning35">损失。</entry>
+	<entry key="ReversedMeaning36">财富, 坏智力的邪恶的边; 还巨大riches 。在任何情况下它显示繁荣的, 舒适的物质情况, 但是否这些是好处对持有人将取决于不管卡片不被扭转或没有&lt; p&gt;Additional meanings:&lt;/p &gt; 一个份额在发现珍宝。</entry>
+	<entry key="ReversedMeaning37">坏预兆, 无知, 不公道。</entry>
+	<entry key="ReversedMeaning38">依靠邻居卡片。</entry>
+	<entry key="ReversedMeaning39">观察, 妨碍。</entry>
+	<entry key="ReversedMeaning40">麻烦在爱。</entry>
+	<entry key="ReversedMeaning41">一张支票在Querent 的志向。</entry>
+	<entry key="ReversedMeaning42">心急, 忧虑, 怀疑。</entry>
+	<entry key="ReversedMeaning43">Querent 将妥协在事情金钱借。</entry>
+	<entry key="ReversedMeaning44">自负的希望。</entry>
+	<entry key="ReversedMeaning45">也许是幸运的或否则的场合。</entry>
+	<entry key="ReversedMeaning46">有时退化和有时拆抢。</entry>
+	<entry key="ReversedMeaning47">一个勇敢的人出于就业。</entry>
+	<entry key="ReversedMeaning48">病症。</entry>
+	<entry key="ReversedMeaning49">一个老和狠毒人。</entry>
+	<entry key="ReversedMeaning50">婚姻被终止, 为妇女, 通过她自己的不检点。</entry>
+	<entry key="ReversedMeaning51">往来与歹徒。</entry>
+	<entry key="ReversedMeaning52">一次会议以一个谁Querent 妥协了; 并且尼姑。</entry>
+	<entry key="ReversedMeaning53">有些成功跟随明智的管理。</entry>
+	<entry key="ReversedMeaning54">哀痛和哀悼的标志。</entry>
+	<entry key="ReversedMeaning55">诉讼的不赞同的问题。</entry>
+	<entry key="ReversedMeaning56">好忠告, 大概被忽略。</entry>
+	<entry key="ReversedMeaning57">亲戚的离开。</entry>
+	<entry key="ReversedMeaning58">好地面为怀疑反对一个半信半疑的人。</entry>
+	<entry key="ReversedMeaning59">胜利和结果时运为一位战士在战争中。</entry>
+	<entry key="ReversedMeaning60">令人惊讶的新闻。</entry>
+	<entry key="ReversedMeaning61">争执与一个蠢人人; 为妇女, 奋斗与敌手, 将被征服。</entry>
+	<entry key="ReversedMeaning62">一名坏妇女, 以恶意往Querent 。</entry>
+	<entry key="ReversedMeaning63">一个坏人; 并且小心结束对一个毁灭性诉讼。</entry>
+	<entry key="ReversedMeaning64">诞生的标志。</entry>
+	<entry key="ReversedMeaning65">惊奇, 奇迹, 魔法, 情感, 麻烦, 恐惧。</entry>
+	<entry key="ReversedMeaning66">麻烦、患难、劳碌和失望的悬浮或停止的结尾。</entry>
+	<entry key="ReversedMeaning67">一名已婚妇女将有美丽的孩子。</entry>
+	<entry key="ReversedMeaning68">争吵也许被转动对好处。</entry>
+	<entry key="ReversedMeaning69">延期的希望的满额。</entry>
+	<entry key="ReversedMeaning70">困惑, 窘态, 忧虑。这并且是小心反对犹豫不决。</entry>
+	<entry key="ReversedMeaning71">嫉妒, 内部争执, stingings 良心, 争吵箭头; 并且家庭矛盾为结婚的人。</entry>
+	<entry key="ReversedMeaning72">障碍, 患难, 灾难。</entry>
+	<entry key="ReversedMeaning73">对立性、困难、阴谋, 和他们的比喻。</entry>
+	<entry key="ReversedMeaning74">坏消息。</entry>
+	<entry key="ReversedMeaning75">为妇女, 婚姻, 但大概挫败。</entry>
+	<entry key="ReversedMeaning76">信誉往Querent, 但没有机会行使它。</entry>
+	<entry key="ReversedMeaning77">应该被遵循的建议。</entry>
+</oracleio>

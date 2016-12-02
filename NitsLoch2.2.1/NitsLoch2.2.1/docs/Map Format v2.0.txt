@@ -1,0 +1,204 @@
+-----------------------------------
+|NitsLoch Map Format Specification|
+|v2.0                             |
+|by Jon Irons                     |
+-----------------------------------
+
+0. INTRODUCTION
+1. CONVENTIONS
+2. SUPERSTRUCTURE
+3. FILE HEADER
+4. LEVEL HEADER
+5. LEVEL DATA: CHUNKS
+6. CHUNK TYPES
+...6a: OBST
+...6b: STRT
+...6c: ENEM
+...6d: NPCS
+...6e: ITEM
+...6f: SHOP
+...6g: EXIT
+
+
+
+---------------
+0. INTRODUCTION
+---------------
+Here is the basic layout of the map format for the NitsLoch engine. Note that
+this is abridged and condensed information from the files available in the dir-
+ectory called src/file/.
+
+--------------
+1. CONVENTIONS
+--------------
+In following with the present (2007) version of Java, the data sizes are
+defined thus (assume unsigned values):
+
+BYTE:   8 bits
+CHAR:   8 bits
+SHORT: 16 bits
+INT:   32 bits
+LONG:  64 bits
+
+-----------------
+2. SUPERSTRUCTURE
+-----------------
+This is a very general overview of the map file format.
+
+Map File {
+  File Header {}
+  Level Headers {
+    Level Header 0
+    ...
+    Level Header n
+  }
+  Level Data {
+    Level Data 0
+    ...
+    Level Data n
+  }
+}
+
+
+--------------
+3. FILE HEADER
+--------------
+The file header is relatively simple:
+
+File Header (16 bytes) {
+  int PROGRAM; //the program code (should always be 0x4e495453 = 'NITS')
+  int FORMAT; //the format code (should always be 0x4c4f4348 = 'LOCH')
+  int number_levels;
+  int data_length; //length in bytes of all data in file EXCEPT the file header
+}
+
+---------------
+4. LEVEL HEADER
+---------------
+Each level needs a header.
+
+Level Header (64 bytes) {
+  int offset; //offset from beginning of file (incl. file header)
+  int length; //length of level's data
+  int numRows, numColumns; //dimensions of level
+  char[48] name; //name of level; max 48 chars.
+}
+
+---------------------
+5. LEVEL DATA: CHUNKS
+---------------------
+"Chunk" concept taken from Bungie's Marathon file format. All data for a given
+level exists within a chunk of a certain type. Each chunk contains a header,
+which is of the same format regardless of chunk type, and the data, which
+follows the format of the chunk type. Chunks are made up of "entries," i.e. the
+smallest unit of meaning in a chunk.
+
+Indexes within chunks (e.g. enemy index, item index) correspond to the order of
+the data in the relevant chunk; for example, a Street containing enemy index 5
+refers to the 6th enemy entry in the Enemies chunk; indices start at zero, but
+when one wishes to designate "none" as the index, the correct value is -1.
+
+Chunk Header (8 bytes) {
+  int tag; //integer value that translates into 4 chars identifying chunk type
+  int length; //length of chunk's data (excl. header) in bytes
+}
+
+--------------
+6. CHUNK TYPES
+--------------
+Here are the tags and formats of all current chunk types.
+
+---------------
+6a. Obstructions chunk
+---------------
+
+Tag: 0x4f425354 = 'OBST'
+
+OBST Entry Structure (13 bytes) {
+  int type; //designates wall type (Wall, Garbage, etc.)
+  int row, column; //the row and column location of the wall in the level
+                   // array.
+  byte canBeDestroyed; //a byte indicating whether or not the wall can be
+                       //destroyed; 1 = true, 0 = false
+}
+
+-----------------
+6b. Streets Chunk
+-----------------
+
+Tag: 0x53545254 = 'STRT'
+
+STRT Entry Structure (16 Bytes) {
+  int type; //the type of street this is
+  int playerIndex; //the index of the player occupying the street; -1 = none
+  int row, column; //the row and column location of the street in the level
+                   // array.
+}
+
+-----------------
+6c. Enemies Chunk
+-----------------
+
+Tag: 0x454e454d = 'ENEM'
+
+ENEM Entry Structure (8 bytes) {
+  int type; //designates type, as defined interally by engine
+  int level; //refers to the "level" of the enemy
+  int row, column; //the row and column location of the enemy in the level
+                   // array.
+}
+
+--------------
+6d. NPCs Chunk
+--------------
+
+Tag: 0x4e504353 = 'NPCS'
+
+NPCS NPC Structure (12 bytes) {
+  int type; //designates type, as defined interally by engine
+  int row, column; //the row and column location of the NPC in the level
+                   // array.
+
+---------------
+6e. Items Chunk
+---------------
+
+Tag: 0x4954454d = 'ITEM'
+
+ITEM Entry Structure (8 bytes) {
+  int type; //designates type, as defined by engine
+  int data; //any extra value to be added to the item; e.g. money in
+                briefcase, time left until explosive detonates
+  int row, column; //the row and column location of the item in the level
+                   // array.
+}
+
+---------------
+6f. Shops Chunk
+---------------
+
+Tag: 0x53484f50 = 'SHOP'
+
+SHOP Entry Structure (16 bytes) {
+  int type; //designates type, as defined by engine
+  int permutation; //designates permutation, as defined by engine
+  int row, column; //the row and column location of the shop in the level
+                   // array.
+}
+
+---------------
+6g. Exits Chunk
+---------------
+
+Tag: 0x45584954 = 'EXIT'
+
+EXIT Entry Structure (21 Bytes) {
+  int type; //designates type, as defined by engine
+  int nextCity; //the index of the city where this exit leads
+  int destinationRow, destinationColumn; //the destination row and column of
+                                //the exit. NOTE: when the exit is a dungeon
+				//ladder, destinationRow is interpreted as the
+				//destination dungeon level.
+  byte isOpen; //a byte designating if the exit is open; 1 = yes, 0 = no
+  int row, column;
+}

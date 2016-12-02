@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weaponModifierWrapper version="Development"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/WeaponModifierWrapper-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<list>
+		<modifier id="1" catId="1">
+			<desc>desc1</desc>
+			<name>Rusty</name>
+			<valueModifier>-200</valueModifier>
+		</modifier>
+		<modifier id="2" catId="1">
+			<desc>desc2</desc>
+			<name>Very rusty</name>
+			<valueModifier>-900</valueModifier>
+		</modifier>
+		<modifier id="3" catId="2">
+			<desc>desce</desc>
+			<name>Jeveled</name>
+			<valueModifier>10000</valueModifier>
+		</modifier>
+	</list>
+</weaponModifierWrapper>

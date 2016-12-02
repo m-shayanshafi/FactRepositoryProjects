@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jTarotHelp language="English" Version="1.0">
+<Topic index="0" issubtopic="false" ><title>What is 'jTarot and Runes'?</title><TopicText>
+&lt;p&gt;'jTarot and Runes' is your own personal advisor based on the wisdom of the tarot which can be directly
+traced to the fifteenth century (1420-1440), northern Italy. However, some claim tarot is thousands
+of years old with roots in Egypt. Runes are an ancient Germanic alphabet, used for writing, 
+divination and magic. Runes were used throughout northern Europe, Scandinavia, the British Isles, 
+and Iceland from about 100 B.C.E. to 1600 C.E.
+Most information about runes in 'jTarot and Runes' comes from &lt;a href="http://www.sunnyway.com/runes/index_divination.html"&gt;Ingrid (Sunny) Halvorsen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;'jTarot and Runes' will do a "reading" for you at any point you feel you might need some
+advice.  The reading consists of displaying a certain number of cards in a certain order and
+then describing what these cards mean.  You then must take the desciptions of the cards
+and try to apply the meanings of the cards to your present situation or problem.&lt;/p&gt;
+
+&lt;p&gt;'jTarot and Runes' is a card game/oracle designed for your enjoyment.  Never follow the
+advice of 'jTarot and Runes' if that advice is not exactly what you want to do anyway.  Life is so 
+complex that it is not possible that a simple card game can accurately tell you what you
+must do to find success and happiness.  The difficult decisions you must make in life are
+what gives life meaning. 'jTarot and Runes' will only hopefully give you some new insights into your
+particular problem or situation but it is not meant that 'jTarot and Runes' will make the difficult
+decisions for you and thus rob you of the purpose of life.&lt;/p&gt;
+&lt;p&gt;'jTarot and Runes' is free software and it should work on most any computer and operating system.  That includes 
+Windows XP, Windows NT, Windows 95,98,me, Macintosh, Linux, Solaris and most any other unix based system.&lt;/p&gt;
+
+&lt;p&gt;If you have questions or comments, email to tarot@lazy8.nu&lt;/p&gt;
+</TopicText></Topic>
+<Topic index="1" issubtopic="false" ><title>'jTarot and Runes' for the beginner</title><TopicText>
+A beginner in tarot will appreciate how easy it is to produce a tarot reading and get comprehensive
+advice.  With just a few clicks of the mouse, the reading appears.  With time the beginner will gain a feeling for 
+the many different layouts, card decks and other possibilities in this program.
+</TopicText></Topic>
+<Topic index="2" issubtopic="false" ><title>'jTarot and Runes' for the professional</title><TopicText>
+'jTarot and Runes' contains many advanced possibilities for the professional.  For instance:
+</TopicText></Topic>
+<Topic index="3" issubtopic="true" ><title>Manual Selection of cards</title><TopicText>
+If you feel uncomfortable selecting cards on the computer, you can lay the cards yourself and then
+enter your layout into the computer.
+</TopicText></Topic>
+<Topic index="4" issubtopic="true" ><title>Saving and retrieving readings</title><TopicText>
+All layouts you produce can be saved and then retrieved so you can have a "Tarot Diary" where you
+can easily see if your interpretations of the tarot layouts were accurate or not by recalling up an old reading.
+</TopicText></Topic>
+<Topic index="5" issubtopic="true" ><title>Export a reading</title><TopicText>
+You can export a layout and interpretations to a colorful html format or one of several other formats that
+you can then send to clients.  Printouts of the readings are also possible in full color with the ability to
+add your own personal interpretation to each reading.
+</TopicText></Topic>
+<Topic index="6" issubtopic="true" ><title>Make your own definitions for each card</title><TopicText>
+If you want to make your own definitions for each card, 'jTarot and Runes' provides all you need to do this and then you
+can become your own tarot publisher and even create your own self-written tarot book with this
+program.
+</TopicText></Topic>
+<Topic index="7" issubtopic="true" ><title>Multi-language possibilities</title><TopicText>
+Any text that appears in this program can be easily translated into any language in the world thanks to Java and Unicode.
+</TopicText></Topic>
+<Topic index="8" issubtopic="true" ><title>Create your own custom layouts</title><TopicText>
+If the 30+ different layouts included in this program are not enough for you, then you have the 
+possibility to create your own layouts.
+</TopicText></Topic>
+<Topic index="9" issubtopic="false" ><title>Steps involved in producing a tarot reading</title><TopicText>
+At each start of the program, a dialog will appear requesting you to do a new reading.  If you
+then want to produce yet another reading, you can go to the menu "Readings-&gt;Do a new reading." Then
+you have the following options to decide on.
+</TopicText></Topic>
+<Topic index="10" issubtopic="true" ><title>Enter your question for 'jTarot and Runes'</title><TopicText>
+Here you can enter a question for the tarot if you desire.  By entering a question here, the tarot reading will
+be more able to accurately tell you what you want to know.  From experience I can tell you that if you leave the
+question blank, after a few minutes of browsing over the reading, you forget exactly what the question was and 
+begin to form the question after what it is you want the answer to be from what tarot has given.
+</TopicText></Topic>
+<Topic index="11" issubtopic="true" ><title>Choose the oracle and a layout</title><TopicText>
+This is probably the hardest choice. Here you must decide which oracle to use, Tarot or Runes.  Then there are currently 30+ different layouts.  It will take you a very long time
+to get aquainted with each layout.  I suggest you keep to the first 4 layouts in the list if you are a beginner. Click
+on the layout you desire and for some layouts, there is a description of the layout shown as well.
+</TopicText></Topic>
+<Topic index="12" issubtopic="true" ><title>Select an advisor and use reversed objects or not</title><TopicText>
+At this point you may choose an advisor for your reading but it really does not matter so much because after the reading 
+is done, you may change the advisor.
+The "use reversed objects option" means that images can appear "up side down." Generally, people associate
+an upside down image with something negative or perhaps an opposite meaning to the image. Personally, I think that
+tarot is so rich with variation that if you then throw in the "reversed" aspect, I can't keep track any longer of what 
+is going on.  So, to keep things simple, select "NO" to "use reversed objects."
+</TopicText></Topic>
+<Topic index="13" issubtopic="true" ><title>Select the images and a smaller group of images</title><TopicText>
+At this point you may choose a set of images for your reading but it really does not matter so much because after the reading 
+is done, you may change the images.You can optionally do a tarot reading with just the "higher arcanna" or just the "lower arcanna".  A reading with 
+just the higher arcanna is quite common and it gives a more intensive reading but it is also a reading with much less variation.  
+Some people choose a reading with just the lower arcanna because they don't particularly like the higher arcanna or they are
+used to doing layouts with a normal pack of playing cards.  I recommend you use all the images and thus don't use either of
+these options.
+</TopicText></Topic>
+<Topic index="14" issubtopic="true" ><title>Manually select each card</title><TopicText>
+Hit this button if you have already done a layout yourself with the actual tarot cards and then you want to enter
+your layout into this program for interpretation, printout, exporting or saving.  This is particularly for those who don't really like the feel of a computer
+aided card selection.  Most people will not want this possibility but will always use the next "Randomly select cards" technique.
+When you hit this button, you then get a dialog with a list of all the cards in the left list box.  Select one at a time each card you
+have already laid out.  After selecting a card then hit "next" and proceed to the next card.  You must select the cards in the order shown in the picture 
+in the center of the dialog.
+</TopicText></Topic>
+<Topic index="15" issubtopic="true" ><title>Randomly select cards</title><TopicText>
+Hit this button to proceed to randomly selecting the cards for your layout.  You will be shown a dialog with all 78 
+cards (or perhaps a chosen subset of the deck) and you must choose a card for each position in the layout.  The position for
+which you are choosing each card will be shown and described prior to each card selection.  When you have selected a card for
+each layout position, the dialog will dissapear and your layout will be before you.  You may resize the screen to see your layout more
+effectively.
+</TopicText></Topic>
+<Topic index="16" issubtopic="true" ><title>Select the images and image size you wish to use</title><TopicText>
+There is a large variety of decks to choose from and you may try any one you want for your reading. 
+Go to the menu "Images" and choose the deck you want. Choosing the right size of the image will help you to see all the image more clearly.  This image size also effects the size of the
+image in the printouts and exports.  Go to the menu "Options" and select the percentage size that you want
+</TopicText></Topic>
+<Topic index="17" issubtopic="true" ><title>Show normal and reversed object texts together</title><TopicText>
+In the readings, you have an option to be able to show only the normal object text when the object is not reversed and only the reversed
+object text when the object is reversed.  This can make the reading easier to read.  But it might be interesting to see both the 
+normal and reversed object texts together so you can learn what is the difference between the two. In that case, Go to the menu "Options" and 
+select the 'Show normal and reversed object texts together'.  However, many of the translations do not have any "reversed" texts so
+only the normal text will show at all times.
+</TopicText></Topic>
+<Topic index="18" issubtopic="true" ><title>Show position numbers</title><TopicText>
+Go to the menu "Options-&gt;Show layout postion numbers."  If you choose this option, the postion number of each card will be 
+shown in magenta on the upper left hand corner of each card in the main window of this program.  This number
+is to facilitate you finding the correct interpretation of the card in the interpretation window on the right of the main screen.  
+Simply moving the mouse over the card you want to see the interpretation of will make that cards interpretation visible in the 
+interpretation window.  This number will not be shown on any printouts or exports.  
+</TopicText></Topic>
+<Topic index="19" issubtopic="true" ><title>Select which advisor you want</title><TopicText>
+Go to the menu "Advisors." Select the advisor you want for your reading.  If you don't like the style of the 
+interpretations you are getting, you can select another advisor to give you a new computer generated reading.
+</TopicText></Topic>
+<Topic index="20" issubtopic="true" ><title>Print out the reading</title><TopicText>
+All readings can be printed out in full graphics and color.  Simply go to the menu "Readings-&gt;Print via a web browser" and
+your readings will then appear in your favorite browser.  In your web browser, then hit the "print" menu or button.  If you have several
+web browsers installed in your computer then the wrong browser might be appearing.  If this is the case, you can try playing with the 
+settings in the dialog found in the menu "Advanced-&gt;Show browser options dialog."
+</TopicText></Topic>
+<Topic index="21" issubtopic="true" ><title>Save your reading for future reference.</title><TopicText>
+The menu "Readings-&gt;Save the current reading" will save your reading so that you at any time in the future can see
+your reading again.  You can even send these saved readings to friends who also have this program to view if desired.  To then
+see the reading again, go to the menu "Readings-&gt;Open a previously saved reading" and select the desired file you
+want to show on the screen again.
+</TopicText></Topic>
+<Topic index="22" issubtopic="true" ><title>Send your reading to friends via email or other export techniques</title><TopicText>
+In the menu "Export" you have 3 different possibilities to export your reading: HTML, MHTML, or WAR.  HTML is the export
+format that is the most compatible with all browsers but the problem with that format is that it is many different files that are
+produced and all the different files must be present for the export to be successful.  The MHTML is only one file and therefore it
+is much more desireable then the HTML format but the MHTML is generally only compatible with Microsoft Explorer.  MHTML is 
+a format specifically designed for use with email.  If you only use
+microsoft products then this is the format for you. The WAR format is only compatible with a very few mozilla clones.  The WAR format is
+simply a "gzipped tar file" so if you change the file type from "war" to "tgz" then most compressing programs will be able to uncompress it
+to many files then readable by any browser.
+</TopicText></Topic>
+<Topic index="23" issubtopic="false" ><title>How do I create my own definitions for each image?</title><TopicText>
+If you want to make your own definitions for each image, 'jTarot and Runes' provides all you need to do this and then you
+can become your own tarot publisher and even create your own self-written tarot book with this
+program.  Whats more, you can then send your defintions to tarot@lazy8.nu and become an "advisor" for 'jTarot and Runes' and
+then others will be able to use your defintions.  Follow the following steps
+</TopicText></Topic>
+<Topic index="24" issubtopic="true" ><title>Step 1: Create a custom advisor</title><TopicText>
+Go to the menu "Advanced-&gt;Create an oracle setup." There are lots of buttons here and it is important you press
+the correct button.  Beside the text "Advisor" you need to press the button "Create this file."  You probably should 
+select first an advisor that you want to use as the begining for your translations but any will work.  There are hundreds of
+possible files to choose from in this dialog depending on the language you choose.  Save the file in a 
+place you can remember and with a name you remember.
+</TopicText></Topic>
+<Topic index="25" issubtopic="true" ><title>Step 2: Edit a custom advisor</title><TopicText>
+Go to the menu "Advanced-&gt;Edit a setup file" and select the file you have created in
+the previous step.  A massive dialog will appear with tons of the default translations for each
+image.  You can now go in and enter your translations for each image by simply
+eraseing the existing text and replacing with your own. When you are done entering your definitions, then close the window and your 
+changes will be saved.
+</TopicText></Topic>
+<Topic index="26" issubtopic="true" ><title>Step 3: Load a setup file</title><TopicText>
+Go to the menu "Advanced-&gt;Load a setup file for use in this program" and select the file you have created in
+the previous steps.
+</TopicText></Topic>
+<Topic index="27" issubtopic="true" ><title>Step 4: Select which advisor you want</title><TopicText>
+Go to the menu "Advisors".  Your "advisor" should then be there in the list.  If it is not, then maybe you have selected
+the incorrect language?  The language must be correct in order to see your advisor in the list.
+</TopicText></Topic>
+<Topic index="28" issubtopic="true" ><title>Step 5: Printout your own self-made tarot book</title><TopicText>
+Go to the menu "Options-&gt;Show all the the images for this oracle". Then do a printout and you will get a nice
+illustrated book of all your defintions.  You can also then "Export" the deck to a html format that can be then imported into
+most word processors for further editing of your book.
+</TopicText></Topic>
+<Topic index="29" issubtopic="true" ><title>Step 6: Share your definitions with the rest of the world</title><TopicText>
+This is the important part.  Share what you have done with others.  Send your custom advisor file to tarot@lazy8.nu so 
+that we can include it in the next release of 'jTarot and Runes'.  You will then become an "advisor" in 'jTarot and Runes'.
+</TopicText></Topic>
+<Topic index="30" issubtopic="false" ><title>How do I translate this program into another language?</title><TopicText>
+'jTarot and Runes' can show any text in any language.  Most of the translations were done by a computer.  This means they
+are very poor quality.  We need your help to
+translate into the other languages and to improve the quality of the current translations.  
+Do the following steps to translate 'jTarot and Runes':
+</TopicText></Topic>
+<Topic index="31" issubtopic="true" ><title>Translate the custom advisor</title><TopicText>
+Simply follow the instructions in the section
+"How do I create my own definitions for each image?" which will at one point create a default
+of all the definitions.  Take those defintions and simply translate to your language (or correct errors in the current translations)
+instead of writing completely new defintions..
+</TopicText></Topic>
+<Topic index="32" issubtopic="true" ><title>Translate menus, layouts and more</title><TopicText>
+Basically follow the same instructions that you find in the section "How do I create my own definitions for each image?"
+except that you create the files from the "Layout translations" , "Menu and message translations" and "Oracle translations."
+</TopicText></Topic>
+<Topic index="33" issubtopic="true" ><title>Translate 'help'</title><TopicText>
+Go to the menu "Advanced-&gt;Translate help to your language".  The first time you select this
+menu then hit the "Cancel" button in the first dialog that appears.  That way, all the default english translations will
+then appear in a window for you to translate.  When you are done translating, then close the window with the X in the upper
+right hand corner (for most operating systems).  Then you will get a third dialog asking you for a name and a place to put the 
+translations file.  Assign any name and a place you can easily find again and hit "OK".  You will be then asked 
+if you want this to be your default language file and you probably should answer "yes."  If you want to again adjust your translations, then the
+go once again to the menu "Advanced-&gt;Translate help to your language" and select the file you previously just saved.
+</TopicText></Topic>
+<Topic index="34" issubtopic="false" ><title>Randomness - how 'jTarot and Runes' selects a card</title><TopicText>
+'jTarot and Runes' lays all the cards in the deck out for you to choose from for each layout.  That way you, or perhaps your subconscious, has
+full control over which card is selected for each position in the layout.  The way the cards are shuffeled before laying out "face down" is
+using the traditional computer technique of grabbing the current time in milliseconds and takeing that time as a root number in a number
+generating algorithm.  If you have choosen "allow reverse cards" then the selection technique is a little more complex.  Whether or not a 
+card is "reversed" is dependent on which millisecond you click on the card you want for that position.  At the moment you click on the card then the
+time is grabbed, that time is used as a root to the number generating algorithm, the first number is gotten from the algorithm and if that number is
+in a certain range, the card is reversed, if not in the range, the card is not reversed.  Again, this is the best way I could come up with to make
+sure your subconscious is the one in control of the card selection process.
+</TopicText></Topic>
+<Topic index="35" issubtopic="false" ><title>How can I contribute my time to this project?</title><TopicText>
+'jTarot and Runes' will never ask anybody for money but if you have really enjoyed this program and want
+to contribute to the project, we need your help!  The following are suggestions to how you can help.
+</TopicText></Topic>
+<Topic index="36" issubtopic="true" ><title>Make your own card definitions</title><TopicText>
+If you feel you have some experience with tarot, you can submit to tarot@lazy8.nu your own
+card definitions and be an "advisor" in 'jTarot and Runes'. Simply follow the instructions in the section
+"How do I create my own definitions for each card?" to create your own definitions.
+</TopicText></Topic>
+<Topic index="37" issubtopic="true" ><title>Translate 'jTarot and Runes' to another language</title><TopicText>
+If you are fluent in another language besides english then we need you to translate 'jTarot and Runes' into your
+other language.  Simply follow the steps in the section "How do I translate this program another language?" and
+send to tarot@lazy8.nu your files you create.
+</TopicText></Topic>
+<Topic index="38" issubtopic="true" ><title>Submit a new deck</title><TopicText>
+With the advanced menus, you can create a default deck as an example to how a deck can be
+defined in 'jTarot and Runes'. Then you can either create your own deck from that example or get permission from somebody 
+to scan their images for 'jTarot and Runes'.  Then send them to tarot@lazy8.nu and they will be included in the
+next version of 'jTarot and Runes'.
+</TopicText></Topic>
+<Topic index="39" issubtopic="true" ><title>Programming</title><TopicText>
+If you like java programming and you want to make some changes to this program.  Send your changes to tarot@lazy8.nu.
+The code to this program is included in this jar file.
+</TopicText></Topic>
+<Topic index="40" issubtopic="false" ><title>How to report a program error</title><TopicText>
+If you think the program is doing something wrong, crashing or freezing, then you can help by reporting the
+problem.  Go to the menu "Advanced-&gt;Report a program error" and follow the instructions in the window that appears.
+</TopicText></Topic>
+<Topic index="41" issubtopic="false" ><title>Code Copyrights</title><TopicText>
+Copyright © 2007 tarot@lazy8.nu Thomas Dilts. This program is free
+software; you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software Foundation;
+either version 2 of the License, or (at your option) any later version. This
+program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+details. You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software Foundation,
+Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA For more
+information, surf to http://www.tarot.lazy8.nu or email tarot@lazy8.nu
+</TopicText></Topic>
+<Topic index="42" issubtopic="false" ><title>Download the software now!</title><TopicText>
+Follow carefully the following instructions to download the software now:
+</TopicText></Topic>
+<Topic index="43" issubtopic="true" ><title>You must first get Sun's Java</title><TopicText>
+&lt;p&gt;You must first have Sun's Java. Click on the following link in order to either check if you have Suns java or to install it.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://java.com/">http://java.com/&lt;/a&gt;&lt;/p&gt;</TopicText></Topic>
+<Topic index="44" issubtopic="true" ><title>Download one of the following two versions of 'jTarot and Runes'</title><TopicText>
+&lt;p&gt;Click on one of the following two links to download 'jTarot and Runes':&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jnlp">Cost free private version.  By clicking here you agree to not copy, alter or redistribute this version.  This version contains extra artwork and texts from known artists and authors who want to protect their copyrights.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotFree.jnlp">Restrictions free version.  By clicking here you agree to only copy, alter or redistribute this version according to the "GNU General Public License"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;When you click on one of the links above, jTarot will be downloaded and started by a program called "Java Web Start." In the future you only need
+ to start "Java Web Start" in order to start jTarot.
+If you can't find "Java Web Start" in your menus, then in windows, you can find
+the program "javaws" in&lt;/p&gt;&lt;p&gt;
+c:\ProgramFiles\Java\jre1.5.0_0?\bin\javaws&lt;/p&gt;&lt;p&gt;  Note that the ProgramFiles name can change depending
+on your language. Make a shortcut to this program on your desktop because you will be using it a lot :-)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;If you would prefer to try downloading and executing a "jar" file instead of the technique described above, click on one of the two following links and save the file to your DeskTop. Windows will try to change the name of the downloaded file to end with ".zip" but you must manually go in and change the name to end with ".jar" instead: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarotNonFree.jar">Cost free private version.  By clicking here you agree to not copy, alter or redistribute this version.  This version contains extra artwork and texts from known artists and authors who want to protect their copyrights.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="http://www.tarot.lazy8.nu/jnlp/jTarot.jar">Restrictions free version.  By clicking here you agree to only copy, alter or redistribute this version according to the "GNU General Public License"&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;To start the jTarot jar file, begin at the top of the following list and work your way down and stop when you have finally started jTarot.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Double click on the file you downloaded.  If jTarot does not start, continue to the next step.
+&lt;/li&gt;&lt;li&gt;
+Right click on the file you downloaded.  Go to the popup menu "Open with" and select the menu "Java (TM) 2 Platform....."  
+&lt;/li&gt;&lt;li&gt;If the menu "Java (TM) 2 Platform....." is not in the popup menu "open with" then choose the popup menu "open with" and then "choose program" and proceed to select the program (in the dialog that appears) called "Java (TM) 2 Platform....."
+&lt;/li&gt;&lt;li&gt; If you cant find the program "Java (TM) 2 Platform....." in the dialog, then go back to the "You must first get Sun's Java" step and install java
+&lt;/li&gt;&lt;/ul&gt;</TopicText></Topic>
+<Topic index="45" issubtopic="true" ><title>If jTarot still does not start</title><TopicText>
+&lt;p&gt;What should have happened when you clicked on one of the above two links, is that you downloaded a file to your harddisk.  Then when you followed the list of instructions, jTarot should start.&lt;/p&gt; 
+&lt;p&gt;If you have linux (or everything else failed in windows), you might need to run the following command in a command window:&lt;/p&gt;
+
+&lt;p&gt;(path to java/bin directory)/java -jar jTarot.jar&lt;/p&gt;
+
+&lt;p&gt;or perhaps&lt;/p&gt;
+
+&lt;p&gt;(path to java/bin directory)/java -jar jTarotNonFree.jar&lt;/p&gt;
+
+&lt;p&gt;depending on the version of tarot you downloaded.&lt;/p&gt;
+</TopicText></Topic>
+</jTarotHelp>

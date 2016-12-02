@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Three Runes" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Três Runes</entry>
+	<entry key="Description">Esta é uma disposição passada, atual e futura 
+simples. Esta disposição é a mais melhor descrever as 
+situações simples que não requerem realmente uma análise longa e 
+profunda. Isto é feito às vezes antes de fazer uma 
+disposição mais complicada a fim ajudar-lhe focalizar suas idéias, 
+sentimentos, ou perguntas. Também isto pode ser feito depois 
+que uma disposição mais complicada para especificar mais mais ainda 
+uma pergunta específica restante da disposição complexa.</entry>
+	<entry key="PositionTitle0">Após</entry><entry key="Meaning0">O que aconteceu no passado. O que você sabe já. 
+O que você está trazendo com você neste problema.</entry>
+	<entry key="PositionTitle1">Presente</entry><entry key="Meaning1">Onde você está agora. O que você está sentindo
+agora. O que lhe está acontecendo agora.</entry>
+	<entry key="PositionTitle2">Futuro</entry><entry key="Meaning2">O que está indo acontecer no futuro. Geralmente 
+este não é o futuro demasiado distante mas o timeframe depende da 
+pergunta.</entry>
+</oracleio>

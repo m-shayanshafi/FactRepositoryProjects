@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="31">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="ShoddyHelper"
+                   displayName="ShoddyHelper"
+                   projectFiles="true">
+      <itemPath>BattleMechanics.h</itemPath>
+      <itemPath>dllmain.cpp</itemPath>
+      <itemPath>FirstLaunch.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile.win</itemPath>
+      <itemPath>ShoddyHelper-Makefile.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>ShoddyHelper-Makefile.mk</projectmakefile>
+  <defaultConf>0</defaultConf>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>1</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile.win</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile.win clean</cleanCommand>
+          <executablePath></executablePath>
+          <cCompilerTool>
+          </cCompilerTool>
+          <ccCompilerTool>
+          </ccCompilerTool>
+          <fortranCompilerTool>
+          </fortranCompilerTool>
+        </makeTool>
+      </makefileType>
+      <item path="FirstLaunch.h">
+        <itemTool>3</itemTool>
+      </item>
+      <item path="BattleMechanics.h">
+        <itemTool>3</itemTool>
+      </item>
+      <item path="dllmain.cpp">
+        <itemTool>1</itemTool>
+        <ccCompilerTool>
+        </ccCompilerTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

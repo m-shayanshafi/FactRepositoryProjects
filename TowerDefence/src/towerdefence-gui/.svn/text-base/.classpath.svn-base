@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.sun.javafx.eclipse.core.classpath.SDKClasspathContainer/reserved/desktop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/towerdefence-engine"/>
+	<classpathentry kind="lib" path="/towerdefence-engine/lib/ai_path.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

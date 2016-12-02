@@ -1,0 +1,66 @@
+Starting logging at 5/7/04 5:35 AM
+MazeFactoryXML create: entered
+MazeFactoryXML startDocument: Millis from Starting PacDasher to Started loading XML was 5007
+MazeFactoryXML endDocument: Millis from Started loading XML to Ended loading XML was 1091
+Animation logInitialPerfAnalysis: 
+
+INITIAL PERFORMANCE ANALYSIS
+
+
+Animation logInitialPerfAnalysis: Video card supports page flipping? true
+
+Animation logInitialPerfAnalysis: OS Arch: x86
+OS Name: Windows 2000
+OS Version: 5.0
+Java Version: 1.5.0-beta
+Java Vendor: Sun Microsystems Inc.
+
+FrameRunnerStart changeStateIfNecessary: Millis from XML load ended to game ready was 21
+Animation$AnimationTask debugPerformanceSummary: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+numTooLongs = 10
+totalMemory = 66060288
+freeMemory = 64405336
+bytes used per animation frame = 948
+gcCount (animation) = 0
+gcFreed (animation) = 0
+
+
+Animation$AnimationTask debugPerformanceSummary: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+numTooLongs = 0
+totalMemory = 66060288
+freeMemory = 63965376
+bytes used per animation frame = 879
+gcCount (animation) = 0
+gcFreed (animation) = 0
+
+
+Animation$AnimationTask debugPerformanceSummary: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+numTooLongs = 13
+totalMemory = 66060288
+freeMemory = 64945200
+bytes used per animation frame = 896
+gcCount (animation) = 2
+gcFreed (animation) = 1427920
+
+
+Animation$AnimationTask debugPerformanceSummary: 
+
+PERFORMANCE SUMMARY 500 frames 
+
+numTooLongs = 0
+totalMemory = 66060288
+freeMemory = 65068968
+bytes used per animation frame = 691
+gcCount (animation) = 4
+gcFreed (animation) = 469384
+
+

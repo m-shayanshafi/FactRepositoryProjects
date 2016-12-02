@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" additionalparam=" -encoding UTF-8 -docencoding ISO-8859-1 " author="true" classpath="." destdir="doc" doctitle="TrickTakingGame internal documentation" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="sjrd.tricktakinggame.rules,sjrd.tricktakinggame.client,sjrd.util,sjrd.tricktakinggame.rules.manille,sjrd.tricktakinggame.network.commands,sjrd.tricktakinggame.network,sjrd.tricktakinggame.rules.whist,sjrd.tricktakinggame.network.server,sjrd.swing,sjrd.tricktakinggame.rules.whist.contracts,sjrd.tricktakinggame.gui.tablelist,sjrd.tricktakinggame.rules.rikiki,sjrd.tricktakinggame.rules.whist.announces,sjrd.tricktakinggame.network.client,sjrd.tricktakinggame.gui.tableinfo,sjrd.tricktakinggame.cards,sjrd.tricktakinggame.gui.carddisplayers,sjrd.tricktakinggame.remotable,sjrd.tricktakinggame.gui.client,sjrd.tricktakinggame.gui.connection,sjrd.tricktakinggame.gui.event,sjrd.tricktakinggame.server,sjrd.tricktakinggame.gui.util,sjrd.tricktakinggame.gui.gameplaying,sjrd.tricktakinggame.game,sjrd.tricktakinggame.gui,sjrd.tricktakinggame.gui.controller,sjrd.util.appproperties,sjrd.tricktakinggame.gui.networkactions" source="1.5" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="http://java.sun.com/javase/6/docs/api/"/>
+        </javadoc>
+    </target>
+</project>

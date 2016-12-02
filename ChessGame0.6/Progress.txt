@@ -1,0 +1,19 @@
+151007
+> Magic Strings to Piece class constants
+	Chess_Data
+> Extract Methods
+	ChessBoardView -> public void restartLocalGame() {
+> Extract Class
+	Piece
+> ChessData 382: if condition swap
+> Found duplication in Load ChessData
+> Middle man: Function added in NonVisualPiece
+	isTypeEquals(String)
+> Intefaces
+> Polymorphism
+> Conditioanl Statements reduced
+> King Rook Castling bug fixed 
+> Removed un used methods (VisualPiece: setColor)
+> Removed un used fields (VisualPiece: color)
+> Refactor remove temp field (VisualPiece)
+> Refactor Remove un used parameters (VisualPiece Constructor)

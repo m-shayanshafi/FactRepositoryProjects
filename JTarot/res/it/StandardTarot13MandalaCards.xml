@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione Di Mandala/Alchemical (Guiley)</entry>
+	<entry key="Description">Facendo la lettura con soltanto le prime nove schede è
+denominato la diffusione di Mandala. La aggiunta delle quattro 
+schede elementari è la diffusione alchemical</entry>
+	<entry key="PositionTitle0">L'auto</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Desideri</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Sogni</entry><entry key="Meaning2">Che cosa desiderate realizzare</entry>
+	<entry key="PositionTitle3">Inseguimenti</entry><entry key="Meaning3">Che cosa attivamente proviamo a realizzare</entry>
+	<entry key="PositionTitle4">Collegamenti</entry><entry key="Meaning4">Inseguimenti che li tengono indietro dal realizzare i 
+nostri sogni. Per esempio, sogno di molta gente di felicità ma 
+i soldi di inseguimento che la pensano li renderà felici. 
+Tuttavia, è la preoccupazione circa soldi, non la mancanza di 
+esso, che realmente impedisce la felicità.</entry>
+	<entry key="PositionTitle5">Qualità</entry><entry key="Meaning5">Buone funzioni circa il querent</entry>
+	<entry key="PositionTitle6">Dispiaceri</entry><entry key="Meaning6">Difetti dei querent che devono migliorare</entry>
+	<entry key="PositionTitle7">Auto-immagine</entry><entry key="Meaning7">Come le viste querent him/herself</entry>
+	<entry key="PositionTitle8">Stimolo dell'anima</entry><entry key="Meaning8">Il suoi scopo allineare e desitiny</entry>
+	<entry key="PositionTitle9">Terra</entry><entry key="Meaning9">Nerezza, mistero e lo sconosciuto</entry>
+	<entry key="PositionTitle10">Aria</entry><entry key="Meaning10">Illuminazione e chiarimento spiritosi</entry>
+	<entry key="PositionTitle11">Fuoco</entry><entry key="Meaning11">Intellect, pensiero razionale, volontà</entry>
+	<entry key="PositionTitle12">Acqua</entry><entry key="Meaning12">Creatività ed emozioni</entry>
+</oracleio>

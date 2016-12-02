@@ -1,0 +1,324 @@
+<p>In your translations, you can add <b>H</b>yper <b>T</b>ext <b>M</b>arkup <b>L</b>anguage tags
+or otherwise called HTML tags to format your translations if you wish.  
+You certainly dont need to use these tags and 99% of the
+time I expect most people will want to simply translate with plain text.  However, if you want to use HTML tags,
+the following is a quick reference for HTML tags</p>
+<h1>Basic HTML Tags</h1>
+
+<p>The most important tags in HTML are tags that define
+headings, paragraphs and line breaks.</p>
+
+<h2>Headings</h2>
+
+<p>Headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags. &lt;h1&gt;
+defines the largest heading. &lt;h6&gt; defines the smallest heading.</p>
+
+<table width="100%" class="ex" cellspacing="0" border="1">
+  <tbody>
+    <tr>
+      <td>
+        <pre>&lt;h1&gt;This is a heading&lt;/h1&gt;
+&lt;h2&gt;This is a heading&lt;/h2&gt;
+&lt;h3&gt;This is a heading&lt;/h3&gt;
+
+&lt;h4&gt;This is a heading&lt;/h4&gt;
+&lt;h5&gt;This is a heading&lt;/h5&gt;
+&lt;h6&gt;This is a heading&lt;/h6&gt;</pre>
+      </td>
+    </tr>
+  </tbody>
+
+</table>
+<p>HTML automatically adds
+an extra blank line before and after a heading.</p>
+<hr>
+
+<h2>Paragraphs</h2>
+
+<p>Paragraphs are defined with the &lt;p&gt; tag.</p>
+<table width="100%" class="ex" cellspacing="0" border="1">
+  <tbody>
+    <tr>
+
+      <td>
+        <pre>&lt;p&gt;This is a paragraph&lt;/p&gt;
+&lt;p&gt;This is another paragraph&lt;/p&gt;</pre>
+      </td>
+    </tr>
+  </tbody>
+
+</table>
+<p>HTML automatically adds
+an extra blank line before and after a paragraph.</p>
+<h3>Inline Styles</h3>
+<p>An inline style should be used when a unique style is to
+be applied to a single occurrence of an element.</p>
+<p>To use inline styles you use the style attribute in the relevant tag. The
+style attribute can contain any CSS property. The example shows how to change
+the color and the left margin of a paragraph:</p>
+<table width="100%" class="ex" cellspacing="0" border="1">
+    <tr>
+      <td>
+        <pre>&lt;p style=&quot;color: red; margin-left: 20px&quot;&gt;
+
+This is a paragraph
+&lt;/p&gt;</pre>
+      </td>
+    </tr>
+</table>
+<p>
+Which looks like the following...
+<p style="color: red; margin-left: 20px">
+This is a paragraph
+</p>
+<hr>
+
+
+<h2>Text Formatting Tags</h2>
+<table class="ex" cellspacing="0" border="1" width="100%">
+<tr>
+<th width="20%" align="left">Tag</th>
+<th width="80%" align="left">Description</th>
+
+</tr>
+<tr>
+<td>&lt;b&gt;</td>
+<td>Defines bold text</td>
+</tr>
+<tr>
+<td>&lt;big&gt;</td>
+<td>Defines big text</td>
+</tr>
+<tr>
+<td>&lt;em&gt;</td>
+<td>Defines emphasized text&nbsp;</td>
+
+</tr>
+<tr>
+<td>&lt;i&gt;</td>
+<td>Defines italic text</td>
+</tr>
+<tr>
+<td>&lt;small&gt;</td>
+<td>Defines small text</td>
+</tr>
+<tr>
+<td>&lt;strong&gt;</td>
+<td>Defines strong text</td>
+
+</tr>
+<tr>
+<td>&lt;sub&gt;</td>
+<td>Defines subscripted text</td>
+</tr>
+<tr>
+<td>&lt;sup&gt;</td>
+<td>Defines superscripted text</td>
+</tr>
+<tr>
+<td>&lt;ins&gt;</td>
+<td>Defines inserted text</td>
+
+</tr>
+<tr>
+<td>&lt;del&gt;</td>
+<td>Defines deleted text</td>
+</tr>
+<tr>
+<td>&lt;s&gt;</td>
+<td class="deprecated">Deprecated. Use &lt;del&gt; instead</td>
+</tr>
+<tr>
+
+<td>&lt;strike&gt;</td>
+<td class="deprecated">Deprecated. Use &lt;del&gt; instead</td>
+</tr>
+<tr>
+<td>&lt;u&gt;</td>
+<td class="deprecated">Deprecated. Use styles instead</td>
+</tr>
+</table>
+
+<h2>&quot;Computer Output&quot; Tags</h2>
+
+<table class="ex" cellspacing="0" border="1" width="100%">
+<tr>
+<th width="20%" align="left">Tag</th>
+<th width="80%" align="left">Description</th>
+</tr>
+<tr>
+<td>&lt;code&gt;</td>
+<td>Defines computer code text</td>
+</tr>
+<tr>
+<td>&lt;kbd&gt;</td>
+<td>Defines keyboard text&nbsp;</td>
+
+</tr>
+<tr>
+<td>&lt;samp&gt;</td>
+<td>Defines sample computer code</td>
+</tr>
+<tr>
+<td>&lt;tt&gt;</td>
+<td>Defines teletype text</td>
+</tr>
+<tr>
+<td>&lt;var&gt;</td>
+<td>Defines a variable</td>
+
+</tr>
+<tr>
+<td>&lt;pre&gt;</td>
+<td>Defines preformatted text</td>
+</tr>
+<tr>
+<td>&lt;listing&gt;</td>
+<td class="deprecated">Deprecated. Use &lt;pre&gt; instead </td>
+</tr>
+<tr>
+
+<td>&lt;plaintext&gt;</td>
+<td class="deprecated">Deprecated. Use &lt;pre&gt; instead</td>
+</tr>
+<tr>
+<td>&lt;xmp&gt;</td>
+<td class="deprecated">Deprecated. Use &lt;pre&gt; instead</td>
+</tr>
+
+</table>
+
+<h2>Citations, Quotations, and Definition Tags</h2>
+<table class="ex" cellspacing="0" border="1" width="100%">
+<tr>
+<th width="20%" align="left">Tag</th>
+<th width="80%" align="left">Description</th>
+</tr>
+<tr>
+<td>&lt;abbr&gt;</td>
+<td>Defines an abbreviation</td>
+</tr>
+
+<tr>
+<td>&lt;acronym&gt;</td>
+<td>Defines an acronym</td>
+</tr>
+<tr>
+<td>&lt;address&gt;</td>
+<td>Defines an address element</td>
+</tr>
+<tr>
+<td>&lt;bdo&gt;</td>
+<td>Defines the text direction</td>
+
+</tr>
+<tr>
+<td>&lt;blockquote&gt;</td>
+<td> Defines a long quotation</td>
+</tr>
+<tr>
+<td>&lt;q&gt;</td>
+<td>Defines a short quotation</td>
+</tr>
+<tr>
+<td>&lt;cite&gt;</td>
+
+<td>Defines a citation</td>
+</tr>
+<tr>
+<td>&lt;dfn&gt;</td>
+<td>Defines a definition term</td>
+</tr>
+</table>
+
+
+
+<h2>Unordered Lists</h2>
+
+<p>An unordered list is a list of items. The list items are marked with bullets (typically
+small black circles).</p>
+<p>An unordered list starts with the &lt;ul&gt; tag. Each list item starts with the &lt;li&gt; tag.</p>
+
+<table width="100%" class="ex" cellspacing="0" border="1">
+    <tr>
+      <td>
+        <pre>&lt;ul&gt;
+
+&lt;li&gt;Coffee&lt;/li&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;/ul&gt;</pre>
+      </td>
+    </tr>
+</table>
+
+<p>Here is how it looks in a browser:</p>
+
+<ul>
+  <li>Coffee</li>
+  <li>Milk</li>
+</ul>
+<p>Inside a list item you can put paragraphs, line breaks, images, links, other
+lists, etc.</p>
+<hr>
+
+<h2>Ordered Lists</h2>
+<p>An ordered list is also a list of items. The list items are marked with
+numbers.</p>
+<p>An ordered list starts with the &lt;ol&gt; tag. Each list item starts with the &lt;li&gt; tag.</p>
+
+<table width="100%" class="ex" cellspacing="0" border="1">
+    <tr>
+      <td>
+        <pre>&lt;ol&gt;
+&lt;li&gt;Coffee&lt;/li&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;/ol&gt;</pre>
+
+      </td>
+    </tr>
+</table>
+
+<p>Here is how it looks in a browser:</p>
+<ol>
+  <li>Coffee</li>
+  <li>Milk</li>
+</ol>
+<p>Inside a list item you can put paragraphs, line breaks,
+images, links, other lists, etc.</p>
+
+<hr>
+
+<h2>Definition Lists</h2>
+<p>A definition list is <b>not</b>  a list of items. This is a list of terms and
+explanation of the terms.</p>
+<p>A definition list starts with the &lt;dl&gt; tag. Each definition-list term starts with the &lt;dt&gt; tag. Each
+definition-list definition starts with the &lt;dd&gt; tag.</p>
+
+<table width="100%" class="ex" cellspacing="0" border="1">
+    <tr>
+      <td>
+        <pre>&lt;dl&gt;
+&lt;dt&gt;Coffee&lt;/dt&gt;
+&lt;dd&gt;Black hot drink&lt;/dd&gt;
+&lt;dt&gt;Milk&lt;/dt&gt;
+
+&lt;dd&gt;White cold drink&lt;/dd&gt;
+&lt;/dl&gt;</pre>
+      </td>
+    </tr>
+</table>
+<p>Here is how it looks in a browser:</p>
+<dl>
+<dt>Coffee</dt>
+<dd>Black hot drink</dd>
+
+<dt>Milk</dt>
+<dd>White cold drink</dd>
+</dl>
+
+<p>Inside a definition-list definition (the &lt;dd&gt; tag) you can put paragraphs, line breaks,
+images, links, other lists, etc.</p>
+
+<hr>
+
+

@@ -1,0 +1,16 @@
+{
+  "name": "Entchen",
+  "hp": 50,
+  "attack": 20,
+  "def": 30,
+  "init": 90,
+  "type": "Wasser",
+  "mp": 18,
+  "xp": 230,
+  "attacks": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+}

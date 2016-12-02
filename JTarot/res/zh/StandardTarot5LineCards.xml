@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="The Line Spread" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">线传播</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">遥远的过去</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">在过去附近</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">礼物</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">不久的将来</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">远的未来</entry><entry key="Meaning4"></entry>
+</oracleio>

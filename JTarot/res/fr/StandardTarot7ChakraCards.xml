@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Disposition de chakra de sept cartes</entry>
+	<entry key="Description">Chaque carte correspond à un des sept chakras du 
+corps. L'étude appropriée du sujet serait conseillée quand 
+employer cette disposition et la liste ci-dessous est prévu seulement
+comme guide de référence extrait à partir du livre de Guiley. 
+Les interprétations de chaque position peuvent changer 
+dépendre de vos learnings</entry>
+	<entry key="PositionTitle0">Chakra de racine</entry><entry key="Meaning0">art de l'auto-portrait-preservation et instincts</entry>
+	<entry key="PositionTitle1">Chakra sacré</entry><entry key="Meaning1">Sexualité</entry>
+	<entry key="PositionTitle2">Plexus solaire</entry><entry key="Meaning2">Émotions</entry>
+	<entry key="PositionTitle3">Coeur chakral</entry><entry key="Meaning3">Une conscience plus élevée, amour sans conditions</entry>
+	<entry key="PositionTitle4">Chakra de gorge</entry><entry key="Meaning4">Créativité et expression d'art de l'auto-portrait</entry>
+	<entry key="PositionTitle5">Troisième chakra d'oeil</entry><entry key="Meaning5">Capacités psychiques, éclaircissement spirituel</entry>
+	<entry key="PositionTitle6">Chakra de couronne</entry><entry key="Meaning6">Niveau individuel d'evoluion conscient</entry>
+</oracleio>

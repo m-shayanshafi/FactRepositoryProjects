@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archetype ver="Development" name="testArchetype2" id="2" persistent="false"
+	xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ArchetypeWrapper-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<agl>-1</agl>
+	<fns>+100</fns>
+	<resMap />
+</archetype>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Twenty-One Card Spread (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">immediate past</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Inobvious Present factor</entry><entry key="Meaning2">An important factor in the present.  Inobvious.</entry>
+	<entry key="PositionTitle3">State of mind</entry><entry key="Meaning3">Seeker state of mind</entry>
+	<entry key="PositionTitle4">Immediate future</entry><entry key="Meaning4">Most likely immediate future</entry>
+	<entry key="PositionTitle5">Obvious present factor</entry><entry key="Meaning5">An important factor in the present. Very obvious</entry>
+	<entry key="PositionTitle6">Gut feelings</entry><entry key="Meaning6">Seeker gut feelings.</entry>
+	<entry key="PositionTitle7">Modifies card 2 past 1</entry><entry key="Meaning7">Influences in the past that affected #2</entry>
+	<entry key="PositionTitle8">Modifies card 2 past 2</entry><entry key="Meaning8">Influences in the past that affected #2</entry>
+	<entry key="PositionTitle9">Modifies card 3 now 1</entry><entry key="Meaning9">Current influences affecting #3.  Inobvious.</entry>
+	<entry key="PositionTitle10">Modifies card 3 now 2</entry><entry key="Meaning10">Current influences affecting #3.  Inobvious.</entry>
+	<entry key="PositionTitle11">Modifies card 5 future 1</entry><entry key="Meaning11">Possible future influences, affecting #5</entry>
+	<entry key="PositionTitle12">Modifies card 5 future 2</entry><entry key="Meaning12">Possible future influences, affecting #5</entry>
+	<entry key="PositionTitle13">Modifies card 6 now 1</entry><entry key="Meaning13">Obvious current influences, affecting #6</entry>
+	<entry key="PositionTitle14">Modifies card 6 now 2</entry><entry key="Meaning14">Obvious current influences, affecting #6</entry>
+	<entry key="PositionTitle15">Physical</entry><entry key="Meaning15">Seeker physical situation.  Possible health or life status</entry>
+	<entry key="PositionTitle16">Root in past</entry><entry key="Meaning16">The root of the matter in the past</entry>
+	<entry key="PositionTitle17">Current matter</entry><entry key="Meaning17">A current matter. It may be hidden or unknown and
+          overlooked, or it may represent assumptions, possibly
+          incorrect</entry>
+	<entry key="PositionTitle18">Spiritual will</entry><entry key="Meaning18">Seeker spiritual will. This may conflict with or
+     illuminate the Seeker's conscious desires</entry>
+	<entry key="PositionTitle19">Future event</entry><entry key="Meaning19">A likely future event</entry>
+	<entry key="PositionTitle20">Reflections</entry><entry key="Meaning20">What the Seeker must think about</entry>
+</oracleio>

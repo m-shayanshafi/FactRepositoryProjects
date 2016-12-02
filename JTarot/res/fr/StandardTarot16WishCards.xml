@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion De Souhait (Doane)</entry>
+	<entry key="Description">Les neuf de tasses s'appelle souvent la carte de 
+souhait. Si cette carte tourne vers le haut n'importe où dans 
+la lecture, à moins que dans le groupe de trois comprenant la carte 
+8, ce soit une indication forte qu'une certaine partie ou tout le 
+souhait des querent viendra vrai. Plus il semble dans l'ordre 
+numérique ci-dessus étroit, plus le souhait sera réalisé tôt. 
+Si les neuf de tasses apparaît dans le groupe 8, c'est une 
+indication que le souhait ne viendra probablement pas vrai ; les
+deux autres cartes dans le groupe rapporteront la cause. Si les 
+neuf de tasses n'apparaît pas, ceci ne devrait pas être pris comme 
+indication de l'un ou l'autre destin, bien que d'autres cartes dans la
+lecture puissent confirmer ou nier le souhait.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Environnement 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Environnement 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Environnement 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Souhait 1</entry><entry key="Meaning4">Description du souhait des querent</entry>
+	<entry key="PositionTitle5">Souhait 2</entry><entry key="Meaning5">Description du souhait des querent</entry>
+	<entry key="PositionTitle6">Souhait 3</entry><entry key="Meaning6">Description du souhait des querent</entry>
+	<entry key="PositionTitle7">Opposition 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Opposition 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Opposition 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Facteurs 1</entry><entry key="Meaning10">Facteurs qui entreront dans cette matière</entry>
+	<entry key="PositionTitle11">Facteurs 2</entry><entry key="Meaning11">Facteurs qui entreront dans cette matière</entry>
+	<entry key="PositionTitle12">Facteurs 3</entry><entry key="Meaning12">Facteurs qui entreront dans cette matière</entry>
+	<entry key="PositionTitle13">Réalisations 1</entry><entry key="Meaning13">Réalisations du querent (habituellement à l'avenir)</entry>
+	<entry key="PositionTitle14">Réalisations 2</entry><entry key="Meaning14">Réalisations du querent (habituellement à l'avenir)</entry>
+	<entry key="PositionTitle15">Réalisations 3</entry><entry key="Meaning15">Réalisations du querent (habituellement à l'avenir)</entry>
+</oracleio>

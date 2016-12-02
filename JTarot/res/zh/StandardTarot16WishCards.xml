@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">愿望传播(Doane)</entry>
+	<entry key="Description">九杯子经常称愿望卡片。如果这张卡片出现任何地方在读书, 除了在小组三包括卡片8, 这会是某一部份或所有querent 的愿望将来真实的一个强的征兆。更加接近看起来在上述数字序列, 快愿望将体会。如果九杯子出现在小组8, 这是征兆, 愿望大概不会来真实; 其它二张卡片在小组将产生起因。如果九杯子没出现, 这不应该被采取作为或者命运的征兆, 虽然其它卡片在读书也许证实或否认愿望。</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">环境1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">环境2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">环境3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">愿望1</entry><entry key="Meaning4">querent 的愿望的描述</entry>
+	<entry key="PositionTitle5">愿望2</entry><entry key="Meaning5">querent 的愿望的描述</entry>
+	<entry key="PositionTitle6">愿望3</entry><entry key="Meaning6">querent 的愿望的描述</entry>
+	<entry key="PositionTitle7">反对1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">反对2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">反对3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">因素1</entry><entry key="Meaning10">将加入这个问题的因素</entry>
+	<entry key="PositionTitle11">因素2</entry><entry key="Meaning11">将加入这个问题的因素</entry>
+	<entry key="PositionTitle12">因素3</entry><entry key="Meaning12">将加入这个问题的因素</entry>
+	<entry key="PositionTitle13">认识1</entry><entry key="Meaning13">认识querent (通常在将来)</entry>
+	<entry key="PositionTitle14">认识2</entry><entry key="Meaning14">认识querent (通常在将来)</entry>
+	<entry key="PositionTitle15">认识3</entry><entry key="Meaning15">认识querent (通常在将来)</entry>
+</oracleio>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Layout of the elements" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Layout of the elements</entry>
+	<entry key="Description">Use to gain insight into aspects of the self which need
+          balancing or development</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">East-Intellectual</entry><entry key="Meaning1">Intellectual or Mental Life</entry>
+	<entry key="PositionTitle2">South-Sensual</entry><entry key="Meaning2">Sensual and/or Instinctual Life</entry>
+	<entry key="PositionTitle3">West-Emotional</entry><entry key="Meaning3">Emotional Life</entry>
+	<entry key="PositionTitle4">North-Intuitive</entry><entry key="Meaning4">Intuitive and/or Spiritual Life</entry>
+</oracleio>

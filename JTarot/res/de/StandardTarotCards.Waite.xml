@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Arthur Edward Waite" classification="GraphicObjTranslations" version="1" language="de" author="Arthur Edward Waite(1857-1942)" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">Dummkopf 0-The</entry><entry key="ObjectMeaning0">Unsinnigkeit, Manie, Extravaganz, Intoxikation, 
+Delirium, Raserei, bewrayment.</entry>
+	<entry key="ObjectTitle1">Magier 1-The</entry><entry key="ObjectMeaning1">Fähigkeit, Diplomatie, Adresse, Feinheit; 
+Krankheit, Schmerz, Verlust, Unfall, Schlingen der Feinde;
+Selbstvertrauen, Wille; das Querent, wenn Mann.</entry>
+	<entry key="ObjectTitle2">Hohe Priesterin 2-The</entry><entry key="ObjectMeaning2">Geheimnisse, Geheimnis, die Zukunft unrevealed bis 
+jetzt; die Frau, die das Querent interessiert, wenn Mann; 
+das Querent selbst, wenn Frau; Ruhe, Hartnäckigkeit; 
+Geheimnis, Klugheit, Wissenschaft.</entry>
+	<entry key="ObjectTitle3">Kaiserin 3-The</entry><entry key="ObjectMeaning3">Fruchtbarkeit, Tätigkeit, Initiative, Länge von 
+Tagen; das unbekannte, heimlich; auch Schwierigkeit, 
+Zweifel, Unwissenheit.</entry>
+	<entry key="ObjectTitle4">Kaiser 4-The</entry><entry key="ObjectMeaning4">Stabilität, Energie, Schutz, Realisierung; eine 
+große Person; Hilfsmittel, Grund, Überzeugung; auch 
+Berechtigung und Wille.</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Verbindung, Bündnis, Gefangenschaft, Versklavung; 
+durch ein anderes Konto, Gnade und Güte; Inspiration; 
+der Mann, zu dem das Querent Entschädigung hat.</entry>
+	<entry key="ObjectTitle6">Geliebte 6-The</entry><entry key="ObjectMeaning6">Anziehung, Liebe, Schönheit, Versuche überwinden.</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Succour, Vorsehung auch war, triumph, Vermutung, 
+vengeance, Mühe.</entry>
+	<entry key="ObjectTitle8">8-Stärken</entry><entry key="ObjectMeaning8">Energie, Energie, Tätigkeit, Mut, Großherzigkeit; 
+führen Sie auch Erfolg und Ehren durch.</entry>
+	<entry key="ObjectTitle9">Einsiedler 9-The</entry><entry key="ObjectMeaning9">Besonnenheit, Umsicht; auch und besonders 
+Verrat, Verstellung, Roguery, Korruption.</entry>
+	<entry key="ObjectTitle10">10-Wheel des Vermögens</entry><entry key="ObjectMeaning10">Schicksal, Vermögen, Erfolg, Aufzug, Glück, Glück.</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Billigkeit, Richtigkeit, Rechtschaffenheit, 
+Hauptleiter; Triumph der verdienenden Seite im Gesetz.</entry>
+	<entry key="ObjectTitle12">12-The hing Mann</entry><entry key="ObjectMeaning12">Klugheit, Umsicht, Einsicht, Versuche, Opfer, 
+Intuition, Weissagung, Prophezeiung.</entry>
+	<entry key="ObjectTitle13">13-Tod</entry><entry key="ObjectMeaning13">Ende, Sterblichkeit, Zerstörung, Korruption auch, für
+einen Mann, der Verlust eines Wohltäters für eine Frau, viele 
+Contrarieties; für ein Mädchen projiziert sich Ausfall der 
+Verbindung.</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Wirtschaft, Mäßigung, Frugality, Management, 
+Anpassung.</entry>
+	<entry key="ObjectTitle15">Teufel 15-The</entry><entry key="ObjectMeaning15">Ravage, Gewalttätigkeit, Vehemenz, außerordentliche 
+Bemühungen, Kraft, Verhängnis; das, das aber predestined, 
+nicht für dieses Grundübel ist.</entry>
+	<entry key="ObjectTitle16">Aufsatz 16-The</entry><entry key="ObjectMeaning16">Elend, Bedrängnis, Armut, Missgeschick, Notstand, 
+Schande, Täuschung, Ruine. Es ist eine Karte insbesondere der 
+unvorhergesehenen Katastrophe.</entry>
+	<entry key="ObjectTitle17">Stern 17-The</entry><entry key="ObjectMeaning17">Verlust, Diebstahl, Not, Aufgeben; eine andere 
+MesswertSagenhoffnung und hellen Aussichten,</entry>
+	<entry key="ObjectTitle18">Mond 18-The</entry><entry key="ObjectMeaning18">Versteckte Feinde, Gefahr, Verleumdung, Schwärzung, 
+Terror, Täuschung, geheimnisvolle Kräfte, Störung.</entry>
+	<entry key="ObjectTitle19">Sonne 19-The</entry><entry key="ObjectMeaning19">Materielles Glück, glückliche Verbindung, 
+Contentment.</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Änderung der Position, Erneuerung, Resultat. Ein
+anderes Konto spezifiziert GesamtProzeß des verlustes zwar.</entry>
+	<entry key="ObjectTitle21">Welt 21-The</entry><entry key="ObjectMeaning21">Sicherer Erfolg, recompense, Reise, Weg, 
+Auswanderung, Flug, Änderung des Platzes.</entry>
+	<entry key="ObjectTitle22">As der Schalen</entry><entry key="ObjectMeaning22">Haus des zutreffenden Herzens, Freude, Inhalt, 
+Aufenthaltsort, Ernährung, Überfluß, Ergiebigkeit; Heilige 
+Tabelle, Glück hiervon.</entry>
+	<entry key="ObjectTitle23">Zwei von Schalen</entry><entry key="ObjectMeaning23">Liebe, Neigung, Freundschaft, Affinität, Anschluß, 
+Übereinstimmung, Sympathie, die Wechselbeziehung der Geschlechter und
+-- als Vorschlag abgesehen von allen Büros der Weissagung -- dieser 
+Wunsch, der nicht in der Natur ist, aber durch welche Natur 
+sanctified.&lt;p&gt;Additional meanings:&lt;/p&gt;Favourable in den Sachen des 
+Vergnügens und des Geschäfts ist, sowie Liebe; auch Fülle und
+Ehre.</entry>
+	<entry key="ObjectTitle24">Drei von Schalen</entry><entry key="ObjectMeaning24">Die Zusammenfassung irgendeiner Angelegenheit im viel, 
+in der Verkollkommnung und in der Belustigung; glückliche 
+Ausgabe, Sieg, Erfüllung, Trost, heilend,</entry>
+	<entry key="ObjectTitle25">Vier von Schalen</entry><entry key="ObjectMeaning25">Weariness, Ekel, Widerwille, eingebildete vexations, 
+als ob der Wein dieser Welt nur Übersâttigung verursacht hatte; 
+ein anderer Wein, als ob ein fairy Geschenk, wird jetzt den 
+Wastrel angeboten, aber er sieht keinen Trost darin. Dieses ist 
+auch eine Karte des gemischten Vergnügens.</entry>
+	<entry key="ObjectTitle26">Fünf von Schalen</entry><entry key="ObjectMeaning26">Es ist eine Karte des Verlustes, aber etwas bleibt 
+rüber; drei sind genommen worden, aber zwei werden gelassen; 
+es ist eine Karte der Erbschaft, Patrimonium, Getriebe, aber 
+Entsprechen nicht Erwartungen; mit einigen Interpreten ist es 
+eine Karte der Verbindung, aber nicht ohne Bitterkeit oder 
+Frustration.</entry>
+	<entry key="ObjectTitle27">Sechs von Schalen</entry><entry key="ObjectMeaning27">Eine Karte der Vergangenheit und der Gedächtnisse, 
+schauend, wie -- zum Beispiel -- auf Kindheit rückseitig; 
+Glück, Genuß, aber von der Vergangenheit eher kommen; 
+Sachen, die verschwunden sind. Ein anderer Messwert hebt 
+dieses auf und gibt neue Relationen, Neuerkenntnis, neues Klima, und 
+dann disporting die Kinder in einem nicht vertrauten Bezirk.</entry>
+	<entry key="ObjectTitle28">Sieben von Schalen</entry><entry key="ObjectMeaning28">Fairy Bevorzugungen, Bilder der Reflexion, Gefühl, 
+Phantasie, Sachen gesehen in das Glas der Betrachtung; 
+irgendeine Erreichung in diesen Grad, aber dauerhafte nichts 
+oder Wesentliches wird vorgeschlagen.</entry>
+	<entry key="ObjectTitle29">Acht von Schalen</entry><entry key="ObjectMeaning29">Die Karte spricht für sich auf der Oberfläche, aber 
+andere Messwerte sind -- Geben der Freude, mildness, Schüchternheit, 
+Ehre, Bescheidenheit völlig antithetical. In der Praxis wird 
+es normalerweise gefunden, daß die Karte die Abnahme einer 
+Angelegenheit shews oder daß eine Angelegenheit, die gedacht worden 
+ist, um wichtig zu sein, wirklich von der geringfügigen Konsequenz --
+entweder für gutes oder schlechtes ist.</entry>
+	<entry key="ObjectTitle30">Neun von Schalen</entry><entry key="ObjectMeaning30">Übereinstimmung, Contentment, körperliches bien-?tre;
+auch Sieg, Erfolg, Vorteil; Zufriedenheit für das Querent
+oder die Person, für die die Beratung gebildet wird.</entry>
+	<entry key="ObjectTitle31">10 von Schalen</entry><entry key="ObjectMeaning31">Contentment, Ruhe des gesamten Herzens; die 
+Verkollkommnung dieses Zustandes; auch Verkollkommnung der 
+menschlichen Liebe und der Freundschaft; wenn mit einigen 
+Abbildung-Karten, eine Person, die Aufladung von den Interessen des 
+Querents nimmt; auch die Stadt, das Dorf oder das Land bewohnt 
+durch das Querent.</entry>
+	<entry key="ObjectTitle32">Seite der Schalen</entry><entry key="ObjectMeaning32">Angemessener junger Mann, einer genötigt, um 
+Service und mit zu übertragen, wem wird das Querent angeschlossen; 
+eine studious Jugend; Nachrichten, Anzeige; 
+Anwendung, Reflexion, Meditation; auch diese Sachen 
+verwiesen auf Geschäft.</entry>
+	<entry key="ObjectTitle33">Ritter der Schalen</entry><entry key="ObjectMeaning33">Ankunft, Annäherung -- manchmal die eines Kuriers; 
+Fortschritte, Angelegenheit, demeanour, Einladung, 
+Anreiz.</entry>
+	<entry key="ObjectTitle34">Königin der Schalen</entry><entry key="ObjectMeaning34">Gute, angemessene Frau; ehrliche, gewidmete Frau,
+die Service zum Querent tut; liebevolle Intelligenz und folglich
+das Geschenk des Anblicks; Erfolg, Glück, Vergnügen; 
+auch Klugheit, Tugend; ein vollkommener Gatte und eine 
+gute Mutter.</entry>
+	<entry key="ObjectTitle35">König der Schalen</entry><entry key="ObjectMeaning35">Angemessener Mann, Geschäftsmann, Gesetz oder 
+Göttlichkeit; verantwortlich, abgeschaffen, das Querent zu 
+verbinden; auch Billigkeit, kunst und Wissenschaft, 
+einschließlich die, die Wissenschaft, Gesetz und kunst erklären; 
+kreative Intelligenz.</entry>
+	<entry key="ObjectTitle36">As von Pentacles</entry><entry key="ObjectMeaning36">Vollkommener Contentment, Glück, Ekstase; auch 
+schnelle Intelligenz; Gold &lt; p&gt;Additional meanings:&lt;/p&gt;The am 
+vorteilhaftesten von allen Karten.</entry>
+	<entry key="ObjectTitle37">Zwei von Pentacles</entry><entry key="ObjectMeaning37">Einerseits wird es als Karte der Fröhlichkeit, der 
+Erholung und seiner Anschlüsse dargestellt, die das Thema des Designs
+ist; aber es wird auch als Nachrichten und Anzeigen im 
+Schreiben, wie Hindernisse, Bewegung, Mühe, embroilment gelesen.</entry>
+	<entry key="ObjectTitle38">Drei von Pentacles</entry><entry key="ObjectMeaning38">Handel, erfahrene Arbeit; normalerweise jedoch 
+betrachtet als Karte des Adels, Aristokratie, Renommee, Ruhm.</entry>
+	<entry key="ObjectTitle39">Vier von Pentacles</entry><entry key="ObjectMeaning39">Die Bürge des Besitzes, zerspaltend zu der, die man 
+hat, Geschenk, Vermächtnis, Erbschaft.</entry>
+	<entry key="ObjectTitle40">Fünf von Pentacles</entry><entry key="ObjectMeaning40">Die Karte sagt materielle Mühe vor allem voraus, ob in
+der Form -- das heißt, Bedürftigkeit -- oder anders 
+veranschaulichte. Für einige cartomancists ist es eine Karte 
+der Liebe und der Geliebt-Frau, Ehemann, Freund, Geliebte; auch 
+Übereinstimmung, Affinitäten. Diese Alternativen können nicht
+harmonisiert werden.</entry>
+	<entry key="ObjectTitle41">Sechs von Pentacles</entry><entry key="ObjectMeaning41">Geschenke, ist Geschenke, sagt Befriedigung ein anderes
+Konto Aufmerksamkeit, Wachsamkeit jetzt der geltende Zeit-, 
+anwesendewohlstand, das usw..</entry>
+	<entry key="ObjectTitle42">Sieben von Pentacles</entry><entry key="ObjectMeaning42">Diese sind außerordentlich unvereinbar; in der 
+Hauptleitung ist es eine Karte des Geldes, Geschäft, 
+Kompensationsgeschäft; aber ein Messwert gibt 
+Auseinandersetzung, Streite -- und eine andere Unschuld, Scharfsinn, 
+purgation.</entry>
+	<entry key="ObjectTitle43">Acht von Pentacles</entry><entry key="ObjectMeaning43">Arbeit, Beschäftigung, Kommission, Kunstfertigkeit, 
+Fähigkeit in der Fertigkeit und Geschäft, möglicherweise im 
+vorbereitenden Stadium.</entry>
+	<entry key="ObjectTitle44">Neun von Pentacles</entry><entry key="ObjectMeaning44">Besonnenheit, Sicherheit, Erfolg, Vollendung, 
+Gewißheit, Einsicht.</entry>
+	<entry key="ObjectTitle45">10 von Pentacles</entry><entry key="ObjectMeaning45">Gewinn, riches; Familie macht, Archive, 
+Extraktion, der Aufenthaltsort einer Familie aus.</entry>
+	<entry key="ObjectTitle46">Seite von Pentacles</entry><entry key="ObjectMeaning46">Anwendung, Studie, Gelehrsamkeit, sagt Reflexion ein 
+anderer Messwert Nachrichten, Anzeigen und das bringer davon; 
+auch Richtlinie, Management.</entry>
+	<entry key="ObjectTitle47">Ritter von Pentacles</entry><entry key="ObjectMeaning47">Dienstprogramm, serviceableness, Interesse, 
+Verantwortlichkeit, rectitude-alle an die normale und externe Fläche.</entry>
+	<entry key="ObjectTitle48">Königin von Pentacles</entry><entry key="ObjectMeaning48">Opulence, Großzügigkeit, Großartigkeit, Sicherheit, 
+Freiheit.</entry>
+	<entry key="ObjectTitle49">König von Pentacles</entry><entry key="ObjectMeaning49">Valour, Intelligenz, Geschäft und normale 
+intellektuelle Fähigkeit, manchmal mathematische Geschenke und 
+Erreichungen dieser Art verwirklichend; Erfolg in diesen Wegen.</entry>
+	<entry key="ObjectTitle50">As der Klingen</entry><entry key="ObjectMeaning50">Triumph, der übermäßige Grad in alles, Eroberung, 
+Triumph der Kraft. Es ist eine Karte der großen Kraft, in der 
+Liebe sowie in Haß. Die Krone kann eine viel höhere Bedeutung 
+als tragen kommt normalerweise innerhalb des Bereichs des 
+Vermögen-Erklärens.</entry>
+	<entry key="ObjectTitle51">Zwei von Klingen</entry><entry key="ObjectMeaning51">Übereinstimmung und das equipoise, das es vorschlägt,
+Mut, Freundschaft, Übereinstimmung in einem Zustand der Arme; 
+ein anderer Messwert gibt Weichheit, Neigung, Intimacy. 
+Der Vorschlag der Harmonie und andere vorteilhafte Messwerte 
+müssen in einer qualifizierten Weise betrachtet werden, da Klingen im
+Allgemeinen nicht von den wohltätigen Kräften in den menschlichen 
+Angelegenheiten symbolical sind.</entry>
+	<entry key="ObjectTitle52">Drei von Klingen</entry><entry key="ObjectMeaning52">Abbau, Abwesenheit, verzögert, Abteilung, Abbruch, 
+Zerstreuung und alle, die das Design natürlich bedeutet und liegt zu 
+einfach und auf der Hand, spezifische Aufzählung zu verlangen.</entry>
+	<entry key="ObjectTitle53">Vier von Klingen</entry><entry key="ObjectMeaning53">Wachsamkeit, Rückzug, Einsamkeit, Ruhe des 
+Einsiedlers, Exil, Grab und Sarg. Er ist dieser Letztes, das das
+Design vorgeschlagen haben.</entry>
+	<entry key="ObjectTitle54">Fünf von Klingen</entry><entry key="ObjectMeaning54">Verminderung, Zerstörung, Rücknahme, Niedertracht, 
+Schmach, Verlust, mit den Varianten und den Entsprechungen von diesen.</entry>
+	<entry key="ObjectTitle55">Sechs von Klingen</entry><entry key="ObjectMeaning55">Reisen Sie durch Wasser, Weg, Weise, der Abgesandte, 
+commissionary, angebracht.</entry>
+	<entry key="ObjectTitle56">Sieben von Klingen</entry><entry key="ObjectMeaning56">Entwerfen Sie, versuchen Sie, wünschen Sie, hoffen 
+Sie, Vertrauen; auch streiten, ein Plan, der ausfallen kann, 
+Störung. Das Design ist in seinem Import unsicher, weil die 
+Bedeutungen weit im Gegensatz zu einander sind.</entry>
+	<entry key="ObjectTitle57">Acht von Klingen</entry><entry key="ObjectMeaning57">Schlechte Nachrichten, heftiger Verdruß, Krise, 
+Kritik, Energie in den Netz, Konflikt, Verleumdung; auch 
+Krankheit.</entry>
+	<entry key="ObjectTitle58">Neun von Klingen</entry><entry key="ObjectMeaning58">Tod, Ausfall, Fehlschlag, verzögert, Täuschung, 
+Enttäuschung, Verzweiflung.</entry>
+	<entry key="ObjectTitle59">10 von Klingen</entry><entry key="ObjectMeaning59">Whatsoever wird durch das Design angedeutet; auch
+Schmerz, Kummer, Risse, Traurigkeit, Verwüstung. Es ist nicht 
+besonders eine Karte des heftigen Todes.</entry>
+	<entry key="ObjectTitle60">Seite der Klingen</entry><entry key="ObjectMeaning60">Berechtigung, Beaufsichtigen, geheimer Service, 
+Wachsamkeit, Ausspionieren, Prüfung und die dazu gehörenden 
+Qualitäten.</entry>
+	<entry key="ObjectTitle61">Ritter der Klingen</entry><entry key="ObjectMeaning61">Fähigkeit, Tapferkeit, Kapazität, Verteidigung, 
+Adresse, Übelwollen, Zorn, Krieg, Zerstörung, Opposition,
+Widerstand, Ruine. Es gibt folglich eine Richtung, in der die 
+Karte Tod bedeutet, aber sie trägt diese Bedeutung nur in seiner 
+Nähe zu anderen Karten des Verhängnisses.</entry>
+	<entry key="ObjectTitle62">Königin der Klingen</entry><entry key="ObjectMeaning62">Witwenschaft, weibliche Traurigkeit und 
+Verlegenheit, Abwesenheit, Sterilität, beklagend, Not, Trennung.</entry>
+	<entry key="ObjectTitle63">König der Klingen</entry><entry key="ObjectMeaning63">Whatsoever entsteht aus der Idee des Urteils und seiner
+ganzer Anschluß-Energie, Befehl, Berechtigung, militante Intelligenz,
+Gesetz, Büros der Krone heraus, und so weiter.</entry>
+	<entry key="ObjectTitle64">As von Wands</entry><entry key="ObjectMeaning64">Kreation, Erfindung, Unternehmen, die Energien, die 
+diese ergeben; Grundregel, Anfang, Quelle; Geburt, 
+Familie, Ursprung und in einer Richtung das virility, das hinter ihnen
+ist; der Ausgangspunkt von Unternehmen; entsprechend einem
+anderen Konto Geld, Vermögen, Erbschaft.</entry>
+	<entry key="ObjectTitle65">Zwei von Wands</entry><entry key="ObjectMeaning65">Zwischen den alternativen Messwerten gibt es keine 
+mögliche Verbindung; einerseits riches, Vermögen, 
+Großartigkeit; auf dem anderen körperlicher Suffering, 
+Krankheit, Verdruß, Traurigkeit, Beschämung. Das Design gibt 
+einen Vorschlag; ist hier ein Lord, der seine Herrschaft 
+übersieht und wechselnd eine Kugel erwägt; sie sieht wie die 
+Krankheit, die Beschämung, die Traurigkeit von Alexander unter der 
+Herrlichkeit wealth.&lt;p&gt;Additional meanings:&lt;/p&gt;A diese Welt aus, das 
+junge Dame triviale Enttäuschungen erwarten kann.</entry>
+	<entry key="ObjectTitle66">Drei von Wands</entry><entry key="ObjectMeaning66">Er symbolisiert herstellte Stärke, Unternehmen, 
+Bemühung, Handel, Handel, Entdeckung; die sind seine Schiffe 
+und tragen seine Waren, die über das Meer segeln. Die Karte 
+bedeutet auch fähige Mitarbeit im Geschäft, als ob der erfolgreiche 
+Handelsprinz von seiner Seite in Richtung zu Ihrem angesichts Hilfe 
+you.&lt;p&gt;Additional meanings:&lt;/p&gt;A der sehr guten Karte schauten; 
+Zusammenarbeit bevorzugt Unternehmen.</entry>
+	<entry key="ObjectTitle67">Vier von Wands</entry><entry key="ObjectMeaning67">Sie sind für einmal fast auf der Oberfläche -- 
+Landleben, Hafen von Schutz, eine Sorte inländisches Ernte-Haus, 
+Ruhe, Übereinstimmung, Harmonie, Wohlstand, Frieden und die 
+vervollkommnete Arbeit von diesen.</entry>
+	<entry key="ObjectTitle68">Fünf von Wands</entry><entry key="ObjectMeaning68">Nachahmung, AS, z.B., vorgetäuschtkampf, aber auch die
+fleißige Konkurrenz und der Kampf von der Suche nach riches und 
+Vermögen. In dieser Richtung schließt sie an die Schlacht des 
+Lebens an. Folglich sagen etwas Zuerkennungen, daß es eine 
+Karte des Goldes, Gewinn, opulence ist.</entry>
+	<entry key="ObjectTitle69">Sechs von Wands</entry><entry key="ObjectMeaning69">Die Karte ist gewesen, also entworfen, daß sie einige 
+Bedeutungen umfassen kann; auf der Oberfläche ist es ein 
+triumphing Victor, aber es ist auch große Nachrichten, wie konnte 
+innen getragen werden angeben durch den Eilboten des Königs; es
+ist die Erwartung, die mit seinem eigenen Wunsch, die Krone der 
+Hoffnung, und so weiter gekrönt wird.</entry>
+	<entry key="ObjectTitle70">Sieben von Wands</entry><entry key="ObjectMeaning70">Es ist eine Karte von valour, für, auf der 
+Oberfläche, sechs in Angriff nimmt ein, das hat, jedoch die günstige
+Position. Auf der intellektuellen Fläche bedeutet es 
+Diskussion, wordy Streit; im Geschäft -- Vermittlungen, Krieg 
+des Handels, Kompensationsgeschäft, Konkurrenz. Es ist weiter 
+eine Karte des Erfolges, denn der Kämpfer ist auf die Oberseite und 
+seine Feinde können nicht imstande sein, him.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;A zu erreichen Dunkelheitkind.</entry>
+	<entry key="ObjectTitle71">Acht von Wands</entry><entry key="ObjectMeaning71">Tätigkeit in den Übernahmen, der Weg solcher 
+Tätigkeit, swiftness, als das eines Eilboten; große Eile, 
+große Hoffnung, Geschwindigkeit in Richtung zu einem Ende, das 
+sicheres Glück verspricht; im Allgemeinen das, das auf der 
+Bewegung ist; auch die Pfeile von love.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Domestic diskutiert für eine verheiratete Person.</entry>
+	<entry key="ObjectTitle72">Neun von Wands</entry><entry key="ObjectMeaning72">Die Karte bedeutet Stärke in der Opposition. 
+Wenn sie angegriffen wird, trifft die Person einen Angriff 
+mutig; und sein Bau shews, das, das er einen beeindruckenden 
+Antagonisten prüfen kann. Mit dieser Hauptbedeutung gibt es 
+alle seine möglichen Anhänge -- verzögert, Aufhebung, sprechendes 
+adjournment.&lt;p&gt;Additional meanings:&lt;/p&gt;Generally, eine schlechte 
+Karte.</entry>
+	<entry key="ObjectTitle73">10 von Wands</entry><entry key="ObjectMeaning73">Eine Karte vieler significances und einige der 
+Messwerte können nicht harmonisiert werden. Ich setze den 
+beiseite, der sie mit Ehre und gutem Glauben anschließt. Die 
+Hauptbedeutung ist Unterdrückung einfach, aber es ist auch Vermögen,
+Gewinn, irgendeine Art Erfolg, und dann ist es die Unterdrückung 
+dieser Sachen. Es ist auch eine Karte des falsch-Scheinens, 
+Verkleidung, Niedertracht. Der Platz, dem die Abbildung sich 
+nähert, kann unter den Stangen leiden, die er trägt. Erfolg 
+ist stultified, wenn die neun der Klingen folgt und wenn es eine Frage
+eines Prozesses ist, es bestimmte loss.&lt;p&gt;Additional 
+meanings:&lt;/p&gt;Difficulties und Widersprüche, wenn nahe einer guten 
+Karte gibt.</entry>
+	<entry key="ObjectTitle74">Seite von Wands</entry><entry key="ObjectMeaning74">Dunkler junger Mann, zuverlässig, ein Geliebter, ein 
+Abgesandter, ein Briefträger. Neben einem Mann trägt er das
+vorteilhafte Zeugnis hinsichtlich ist er. Ein gefährlicher 
+Rivale, wenn Sie von der Seite der Schalen gefolgt werden. Hat 
+die Hauptqualitäten seiner Klage. Er kann Familie Intelligenz 
+bedeuten.</entry>
+	<entry key="ObjectTitle75">Ritter von Wands</entry><entry key="ObjectMeaning75">Abfahrt, Abwesenheit, Flug, Auswanderung. Ein 
+dunkler junger Mann, freundlich. Wohnsitzverlegung.</entry>
+	<entry key="ObjectTitle76">Königin von Wands</entry><entry key="ObjectMeaning76">Eine dunkle Frau, Landsmännin, freundlich, tugendhaft,
+Lieben, achtbar. Wenn die Karte neben ihr einen Mann bedeutet, 
+wird sie gut in Richtung zu ihm abgeschaffen; wenn eine Frau, 
+sie am Querent interessiert ist. Auch Liebe des Geldes oder ein 
+bestimmter Erfolg im Geschäft.</entry>
+	<entry key="ObjectTitle77">König von Wands  </entry><entry key="ObjectMeaning77">Dunkler Mann, freundlich, Landsmann, im Allgemeinen 
+verbunden, ehrlich und gewissenhaft. Die Karte bedeutet immer 
+Ehrlichkeit und kann die Nachrichten hinsichtlich sind eines 
+unerwarteten Erbes bedeuten, um innen vor sehr lang zu fallen.</entry>
+	<entry key="ReversedMeaning0">Nachlässigkeit, Abwesenheit, Verteilung, Nachlässigkeit, 
+Apathie, Nichtigkeit, Eitelkeit.</entry>
+	<entry key="ReversedMeaning1">Arzt, Weise, Geisteskrankheit, Schande, Besorgnis.</entry>
+	<entry key="ReversedMeaning2">Neigung, moralische oder körperliche Begeisterung, Einbildung, 
+Oberflächenwissen.</entry>
+	<entry key="ReversedMeaning3">Licht, Wahrheit, unravelling der beteiligten Angelegenheiten, 
+allgemeine rejoicings; entsprechend einem anderen Messwert 
+vacillation.</entry>
+	<entry key="ReversedMeaning4">Wohltätigkeit, Mitleid, Gutschrift; auch Durcheinander zu
+den Feinden, Hindernis, Unreife.</entry>
+	<entry key="ReversedMeaning5">Gesellschaft, gutes Verständnis, Übereinstimmung, 
+overkindness, Schwäche.</entry>
+	<entry key="ReversedMeaning6">Ausfall, dumme Designs. Ein anderes Konto spricht von der 
+frustrierten Verbindung und von den Contrarieties aller Arten.</entry>
+	<entry key="ReversedMeaning7">Aufstand, Streit, Debatte, Rechtsstreit, Niederlage.</entry>
+	<entry key="ReversedMeaning8">Despotism, Mißbrauch wenn Energie, Schwäche, Zwietracht, 
+manchmal sogar Schande.</entry>
+	<entry key="ReversedMeaning9">Geheimhaltung, Verkleidung, Politik, Furcht, unreasoned 
+Vorsicht.</entry>
+	<entry key="ReversedMeaning10">Zunahme, Überfluß, Überfluß.</entry>
+	<entry key="ReversedMeaning11">Gesetz in allen seinen Abteilungen, zugelassene Komplikationen, 
+Bigotry, Vorspannung, übermäßige Schwierigkeit.</entry>
+	<entry key="ReversedMeaning12">Egoismus, die Masse, Körper diplomatisch.</entry>
+	<entry key="ReversedMeaning13">Schwungkraft, Schlaf, Lethargie, petrifaction, somnambulism; 
+Hoffnung zerstörte.</entry>
+	<entry key="ReversedMeaning14">Sachen schlossen an Kirchen, Religionen, sects, die 
+Priesterschaft, glätten manchmal den Priester an, der das Querent 
+verbindet; auch disunion, unglückliche Kombinationen, 
+konkurrierende Interessen.</entry>
+	<entry key="ReversedMeaning15">Schlechtes Verhängnis, Schwäche, pettiness, Blindheit.</entry>
+	<entry key="ReversedMeaning16">Entsprechend einem Konto dieselben in einer wenigen des Grads 
+Unterdrückung auch, Gefangenschaft, Tyrannei.</entry>
+	<entry key="ReversedMeaning17">Arroganz, haughtiness, Machtlosigkeit.</entry>
+	<entry key="ReversedMeaning18">Instabilität, Unbeständigkeit, Ruhe, wenige Grade Täuschung 
+und Störung.</entry>
+	<entry key="ReversedMeaning19">Dieselben in einer wenig Richtung.</entry>
+	<entry key="ReversedMeaning20">Schwäche, pusillanimity, Einfachheit; auch 
+Bedachtsamkeit, Entscheidung, Satz.</entry>
+	<entry key="ReversedMeaning21">Schwungkraft, Fixity, Stockung, Ständigkeit.</entry>
+	<entry key="ReversedMeaning22">Unerwartete Änderung der Position.</entry>
+	<entry key="ReversedMeaning23">Neigung.</entry>
+	<entry key="ReversedMeaning24">Trost, Heilung, Ende des Geschäfts.</entry>
+	<entry key="ReversedMeaning25">Vorgefühl.</entry>
+	<entry key="ReversedMeaning26">Rückkehr irgendeines Verwandten, der nicht für langes gesehen 
+worden ist.</entry>
+	<entry key="ReversedMeaning27">Erbschaft, zum innen schnell zu fallen.</entry>
+	<entry key="ReversedMeaning28">Erfolg, wenn Sie von den drei der Schalen begleitet werden.</entry>
+	<entry key="ReversedMeaning29">Vollkommene Zufriedenheit.</entry>
+	<entry key="ReversedMeaning30">Gutes Geschäft.</entry>
+	<entry key="ReversedMeaning31">Sorge; auch ein ernster Streit.</entry>
+	<entry key="ReversedMeaning32">Hindernisse aller Arten.</entry>
+	<entry key="ReversedMeaning33">Unregelmäßigkeit.</entry>
+	<entry key="ReversedMeaning34">Eine reiche Verbindung für einen Mann und ein bemerkenswertes 
+für eine Frau.</entry>
+	<entry key="ReversedMeaning35">Verlust.</entry>
+	<entry key="ReversedMeaning36">Die schlechte Seite von Fülle, schlechte Intelligenz; 
+auch große riches. In jedem möglichem Fall, den er 
+Wohlstand, bequeme materielle Bedingungen shews, aber, ob diese vom 
+Vorteil zum Besitzer sind, an abhängen wird, ob die Karte oder nicht 
+&lt; p&gt;Additional meanings:&lt;/p &gt; ein Anteil am Finden des Schatzes 
+aufgehoben wird.</entry>
+	<entry key="ReversedMeaning37">Schlechtes Omen, Unwissenheit, Unrecht.</entry>
+	<entry key="ReversedMeaning38">Hängt von benachbarten Karten ab.</entry>
+	<entry key="ReversedMeaning39">Beobachtung, Behinderungen.</entry>
+	<entry key="ReversedMeaning40">Mühen in der Liebe.</entry>
+	<entry key="ReversedMeaning41">Eine Überprüfung auf den Ehrgeiz des Querents.</entry>
+	<entry key="ReversedMeaning42">Ungeduld, Befürchtung, Misstrauen.</entry>
+	<entry key="ReversedMeaning43">Das Querent wird in einer Angelegenheit des Geld-Verleihens 
+verglichen.</entry>
+	<entry key="ReversedMeaning44">Nichtige Hoffnungen.</entry>
+	<entry key="ReversedMeaning45">Eine Gelegenheit, die glücklich sein kann oder anders.</entry>
+	<entry key="ReversedMeaning46">Manchmal Verminderung und manchmal Plünderung.</entry>
+	<entry key="ReversedMeaning47">Ein tapferer Mann aus Beschäftigung heraus.</entry>
+	<entry key="ReversedMeaning48">Eine Krankheit.</entry>
+	<entry key="ReversedMeaning49">Ein alter und schändlicher Mann.</entry>
+	<entry key="ReversedMeaning50">Verbindung abgebrochen, für eine Frau, durch ihre eigene 
+Unvorsichtigkeit.</entry>
+	<entry key="ReversedMeaning51">Umgang mit Gaunern.</entry>
+	<entry key="ReversedMeaning52">Eine Sitzung mit einer, wem hat das Querent sich verglichen; 
+auch eine Nonne.</entry>
+	<entry key="ReversedMeaning53">Ein bestimmter Erfolg, welche kluger Leitung folgt.</entry>
+	<entry key="ReversedMeaning54">Ein Zeichen der sorge und des Beklagens.</entry>
+	<entry key="ReversedMeaning55">Ungünstiger Ausgang des Prozesses.</entry>
+	<entry key="ReversedMeaning56">Guter Rat, vermutlich vernachlässigt.</entry>
+	<entry key="ReversedMeaning57">Abfahrt eines Verwandten.</entry>
+	<entry key="ReversedMeaning58">Guter Boden für Misstrauen gegen eine zweifelhafte Person.</entry>
+	<entry key="ReversedMeaning59">Sieg und konsequentes Vermögen für einen Soldaten im Krieg.</entry>
+	<entry key="ReversedMeaning60">Erstaunliche Nachrichten.</entry>
+	<entry key="ReversedMeaning61">Debatte mit einer schwachsinnig Person; für eine Frau 
+Kampf mit einem Rivalen, der erobert wird.</entry>
+	<entry key="ReversedMeaning62">Eine schlechte Frau, mit Ill-will in Richtung zum Querent.</entry>
+	<entry key="ReversedMeaning63">Ein schlechter Mann; auch eine Vorsicht, zum eines Endes 
+zu einem verderblichen Prozeß zu setzen.</entry>
+	<entry key="ReversedMeaning64">Ein Zeichen der Geburt.</entry>
+	<entry key="ReversedMeaning65">Überraschung, Wunder, Verzauberung, Gefühl, Mühe, Furcht.</entry>
+	<entry key="ReversedMeaning66">Das Ende von Mühen, von Aufhebung oder von Aufhören des 
+Missgeschicks, der Mühe und der Enttäuschung.</entry>
+	<entry key="ReversedMeaning67">Eine verheiratete Frau hat schöne Kinder.</entry>
+	<entry key="ReversedMeaning68">Streite können zum Vorteil gedreht werden.</entry>
+	<entry key="ReversedMeaning69">Erfüllung der aufgeschobenen Hoffnung.</entry>
+	<entry key="ReversedMeaning70">Verwirrung, Verlegenheiten, Angst. Es ist auch eine 
+Vorsicht gegen Unentschlossenheit.</entry>
+	<entry key="ReversedMeaning71">Pfeile der Eifersucht, interne Debatte, stingings der 
+Gewissenhaftigkeit, Streite; und Hausangestellt diskutiert für 
+Personen, die verbunden werden.</entry>
+	<entry key="ReversedMeaning72">Hindernisse, Missgeschick, Notstand.</entry>
+	<entry key="ReversedMeaning73">Contrarieties, Schwierigkeiten, Intrigen und ihre Analogien.</entry>
+	<entry key="ReversedMeaning74">Schlechte Nachrichten.</entry>
+	<entry key="ReversedMeaning75">Für eine Frau Verbindung, aber vermutlich frustriert.</entry>
+	<entry key="ReversedMeaning76">Wohlwollen in Richtung zum Querent, aber ohne die Gelegenheit, 
+sie auszuüben.</entry>
+	<entry key="ReversedMeaning77">Rat, der gefolgt werden sollte.</entry>
+</oracleio>

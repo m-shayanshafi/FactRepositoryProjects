@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.commands">
+
+      <command
+            id="com.reflexit.magicassistant.command.install"
+            name="Install new software...">
+      </command>
+
+   </extension>
+   <extension
+         point="org.eclipse.ui.handlers">
+      <handler
+            commandId="com.reflexit.magicassistant.command.install"
+            class="com.reflexit.magicassistant.p2.InstallNewSoftwareHandler">
+      </handler>
+   </extension>
+
+      <extension
+         point="org.eclipse.ui.installationPages">
+          <page
+            name="Installed Software"
+            class="org.eclipse.equinox.p2.ui.InstalledSoftwarePage"
+            id="com.reflexit.magicassistant.InstalledSoftwarePage">
+          </page>
+          <page
+            name="Installation History"
+            class="org.eclipse.equinox.p2.ui.RevertProfilePage"
+            id="com.reflexit.magicassistant.RevertProfilePage">
+          </page>
+    </extension>
+</plugin>

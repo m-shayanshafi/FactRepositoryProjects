@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Diffusione Di Desiderio (Doane)</entry>
+	<entry key="Description">I nove delle tazze spesso sono denominati la scheda di 
+desiderio. Se questa scheda gira in su dovunque nella lettura, a
+meno che nel gruppo di tre compreso la scheda 8, questa sia 
+un'indicazione forte che una certa parte o tutto il desiderio dei 
+querent verrà allineare. Più vicino sembra nella suddetta 
+sequenza numerica, più presto il desiderio sarà realizzato. Se
+i nove delle tazze compaiono nel gruppo 8, questa è un'indicazione 
+che il desiderio probabilmente non verrà allineare; le altre 
+due schede nel gruppo renderanno la causa. Se i nove delle tazze
+non compaiono, questo non dovrebbe essere preso come indicazione di il
+uno o il altro destino, anche se altre schede nella lettura possono 
+confermare o negare il desiderio.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Ambiente 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Ambiente 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Ambiente 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Desiderio 1</entry><entry key="Meaning4">Descrizione del desiderio dei querent</entry>
+	<entry key="PositionTitle5">Desiderio 2</entry><entry key="Meaning5">Descrizione del desiderio dei querent</entry>
+	<entry key="PositionTitle6">Desiderio 3</entry><entry key="Meaning6">Descrizione del desiderio dei querent</entry>
+	<entry key="PositionTitle7">Opposizione 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Opposizione 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Opposizione 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Fattori 1</entry><entry key="Meaning10">Fattori che prendparteeranno a questa materia</entry>
+	<entry key="PositionTitle11">Fattori 2</entry><entry key="Meaning11">Fattori che prendparteeranno a questa materia</entry>
+	<entry key="PositionTitle12">Fattori 3</entry><entry key="Meaning12">Fattori che prendparteeranno a questa materia</entry>
+	<entry key="PositionTitle13">Realizzazioni 1</entry><entry key="Meaning13">Realizzazioni del querent (solitamente in avvenire)</entry>
+	<entry key="PositionTitle14">Realizzazioni 2</entry><entry key="Meaning14">Realizzazioni del querent (solitamente in avvenire)</entry>
+	<entry key="PositionTitle15">Realizzazioni 3</entry><entry key="Meaning15">Realizzazioni del querent (solitamente in avvenire)</entry>
+</oracleio>

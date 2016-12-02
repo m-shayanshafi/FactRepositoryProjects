@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+<entry key="numberofobjects">21</entry>
+<entry key="screenLayoutxy">
+0   1   0 
+0   0   0 
+1   0   0 
+2   0   0 
+0   2   0 
+1   2   0 
+2   2   0 
+2   1   0 
+3   0   0 
+3   2   0 
+4   0   0 
+4   2   0 
+5   0   0 
+5   2   0 
+4   1   0 
+6   0   0 
+7   0   0 
+8   0   0 
+6   2   0 
+7   2   0 
+8   2   0 
+</entry>
+<entry key="printoutxy">
+ 1   2   3   8  10  12  15  16  17 
+ 0 -1   7  -1 14  -1  -1  -1  -1 
+ 4   5   6   9  11  13  18  19  20 
+</entry>
+<entry key="printoutsize">9 3</entry>
+<entry key="screensize">9 3</entry>
+<entry key="showHiddenOrder">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20</entry>
+</oracleio>
+

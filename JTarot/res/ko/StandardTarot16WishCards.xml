@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">소원 퍼짐 (Doane)</entry>
+	<entry key="Description">컵의 9개은 수시로 소원 카드이라고 
+부른다. 이 카드가 독서안에 위로 어느 곳에서든지
+돌, 카드 8을 포함하여 3의 그룹안에, 이것이 어떤 
+부분에 의하여 또는querent's소원의 모두가 진실할
+것이 올 것이다 강한 표시 이을텐데 를 제외하고. 
+그것이 상기 숫자 순서안에 더 가깝게 
+나타나면, 빨리 소원은 실현될 것이다. 
+컵의 9개이 그룹 8안에 나타나면, 소원이 
+가능하게 진실할 오지 않을 고 이것은 표시 이다; 
+그룹안에 다른 2장의 카드는 원인을 열매를 
+산출할 것이다. 컵의 9개이 나타나지 않으면,
+독서안에 다른 카드가 소원을 확인해 부정해지도
+몰라, 이것은 어느 것이든 운명의 표시로 가지고 
+가면 안된다.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">환경 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">환경 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">환경 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">소원 1</entry><entry key="Meaning4">querent's소원의 묘사</entry>
+	<entry key="PositionTitle5">소원 2</entry><entry key="Meaning5">querent's소원의 묘사</entry>
+	<entry key="PositionTitle6">소원 3</entry><entry key="Meaning6">querent's소원의 묘사</entry>
+	<entry key="PositionTitle7">반대 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">반대 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">반대 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">요인 1</entry><entry key="Meaning10">이 사정으로 들어갈 것이다 요인</entry>
+	<entry key="PositionTitle11">요인 2</entry><entry key="Meaning11">이 사정으로 들어갈 것이다 요인</entry>
+	<entry key="PositionTitle12">요인 3</entry><entry key="Meaning12">이 사정으로 들어갈 것이다 요인</entry>
+	<entry key="PositionTitle13">현실화 1</entry><entry key="Meaning13">querent의 현실화 (흔하게 앞으로는)</entry>
+	<entry key="PositionTitle14">현실화 2</entry><entry key="Meaning14">querent의 현실화 (흔하게 앞으로는)</entry>
+	<entry key="PositionTitle15">현실화 3</entry><entry key="Meaning15">querent의 현실화 (흔하게 앞으로는)</entry>
+</oracleio>

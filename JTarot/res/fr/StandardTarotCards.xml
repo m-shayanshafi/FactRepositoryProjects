@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="ThomasDilts" classification="GraphicObjTranslations" version="1" language="fr" author="Thomas Dilts 1960 -" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts (tarot@lazy8.nu).
+La permission est accordée à la copie, distribue et/ou modifie
+ce document en vertu de la version postérieure libre de permis, de 
+version 1.2 ou tout de documentation de GNU éditée par la base libre
+de logiciel. Une copie du permis peut être trouvée à 
+http://www.gnu.org</entry>
+		<entry key="ObjectTitle0">imbécile 0-The</entry><entry key="ObjectMeaning0">Vous vous sentez libre de tous les soins et 
+responsabilités mondains. Vous coulez librement avec le jet 
+de la vie. Vous êtes unifié avec Dieu et son plan pour vous. 
+Vous pourriez vous sentir comme vous avez essayé tout et 
+maintenant vous juste "donnez vers le haut" et laissez Dieu succéder.
+Les gens autour de vous pourraient penser que vous êtes 
+irresponsable. Vous pourriez agir si infantile que vous jouez 
+"l'imbécile."</entry>
+		<entry key="ObjectTitle1">magicien 1-The</entry><entry key="ObjectMeaning1">Vous éprouvez une période de l'activité de puissance, 
+magique et impulisive. Vous êtes ainsi concentré et actif en 
+ce moment que les miracles et la magie semblent être un occurance 
+commun. Est maintenant un bon temps pour commencer une nouvelle 
+entreprise. Il pourrait être sage de prendre un moment au 
+regard autour de vous pour voir si vous blessez quelqu'un par la 
+négligence ou en marchant directement au-dessus d'eux.</entry>
+		<entry key="ObjectTitle2">Haute Prêtresse 2-The</entry><entry key="ObjectMeaning2">Faites confiance à votre intuition ! Elle ne vous 
+trompera pas en ce moment. Vous "savez" mais ne pouvez pas 
+comprendre comment vous "savez." Vous éprouvez des rêves 
+intensifs et des sentiments inexplicables. Laissez aller de 
+l'intellect et du raisonnement pour le moment et suivre ce que vous 
+sentez intuitivement vous. Vous pourriez devoir employer votre 
+intuition pour aider d'autres aussi bien. Les gens écouteront 
+votre conseil même si ce peut ne pas être conseil logique.</entry>
+		<entry key="ObjectTitle3">impératrice 3-The</entry><entry key="ObjectMeaning3">Vous avez atteint un point élevé de maturité émotive
+dans votre vie. Vous êtes une figure centrale donnant hors de 
+l'amour sans conditions et appui émotif à ceux autour de vous. 
+Vous êtes dans une phase de la créativité intensive 
+symbolisée par l'utérus et l'accouchement. S'il y a des 
+questions de santé puis l'accouchement ou les organes reproducteurs 
+sont au foyer.</entry>
+		<entry key="ObjectTitle4">empereur 4-The</entry><entry key="ObjectMeaning4">Vous êtes en position de puissance et d'autorité. 
+Vous avez travaillé dur pour obtenir où vous êtes et vous 
+éprouvez le point culminant et la fin possible d'une période dans 
+votre vie. Les gens autour de vous vous respectent et regardent 
+jusqu'à vous en tant que le protecteur et chef thier. Pas  le 
+dissapoint ils ! Puisque vous vous approchez de la fin d'un 
+cycle, vous pourriez sentir un peu de mécontentement et inquiétude 
+quoique vous devriez experienceing les meilleurs temps dans votre vie.  </entry>
+		<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Aide de recherche. Vous avez besoin d'aide 
+peut-être professionnelle sous forme d'avocats, de médecins, de 
+banquiers, de conseillers, de prêtres ou même d'amis fortement 
+respectés.</entry>
+		<entry key="ObjectTitle6">amoureux 6-The</entry><entry key="ObjectMeaning6">Cette carte se rapporte toujours à un rapport très 
+étroit et elle se rapporte habituellement à un rapport qui est 
+sexuel en nature. C'est une carte très positive et le rapport 
+sera très satisying et benificial aux deux personnes. Si le 
+rapport n'est pas sexuel puis c'est un rapport avec un bon nombre de 
+profond aiment toujours. Dans des cas très rares la carte 
+pourrait se rapporter à une personne profonde de la passion une doit 
+une idée, un passe-temps, un travail ou une façon de vivre.  </entry>
+		<entry key="ObjectTitle7">Char 7-The</entry><entry key="ObjectMeaning7">La stabilité et le sacrifice sont des mots-clés. 
+Vous devez continuer de faire ce que vous avez commencé et ne 
+changez pas le cours ou ne laissez pas des doutes surgir. Les 
+gens dépendent de vous et vous ne devez pas dissapoint eux ou 
+vous-même. Ne changez rien !</entry>
+		<entry key="ObjectTitle8">8-Forces</entry><entry key="ObjectMeaning8">Vous vous sentez que très fort et courageux ou vous 
+devez désespérément commencer à cultiver ces qualités pour 
+traiter la situation actuelle. Les gens autour de vous seront 
+inspirés par votre courage.</entry>
+		<entry key="ObjectTitle9">hermite 9-The</entry><entry key="ObjectMeaning9">Est maintenant un moment de réflexion et de solitude. 
+Vous pourriez devoir vous reposer et refléter dessus où vous 
+allez de pair avec votre vie. Les gens vous verront comme "loup 
+seul." Vous pourriez vous sentir très seul et "à gauche 
+dehors." Ceci pourrait être un exil obligatoire ou un exil 
+volontaire. Appréciez cette période de l'isolement ou la 
+cherchez activement à éclater de lui.  </entry>
+		<entry key="ObjectTitle10">10-Wheel de la fortune</entry><entry key="ObjectMeaning10">En ce moment, la chance de dame est de votre côté mais
+vous ne pourriez pas vous inquiéter probablement moins. Les 
+miracles se produiront mais en même temps vous ne placez pas beaucoup
+d'importance sur ces miracles. Il y a une certaine 
+transformation continuant en ce moment dans votre vie qui pleut des 
+cadeaux sur vous et vous donne un sentiment de l'arrangement des 
+mystères de la vie. Vous voyez le grand "cercle de la vie" et 
+jugez comment la vie est une roue continious de naissance et de mort.</entry>
+		<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Une foire et une solution juste viendront à une 
+situation ou à un problème. Vous et/ou d'autres verrez 
+clairement ce qui s'est produit. C'est une période du compte et
+tous les détails précédemment cachés ou ignorés sortiront pour 
+que tous voient. Habituellement cette carte est positive pour 
+vous mais elle pourrait être négative pour l'autre participant du 
+conflit.</entry>
+		<entry key="ObjectTitle12">12-The a accroché l'homme</entry><entry key="ObjectMeaning12">Vous devez prendre une position passive à ce moment. 
+Vous ne pouvez faire rien activement changer la situation. 
+Vos mains sont attachées. Il est possible que vous 
+apprécierez ce moment de passiveness et vous sentirez très près de 
+Dieu et du plan divin pour vous.</entry>
+		<entry key="ObjectTitle13">La 13-Mort</entry><entry key="ObjectMeaning13">Ne mal comprenez pas cette carte. Tarot ne 
+prévoira presque jamais ceux la mort. Ceci raconte un 
+changement complet et total d'une situation. Quel meilleur 
+symbole pour cette puis "mort?" Il pourrait être difficile 
+manipuler ce changement mais si vous montrez la flexibilité puis ce 
+changement sera habituellement salué avec joie de l'extrémité.</entry>
+		<entry key="ObjectTitle14">14-modération</entry><entry key="ObjectMeaning14">N'est pas maintenant l'heure d'aller aux extreams. 
+Prenez-la facile. Calme vers le bas. Laissez 
+l'écoulement de la vie et laissez les changements se produire. 
+Les petits légers changements que vous faites peuvent avoir un 
+grand effet. Les efforts très grands que vous faites n'auront 
+probablement aucun effet du tout.</entry>
+		<entry key="ObjectTitle15">diable 15-The</entry><entry key="ObjectMeaning15">Vous êtes forcé d'éprouver quelque chose que vous 
+pouvez ou ne pouvez pas trouver agréable. L'une ou l'autre 
+manière, vous n'avez aucun choix. Il se produira et il se 
+produira habituellement de façon considérable. Ceci peut 
+parfois se rapporter à un rapport que vous vous sentez qu'à 
+contrecoeur attaché à ou il peut se rapporter à un rapport sexuel 
+très intensif que vous appréciez énormément. Il n'y a aucun 
+conseil pour vous donner ici parce que la situation est 
+prédestinée pour se produire et il n'y a absolument rien que vous 
+pouvez faire pour l'arrêter, l'accélérer, ou le ralentir vers le 
+bas. Même si il est quelque chose très agréable, 
+profondément profondément en bas de il y a une douleur fondamentale 
+qui comming lentement sur la surface.</entry>
+		<entry key="ObjectTitle16">tour 16-The</entry><entry key="ObjectMeaning16">Tonnerre et allégement. Quelque chose de intensif
+et choquant se produira. Vous serez totalement non préparé. 
+Ceci aura comme conséquence un dégagement énorme d'énergie 
+bloquée. Après que le choc plus de vous serez habituellement 
+soulagé comme le calme après le donner l' assaut à.</entry>
+		<entry key="ObjectTitle17">17-The Tiennent le premier rôle</entry><entry key="ObjectMeaning17">Tous vos rêves sont venir vrai. Celui que vous 
+ayez espéré est maintenant une réalité. Vous êtes fealing 
+exalté. Vous avez un sourire heureux sur votre visage. 
+Vous vous sentez satisifed totalement. Il n'y a rien à 
+davantage vouloir à ce moment.</entry>
+		<entry key="ObjectTitle18">lune 18-The</entry><entry key="ObjectMeaning18">Vous n'avez aucune idée ce qui se produit. Vous 
+estimez probablement que vous savez ce qui se produit et estimez que 
+vous avez le contrôle de la situation mais vous êtes trompé. 
+Est pas du tout il ce que vous pensez qu'il est. En ce 
+moment la chose la plus futée que vous pouvez faire est de juger vos 
+yeux grands ouverts et de ne faire absolument aucun plan de long 
+terme, aucunes affaires et ne signe aucun contrat. L'attente 
+juste jusqu'à la situation change avant de prendre toutes les 
+mesures. Si vous êtes forcé d'agir, alors vous devez accepter 
+le fait que vous agissez aveugle et ferez probablement une grande 
+erreur.</entry>
+		<entry key="ObjectTitle19">le soleil 19-The</entry><entry key="ObjectMeaning19">Vous vous sentez heureux et plein de l'énergie. 
+Vous brûlez avec enthousiasme et rougeoyez avec joie. 
+Vous écartez généreusement cette joie à chacun autour de 
+vous simplement par votre présence.</entry>
+		<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Est maintenant l'heure de récolter ce que vous avez 
+semé. Vous ou quelqu'un doit maintenant payer ce qu'ils ont 
+fait. Vous ne pouvez pas échapper au hâtiment. Cette 
+carte n'est pas necesarily négatif mais elle rarement se dirige à 
+des résultats joyeux. Au mieux les résultats sont neutres mais
+le plus souvent quelqu'un éprouvera une certaine douleur quand 
+faisant face à ce qu'elles ont fait.</entry>
+		<entry key="ObjectTitle21">monde 21-The</entry><entry key="ObjectMeaning21">C'est la dernière carte dans l'arcana plus haut et 
+représente ainsi le fullfillment total. Vous avez atteint 
+l'illumination totale. La situation ne peut pas être meilleure 
+de quelque façon, forme ou forme. La situation a atteint son 
+point élevé et vous sentez le fullfillment total et peut-être 
+l'accompanyment d'un sentiment d'unité avec l'univers et le Dieu.</entry>
+		<entry key="ObjectTitle22">As des tasses</entry><entry key="ObjectMeaning22">Vous experienceing intensivement un nouvel sentiment ou 
+émotion. Une nouvelle entreprise commence faisant participer 
+des amis et a aimé ceux. Elle peut signifier begining intensif 
+d'un nouveau rapport. Vous vous sentez sain et sauf et guéri et
+entièrement préparé pour commencer une nouvelle aventure dans le 
+domaine des émotions, des sentiments et des rapports.</entry>
+		<entry key="ObjectTitle23">Deux de tasses</entry><entry key="ObjectMeaning23">Il y a une personne que vous appelez votre ami qui veut 
+dire infiniment à vous. Vous appréciez cette compagnie de 
+personnes considérablement et toujours longue pour les revoir. 
+Rien ne se dirige en ce moment à n'importe quel type d'un 
+rapport sexuel cependant, si tient le premier rôle sont disposés, il 
+pourrait se développer en un par la suite. Peut-être il était
+déjà en même temps ? Ceci pourrait même être l'amitié à 
+une idée, à un passe-temps, à un travail, ou à une façon de 
+vivre.</entry>
+		<entry key="ObjectTitle24">Trois de tasses</entry><entry key="ObjectMeaning24">Vous avez atteint un certain niveau de sécurité 
+émotive où vous pouvez librement vous aimer et ceux autour. 
+Vous appréciez la compagnie et pouvez attendre avec intérêt 
+une partie d'un certain type.</entry>
+		<entry key="ObjectTitle25">Quatre de tasses</entry><entry key="ObjectMeaning25">Vous avez besoin d'heure de se refléter sur ce que 
+c'est vous sensation et de vouloir. Vous pouvez devoir vous 
+retirer et méditer un moment. Vous éprouvez une certaine 
+quantité de confusion émotive et vous attendez avec intérêt un 
+certain temps tranquille pour trier des choses.</entry>
+		<entry key="ObjectTitle26">Cinq de tasses</entry><entry key="ObjectMeaning26">Vous êtes sentiment dissapointed avec une personne ou 
+une situation qui est près à votre coeur. Très probablement, 
+vous êtes également exiger trop du peuple autour de vous. Ceci
+mène à un cirlcle méchant avec vous étant dissapointed encore 
+plus. Recherchez profondément dans vous-même pour essayer de 
+trouver la source vraie de votre douleur. Peut-être vous devez 
+simplement obtenir un certain repos pour regagner votre énergie et 
+alors pour pouvoir de nouveau en mesure rayonnez l'amour à ceux 
+autour de vous.</entry>
+		<entry key="ObjectTitle27">Six de tasses</entry><entry key="ObjectMeaning27">Vous vous sentez sentimental. Vous êtes amour de 
+sentiment à l'intérieur de de vous-même et vous voulez partager cet
+amour avec ceux autour de vous de petites manières. Vous ne 
+désirez aucune grande fanfare mais marque simple juste de l'amour que
+vous voulez donner à ceux autour de vous. </entry>
+		<entry key="ObjectTitle28">Sept de tasses</entry><entry key="ObjectMeaning28">Vous êtes dans l'humeur pour expérimenter avec vos 
+sentiments. Vous voulez juger de nouveaux rapports, expériences
+ou amis. Vous vous sentez comme vous voulez avoir de l'amusement
+avec quelque chose de nouveau et différent.</entry>
+		<entry key="ObjectTitle29">Huit de tasses</entry><entry key="ObjectMeaning29">Vous devez prendre une comptabilité derrière de qui 
+vous vous référez comme amis, associés et/ou amoureux. D'une 
+manière primordiale, vous devez examiner comment vous vous sentez 
+vers eux. Vous vous sentez fatigué et porté dehors avec 
+émotion. Qui ou que vidange votre énergie ? Des vacances
+loin d'elles toutes pourraient être la réponse à vos problèmes.</entry>
+		<entry key="ObjectTitle30">Neuf de tasses</entry><entry key="ObjectMeaning30">Vous êtes venu à un point élevé dans votre 
+développement émotif. Vous vous sentez mûr, bloqué, avez 
+aimé, et aimant vers tous. Vous êtes en position à être un 
+appui à ceux qui ne sont pas à votre niveau en ce moment.</entry>
+		<entry key="ObjectTitle31">Dizaines de tasses</entry><entry key="ObjectMeaning31">Votre cercle des amis et votre famille vous donnent tout
+dont vous avez besoin avec émotion et vous êtes une source de force 
+pour eux aussi bien. Votre bonheur est complet. Mais, 
+parce que vous avez atteint la fin d'un cycle, il pourrait se produire
+qu'il y a un intérieur de sentiment de rampement qui vous indique que
+maintenant il est temps de passer à de nouvelles aventures et 
+leçons.</entry>
+		<entry key="ObjectTitle32">Page des tasses</entry><entry key="ObjectMeaning32">Vous êtes vulnérable et naïf. Votre franchise 
+et vulnérabilité charme très à ceux autour de vous. Vous 
+vous sentez prêt à mettre sur pied un nouveau rapport ou une 
+nouvelle entreprise mais peut-être vous devez mûrir peu plus avec 
+émotion une première. Peut-être vos sentiments pour quelque 
+chose ou quelqu'un le besoin de mûrir un peu avant n'importe quelle 
+action principale est pris. Vous êtes entièrement disposé à 
+vous apprendre de ces plus sages puis.</entry>
+		<entry key="ObjectTitle33">Chevalier des tasses</entry><entry key="ObjectMeaning33">Le moment pour attendre, se demandant ou pensant plus 
+de. Maintenant vous voulez aller hardiment vers l'avant et ce 
+qui vous sentez vous à ceux autour de vous. Ceci peut signifier
+que vous voulez montrer à vos sentiments à celui quelqu'un spécial 
+ou présenter une nouvelle idée pour un projet spécial que vous 
+jugez cher à votre coeur.</entry>
+		<entry key="ObjectTitle34">Reine des tasses</entry><entry key="ObjectMeaning34">Vous avez atteint la maturité complète avec émotion. 
+Vous vous aimez et pouvez librement donner l'amour et l'appui à
+d'autres dans le besoin. Vous vous sentez très affectueux et 
+protecteur vers votre famille et amis.</entry>
+		<entry key="ObjectTitle35">Roi des tasses</entry><entry key="ObjectMeaning35">Vous êtes une figure centrale giveing l'appui émotif 
+à ceux autour de vous. Peuplez le respect vous et dépendez de 
+vous pour l'aide quand ils ont besoin de lui. Vous pouvez exiger
+juste des personnes autour de vous pour se comporter correctement. 
+Vous pourriez avoir une tendance d'être inflexible ou dur dans 
+vos vues. La responsabilité que vous concernez vos épaules 
+peut sembler plus d'un fardeau parfois.</entry>
+		<entry key="ObjectTitle36">As des Pentagrammes</entry><entry key="ObjectMeaning36">Vous begining un nouveau début dans le domaine de la 
+santé, à la maison, ou de l'argent. Vous sentez une quantité 
+énorme d'énergie couler par vous en ce moment pour accomplir un 
+charger. Cependant, c'est juste le commencement. Vous 
+n'avez pas probablement encore une idée complète ou le plan exact au
+sujet de ce que c'est vous vont faire. Mais ce n'est pas aussi 
+important à ce moment. Tout tombera dans l'endroit bientôt. </entry>
+		<entry key="ObjectTitle37">Deux de Pentagrammes</entry><entry key="ObjectMeaning37">Une décision devra bientôt être prise. Vous 
+devez décider peut-être entre deux styles de vie, deux chemins pour 
+prendre dans vous des affaires, ou décidez où vivre.</entry>
+		<entry key="ObjectTitle38">Trois de Pentagrammes</entry><entry key="ObjectMeaning38">Vous pouvez voir clairement et contrôler toutes vos 
+ressources : argent, santé et à la maison. Vous pouvez 
+prendre de bonnes, bien informées décisions au sujet de vos 
+ressources. Vous serez bientôt mis dans une situation où vous 
+devez faire quelques affaires. Acheter et se vendre.</entry>
+		<entry key="ObjectTitle39">Quatre de Pentagrammes</entry><entry key="ObjectMeaning39">Vous organisez vos ressources. Vous travaillez dur
+vers un but spécifique. Votre concentration est bonne. 
+Vous établissez une bonne base à l'avenir. Faites 
+attention à ne pas se brûler dehors avec trop de travail.</entry>
+		<entry key="ObjectTitle40">Cinq de Pentagrammes</entry><entry key="ObjectMeaning40">Vos ressources obtiennent tendues. Vous estimez 
+que votre argent, la santé ou la maison est difficile à obtenir. 
+Il y a de grands changements se produisant en ce moment avec vos
+ressources et vous vous sentez incertain de vous-même.</entry>
+		<entry key="ObjectTitle41">Six de Pentagrammes</entry><entry key="ObjectMeaning41">Vous éprouvez une abondance de ressources en ce moment.
+Il y a un ou plusieurs associés que vous êtes très généreux
+avec. Actuellement c'est un rapport non équilibré parce que 
+c'est vous qui donnent et l'autre reçoit seulement. Pour 
+l'équilibre, tous les deux doivent apprendre à donner et prendre.</entry>
+		<entry key="ObjectTitle42">Sept de Pentagrammes</entry><entry key="ObjectMeaning42">Vous voulez essayer de nouvelles choses et expérience 
+avec vos ressources. Vous êtes dans une phase très créatrice 
+en ce moment. Vous prenez des chances. Faites attention à
+ne pas risquer de desserrer tout.</entry>
+		<entry key="ObjectTitle43">Huit de Pentagrammes</entry><entry key="ObjectMeaning43">Vous réorganisez vos ressources en ce moment. 
+Cela signifie beaucoup de travail pour vous. Votre santé,
+à la maison, ou travail prend une quantité énorme de votre temps. 
+Vous essayez de trouver l'équilibre correct pour vos 
+ressources.</entry>
+		<entry key="ObjectTitle44">Neuf de Pentagrammes</entry><entry key="ObjectMeaning44">Vous les ressources matérielles avez atteint une taille
+en ce moment. Vous éprouvez l'excellente santé. L'argent
+semble couler dans vous et vous pouvez mûrement voir que l'argent va 
+aux investissements corrects.</entry>
+		<entry key="ObjectTitle45">Dizaines de Pentagrammes</entry><entry key="ObjectMeaning45">Vous avez atteint l'extrémité d'une phase 
+financièrement ou avec certaines de vos ressources. Vous 
+éprouvez tous les plaisirs matériels que vous voulez. 
+Toujours, vous sentez mécontent. Vous êtes peu disposé 
+à prendre les risques qui pourraient menacer votre stabilité même 
+quoique vous savez qu'il y a un besoin de changement.</entry>
+		<entry key="ObjectTitle46">Page des Pentagrammes</entry><entry key="ObjectMeaning46">Vous êtes ouvert de begining un nouvelle projet, 
+éducation ou entreprendre. Vous aurez besoin de encore plus 
+d'expérience ou d'aide sage avant que vous puissiez vraiment 
+commencer. Vous pourriez être un peu naïf ou vulnérable avec 
+vos ressources en ce moment.  </entry>
+		<entry key="ObjectTitle47">Chevalier des Pentagrammes</entry><entry key="ObjectMeaning47">Vous travaillez maintenant dur et hardiment pour ce que 
+vous croyez dedans. Est maintenant l'heure de faire des choses 
+pour se produire et pour attacher les extrémités lâches. 
+L'échec n'est pas une option. Vous savez que ce que vous 
+voulez et vous êtes disposé à sortir et à l'obtenir.</entry>
+		<entry key="ObjectTitle48">Reine des Pentagrammes</entry><entry key="ObjectMeaning48">Vos ressources sont dans l'équilibre parfait en ce 
+moment. Vous êtes très financièrement stable. Votre 
+santé est très bonne. Ceci signifie habituellement que 
+beaucoup d'argent est sur le chemin et vous pouvez mettre l'argent à 
+la bonne utilisation. </entry>
+		<entry key="ObjectTitle49">Roi des Pentagrammes</entry><entry key="ObjectMeaning49">Vous êtes celui dans la commande de vos ressources. 
+D'autres sont selon vous pour leur appui. Vous pouvez 
+avoir une tendance d'être occupé peu étroit et vous pourriez même 
+être peu trop un économe (bon marché). Vous avez gagné une 
+position de puissance et vous devez maintenant utiliser cette 
+puissance sagement. Si cette stabilité devient ennuyeuse à 
+vous, alors vous pourriez devoir considérer commencer quelque chose 
+de nouveau.</entry>
+		<entry key="ObjectTitle50">As des épées</entry><entry key="ObjectMeaning50">Vous brûlez pour une nouvelle idée. Vous êtes 
+intellectuellement fort et voyez le rapport entre tous les différents
+événements autour de vous. Vous savez quoi faire avez basé 
+sur votre analyse.</entry>
+		<entry key="ObjectTitle51">Deux d'épées</entry><entry key="ObjectMeaning51">Il y a deux (ou plus) idées qui prennent vos pensées 
+en ce moment. Vous pourriez devoir décider pour un ou l'autre. 
+Ces idées pourraient être en conflit. Peut-être vous 
+devez trouver un point d'équilibre entre les deux idées ?</entry>
+		<entry key="ObjectTitle52">Trois d'épées</entry><entry key="ObjectMeaning52">Vous organisez vos idées en entier complet. 
+Votre philosophie de lifes prend la forme. Très 
+spécifiquement cette carte signifie que vos pensées et sentiments 
+sont en conflit. Vous pensez une chose pourtant sentez des 
+autres.</entry>
+		<entry key="ObjectTitle53">Quatre d'épées</entry><entry key="ObjectMeaning53">Maintenant vous devez organiser sérieusement vos 
+pensées. Ceci peut seulement être fait par une période du 
+repos et de la réflexion. Vous pourriez essayer la méditation 
+ou la prière.</entry>
+		<entry key="ObjectTitle54">Cinq d'épées</entry><entry key="ObjectMeaning54">Vos idées sont challanged. Vous pouvez sentir un
+besoin désespéré d'être dans la commande et écraserez n'importe 
+qui dans votre chemin. La crainte de l'échec est habituellement
+plus mauvaise puis l'échec lui-même. Ce qui sont vous se 
+tenant sur celui vous devez libérer.</entry>
+		<entry key="ObjectTitle55">Six d'épées</entry><entry key="ObjectMeaning55">Vos pensées atteignent un point d'équilibre en ce 
+moment. Vous comprenez que ce qui s'est produit dans le passé 
+et le futur se sent bloqué. Est maintenant un temps sûr pour 
+le prendre facile et peut-être un voyage ou un déplacement d'une 
+certaine sorte est dans la planification. </entry>
+		<entry key="ObjectTitle56">Sept d'épées</entry><entry key="ObjectMeaning56">Vous expérimentez avec plusieurs idées. Elle 
+est peut-être petit trop se produire en ce moment et vous pouvez 
+devoir refroidir ainsi vous pouvez vous concentrer sur un problème 
+plus simple. Autrement vous courez en cercles et n'obtenez rien 
+fait.</entry>
+		<entry key="ObjectTitle57">Huit d'épées</entry><entry key="ObjectMeaning57">Vous sentez un besoin désespéré de comprendre un 
+problème ou une situation pourtant la solution semble vous éluder. 
+Vous vous sentez aveuglé par le problème et tous information 
+excessive. Vous vous sentez perdu.</entry>
+		<entry key="ObjectTitle58">Neuf d'épées</entry><entry key="ObjectMeaning58">Vos pensées et idées débordent. Vous ne pouvez
+pas cesser de penser à une idée ou à un problème. Elle vous 
+maintient sans sommeil la nuit. Vous vous inquiétez 
+excessivement.</entry>
+		<entry key="ObjectTitle59">Dizaines d'épées</entry><entry key="ObjectMeaning59">Vos pensées et idées suivent le même vieil 
+itinéraire. Vous avez été en bas de ce chemin million de 
+fois. L'ennui est si grand vous pouvez vous sentir vraiment 
+désespéré pour éclater dans quelque chose de différent.</entry>
+		<entry key="ObjectTitle60">Page des épées</entry><entry key="ObjectMeaning60">Vous vous sentez enthousiaste au sujet d'une idée mais
+vous sentez incertain de vous-même aussi bien. Cette idée a 
+besoin de encore plus qui mûrit avant qu'elle soit introduite dehors 
+dans l'ouvert pour l'examen minutieux public.</entry>
+		<entry key="ObjectTitle61">Chevalier des épées</entry><entry key="ObjectMeaning61">Vous brûlez avec passion pour vos idées, morales, 
+religion ou philosophie. Vous voulez "économiser le monde." 
+Vous pouvez persuader d'autres pour accepter vos idées. 
+Rien ne peut vous décourager.  </entry>
+		<entry key="ObjectTitle62">Reine des épées</entry><entry key="ObjectMeaning62">Vous avez entièrement compris un problème ou une 
+situation. Votre idée ou philosopy a atteint la pleines 
+maturité et acceptation. Vous partagez heureusement vos idées 
+et éclaircissement avec ces proche et cher à vous.</entry>
+		<entry key="ObjectTitle63">Roi des épées</entry><entry key="ObjectMeaning63">Vous avez atteint un postion de la conduite dans une 
+idée, une moralité, une philosophie ou une religion. Les gens 
+vous cherchent dehors pour votre sagesse. Votre idée peut être
+peu une étroite occupée. Peut-être vous devez vous desserrer 
+vers le haut et montrer peu plus de flexibilité.</entry>
+		<entry key="ObjectTitle64">As des baguettes magiques</entry><entry key="ObjectMeaning64">Vous avez trouvé une nouvelle identité. Vous 
+voyez où vous vous adaptez dans le grand arrangement des choses. 
+Vous comprenez le passé et attendez avec intérêt le futur.</entry>
+		<entry key="ObjectTitle65">Deux de baguettes magiques</entry><entry key="ObjectMeaning65">Vous vous tenez à un carrefour. Votre vie peut 
+aller one-way ou l'autre. Vous devez prendre la décision 
+importante dont chemin à prendre. Vous éprouvez la liberté de
+choix pour décider ce que vous voulez faire avec votre vie.</entry>
+		<entry key="ObjectTitle66">Trois de baguettes magiques</entry><entry key="ObjectMeaning66">Vous avez compris que ce qu'est il vous devez faire en 
+ce moment. Vous voyez ce qui s'est produit, tous les bon et 
+mauvais. Votre destin est présenté avant vous.</entry>
+		<entry key="ObjectTitle67">Quatre de baguettes magiques</entry><entry key="ObjectMeaning67">Vous avez travaillé dur pour suivre votre destin et 
+êtes maintenant un moment de celibration. Les choses tombent 
+simplement dans l'endroit. Quand vous suivez votre destin et 
+faites votre devoir comme vous aviez fait, la vie devient facile et 
+joyeuse.</entry>
+		<entry key="ObjectTitle68">Cinq de baguettes magiques</entry><entry key="ObjectMeaning68">Il y a beaucoup de volontés contradictoires se 
+heurtant en ce moment. Chacun tire dans une direction 
+différente. Vous avez un temps difficile pour obtenir chacun 
+pour fonctionner ensemble. Le chaos est effréné.</entry>
+		<entry key="ObjectTitle69">Six de baguettes magiques</entry><entry key="ObjectMeaning69">Vous avez atteint un certain équilibre dans votre vie 
+où vous vous sentez assez confiant de qui vous êtes et d'où vous 
+allez. Peuplez naturellement le regard jusqu'à vous et 
+respectez vos avis dans les sujets importants. Maintenant vous 
+pouvez prendre un certain temps au loin pour la célébration.</entry>
+		<entry key="ObjectTitle70">Sept de baguettes magiques</entry><entry key="ObjectMeaning70">Vous combattez avec l'idée de qui vous êtes d'où 
+vous venez et d'où vous allez. Vous luttez pour découvrir qui 
+vous êtes et où vous vous adaptez dedans. Vous pouvez 
+apparaître comme agressif à d'autres mais votre agression est la 
+plupart du temps tournée vers l'intérieur vers vous-même. 
+Vous pourriez extérioriser ce combat vers d'autres aussi 
+bien.</entry>
+		<entry key="ObjectTitle71">Huit de baguettes magiques</entry><entry key="ObjectMeaning71">Votre desiny se dessine. Il est reformé et 
+focalisé. Vous begining pour voir clairement ce que la vie est 
+compter de vous. Vous vous sentez assez certain au sujet de 
+votre futur.</entry>
+		<entry key="ObjectTitle72">Neuf de baguettes magiques</entry><entry key="ObjectMeaning72">Vous avez maintenant entièrement intégré toutes les 
+différentes parties de votre vie dans un entier complet. Vous 
+savez que ce qui est prévu de vous et vous accomplissez heureusement 
+vos fonctions. Vous vous sentez certain au sujet de votre futur.</entry>
+		<entry key="ObjectTitle73">Dizaines de baguettes magiques</entry><entry key="ObjectMeaning73">Vous aviez accompli votre destin et fonctions 
+loyalement mais maintenant il becomming un fardeau. Vous vous 
+sentez que trop est prévu de vous et vous commencez à boucler sous 
+l'effort.</entry>
+		<entry key="ObjectTitle74">Page des baguettes magiques</entry><entry key="ObjectMeaning74">Vous êtes commencer juste dehors sur votre chemin de 
+lifes. Vous n'êtes pas trop sûr au sujet de qui vous êtes ou 
+d'où vous allez mais cela n'importe pas. Vous êtes ouvert et 
+williing pour apprendre et changer si nécessaire. Vous cherchez
+activement votre destin mais démuni pourtant trouvé lui.</entry>
+		<entry key="ObjectTitle75">Chevalier des baguettes magiques</entry><entry key="ObjectMeaning75">Vous vous sentez sûr au sujet de vous-même et de vous
+pour savoir ce que vous voulez. Vous acceptez votre destin et 
+vous êtes déterminé au fullfill il. Vous faites votre devoir 
+loyalement.</entry>
+		<entry key="ObjectTitle76">Reine des baguettes magiques</entry><entry key="ObjectMeaning76">Vous avez trouvé votre endroit dans la vie. Vous
+êtes heureux et accompli. Vous accomplissez vos fonctions et 
+cela vous donne la grande satisfaction. Vous êtes une source de
+force pour la famille et des amis.</entry>
+		<entry key="ObjectTitle77">Roi des baguettes magiques</entry><entry key="ObjectMeaning77">Vous avez hérité un postion de la conduite pour l'une
+ou l'autre vos amis, famille, travail, religion ou société. Il
+est d'une responsabilité énorme mais vous êtes disposé pour le 
+challange. Peuplez le regard jusqu'à vous et soyez disposé à 
+vous suivre.</entry>
+		<entry key="ReversedMeaning0"></entry>
+		<entry key="ReversedMeaning1"></entry>
+		<entry key="ReversedMeaning2"></entry>
+		<entry key="ReversedMeaning3"></entry>
+		<entry key="ReversedMeaning4"></entry>
+		<entry key="ReversedMeaning5"></entry>
+		<entry key="ReversedMeaning6"></entry>
+		<entry key="ReversedMeaning7"></entry>
+		<entry key="ReversedMeaning8"></entry>
+		<entry key="ReversedMeaning9"></entry>
+		<entry key="ReversedMeaning10"></entry>
+		<entry key="ReversedMeaning11"></entry>
+		<entry key="ReversedMeaning12"></entry>
+		<entry key="ReversedMeaning13"></entry>
+		<entry key="ReversedMeaning14"></entry>
+		<entry key="ReversedMeaning15"></entry>
+		<entry key="ReversedMeaning16"></entry>
+		<entry key="ReversedMeaning17"></entry>
+		<entry key="ReversedMeaning18"></entry>
+		<entry key="ReversedMeaning19"></entry>
+		<entry key="ReversedMeaning20"></entry>
+		<entry key="ReversedMeaning21"></entry>
+		<entry key="ReversedMeaning22"></entry>
+		<entry key="ReversedMeaning23"></entry>
+		<entry key="ReversedMeaning24"></entry>
+		<entry key="ReversedMeaning25"></entry>
+		<entry key="ReversedMeaning26"></entry>
+		<entry key="ReversedMeaning27"></entry>
+		<entry key="ReversedMeaning28"></entry>
+		<entry key="ReversedMeaning29"></entry>
+		<entry key="ReversedMeaning30"></entry>
+		<entry key="ReversedMeaning31"></entry>
+		<entry key="ReversedMeaning32"></entry>
+		<entry key="ReversedMeaning33"></entry>
+		<entry key="ReversedMeaning34"></entry>
+		<entry key="ReversedMeaning35"></entry>
+		<entry key="ReversedMeaning36"></entry>
+		<entry key="ReversedMeaning37"></entry>
+		<entry key="ReversedMeaning38"></entry>
+		<entry key="ReversedMeaning39"></entry>
+		<entry key="ReversedMeaning40"></entry>
+		<entry key="ReversedMeaning41"></entry>
+		<entry key="ReversedMeaning42"></entry>
+		<entry key="ReversedMeaning43"></entry>
+		<entry key="ReversedMeaning44"></entry>
+		<entry key="ReversedMeaning45"></entry>
+		<entry key="ReversedMeaning46"></entry>
+		<entry key="ReversedMeaning47"></entry>
+		<entry key="ReversedMeaning48"></entry>
+		<entry key="ReversedMeaning49"></entry>
+		<entry key="ReversedMeaning50"></entry>
+		<entry key="ReversedMeaning51"></entry>
+		<entry key="ReversedMeaning52"></entry>
+		<entry key="ReversedMeaning53"></entry>
+		<entry key="ReversedMeaning54"></entry>
+		<entry key="ReversedMeaning55"></entry>
+		<entry key="ReversedMeaning56"></entry>
+		<entry key="ReversedMeaning57"></entry>
+		<entry key="ReversedMeaning58"></entry>
+		<entry key="ReversedMeaning59"></entry>
+		<entry key="ReversedMeaning60"></entry>
+		<entry key="ReversedMeaning61"></entry>
+		<entry key="ReversedMeaning62"></entry>
+		<entry key="ReversedMeaning63"></entry>
+		<entry key="ReversedMeaning64"></entry>
+		<entry key="ReversedMeaning65"></entry>
+		<entry key="ReversedMeaning66"></entry>
+		<entry key="ReversedMeaning67"></entry>
+		<entry key="ReversedMeaning68"></entry>
+		<entry key="ReversedMeaning69"></entry>
+		<entry key="ReversedMeaning70"></entry>
+		<entry key="ReversedMeaning71"></entry>
+		<entry key="ReversedMeaning72"></entry>
+		<entry key="ReversedMeaning73"></entry>
+		<entry key="ReversedMeaning74"></entry>
+		<entry key="ReversedMeaning75"></entry>
+		<entry key="ReversedMeaning76"></entry>
+		<entry key="ReversedMeaning77"></entry>
+</oracleio>

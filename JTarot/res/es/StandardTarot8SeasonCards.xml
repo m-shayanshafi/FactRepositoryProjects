@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Seasons Spread (Cortese/Reed)" classification="LayoutTranslations" version="1" language="es" author="Thomas Dilts" >
+<entry key="languagename">Español</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). El permiso se concede a la copia, distribuye 
+y/o modifica este documento bajo términos de la versión más última
+libre de la licencia, de la versión 1.2 o cualquier de la 
+documentación del GNU publicada por la fundación libre del software.
+Una copia de la licencia se puede encontrar en 
+http://www.gnu.org</entry>
+	<entry key="Title">Extensión De Cuatro Estaciones (Cortese/Reed)</entry>
+	<entry key="Description">"esta extensión se utiliza para examinar las 
+motivaciones para los planes o las ambiciones. Se arreglan las 
+tarjetas para llamar para importar de la progresión de las estaciones
+y también de la progresión de cualquier acción o del plan a través
+de las cuatro etapas del concepto, de la progresión, de la 
+resolución, y de la reflexión." - Cortese</entry>
+	<entry key="PositionTitle0">Resorte</entry><entry key="Meaning0">Dominante para el resorte, simbolizando el concepto o 
+la iniciación de una acción o la ambición, el plantar de la 
+semilla, así que hablar. El modificante para el resorte es la 
+tarjeta 8.</entry>
+	<entry key="PositionTitle1">Modifica Verano</entry><entry key="Meaning1">Modificante para la tarjeta 3.</entry>
+	<entry key="PositionTitle2">Verano</entry><entry key="Meaning2">Dominante para el verano, simbolizando la progresión 
+de un plan, la manera de la cual una idea florecerá. El 
+modificante para el verano es la tarjeta 2.</entry>
+	<entry key="PositionTitle3">Modifica Otoño</entry><entry key="Meaning3">Modificante para la tarjeta 5.</entry>
+	<entry key="PositionTitle4">Otoño</entry><entry key="Meaning4">Dominante para el otoño, simbolizando la resolución 
+del plan, cómo los acontecimientos quieren el "viento ellos mismos 
+para arriba." El modificante para el otoño es la tarjeta 4.</entry>
+	<entry key="PositionTitle5">Modifica Invierno</entry><entry key="Meaning5">Modificante para la tarjeta 7.</entry>
+	<entry key="PositionTitle6">Invierno</entry><entry key="Meaning6">Dominante para el invierno, se ha terminado la 
+simbolización del período de la reflexión después de una acción o
+de un plan, o qué el querent puede desear para aprender de la 
+progresión de acontecimientos. El modificante para el invierno 
+es la tarjeta 6.</entry>
+	<entry key="PositionTitle7">Modifica El Resorte</entry><entry key="Meaning7">Modificante para la tarjeta 1.</entry>
+</oracleio>

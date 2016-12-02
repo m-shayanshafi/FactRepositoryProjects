@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="armorModifierWrapper" type="armorModifierWrapper"/>
+
+  <xs:complexType name="armorModifierWrapper">
+    <xs:sequence>
+      <xs:element name="list" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="modifier" type="armorModifier" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="version" type="xs:string"/>
+  </xs:complexType>
+
+  <xs:complexType name="armorModifier">
+    <xs:complexContent>
+      <xs:extension base="itemModifier">
+        <xs:sequence>
+          <xs:element name="proficiecyIds" type="xs:short" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+          <xs:element name="resistanceModifiers">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="key" minOccurs="0" type="damageType"/>
+                      <xs:element name="value" minOccurs="0" type="xs:int"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resistanceMultipliers">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="entry" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="key" minOccurs="0" type="damageType"/>
+                      <xs:element name="value" minOccurs="0" type="xs:int"/>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="valueModifier" type="xs:int" minOccurs="0"/>
+          <xs:element name="valueMultiplier" type="xs:int" minOccurs="0"/>
+          <xs:element name="weightModifier" type="xs:int" minOccurs="0"/>
+          <xs:element name="weightMultiplier" type="xs:int" minOccurs="0"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:complexType name="itemModifier" abstract="true">
+    <xs:sequence>
+      <xs:element name="desc" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string"/>
+    </xs:sequence>
+    <xs:attribute name="catId" type="xs:short" use="required"/>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+  </xs:complexType>
+
+  <xs:simpleType name="damageType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CUTTING"/>
+      <xs:enumeration value="PIERCING"/>
+      <xs:enumeration value="BLUNT"/>
+      <xs:enumeration value="FROSTBITE"/>
+      <xs:enumeration value="BURN"/>
+      <xs:enumeration value="SHOCK"/>
+      <xs:enumeration value="POISON"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
+

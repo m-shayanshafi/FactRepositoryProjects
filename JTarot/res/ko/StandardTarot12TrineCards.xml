@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Trines Spread (Doane)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">4Trines퍼짐 (Doane)</entry>
+	<entry key="Description">이름이 건의하기 때문에, 또 다른 
+한개함께 3장의 카드 (trines)의 4 세트 저 일 
+있는다. 생활 (1, 6,11)의Trine, 힘 (2, 
+7,12)의Trine, 사회적인Trine(3, 8, 9), 비밀의Trine
+</entry>
+	<entry key="PositionTitle0">개인 생활</entry><entry key="Meaning0">건강</entry>
+	<entry key="PositionTitle1">명예와 권위</entry><entry key="Meaning1">사업, 명망</entry>
+	<entry key="PositionTitle2">협동자</entry><entry key="Meaning2">의 적 혼인</entry>
+	<entry key="PositionTitle3">환경</entry><entry key="Meaning3">환경안에 은폐되는 것</entry>
+	<entry key="PositionTitle4">고통</entry><entry key="Meaning4">적, 실패, 장애</entry>
+	<entry key="PositionTitle5">정신 생활</entry><entry key="Meaning5">정신 생활: 여행</entry>
+	<entry key="PositionTitle6">환경</entry><entry key="Meaning6">병, 일</entry>
+	<entry key="PositionTitle7">친족과 생각</entry><entry key="Meaning7">형제자매, 지적인 사정</entry>
+	<entry key="PositionTitle8">동료</entry><entry key="Meaning8">친구</entry>
+	<entry key="PositionTitle9">돈</entry><entry key="Meaning9">돈: 빚, 세금, 상속</entry>
+	<entry key="PositionTitle10">후세</entry><entry key="Meaning10">후세의 생활: 아이들, 연애 사건, 
+쾌락, 숙고</entry>
+	<entry key="PositionTitle11">부</entry><entry key="Meaning11"></entry>
+</oracleio>

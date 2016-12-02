@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="ru" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">дурачок 0-The</entry><entry key="ObjectMeaning0">Сумасбродство, Expiation, Wavering</entry>
+	<entry key="ObjectTitle1">волшебник 1-The</entry><entry key="ObjectMeaning1">Воля, Быть-Sila, Dexterity</entry>
+	<entry key="ObjectTitle2">2-The Высокое Priestess</entry><entry key="ObjectMeaning2">Наука, Премудрость, Знание, Образование</entry>
+	<entry key="ObjectTitle3">3-The Empress</entry><entry key="ObjectMeaning3">Действие, план, предпринимая движение в деле, 
+инициатива</entry>
+	<entry key="ObjectTitle4">emperor 4-The</entry><entry key="ObjectMeaning4">Осуществление, Влияние, Развитие</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Пощада, Мягкосердечие Благотворительности, 
+Goodness</entry>
+	<entry key="ObjectTitle6">любовники 6-The</entry><entry key="ObjectMeaning6">Велемудрые Решения, Доказательство, Surmounted 
+Пробы</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Триумф, победа, отжимая препоны</entry>
+	<entry key="ObjectTitle8">8-Procnosti</entry><entry key="ObjectMeaning8">Сила, Мощь, Усилие, Прочность, Fortitude</entry>
+	<entry key="ObjectTitle9">затворница 9-The</entry><entry key="ObjectMeaning9">Prudence, Предосторежение, Обдуманность</entry>
+	<entry key="ObjectTitle10">10-Wheel удачи</entry><entry key="ObjectMeaning10">Удача, Успех, Непредвиденное Везение</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Уравновешение, Баланс, Правосудие</entry>
+	<entry key="ObjectTitle12">12-The повиснуло человека</entry><entry key="ObjectMeaning12">Самопожертвование, Поддача, Преданность, Предел</entry>
+	<entry key="ObjectTitle13">Йэ-Smert6</entry><entry key="ObjectMeaning13">Смерть, изменение, преобразование, изменение для 
+плохого</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Комбинация, Конформация, Соединяя</entry>
+	<entry key="ObjectTitle15">дьявол 15-The</entry><entry key="ObjectMeaning15">Fatality для хорош</entry>
+	<entry key="ObjectTitle16">башня 16-The</entry><entry key="ObjectMeaning16">Руина, Нарушение, Низвержение, Потеря, Банкротство</entry>
+	<entry key="ObjectTitle17">звезда 17-The</entry><entry key="ObjectMeaning17">Упование, ожиданность, яркие посылы</entry>
+	<entry key="ObjectTitle18">луна 18-The</entry><entry key="ObjectMeaning18">Сумерк, Обман, Ошибка</entry>
+	<entry key="ObjectTitle19">солнце 19-The</entry><entry key="ObjectMeaning19">Счастье, Содержание, Утеха</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Возобновление, результат, определение дела</entry>
+	<entry key="ObjectTitle21">мир 21-The</entry><entry key="ObjectMeaning21">Завершение, Хорошее Вознаграждение</entry>
+	<entry key="ObjectTitle22">Туз чашек</entry><entry key="ObjectMeaning22">Пирующ, Banquet, Хороший Cheer</entry>
+	<entry key="ObjectTitle23">2 из чашек</entry><entry key="ObjectMeaning23">Влюбленность, Приложение, Приятельство, Sincerity,
+Affection</entry>
+	<entry key="ObjectTitle24">3 из чашек</entry><entry key="ObjectMeaning24">Успех, триумф, победа, благоприятный вопрос</entry>
+	<entry key="ObjectTitle25">4 из чашек</entry><entry key="ObjectMeaning25">Ennui, Неудовольствие, Discontent, 
+Неудовлетворенность</entry>
+	<entry key="ObjectTitle26">5 из чашек</entry><entry key="ObjectMeaning26">Соединение, Соединение, Замужество, Унаследование</entry>
+	<entry key="ObjectTitle27">6 из чашек</entry><entry key="ObjectMeaning27">Исчезли прошлый, ое мимо, увядано, исчезано, котор</entry>
+	<entry key="ObjectTitle28">7 из чашек</entry><entry key="ObjectMeaning28">Идея, Сентимент, Отражение, Проект</entry>
+	<entry key="ObjectTitle29">8 из чашек</entry><entry key="ObjectMeaning29">Справедливая девушка, приятельство, приложение, 
+нежность</entry>
+	<entry key="ObjectTitle30">9 из чашек</entry><entry key="ObjectMeaning30">Победа, преимущество, успех, триумф, surmounted 
+затруднения</entry>
+	<entry key="ObjectTitle31">10 из чашек</entry><entry key="ObjectMeaning31">Городок при котором одно resides, удостоит, 
+рассмотрение, esteem, добродетель, слава, репутация</entry>
+	<entry key="ObjectTitle32">Страница чашек</entry><entry key="ObjectMeaning32">Справедливая молодость, доверие, probity, 
+усмотрение, герметичность</entry>
+	<entry key="ObjectTitle33">Рыцарь чашек</entry><entry key="ObjectMeaning33">Прибытие, Подход, Выдвижение</entry>
+	<entry key="ObjectTitle34">Ферзь чашек</entry><entry key="ObjectMeaning34">Справедливая женщина, успех, счастье, преимущество, 
+удовольствие</entry>
+	<entry key="ObjectTitle35">Король чашек</entry><entry key="ObjectMeaning35">Справедливый человек, goodness, мягкосердечие, 
+liberality, шедрость</entry>
+	<entry key="ObjectTitle36">Туз Pentacles</entry><entry key="ObjectMeaning36">Совершенное Довольство, Felicity, Зажиточность, 
+Триумф</entry>
+	<entry key="ObjectTitle37">2 из Pentacles</entry><entry key="ObjectMeaning37">Embarrassment, Беспокойство, Затруднения</entry>
+	<entry key="ObjectTitle38">3 из Pentacles</entry><entry key="ObjectMeaning38">Знатность, Высота, Сан, Ряд, Сила</entry>
+	<entry key="ObjectTitle39">4 из Pentacles</entry><entry key="ObjectMeaning39">Удовольствие, Gaiety, Наслаждение, Соответствие</entry>
+	<entry key="ObjectTitle40">5 из Pentacles</entry><entry key="ObjectMeaning40">Влюбленность любовника или хозяйки, влюбленности, 
+сладости, affection, чисто и целомудренных</entry>
+	<entry key="ObjectTitle41">6 из Pentacles</entry><entry key="ObjectMeaning41">Настоящие моменты, Подарки, Угождение:</entry>
+	<entry key="ObjectTitle42">7 из Pentacles</entry><entry key="ObjectMeaning42">Деньг, Финансы, Сокровище, Увеличение, Профит</entry>
+	<entry key="ObjectTitle43">8 из Pentacles</entry><entry key="ObjectMeaning43">Темная девушка, красотка, чистосердечность, целомудрие,
+невиновность, скромность</entry>
+	<entry key="ObjectTitle44">9 из Pentacles</entry><entry key="ObjectMeaning44">Усмотрение, Осторожность, Prudence, Распознание</entry>
+	<entry key="ObjectTitle45">10 из Pentacles</entry><entry key="ObjectMeaning45">Дом, Жилище, Habitation, Семья</entry>
+	<entry key="ObjectTitle46">Страница Pentacles</entry><entry key="ObjectMeaning46">Темная молодость, экономия, заказ, правило, управление</entry>
+	<entry key="ObjectTitle47">Рыцарь Pentacles</entry><entry key="ObjectMeaning47">Полезный человек, благонадежный, премудрость, экономия,
+заказ, регулировка</entry>
+	<entry key="ObjectTitle48">Ферзь Pentacles</entry><entry key="ObjectMeaning48">Темная женщина, великодушно женщина, liberality, 
+Greatness души, шедрости</entry>
+	<entry key="ObjectTitle49">Король Pentacles</entry><entry key="ObjectMeaning49">Темный человек, победа, храбрость, смелость, успех</entry>
+	<entry key="ObjectTitle50">Туз шпаг</entry><entry key="ObjectMeaning50">Триумф, Fecundity, Плодородность, Зажиточность</entry>
+	<entry key="ObjectTitle51">2 из шпаг</entry><entry key="ObjectMeaning51">Приятельство, Valour, Твердость, Смелость</entry>
+	<entry key="ObjectTitle52">3 из шпаг</entry><entry key="ObjectMeaning52">Nun, Разъединение, Удаление, Повреждение, Ссора</entry>
+	<entry key="ObjectTitle53">4 из шпаг</entry><entry key="ObjectMeaning53">Уединение, Отступление, Затерянность, Солитарная, 
+Затворница</entry>
+	<entry key="ObjectTitle54">5 из шпаг</entry><entry key="ObjectMeaning54">Оплакивать, Тоскливость, Affliction</entry>
+	<entry key="ObjectTitle55">6 из шпаг</entry><entry key="ObjectMeaning55">Envoy, Посыльный, Рейс, Перемещение</entry>
+	<entry key="ObjectTitle56">7 из шпаг</entry><entry key="ObjectMeaning56">Упование, Доверие, Желание, Попытка, Желание</entry>
+	<entry key="ObjectTitle57">8 из шпаг</entry><entry key="ObjectMeaning57">Болезнь, Calumny, Критицизм, Поричание</entry>
+	<entry key="ObjectTitle58">9 из шпаг</entry><entry key="ObjectMeaning58">Ecclesiastic, священник, совесть. 
+Probity, Хорошее Вера, Герметичность</entry>
+	<entry key="ObjectTitle59">10 из шпаг</entry><entry key="ObjectMeaning59">Разрывы, Affliction, Печаль, Скорба</entry>
+	<entry key="ObjectTitle60">Страница шпаг</entry><entry key="ObjectMeaning60">Шпионка, Обозревая, Авторитет</entry>
+	<entry key="ObjectTitle61">Рыцарь шпаг</entry><entry key="ObjectMeaning61">Воин, человек профессией которого будет рукоятки, 
+Skilfulness, емкость, адрес, Promptitude</entry>
+	<entry key="ObjectTitle62">Ферзь шпаг</entry><entry key="ObjectMeaning62">Widowhood, Потеря, Privation, Отсутствие, 
+Разъединение</entry>
+	<entry key="ObjectTitle63">Король шпаг</entry><entry key="ObjectMeaning63">Законовед, человек закона, силы, команды, 
+превосходства, авторитета</entry>
+	<entry key="ObjectTitle64">Туз wands</entry><entry key="ObjectMeaning64">Рожденио, Commencement, Начало, Начало, Источник</entry>
+	<entry key="ObjectTitle65">2 из wands</entry><entry key="ObjectMeaning65">Riches, Удача, Opulence, Magnificence, 
+Grandeur</entry>
+	<entry key="ObjectTitle66">3 из wands</entry><entry key="ObjectMeaning66">Предпринимательство, Затея, Коммерция, Торговля, 
+Переговоры</entry>
+	<entry key="ObjectTitle67">4 из wands</entry><entry key="ObjectMeaning67">Общество, Соединение, Ассоциация, Concord, 
+Сработанность</entry>
+	<entry key="ObjectTitle68">5 из wands</entry><entry key="ObjectMeaning68">Золото, Opulence, Увеличение, Наследие, 
+Riches, Удача, Деньг</entry>
+	<entry key="ObjectTitle69">6 из wands</entry><entry key="ObjectMeaning69">Попытка, Упование, Желание, Желание, Ожиданность</entry>
+	<entry key="ObjectTitle70">7 из wands</entry><entry key="ObjectMeaning70">Успех, Увеличение, Преимущество, Профит, Победа</entry>
+	<entry key="ObjectTitle71">8 из wands</entry><entry key="ObjectMeaning71">Вникание, Замечание, Направление</entry>
+	<entry key="ObjectTitle72">9 из wands</entry><entry key="ObjectMeaning72">Заказ, Дисциплина, Хорошее Расположение, Решение</entry>
+	<entry key="ObjectTitle73">10 из wands</entry><entry key="ObjectMeaning73">Доверие, Обеспеченность, Почетность, Хорошее Вера</entry>
+	<entry key="ObjectTitle74">Страница wands</entry><entry key="ObjectMeaning74">Хороший Незнакомец, Хорошая Весточка, Удовольствие, 
+Соответствие</entry>
+	<entry key="ObjectTitle75">Рыцарь wands</entry><entry key="ObjectMeaning75">Отклонение, Разъединение, Disunion</entry>
+	<entry key="ObjectTitle76">Ферзь wands</entry><entry key="ObjectMeaning76">Женщина живя в стране, повелительница manor, 
+влюбленность деньг, сребролюбие, ростовщичество</entry>
+	<entry key="ObjectTitle77">Король wands  </entry><entry key="ObjectMeaning77">Человек живя в стране, джентльмен страны, знание, 
+образование</entry>
+	<entry key="ReversedMeaning0">Hesitation, нестабильность, herefrom тревоги 
+возникая.</entry>
+	<entry key="ReversedMeaning1">Воля приложенная к злейшим концам, слабость воли, хитринкы, 
+Knavishness.</entry>
+	<entry key="ReversedMeaning2">Тщеславие, Незнание, Unskilfulness, Поверхностно Знание.</entry>
+	<entry key="ReversedMeaning3">Inaction, frittering прочь силы, хочет концентрации 
+Vacillation.</entry>
+	<entry key="ReversedMeaning4">Перебой, Проверка, Неполовозрело, Незрелая.</entry>
+	<entry key="ReversedMeaning5">Над-m4gkoserdecie, слабость, сдуру тренировка шедрости.</entry>
+	<entry key="ReversedMeaning6">Unwise планы, отказ положено к испытанию.</entry>
+	<entry key="ReversedMeaning7">Overthrown, завоевано Препоной на последнем моменте.</entry>
+	<entry key="ReversedMeaning8">Злоупотребление силы, Overbearingness, хочет 
+Fortitude.</entry>
+	<entry key="ReversedMeaning9">Над-Over-prudence, Timorousness, Страх.</entry>
+	<entry key="ReversedMeaning10">Больн-Udaca, Отказ, Непредвиденное Больн-Vezenie.</entry>
+	<entry key="ReversedMeaning11">Ханжество, хочет баланса, злоупотребления правосудия, 
+Над-surovosti, неравноправности, смещения.</entry>
+	<entry key="ReversedMeaning12">Эгоизм, unbound, частично поддача.</entry>
+	<entry key="ReversedMeaning13">Смерть как раз избеубежала, частично изменение, изменение для 
+лучшего.</entry>
+	<entry key="ReversedMeaning14">Ill-advised комбинации, Disunion, сталкиваясь 
+интересы, etc.</entry>
+	<entry key="ReversedMeaning15">Fatality для зла.</entry>
+	<entry key="ReversedMeaning16">Эти в больше или более менее частично степень.</entry>
+	<entry key="ReversedMeaning17">Выполненные упования, ожиданности разочарованные или выполненные
+в небольшом степени.</entry>
+	<entry key="ReversedMeaning18">Зыбкость, небольшие обманы, ошибки Trifling.</entry>
+	<entry key="ReversedMeaning19">Эти в небольшом степени.</entry>
+	<entry key="ReversedMeaning20">Задержка результата, задерживает, дело открынное заново более 
+поздно.</entry>
+	<entry key="ReversedMeaning21">Злейшее вознаграждение, или Recompense.</entry>
+	<entry key="ReversedMeaning22">Изменение, Новизна, Метаморфоза, Inconstancy.</entry>
+	<entry key="ReversedMeaning23">Пересеченные желания, препоны, противовключение, hindrance.</entry>
+	<entry key="ReversedMeaning24">Экспедиция дела, Quickness, быстроты, зоркости.</entry>
+	<entry key="ReversedMeaning25">Новый Знакомец, Конектура, Знак, Presentiment.</entry>
+	<entry key="ReversedMeaning26">Прибытие, возвращение, весточка, сярприз, ложные проекты.</entry>
+	<entry key="ReversedMeaning27">Будущее, то которое должно прийти, скоро, скоро.</entry>
+	<entry key="ReversedMeaning28">План, Конструкция, Разрешение, Решение.</entry>
+	<entry key="ReversedMeaning29">Gaiety, Пируя, Утеха, Удовольствие.</entry>
+	<entry key="ReversedMeaning30">Недостатки, Ошибки, Ошибки, Несовершенства.</entry>
+	<entry key="ReversedMeaning31">Бой, Strife, Противовключение, Разницы, Спор.</entry>
+	<entry key="ReversedMeaning32">Flatterer, Обман, Выдумка.</entry>
+	<entry key="ReversedMeaning33">Duplicity, злоупотребление доверием, очковтирательство, 
+хитро.</entry>
+	<entry key="ReversedMeaning34">Женщина в хорошем положении, но intermeddling, и быть 
+distrusted; Успех, но с некоторой сопровождающей тревогой.</entry>
+	<entry key="ReversedMeaning35">Человек хорошего положения, но shifty в его паспределениях,
+недоверии, сомнении, подозрении.</entry>
+	<entry key="ReversedMeaning36">Портмоне золота, деньг, увеличения, помощи, профита, 
+Riches.</entry>
+	<entry key="ReversedMeaning37">Письмо, Missive, Epistle, Сообщение.</entry>
+	<entry key="ReversedMeaning38">Дети, Сынки, Дочи, Молодости, Commencement.</entry>
+	<entry key="ReversedMeaning39">Препоны, Hindrances.</entry>
+	<entry key="ReversedMeaning40">Disgraceful Влюбленность, Неблагоразумие, Лицензия, 
+Profligacy.</entry>
+	<entry key="ReversedMeaning41">Гонор, Желание, Страсть, Цель, Longing.</entry>
+	<entry key="ReversedMeaning42">Помеха, Беспокойство, Тревожность, Тоска.</entry>
+	<entry key="ReversedMeaning43">Заискивание, Ростовщичество, Лицемерность, Shifty.</entry>
+	<entry key="ReversedMeaning44">Deceit, плохое вера, выдумкы, обман.</entry>
+	<entry key="ReversedMeaning45">Играть в азартные игры, Диссипация, Разбойничество, Потеря.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Profusion, Отход, Диссипация.</entry>
+	<entry key="ReversedMeaning47">Храбрейший человек, но из занятости, idle, безработных, 
+нерадивых.</entry>
+	<entry key="ReversedMeaning48">Некоторое зло, подозрительная женщина, женщина справедливо 
+сосчитанная с подозрением, сомнением, mistrust.</entry>
+	<entry key="ReversedMeaning49">Старый и порочный человек, опасный человек, сомнение, страх, 
+peril, опасность.</entry>
+	<entry key="ReversedMeaning50">Влюбленность embarrassment, сдуру и безвыходных, препона, 
+hindrance.</entry>
+	<entry key="ReversedMeaning51">Ложные Друзья, Предательство, Лежат.</entry>
+	<entry key="ReversedMeaning52">Ошибка, Запутанность, Misrule, Разлад.</entry>
+	<entry key="ReversedMeaning53">Экономия, мера предосторожности, регулировка расходования.</entry>
+	<entry key="ReversedMeaning54">Тревога потерь (такая же сигнафикация, ли после того как я 
+обращена или не.)</entry>
+	<entry key="ReversedMeaning55">Объявление, предложенная влюбленность, откровение, сярприз.</entry>
+	<entry key="ReversedMeaning56">Велемудрая Консультация, Хороший Консультант, Премудрость, 
+Prudence, Осторожность.</entry>
+	<entry key="ReversedMeaning57">Предательство в прошлом, случай, авария, замечательный случай.</entry>
+	<entry key="ReversedMeaning58">Велемудрое недоверие, подозрение, страх, сомнение, тенистый 
+характер.</entry>
+	<entry key="ReversedMeaning59">Проходить Успех, Однократно Преимущество.</entry>
+	<entry key="ReversedMeaning60">То unforeseen, зоркость, поддержка.</entry>
+	<entry key="ReversedMeaning61">Тщеславный дурачок, Ingenuousness, простота.</entry>
+	<entry key="ReversedMeaning62">Плохая женщина, злонравные и bigoted, Riches и 
+разладка, обилие together with беспокойство, утеха с 
+печалью.</entry>
+	<entry key="ReversedMeaning63">Wicked Человек, Chagrin, Беспокойство, Печаль, Страх, 
+Помеха.</entry>
+	<entry key="ReversedMeaning64">Затравливание, Преследования Voilence, Vexation, 
+Жестокость, Тиранство.</entry>
+	<entry key="ReversedMeaning65">Сярприз, Astonishment, Случай, Внесметное Возникновение.</entry>
+	<entry key="ReversedMeaning66">Упование, Желание, Попытка, Желание.</entry>
+	<entry key="ReversedMeaning67">Зажиточность, Успех, Счастье, Преимущество.</entry>
+	<entry key="ReversedMeaning68">Законные продолжения, суждение, закон, законовед, трибунал.</entry>
+	<entry key="ReversedMeaning69">Infidelity, Предательство, Disloyalty, Perfidy.</entry>
+	<entry key="ReversedMeaning70">Нерешительность, Сомнение, Hesitation, Embarrassment, 
+Тревожность.</entry>
+	<entry key="ReversedMeaning71">Ссоры, споры intestine, разладка.</entry>
+	<entry key="ReversedMeaning72">Препоны, Кресты, Задерживают, Неудовольствие.</entry>
+	<entry key="ReversedMeaning73">Предательство, Subterfuge, Duplicity, Штанга.</entry>
+	<entry key="ReversedMeaning74">Больная Весточка, Неудовольствие, Chagrin, Беспокойство.</entry>
+	<entry key="ReversedMeaning75">Повреждение, Разладка, Ссора.</entry>
+	<entry key="ReversedMeaning76">Хорошее добродетельная женщина, но только и экономично, препоны,
+сопротивление, противовключение.</entry>
+	<entry key="ReversedMeaning77">Естественно хороший но строгий человек, консультант, 
+консультация, обдуманность.</entry>
+</oracleio>

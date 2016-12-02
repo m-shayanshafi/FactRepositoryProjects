@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">二十一卡片傳播(Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">直接過去</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Inobvious 當前因素</entry><entry key="Meaning2">一個重要因素在禮物。Inobvious 。</entry>
+	<entry key="PositionTitle3">心境</entry><entry key="Meaning3">尋找者心境</entry>
+	<entry key="PositionTitle4">直接未來</entry><entry key="Meaning4">很可能直接未來</entry>
+	<entry key="PositionTitle5">明顯的當前因素</entry><entry key="Meaning5">一個重要因素在禮物。非常明顯</entry>
+	<entry key="PositionTitle6">食道感覺</entry><entry key="Meaning6">尋找者食道感覺。</entry>
+	<entry key="PositionTitle7">修改卡片2 過去1</entry><entry key="Meaning7">影響從前影響#2 的</entry>
+	<entry key="PositionTitle8">修改卡片2 過去2</entry><entry key="Meaning8">影響從前影響#2 的</entry>
+	<entry key="PositionTitle9">現在修改卡片3 1</entry><entry key="Meaning9">潮流影響影響# 3 。Inobvious 。</entry>
+	<entry key="PositionTitle10">現在修改卡片3 2</entry><entry key="Meaning10">潮流影響影響# 3 。Inobvious 。</entry>
+	<entry key="PositionTitle11">修改卡片5 未來1</entry><entry key="Meaning11">可能的未來影響, 影響#5</entry>
+	<entry key="PositionTitle12">修改卡片5 未來2</entry><entry key="Meaning12">可能的未來影響, 影響#5</entry>
+	<entry key="PositionTitle13">現在修改卡片6 1</entry><entry key="Meaning13">明顯的當前的影響, 影響#6</entry>
+	<entry key="PositionTitle14">現在修改卡片6 2</entry><entry key="Meaning14">明顯的當前的影響, 影響#6</entry>
+	<entry key="PositionTitle15">物理</entry><entry key="Meaning15">尋找者物理情況。可能的健康或生活狀態</entry>
+	<entry key="PositionTitle16">根過去</entry><entry key="Meaning16">問題的根從前</entry>
+	<entry key="PositionTitle17">當前的問題</entry><entry key="Meaning17">一件當前的事情。它也許是掩藏或未知的和俯視, 或它也許代表假定, 可能不正確</entry>
+	<entry key="PositionTitle18">精神將</entry><entry key="Meaning18">尋找者精神將。這也許相衝突與或闡明尋找者的神志清楚的慾望</entry>
+	<entry key="PositionTitle19">未來事件</entry><entry key="Meaning19">一次可能的未來事件</entry>
+	<entry key="PositionTitle20">反射</entry><entry key="Meaning20">什麼尋找者必須考慮</entry>
+</oracleio>

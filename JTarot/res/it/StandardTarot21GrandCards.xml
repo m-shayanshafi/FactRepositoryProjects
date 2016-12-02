@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="it" author="Thomas Dilts" >
+<entry key="languagename">Italiano</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Il permesso è assegnato alla copia, 
+distribuisce e/o modifica questo documento sotto i termini della 
+versione successiva libera dell'autorizzazione, di versioni 1.2 o 
+qualsiasi della documentazione di GNU pubblicata dal fondamento libero
+del software. Una copia dell'autorizzazione può essere trovata 
+a http://www.gnu.org</entry>
+	<entry key="Title">Grande Diffusione Di Fonte (Cortese)</entry>
+	<entry key="Description">"questo è un buono generale-usa la diffusione per dare
+un'immagine generale della risoluzione ad un problema nel passato o il
+futuro. Si permette un'occasione esaminare le influenze interne 
+ed esterne prima che un'azione sia intrapresa, l'inizio o la 
+motivazione dell'azione, la progressione dell'azione, la risoluzione e
+che effetti interni ed esterni questo avrà. Può anche 
+comportarsi per evidenziare il processo tramite cui una domanda 
+uppermost nella mente dei querent può essere risposta a, benchè non 
+possa dare la risposta." - Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Influenze interne 1</entry><entry key="Meaning1">Influenze interne sul lavoro, le motivazioni del 
+querent, o che cosa i desideri querent da imparare</entry>
+	<entry key="PositionTitle2">Influenze interne 2</entry><entry key="Meaning2">Influenze interne sul lavoro, le motivazioni del 
+querent, o che cosa i desideri querent da imparare</entry>
+	<entry key="PositionTitle3">Influenze interne 3</entry><entry key="Meaning3">Influenze interne sul lavoro, le motivazioni del 
+querent, o che cosa i desideri querent da imparare</entry>
+	<entry key="PositionTitle4">Influenze esterne 1</entry><entry key="Meaning4">Influenze esterne, o le influenze dalla gente o cose 
+fuori del querent che può indurre il querent a fare la loro domanda</entry>
+	<entry key="PositionTitle5">Influenze esterne 2</entry><entry key="Meaning5">Influenze esterne, o le influenze dalla gente o cose 
+fuori del querent che può indurre il querent a fare la loro domanda</entry>
+	<entry key="PositionTitle6">Influenze esterne 3</entry><entry key="Meaning6">Influenze esterne, o le influenze dalla gente o cose 
+fuori del querent che può indurre il querent a fare la loro domanda</entry>
+	<entry key="PositionTitle7">Seme</entry><entry key="Meaning7">Inizio dell'azione, del seme che si svilupperanno, o 
+della domanda che sarà risposta a</entry>
+	<entry key="PositionTitle8">Inizii 1</entry><entry key="Meaning8">Le fasi iniziali delle azioni</entry>
+	<entry key="PositionTitle9">Inizii 2</entry><entry key="Meaning9">modifica la scheda 9 'gli inizii 1 '. Può dare 
+un'immagine nebbiosa del risultato che il querent ha in mente, o può 
+semplicemente essere un esame ulteriore degli inizii dell'azione allo 
+studio.</entry>
+	<entry key="PositionTitle10">Progresso 1</entry><entry key="Meaning10">Il senso che il risultato è realizzato</entry>
+	<entry key="PositionTitle11">Progresso 2</entry><entry key="Meaning11">modifica la scheda 11 'il progresso 1 'nello stesso 
+senso che scheda 10 carda 9.</entry>
+	<entry key="PositionTitle12">Cambiamenti 1</entry><entry key="Meaning12">Cambiamenti possibili nel programma, o risoluzione. 
+Questa scheda può servire ad esaminare tutti i sensi che la 
+volontà querent deve cambiare il corso nel midstream.</entry>
+	<entry key="PositionTitle13">Cambiamenti 2</entry><entry key="Meaning13">modifica la scheda 13 'i cambiamenti 1 'nello stesso 
+senso che scheda 10 carda 9.</entry>
+	<entry key="PositionTitle14">Risultato 9-14</entry><entry key="Meaning14">Risultato del processo descritto in schede 9 - 14.</entry>
+	<entry key="PositionTitle15">Effetti su 1 querent</entry><entry key="Meaning15">Effetti possibili della risoluzione sul querent</entry>
+	<entry key="PositionTitle16">Effetti su 2 querent</entry><entry key="Meaning16">Effetti possibili della risoluzione sul querent</entry>
+	<entry key="PositionTitle17">Effetti su 3 querent</entry><entry key="Meaning17">Effetti possibili della risoluzione sul querent</entry>
+	<entry key="PositionTitle18">Effetti sull'ambiente 1</entry><entry key="Meaning18">Effetti possibili della risoluzione sulle cose tranne 
+il querent o sul rapporto dei querent al mondo intorno a him/her.</entry>
+	<entry key="PositionTitle19">Effetti sull'ambiente 2</entry><entry key="Meaning19">Effetti possibili della risoluzione sulle cose tranne 
+il querent o sul rapporto dei querent al mondo intorno a him/her.</entry>
+	<entry key="PositionTitle20">Effetti sull'ambiente 3</entry><entry key="Meaning20">Effetti possibili della risoluzione sulle cose tranne 
+il querent o sul rapporto dei querent al mondo intorno a him/her.</entry>
+</oracleio>

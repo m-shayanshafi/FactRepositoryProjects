@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Grand Source Spread (Cortese)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+	<entry key="Title">Großartige Quellverbreitung (Cortese)</entry>
+	<entry key="Description">"dieses ist allgemein-verwenden Verbreitung für das 
+Geben einer gesamten Abbildung der Auflösung zu einem Problem in der 
+Vergangenheit oder in der Zukunft ein gutes. Es leistet sich 
+eine Gelegenheit, die inneren und äußeren Einflüsse, bevor 
+Maßnahmen, ergriffen werden, die Gründung oder den Beweggrund der 
+Tätigkeit, die Weiterentwicklung zu überprüfen der Tätigkeit, die 
+Auflösung, und welche innere und äußere Effekte dieses hat. 
+Es kann auch fungieren, um den Prozeß hervorzuheben, durch den 
+eine Frage uppermost im Verstand der querents beantwortet werden kann,
+obwohl sie möglicherweise nicht die Antwort geben kann." - 
+Cortese</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Innere Einflüsse 1</entry><entry key="Meaning1">Innere Einflüsse an der Arbeit, die Beweggründe vom 
+querent oder was die querent Wünsche zum zu erlernen</entry>
+	<entry key="PositionTitle2">Innere Einflüsse 2</entry><entry key="Meaning2">Innere Einflüsse an der Arbeit, die Beweggründe vom 
+querent oder was die querent Wünsche zum zu erlernen</entry>
+	<entry key="PositionTitle3">Innere Einflüsse 3</entry><entry key="Meaning3">Innere Einflüsse an der Arbeit, die Beweggründe vom 
+querent oder was die querent Wünsche zum zu erlernen</entry>
+	<entry key="PositionTitle4">Äußere Einflüsse 1</entry><entry key="Meaning4">Äußere Einflüsse oder die Einflüsse von den Leuten 
+oder Sachen außerhalb des querent, das das querent veranlassen haben 
+kann, ihre Frage zu stellen</entry>
+	<entry key="PositionTitle5">Äußere Einflüsse 2</entry><entry key="Meaning5">Äußere Einflüsse oder die Einflüsse von den Leuten 
+oder Sachen außerhalb des querent, das das querent veranlassen haben 
+kann, ihre Frage zu stellen</entry>
+	<entry key="PositionTitle6">Äußere Einflüsse 3</entry><entry key="Meaning6">Äußere Einflüsse oder die Einflüsse von den Leuten 
+oder Sachen außerhalb des querent, das das querent veranlassen haben 
+kann, ihre Frage zu stellen</entry>
+	<entry key="PositionTitle7">Samen</entry><entry key="Meaning7">Einführung der Tätigkeit, des Samens, die wachsen 
+oder der Frage, die beantwortet wird</entry>
+	<entry key="PositionTitle8">Anfänge 1</entry><entry key="Meaning8">Die Ausgangsstadien der Tätigkeiten</entry>
+	<entry key="PositionTitle9">Anfänge 2</entry><entry key="Meaning9">ändert Karte 9 ' Anfänge 1 '. Sie kann eine 
+dunstige Abbildung des Resultates geben, das das querent im Verstand 
+hat, oder es kann eine weitere Prüfung der Anfänge der Tätigkeit in
+Erwägung einfach sein.</entry>
+	<entry key="PositionTitle10">Fortschritt 1</entry><entry key="Meaning10">Die Weise, die das Resultat erzielt wird</entry>
+	<entry key="PositionTitle11">Fortschritt 2</entry><entry key="Meaning11">ändert Karte 11 ' Fortschritt 1 ' in der gleichen 
+Weise, die Karte 10 9 kardiert.</entry>
+	<entry key="PositionTitle12">Änderungen 1</entry><entry key="Meaning12">Mögliche Änderungen im Plan oder Auflösung. 
+Diese Karte kann dienen, alle mögliche Weisen zu überprüfen, 
+denen der querent Wille Kurs im Mittelstrahl ändern müssen.</entry>
+	<entry key="PositionTitle13">Änderungen 2</entry><entry key="Meaning13">ändert Karte 13 ' Änderungen 1 ' in der gleichen 
+Weise, die Karte 10 9 kardiert.</entry>
+	<entry key="PositionTitle14">Resultat 9-14</entry><entry key="Meaning14">Resultat des Prozesses umrissen in Karten 9 - 14.</entry>
+	<entry key="PositionTitle15">Effekte auf querent 1</entry><entry key="Meaning15">Mögliche Effekte der Auflösung auf dem querent</entry>
+	<entry key="PositionTitle16">Effekte auf querent 2</entry><entry key="Meaning16">Mögliche Effekte der Auflösung auf dem querent</entry>
+	<entry key="PositionTitle17">Effekte auf querent 3</entry><entry key="Meaning17">Mögliche Effekte der Auflösung auf dem querent</entry>
+	<entry key="PositionTitle18">Effekte auf Klima 1</entry><entry key="Meaning18">Mögliche Effekte der Auflösung auf Sachen anders als 
+das querent oder auf dem Verhältnis der querents zur Welt um him/her.</entry>
+	<entry key="PositionTitle19">Effekte auf Klima 2</entry><entry key="Meaning19">Mögliche Effekte der Auflösung auf Sachen anders als 
+das querent oder auf dem Verhältnis der querents zur Welt um him/her.</entry>
+	<entry key="PositionTitle20">Effekte auf Klima 3</entry><entry key="Meaning20">Mögliche Effekte der Auflösung auf Sachen anders als 
+das querent oder auf dem Verhältnis der querents zur Welt um him/her.</entry>
+</oracleio>

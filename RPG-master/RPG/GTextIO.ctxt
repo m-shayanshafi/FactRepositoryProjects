@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g\ dialogue
+comment0.target=void\ dramatic(java.awt.Graphics,\ java.lang.String)
+comment1.params=
+comment1.target=java.awt.Font\ loadFont()
+numComments=2

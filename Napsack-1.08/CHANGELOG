@@ -1,0 +1,178 @@
+CHANGELOG
+=========
+
+11 February 2002
+----------------
+* Updated Napsack to correctly read the server list from
+  client1.napigator.com/servers.php; any server files used through the
+  servers_file property, should be in the same format as the list available at
+  client1.napigator.com/servers.php from now on.
+* Fixed a couple of bugs that led to incorrect reporting in the Problems
+  dialog.
+* Fixed a bug that caused search results to be misplaced within the results
+  tree.
+* Changed the servers_file property so that it specifies a servers file to use,
+  instead of just toggling the use of the .napsack_servers file. 
+* Updated copyright information to include 2002.
+
+7 December 2001
+---------------
+* Divided error messages into two classes:  those related to search setup, and
+  those related to the execution of a command on a particular server.  This
+  distinction changes how error messages are displayed and controlled:
+  * The classic client prints both setup and command error messages to stderr,
+    as before.  The error_messages propterty controls the printing of setup and
+    command error messages when using the classic client, also as before.
+  * The GUI client displays each setup error message in a separate warning
+    dialog, as before, but now displays all command error messages together
+    in a Problems dialog.  The error_messages property only controls
+    the display of setup error messages when using the GUI client--command
+    errors are always added to the Problems dialog.
+  * Command errors include more information about the error encountered,
+    including server replies (in most cases). 
+* Added a "Flip results tree" option to the View menu.  This option re-
+  orients the results tree, so that results are grouped first by service and
+  then by query.  By default, results are grouped first by query and then by
+  service.
+* Changed the organization of services returned from www.napigator.com.  Now,
+  many single servers are considered part of a network.  This affects the
+  way that results are shown: a lone server's network name now appears in
+  the results tree.  Only servers that have their network specified as n/a
+  by Napigator are still treated as stand-alone servers.
+* Added a application_identifier property.  This property is sent to each
+  Napster server upon connection.  It is used by a server to identify the type
+  of client that is connecting to it.
+* Updated SongQueryResultFormat so that NapsterNetworks are printed to the
+  console as they are displayed in the gui--<network> (<ip>:<port>).
+* Updated AboutDialog to use setVisible instead of show and hide.
+* Removed main_location and main_size properties.  These two metrics were
+  not being handled uniformly across various JVM implementations.
+* Cleanup.
+  
+20 August 2001
+--------------
+* Fixed a bug in the main_location property.  This property should now work
+  correctly on desktops with multiple viewports and, er, desktops.
+
+13 May 2001
+-----------
+* Added a command_attempts property and a command_attempt_interval propery
+  to the .napsack properties file.  These properties control how Napsack
+  retries failed queries (due to full servers, communication problems,
+  network errors, etc...).
+* Added a main_size property and a main_location property to specify the
+  size and location of the main Napsack window.
+
+03 April 2001
+-------------
+* Right-aligned numerical values in graphical search-result columns.
+* Added a servers_file property that allows Napsack to read Napigator data
+  from a file.
+* Re-implemented the search engine to support cancelling and event
+  notification.
+* Added a status bar.
+* Added a progress bar.
+
+06 March 2001
+-------------
+* Added a Save Settings item to the File menu.  This allows a user to
+  save application settings at any time.
+* Added a Help menu with an About dialog.
+* Added a graphical login dialog.
+
+13 February 2001
+----------------
+* Changed the Max. Results field from a text-entry box to a slider.
+* Changed the Bit Rate and Frequency fields from text-entry boxes to combo
+  boxes.
+* Added keyboard mnemonics to all of the search fields.
+* Changed the default height of the Query Strings and the Excluded Networks
+  lists.
+* Removed the grid lines from the results table.
+* Added a save_on_exit property to save Napsack properties changed through
+  the GUI.  save_on_exit=Off by default.
+* Added a shutdown hook to (optionally) save properties on exit.
+* Added a menu bar.
+* Changed the search panel to lazily initialize the Networks tab.
+* Added sorting capability to the GUI.  Sorting can be initiated by selecting
+  an entry from the View > Sort By menu, or by clicking on a column header.
+* Modified the sort_by property to recognize a "-" reverse-sort-order modifier
+  in the case of a single sorting field.  This modification allows Napsack to
+  remember GUI initiated sorting between invocations.
+* Added a View > Show menu to select visible results columns.
+
+13 January 2001 - 1.01
+----------------------
+* 1.01 marks the first iteration in the development of Napsack 2.0, a graphical
+  Napsack.
+* The GUI is now (barely) functional, and presents one search per application
+  invocation.  To launch a second search, close and re-launch Napsack.  Fixing
+  this is first on the list for 1.02.
+* Added a gui property to toggle between graphical and classic console
+  output.  gui=On by default.
+* Added a table_columns property to select the columns that are visible in
+  the GUI's search-results table.
+* Fixed a bug that caused a NullPointerException whenever connection type
+  was included in the output_format property.
+* Introduced some incompatibilities into ~/.napsack for consistency (among
+  1.01 properties) and correctness.  In particular:
+  * The query property has been renamed to queries.
+  * The line_speed property has been renamed to connection.
+  * The second and minute values are no longer valid for the sort_by or
+    output_format properties.  The Length value can be used instead:  it
+    represents a song's total length (in seconds) to sort_by, and it represents
+    a string in #00:00 format to output_format.
+  * The connection type value for the sort_by and output_field properties has
+    been renamed to Connection.
+  * The values for the connection property (previously line_speed; see above)
+    that ended in Kb now end in Kbps.
+  * All property values have been converted to title case.  For exampe, equal
+    to is now Equal To.
+* Cleanup.
+
+12 December 2000 - 1.0
+----------------------
+* Fixed a bug that caused a query to fail on all servers in a Napster
+  network.  This behaviour occurred whenever a query failed after
+  (as opposed to during) server login.
+* Minor cleanup.
+
+21 November 2000 - 0.04b
+------------------------
+* Fixed a bug that crashed Napsack on startup.  The crash occurred whenever
+  delimiter--along with at least one of nick, password, and query--was not
+  specified in ~/.napsack.
+
+21 November 2000 - 0.03b
+------------------------
+* Fixed a bug that caused an IndexOutOfBoundsException to be thrown when a
+  backslash appeared in a user's nick (in a search result).
+* Search results may now be formatted.  Each song property, as well as the
+  Napster-service identifier, may appear left-justified, right-justified,
+  centered, or right-justified (zero padded).  An output format may be
+  specified via the output_format property in the .napsack properties file.
+* Added a sorting feature.  By specifying fields through the sort_by property
+  in the properties file, results from each query on each Napster service
+  may be sorted.  A field may be used as a sorting criterion without appearing
+  in the output.
+* Error messages may be suppressed by specifying error_messages=off in
+  .napsack.
+
+16 September 2000 - 0.02
+------------------------
+* Fixed an ArrayIndexOutOfBoundsException bug.
+* Fixed an interleaved-results-output (results from multiple servers
+  were mixed together upon output) bug.
+* Added nine recognized properties--excluded-networks, min_users, min_files,
+  min_gigs, bit_rate, frequency, line_speed, max_threads, and delimiter--to the
+  .napsack properties file, and expanded a previously recognized property--
+  query.
+* The query property may now contain a list of queries to launch.  A list of
+  queries may also be specified on the command-line.  In the case that query
+  is specified both in .napsack and on the command line, the command-line
+  queries are appended to those queries that appear in .napsack.
+ 
+04 September 2000 - 0.01
+------------------------
+Initial release, alpha stage.
+

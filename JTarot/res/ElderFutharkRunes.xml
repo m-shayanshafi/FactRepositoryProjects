@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="Oracle" subclass="" language="" version="1" author="Thomas Dilts" >
+		<entry key="numberofobjects" >24</entry>
+		<entry key="AllowUpsidedown" >true</entry>
+		<entry key="subgroup0" >0   1   2   3   4   5   6   7</entry>
+		<entry key="subgroup1" >8   9   19 11 12 13 14 15</entry>
+		<entry key="subgroup2" >16 17 18 19 20 21 22 23</entry>
+		<entry key="subgroup3" ></entry>
+		<entry key="subgroup4" ></entry>
+		<entry key="subgroup5" ></entry>
+		<entry key="grouping0" >0   1   2   3   4   5   6   7</entry>
+		<entry key="grouping1" >8   9   19 11 12 13 14 15</entry>
+		<entry key="grouping2" >16 17 18 19 20 21 22 23</entry>
+		<entry key="grouping3" ></entry>
+		<entry key="grouping4" ></entry>
+		<entry key="grouping5" ></entry>
+		<entry key="author" >Thomas Dilts tarot@lazy8.nu</entry>
+		<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+			<!--This is how to show on the screen ALL the cards at the same time. 
+			The first and second row may be floating point numbers with "." as the decimal seperator.
+			This is where the card is positioned on the screen. 1= width(in the case of column) or 
+			height(in the case of row) of one card.
+			
+			Column Row IsSideways=1 -->
+<entry key="screenLayoutxy">
+		         0  0  0
+			 1  0  0
+			 2  0  0
+			 3  0  0
+			 4  0  0
+			 5  0  0
+			 6  0  0
+			 7  0  0
+			 0  1  0
+			 1  1  0
+			 2  1  0
+			 3  1  0
+			 4  1  0
+			 5  1  0
+			 6  1  0
+			 7  1  0
+			 0  2  0
+			 1  2  0
+			 2  2  0
+			 3  2  0
+			 4  2  0
+			 5  2  0
+			 6  2  0
+			 7  2  0
+</entry>
+			<!-- 
+				Printout table positions.  No overlapping cards allowed in the printouts.
+				minus 1 means no card shown in that table row/column.  A number means that card index is shown at
+				that position.  These may only be integers
+				That row/column
+			 -->
+<entry key="printoutxy">
+                          0  1    2    3    4   5   6   7
+			  8   9   10 11 12 13 14 15
+			  16 17 18 19 20 21 22 23
+</entry>
+			<!-- Columns Rows in the html printouts. Integer only
+			 -->
+<entry key="printoutsize">4 6</entry>
+			<!-- Column Row on the screen.  Integer only
+			 -->
+<entry key="screensize">8 3</entry>
+			<!-- In the screen, some cards may be hidden by other cards.  By printing the cards onto the screen in a different
+				order, hidden cards will be revealed.
+			 -->
+<entry key="showHiddenOrder">0 1 2 3 4 5 6 7 8 9 0 11 12 13 14 15 16 17 18 19 20 21 22 23</entry>
+</oracleio>
+

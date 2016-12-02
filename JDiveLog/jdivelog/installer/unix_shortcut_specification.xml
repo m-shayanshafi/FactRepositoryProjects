@@ -1,0 +1,41 @@
+<shortcuts>
+	<programGroup defaultName="JDiveLog" location="applications" />
+	<shortcut
+		name="JDiveLog"
+		programGroup="yes"
+		desktop="yes"
+		applications="no"
+		startMenu="yes"
+		startup="no"
+		target="$INSTALL_PATH/bin/jdivelog"
+		commandLine=""
+		workingDirectory="$USER_HOME"
+		description="JDiveLog"
+		iconFile="$INSTALL_PATH/bin/icons/logo.gif"
+		iconIndex="0"
+		type="Application"
+		encoding="UTF-8"
+		terminal="false"
+		KdeSubstUID="false"
+		initialState="normal">
+		<createForPack name="JDiveLog Binaries"/>
+	</shortcut>
+	<shortcut
+		name="JDiveLog Manual"
+		programGroup="yes"
+		desktop="yes"
+		applications="no"
+		startMenu="yes"
+		startup="no"
+		target="$INSTALL_PATH/docs/manual.pdf"
+		commandLine=""
+		workingDirectory="$USER_HOME"
+		description="JDiveLog"
+		type="Application"
+		encoding="UTF-8"
+		terminal="false"
+		KdeSubstUID="false"
+		initialState="normal">
+		<createForPack name="JDiveLog Binaries"/>
+	</shortcut>
+</shortcuts>

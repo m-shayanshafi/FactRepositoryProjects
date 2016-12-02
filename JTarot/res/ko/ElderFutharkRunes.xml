@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="ko" version="1" author="Thomas Dilts" >
+	<entry key="displayname">오래 되는FutharkRunes</entry>
+	<entry key="description">오래 되는Futhark은 룬 문자 알파벳의 
+오래 되는 버전 이고 생각하고, 게르만 사람에게 
+가정 이던 스칸디나비아를 포함하여 유럽의 
+부분안에, 사용되었다. 다른 버전은 
+그것에서 가능하게 발전했다.</entry>
+	<entry key="subgroup0">Freya의Airt(Ætt)</entry>
+	<entry key="subgroup1">Heimdall의Airt(Ætt)</entry>
+	<entry key="subgroup2">Tyr의Airt(Ætt)</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Freya의Airt(Ætt)</entry>
+	<entry key="grouping1">Heimdall의Airt(Ætt)</entry>
+	<entry key="grouping2">Tyr의Airt(Ætt)</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">한국어</entry>
+	<entry key="author">토마스Diltstarot@lazy8.nu</entry>
+	<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+</oracleio>

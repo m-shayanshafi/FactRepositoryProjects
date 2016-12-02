@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Solar Spread (Doane)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Uitgespreid zonne (Doane)</entry>
+	<entry key="Description">In elke rij, vertegenwoordigt de middenkaart (4..11..18..25, 
+enz.) huidige voorwaarden of invloeden. De drie kaarten aan het 
+recht vertegenwoordigen het verleden; drie aan de linkerzijde, 
+de toekomst. Elke rij zal betrekking hebben op of een bepaald 
+aspect van het leven of bepaalde mensen (of misschien allebei)</entry>
+	<entry key="PositionTitle0">Maan 1 Verleden</entry><entry key="Meaning0">Emoties, gevoel</entry>
+	<entry key="PositionTitle1">Maan 2 Verleden</entry><entry key="Meaning1">Emoties, gevoel</entry>
+	<entry key="PositionTitle2">Maan 3 Verleden</entry><entry key="Meaning2">Emoties, gevoel</entry>
+	<entry key="PositionTitle3">Maan 4 Heden</entry><entry key="Meaning3">Emoties, gevoel</entry>
+	<entry key="PositionTitle4">Maan 5 Toekomst</entry><entry key="Meaning4">Emoties, gevoel</entry>
+	<entry key="PositionTitle5">Maan 6 Toekomst</entry><entry key="Meaning5">Emoties, gevoel</entry>
+	<entry key="PositionTitle6">Maan 7 Toekomst</entry><entry key="Meaning6">Emoties, gevoel</entry>
+	<entry key="PositionTitle7">Kwik 1 Verleden</entry><entry key="Meaning7">Gedachten, intellect</entry>
+	<entry key="PositionTitle8">Kwik 2 Verleden</entry><entry key="Meaning8">Gedachten, intellect</entry>
+	<entry key="PositionTitle9">Kwik 3 Verleden</entry><entry key="Meaning9">Gedachten, intellect</entry>
+	<entry key="PositionTitle10">Kwik 4 Heden</entry><entry key="Meaning10">Gedachten, intellect</entry>
+	<entry key="PositionTitle11">Kwik 5 Toekomst</entry><entry key="Meaning11">Gedachten, intellect</entry>
+	<entry key="PositionTitle12">Kwik 6 Toekomst</entry><entry key="Meaning12">Gedachten, intellect</entry>
+	<entry key="PositionTitle13">Kwik 7 Toekomst</entry><entry key="Meaning13">Gedachten, intellect</entry>
+	<entry key="PositionTitle14">Venus 1 Verleden</entry><entry key="Meaning14">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle15">Venus 2 Verleden</entry><entry key="Meaning15">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle16">Venus 3 Verleden</entry><entry key="Meaning16">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle17">Venus 4 Heden</entry><entry key="Meaning17">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle18">Venus 5 Toekomst</entry><entry key="Meaning18">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle19">Venus 6 Toekomst</entry><entry key="Meaning19">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle20">Venus 7 Toekomst</entry><entry key="Meaning20">Liefde, verhoudingen</entry>
+	<entry key="PositionTitle21">Zon 1 Verleden</entry><entry key="Meaning21">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle22">Zon 2 Verleden</entry><entry key="Meaning22">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle23">Zon 3 Verleden</entry><entry key="Meaning23">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle24">Zon 4 Heden</entry><entry key="Meaning24">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle25">Zon 5 Toekomst</entry><entry key="Meaning25">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle26">Zon 6 Toekomst</entry><entry key="Meaning26">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle27">Zon 7 Toekomst</entry><entry key="Meaning27">Energie, ego, het centrale punt</entry>
+	<entry key="PositionTitle28">Mars 1 Verleden</entry><entry key="Meaning28">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle29">Mars 2 Verleden</entry><entry key="Meaning29">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle30">Mars 3 Verleden</entry><entry key="Meaning30">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle31">Mars 4 Heden</entry><entry key="Meaning31">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle32">Mars 5 Toekomst</entry><entry key="Meaning32">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle33">Mars 6 Toekomst</entry><entry key="Meaning33">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle34">Mars 7 Toekomst</entry><entry key="Meaning34">Conflict, oorlog. Kan ook de oplossing of het antwoord aan
+de kwestie vertegenwoordigen die is waarom het reconciler wordt 
+genoemd</entry>
+	<entry key="PositionTitle35">Jupiter 1 Verleden</entry><entry key="Meaning35">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle36">Jupiter 2 Verleden</entry><entry key="Meaning36">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle37">Jupiter 3 Verleden</entry><entry key="Meaning37">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle38">Jupiter 4 Heden</entry><entry key="Meaning38">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle39">Jupiter 5 Toekomst</entry><entry key="Meaning39">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle40">Jupiter 6 Toekomst</entry><entry key="Meaning40">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle41">Jupiter 7 Toekomst</entry><entry key="Meaning41">De groei en uitbreiding. Geluk. Positieve invloeden</entry>
+	<entry key="PositionTitle42">Saturnus 1 Verleden</entry><entry key="Meaning42">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle43">Saturnus 2 Verleden</entry><entry key="Meaning43">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle44">Saturnus 3 Verleden</entry><entry key="Meaning44">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle45">Saturnus 4 Heden</entry><entry key="Meaning45">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle46">Saturnus 5 Toekomst</entry><entry key="Meaning46">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle47">Saturnus 6 Toekomst</entry><entry key="Meaning47">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+	<entry key="PositionTitle48">Saturnus 7 Toekomst</entry><entry key="Meaning48">Het te doen werk. Negatieve te overwinnen invloeden</entry>
+</oracleio>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Spirits of the Circle Spread(Carr-Gomm)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">원형Spread(Carr-Gomm)의 정신</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">조상</entry><entry key="Meaning1">조상의 정신 - 가족 연장자의 영향 </entry>
+	<entry key="PositionTitle2">부족</entry><entry key="Meaning2">부족의 정신 - 문화의 영향</entry>
+	<entry key="PositionTitle3">시간</entry><entry key="Meaning3">시간의 정신</entry>
+	<entry key="PositionTitle4">장소</entry><entry key="Meaning4">장소 - 출생지와 거주의 영향의 
+정신</entry>
+	<entry key="PositionTitle5">여행</entry><entry key="Meaning5">여행의 정신 - 이전 생활의 영향</entry>
+	<entry key="PositionTitle6">결과</entry><entry key="Meaning6">Awen- 신 성격의gifts/blessings/graces</entry>
+</oracleio>

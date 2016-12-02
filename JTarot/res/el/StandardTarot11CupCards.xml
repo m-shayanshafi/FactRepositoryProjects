@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Cup of Relationships Spread (Sagie)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts 
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Φλυτζάνι των σχέσεων που διαδίδονται (Sagie)</entry>
+	<entry key="Description">Sagie reccomends που χρησιμοποιεί τους πρόσθετους 
+τροποποιητές στην κάρτα 11 εάν η έκβαση είναι ασαφής.</entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Ίδρυμα</entry><entry key="Meaning2">Το ίδρυμα της σχέσης</entry>
+	<entry key="PositionTitle3">Πρόσφατο παρελθόν</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Παρόν</entry><entry key="Meaning4">Επικρατούσα κατάσταση της σχέσης</entry>
+	<entry key="PositionTitle5">Εμπόδια</entry><entry key="Meaning5">Εμπόδια αυτοί και το δύο πρόσωπο</entry>
+	<entry key="PositionTitle6">Απόψεις #1</entry><entry key="Meaning6">Απόψεις #1 σχετικά με τη σχέση</entry>
+	<entry key="PositionTitle7">Απόψεις #2</entry><entry key="Meaning7">Απόψεις #2 σχετικά με τη σχέση</entry>
+	<entry key="PositionTitle8">Προσδοκίες #1</entry><entry key="Meaning8">Προσδοκίες #1 σχετικά με τη σχέση</entry>
+	<entry key="PositionTitle9">Προσδοκίες #2</entry><entry key="Meaning9">Προσδοκίες #2 σχετικά με τη σχέση</entry>
+	<entry key="PositionTitle10">Καλύτερη έκβαση</entry><entry key="Meaning10"></entry>
+</oracleio>

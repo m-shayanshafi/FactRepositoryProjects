@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Magic seven layout (Doane)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">魔術七佈局(Doane)</entry>
+	<entry key="Description">大衛星</entry>
+	<entry key="PositionTitle0">通過</entry><entry key="Meaning0">通過事件導致對現狀</entry>
+	<entry key="PositionTitle1">禮物</entry><entry key="Meaning1">現狀</entry>
+	<entry key="PositionTitle2">直接未來</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">解答</entry><entry key="Meaning3">建議的解答, 什麼querent 應該做獲得對當前形勢的更多控制</entry>
+	<entry key="PositionTitle4">環境</entry><entry key="Meaning4">當前環境並且/或者它的影響在問題上</entry>
+	<entry key="PositionTitle5">反對</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">結果</entry><entry key="Meaning6"></entry>
+</oracleio>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Seven card chakra layout</entry>
+	<entry key="Description">Each card corresponds to one of the seven chakras of the
+body.  Proper study of the subject would be advised when using this
+layout and the list below is intended only as a reference guide
+extracted from Guiley's book.  Interpretations of each position may
+vary depending upon your learnings</entry>
+	<entry key="PositionTitle0">Root chakra</entry><entry key="Meaning0">Self-preservation and instincts</entry>
+	<entry key="PositionTitle1">Sacral chakra</entry><entry key="Meaning1">Sexuality</entry>
+	<entry key="PositionTitle2">Solar plexus</entry><entry key="Meaning2">Emotions</entry>
+	<entry key="PositionTitle3">Heart chakral</entry><entry key="Meaning3">Higher consciousness, unconditional love</entry>
+	<entry key="PositionTitle4">Throat chakra</entry><entry key="Meaning4">Creativity and self expression</entry>
+	<entry key="PositionTitle5">Third eye chakra</entry><entry key="Meaning5">Psychic abilities, spiritual enlightenment</entry>
+	<entry key="PositionTitle6">Crown chakra</entry><entry key="Meaning6">Individual level of conscious evoluion</entry>
+</oracleio>

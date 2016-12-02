@@ -1,0 +1,487 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>CRG ScoreBoard</title>
+
+<script type="text/javascript" src="../../external/prototype/prototype.js"></script>
+<script type="text/javascript" src="../../external/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="../../javascript/window-util.js"></script>
+<script type="text/javascript" src="../../javascript/object-util.js"></script>
+<script type="text/javascript" src="../../javascript/xml-util.js"></script>
+<script type="text/javascript" src="../../javascript/scoreboard-viewer.js"></script>
+<script type="text/javascript" src="../../javascript/scoreboard-controller.js"></script>
+
+<script type="text/javascript">
+
+var periodPosition = "";
+function clockPeriodHide() {
+  if (periodPosition == "hide") return;
+  periodPosition = "hide";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 59%; right: 130%; height: 12%; width: 16%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 59%; right: 100%; height: 12%; width: 28%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockPeriodSmall() {
+  if (periodPosition == "small") return;
+  periodPosition = "small";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 59%; right: 81%; height: 12%; width: 16%", sync: true }),
+    new Effect.Morph("ClockPeriodName", { style: "font-size: 4.5%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 59%; right: 51%; height: 12%; width: 28%;", sync: true }),
+    new Effect.Morph("ClockPeriodTime", { style: "font-size: 9.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockPeriodLarge() {
+  if (periodPosition == "large") return;
+  periodPosition = "large";
+  new Effect.Parallel( [
+    new Effect.Morph("ClockPeriodNameBox", { style: "top: 64%; right: 60%; height: 10%; width: 30%;", sync: true }),
+    new Effect.Morph("ClockPeriodName", { style: "font-size: 7%;", sync: true }),
+    new Effect.Morph("ClockPeriodTimeBox", { style: "top: 76%; right: 55%; height: 16%; width: 40%;", sync: true }),
+    new Effect.Morph("ClockPeriodTime", { style: "font-size: 12.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var jamShow = false;
+function clockJamHide() {
+  if (!jamShow) return;
+  jamShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockJamNameBox", { style: "left: 105%;", sync: true }),
+    new Effect.Morph("ClockJamTimeBox", { style: "left: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockJamShow() {
+  if (jamShow) return;
+  jamShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockJamNameBox", { style: "left: 60%;", sync: true }),
+    new Effect.Morph("ClockJamTimeBox", { style: "left: 55%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var lineupShow = false;
+function clockLineupHide() {
+  if (!lineupShow) return;
+  lineupShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockLineupNameBox", { style: "left: 130%;", sync: true }),
+    new Effect.Morph("ClockLineupTimeBox", { style: "left: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockLineupShow() {
+  if (lineupShow) return;
+  lineupShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockLineupNameBox", { style: "left: 81%;", sync: true }),
+    new Effect.Morph("ClockLineupTimeBox", { style: "left: 51%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var adImgShow = false;
+function adHide() {
+  if (!adImgShow) return;
+  adImgShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ScoreBoardAd", { style: "top: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function adShow() {
+  if (adImgShow) return;
+  adImgShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ScoreBoardAd", { style: "top: 73.5%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+
+}
+
+var timeoutShow = false;
+function clockTimeoutHide() {
+  if (!timeoutShow) return;
+  timeoutShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockTimeoutNameBox", { style: "top: 102%;", sync: true }),
+    new Effect.Morph("ClockTimeoutTimeBox", { style: "top: 100%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockTimeoutShow() {
+  if (timeoutShow) return;
+  timeoutShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockTimeoutNameBox", { style: "top: 78%;", sync: true }),
+    new Effect.Morph("ClockTimeoutTimeBox", { style: "top: 76%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+var intermissionShow = false;
+function clockIntermissionHide() {
+  if (!intermissionShow) return;
+  intermissionShow = false;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockIntermissionNameBox", { style: "top: 100%;", sync: true }),
+    new Effect.Morph("ClockIntermissionTimeBox", { style: "top: 115%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+function clockIntermissionShow() {
+  if (intermissionShow) return;
+  intermissionShow = true;
+  new Effect.Parallel( [
+    new Effect.Morph("ClockIntermissionNameBox", { style: "top: 59%;", sync: true }),
+    new Effect.Morph("ClockIntermissionTimeBox", { style: "top: 74%;", sync: true })
+  ], { queue: { position: "end", scope: "positionQueue" }, duration: 0.35, transition: Effect.Transitions.linear, fps: 20 });
+}
+
+function showJam() {
+  clockIntermissionHide();
+  clockLineupHide();
+  clockTimeoutHide();
+  adHide();
+  clockJamShow();
+  clockPeriodLarge();
+}
+
+function showLineup() {
+  clockIntermissionHide();
+  clockTimeoutHide();
+  clockJamHide();
+  clockPeriodSmall();
+  clockLineupShow();
+  adShow();
+}
+
+function showTimeout() {
+  clockIntermissionHide();
+  clockLineupHide();
+  adHide();
+  clockJamHide();
+  clockPeriodSmall();
+  clockTimeoutShow();
+}
+
+function showIntermission() {
+  clockLineupHide();
+  clockTimeoutHide();
+  adHide();
+  clockJamHide();
+  clockPeriodHide();
+  clockIntermissionShow();
+}
+
+
+function jamChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showJam();
+}
+function lineupChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showLineup();
+}
+function timeoutChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true")
+    showTimeout();
+}
+function intermissionChange(value) {
+  if (ScoreBoard.Page("scoreboard.html").AutoClockPosition.getContent() != "true")
+    return;
+  if (value == "true") {
+    if ((ScoreBoard.Clock('Period').Running.getContent() != "true") || (ScoreBoard.Clock('Timeout').Running.getContent() != "true"))
+      showIntermission();
+  } else {
+    if (ScoreBoard.Clock('Jam').Running.getContent() == "true")
+      showJam();
+    else if (ScoreBoard.Clock('Lineup').Running.getContent() == "true")
+      showLineup();
+    else if (ScoreBoard.Clock('Timeout').Running.getContent() == "true")
+      showTimeout();
+    else
+      showJam();
+  }
+}
+
+function setupScoreBoard() {
+  var sbpage = ScoreBoard.get("Page", "scoreboard.html");
+  if (sbpage.get("AutoClockPosition").getContent() == null)
+    sbpage.get("AutoClockPosition").setContent("true");
+  if (sbpage.get("ManualClockPosition").getContent() == null)
+    sbpage.get("ManualClockPosition").setContent("jam");
+
+  sbpage.get("ClockPositions", "jam").setContent("jam");
+  sbpage.get("ClockPositions", "lineup").setContent("lineup");
+  sbpage.get("ClockPositions", "timeout").setContent("timeout");
+  sbpage.get("ClockPositions", "intermission").setContent("intermission");
+
+  var manualClockPositionSet = function(position) {
+    if (position == "jam")
+      showJam();
+    else if (position == "lineup")
+      showLineup();
+    else if (position == "timeout")
+      showTimeout();
+    else if (position == "intermission")
+      showIntermission();
+  };
+  sbpage.get("ManualClockPosition").observe("content:change", function(event) { manualClockPositionSet(event.memo.value); });
+
+  if (sbpage.get("AutoClockPosition").getContent() == "true") {
+    if (ScoreBoard.Clock("Jam").Running.getContent() == "true")
+      showJam();
+    else if (ScoreBoard.Clock("Lineup").Running.getContent() == "true")
+      showLineup();
+    else if (ScoreBoard.Clock("Timeout").Running.getContent() == "true")
+      showTimeout();
+    else if (ScoreBoard.Clock("Intermission").Running.getContent() == "true")
+      showIntermission();
+    else
+      manualClockPositionSet(sbpage.get("ManualClockPosition").getContent());
+  } else {
+    manualClockPositionSet(sbpage.get("ManualClockPosition").getContent());
+  }
+
+  ScoreBoard.Clock("Jam").Running.observe("content:change", function(event) { jamChange(event.memo.value); });
+  ScoreBoard.Clock("Lineup").Running.observe("content:change", function(event) { lineupChange(event.memo.value); });
+  ScoreBoard.Clock("Timeout").Running.observe("content:change", function(event) { timeoutChange(event.memo.value); });
+  ScoreBoard.Clock("Intermission").Running.observe("content:change", function(event) { intermissionChange(event.memo.value); });
+
+  $("ClockIntermissionName").innerHTML = ((ScoreBoard.Clock("Intermission").Number.getContent() == "1") ? "Halftime" : "Final");
+  ScoreBoard.Clock("Intermission").Number.observe("content:change", function(event) { $("ClockIntermissionName").innerHTML = ((event.memo.value == 1) ? "Halftime" : "Final"); });
+
+  if (sbpage.get("AutoScoreBoardAdChange").getContent() == null)
+    sbpage.get("AutoScoreBoardAdChange").setContent("true");
+
+  var randomAd = function() {
+    if (ScoreBoard.get("Page", "scoreboard.html").get("AutoScoreBoardAdChange").getContent() == "true") {
+      var imgs = ScoreBoard.Image.filter(function(i) { return (i.Type.getContent() == "ad"); });
+      $("ScoreBoardAd").src = imgs.toArray()[Math.floor(imgs.toArray().length * Math.random())].Filename.getContent();
+    }
+  };
+  randomAd();
+  var lastLineupTime = 0;
+  ScoreBoard.Clock("Lineup").Time.observe("content:change", function(event) {
+    var time = Math.floor(event.memo.value / 1000);
+    if (time == lastLineupTime)
+      return;
+    lastLineupTime = time;
+    if ((0 == (time % 5)) && (0 != time) && (30 != time))
+      randomAd();
+  });
+}
+
+function setupWindow() {
+  setupScoreBoard();
+
+  resizeWindow();
+
+  startScoreBoardWatchdog(watchdog);
+}
+
+function resizeWindow() {
+  document.body.style.width = document.viewport.getWidth() + "px";
+  document.body.style.height = document.viewport.getHeight() + "px";
+
+  /* Fix to 4x3 aspect, fit to browser size, centered (if needed) */
+  var w = get4x3W();
+  var h = getH();
+  if (w > getW()) {
+    w = getW();
+    h = get4x3H();
+  }
+  var t = (getH() - h) / 2;
+  var l = (getW() - w) / 2;
+
+  $("mainDiv").setStyle( { top: t+"px", left: l+"px", width: w+"px", height: h+"px" } );
+
+  $$(".box").each(function(e) { e.setStyle( { fontSize: w+"px" } ); });
+}
+
+function watchdog(interval, sinceRequest, sinceResponse) {
+//FIXME - this should track the xmlhttp and abort the last one to avoid having a lot pending
+  if (1000 < sinceResponse) {
+    getScoreBoard(0, "");
+  }
+}
+
+function startAll() {
+  document.observe("keydown", function(event) {
+    if (Event.KEY_ESC == event.keyCode)
+      $$(".cursorControl").each(function(c) { c.style.cursor = (( c.style.cursor == "none") ? "" : "none" ); });
+  });
+  $$(".cursorControl").each(function(c) { c.style.cursor = "none"; });
+
+  var rate = getParam("pollRate");
+  startScoreBoard("views/scoreboard.html", (null==rate) ? "100" : rate, "setupWindow();");
+}
+
+</script>
+
+<style type="text/css" >
+* { position: absolute; }
+#mainDiv { position: fixed; }
+
+.full { top: 0%; bottom: 0%; left: 0%; right: 0%; }
+img.full { width: 100%; height: 100%; }
+
+a {
+  text-align: center;
+  letter-spacing: 0px;
+  text-decoration: none;
+  overflow: hidden;
+  font-stretch: condensed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  line-height: 100%;
+}
+
+@font-face {
+  font-family: "ScoreBoard";
+  src: url("/fonts/LCDMonoWinTT/LCDMN___.TTF");
+}
+
+/* For manual positioning */
+/* [sbelement='ScoreBoard.Page(scoreboard.html).View(ScoreBoard)'] > *{ border: 1px solid white; } */
+
+#Team1Name,#Team2Name { color: #ffffff; text-align: center; }
+
+#Team1NameBox       { top: 0%; left: 5%; width: 40%; height: 10%; }
+#Team1Name          { font-size: 8%; }
+#Team2NameBox       { top: 0%; left: 55%; width: 40%; height: 10%; }
+#Team2Name          { font-size: 8%; }
+#Team1Logo          { top: 10%; left: 5%; width: 40%; height: 20%; }
+#Team2Logo          { top: 10%; left: 55%; width: 40%; height: 20%; }
+#Team1ScoreBox      { top: 31%; left: 5%; width: 40%; height: 25%; }
+#Team2ScoreBox      { top: 31%; left: 55%; width: 40%; height: 25%; }
+#Team1Score         { font-size: 21.5%; line-height: 88%; }
+#Team2Score         { font-size: 21.5%; line-height: 88%; }
+
+#ClockPeriodNameBox { top: 64%; right: 130%; height: 10%; width: 30%; }
+#ClockPeriodName    { font-size: 7%; }
+#ClockPeriodTimeBox { top: 76%; right: 100%; height: 16%; width: 40%; }
+#ClockPeriodTime    { font-size: 12.5%; }
+
+#ClockJamNameBox    { top: 64%; left: 105%; height: 10%; width: 30%; }
+#ClockJamName       { font-size: 7%; }
+#ClockJamTimeBox    { top: 76%; left: 100%; height: 16%; width: 40%; }
+#ClockJamTime       { font-size: 12.5%; }
+
+#ClockLineupNameBox { top: 59%; left: 100%; height: 12%; width: 16%; }
+#ClockLineupName    { font-size: 3.5%; line-height: 250%; }
+#ClockLineupTimeBox { top: 59%; left: 100%; height: 12%; width: 28%; }
+#ClockLineupTime    { font-size: 9.5%; }
+
+#ClockTimeoutNameBox { top: 102%; left: 10%; height: 12%; width: 35%; }
+#ClockTimeoutName    { font-size: 7.75%; line-height: 110%; }
+#ClockTimeoutTimeBox { top: 100%; left: 55%; height: 16%; width: 35%; }
+#ClockTimeoutTime    { font-size: 12.5%; }
+
+#ClockIntermissionNameBox { top: 100%; left: 25%; height: 12%; width: 50%; }
+#ClockIntermissionName    { font-size: 7.75%; line-height: 110%; }
+#ClockIntermissionTimeBox { top: 115%; left: 20%; height: 23%; width: 60%; }
+#ClockIntermissionTime    { font-size: 19%; line-height: 90%; }
+
+#ScoreBoardAd { top: 100%; left: 0%; width: 100%; height: 26.5%; }
+
+</style>
+
+</head>
+
+<body onload="startAll();" onresize="resizeWindow();" style="overflow: hidden; background: #000000;" >
+
+<div id="mainDiv" >
+  <div id="topDiv" style="bottom: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="bottomDiv" style="top: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="leftDiv" style="right: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+  <div id="rightDiv" style="left: 100%; width: 100%; height: 100%; z-index: 100; background: grey;" ></div>
+
+
+  <div sbelement="ScoreBoard.Page(scoreboard.html).View(ScoreBoard)" class="full cursorControl" >
+    <div id="Team1NameBox" class="box"><a id="Team1Name" sbelement="ScoreBoard.Team(1).Name" class="full" ></a></div>
+    <img id="Team1Logo" sbelement="ScoreBoard.Team(1).TeamLogo.Filename" />
+    <div id="Team1ScoreBox" class="box">
+      <a id="Team1Score" sbelement="ScoreBoard.Team(1).Score" class="full" ></a>
+      <img src="/images/score-box.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="Team2NameBox" class="box"><a id="Team2Name" sbelement="ScoreBoard.Team(2).Name" class="full" ></a></div>
+    <img id="Team2Logo" sbelement="ScoreBoard.Team(2).TeamLogo.Filename" />
+    <div id="Team2ScoreBox" class="box">
+      <a id="Team2Score" sbelement="ScoreBoard.Team(2).Score" class="full" ></a>
+      <img src="/images/score-box.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockPeriodNameBox" class="box">
+      <script type="text/javascript"> function prefixPeriod(num) { return "Period "+num; }; </script>
+      <a id="ClockPeriodName" sbelement="ScoreBoard.Clock(Period).Number" class="full contentfilter:prefixPeriod" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockPeriodTimeBox" class="box">
+      <a id="ClockPeriodTime" sbelement="ScoreBoard.Clock(Period).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockJamNameBox" class="box">
+      <script type="text/javascript"> function prefixJam(num) { return "Jam "+num; }; </script>
+      <a id="ClockJamName" sbelement="ScoreBoard.Clock(Jam).Number" class="full contentfilter:prefixJam" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockJamTimeBox" class="box">
+      <a id="ClockJamTime" sbelement="ScoreBoard.Clock(Jam).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockLineupNameBox" class="box">
+      <a id="ClockLineupName" class="full" >Lineup</a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockLineupTimeBox" class="box">
+      <a id="ClockLineupTime" sbelement="ScoreBoard.Clock(Lineup).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+ 
+    <div id="ClockTimeoutNameBox" class="box">
+      <a id="ClockTimeoutName" class="full" >Timeout</a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockTimeoutTimeBox" class="box">
+      <a id="ClockTimeoutTime" sbelement="ScoreBoard.Clock(Timeout).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <div id="ClockIntermissionNameBox" class="box">
+      <a id="ClockIntermissionName" class="full" ></a>
+      <img src="/images/name.png" style="z-index: -5;" class="full" />
+    </div>
+    <div id="ClockIntermissionTimeBox" class="box">
+      <a id="ClockIntermissionTime" sbelement="ScoreBoard.Clock(Intermission).Time" class="full contentfilter:msToMinSecNoZeroMin" ></a>
+      <img src="/images/time.png" style="z-index: -5;" class="full" />
+    </div>
+
+    <img id="ScoreBoardBackground" sbelement="ScoreBoard.Page(scoreboard.html).Image(ScoreBoardBackground)" style="z-index: -100;" class="full" />
+    <img id="ScoreBoardAd" sbelement="ScoreBoard.Page(scoreboard.html).Image(Ad)" style="z-index: -5;" />
+  </div>
+
+  <div sbelement="ScoreBoard.Page(scoreboard.html).View(Intermission)" class="full cursorControl" >
+    <div class="box full">
+      <a sbelement="ScoreBoard.Clock(Intermission).Time" class="contentfilter:msToMinSecNoZeroMin" style="top: 15%; left: 0%; width: 100%; height: 85%; font-size: 35%" ></a>
+    </div>
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(IntermissionBackground)" style="z-index: -100;" class="full" />
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(Ad)" style="top: 73.5%; left: 0%; width: 100%; z-index: -5;" />
+  </div>
+
+  <div sbelement="ScoreBoard.Page(scoreboard.html).View(Countdown)" class="full cursorControl" >
+    <div class="box full">
+      <a sbelement="ScoreBoard.Clock(Countdown).Time" class="contentfilter:msToMinSecNoZeroMin" style="top: 12%; bottom: 0%; left: 0%; right: 0%; font-size: 80%; line-height: 80%;" ></a>
+    </div>
+    <img sbelement="ScoreBoard.Page(scoreboard.html).Image(CountdownBackground)" style="z-index: -100;" class="full" />
+  </div>
+
+</div>
+
+</body>
+
+</html>
+

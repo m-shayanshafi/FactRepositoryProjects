@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="S.L. MacGregor Mathers" classification="GraphicObjTranslations" version="1" language="sv" author="S.L. MacGregor Mathers(1854-1918)" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Public domain</entry>
+	<entry key="ObjectTitle0">0-The Fool</entry><entry key="ObjectMeaning0">Folly, Expiation, Wavering</entry>
+	<entry key="ObjectTitle1">1-The Magician</entry><entry key="ObjectMeaning1">Will, Will-Power, Dexterity</entry>
+	<entry key="ObjectTitle2">2-The High Priestess</entry><entry key="ObjectMeaning2">Science, Wisdom, Knowledge, Education</entry>
+	<entry key="ObjectTitle3">3-The Empress</entry><entry key="ObjectMeaning3">Action, Plan, Undertaking Movement in a matter, Initiative</entry>
+	<entry key="ObjectTitle4">4-The Emperor</entry><entry key="ObjectMeaning4">Realisation, Effect, Development</entry>
+	<entry key="ObjectTitle5">5-The Hierophant</entry><entry key="ObjectMeaning5">Mercy, Beneficence Kindness, Goodness</entry>
+	<entry key="ObjectTitle6">6-The Lovers</entry><entry key="ObjectMeaning6">Wise Dispositions, Proof, Trials Surmounted</entry>
+	<entry key="ObjectTitle7">7-The Chariot</entry><entry key="ObjectMeaning7">Triumph, Victory, Overcoming obstacles</entry>
+	<entry key="ObjectTitle8">8-Strength</entry><entry key="ObjectMeaning8">Power, Might, Force, Strength, Fortitude</entry>
+	<entry key="ObjectTitle9">9-The Hermit</entry><entry key="ObjectMeaning9">Prudence, Caution, Deliberation</entry>
+	<entry key="ObjectTitle10">10-Wheel of Fortune</entry><entry key="ObjectMeaning10">Good Fortune, Success, Unexpected Luck</entry>
+	<entry key="ObjectTitle11">11-Justice</entry><entry key="ObjectMeaning11">Equilibrium, Balance, Justice</entry>
+	<entry key="ObjectTitle12">12-The hanged man</entry><entry key="ObjectMeaning12">Self-sacrifice, Sacrifice, Devotion, Bound</entry>
+	<entry key="ObjectTitle13">13-Death</entry><entry key="ObjectMeaning13">Death, Change, Transformation, Alteration for the worse</entry>
+	<entry key="ObjectTitle14">14-Temperance</entry><entry key="ObjectMeaning14">Combination, Conformation, Uniting</entry>
+	<entry key="ObjectTitle15">15-The Devil</entry><entry key="ObjectMeaning15">Fatality for Good</entry>
+	<entry key="ObjectTitle16">16-The Tower</entry><entry key="ObjectMeaning16">Ruin, Disruption, Over-throw, Loss, Bankruptcy</entry>
+	<entry key="ObjectTitle17">17-The Star</entry><entry key="ObjectMeaning17">Hope, Expectation, Bright promises</entry>
+	<entry key="ObjectTitle18">18-The Moon</entry><entry key="ObjectMeaning18">Twilight, Deception, Error</entry>
+	<entry key="ObjectTitle19">19-The Sun</entry><entry key="ObjectMeaning19">Happiness, Content, Joy</entry>
+	<entry key="ObjectTitle20">20-Judgement</entry><entry key="ObjectMeaning20">Renewal, Result, Determination of a Matter</entry>
+	<entry key="ObjectTitle21">21-The World</entry><entry key="ObjectMeaning21">Completion, Good Reward</entry>
+	<entry key="ObjectTitle22">Ace of Cups</entry><entry key="ObjectMeaning22">Feasting, Banquet, Good Cheer</entry>
+	<entry key="ObjectTitle23">Two of Cups</entry><entry key="ObjectMeaning23">Love, Attachment, Friendship, Sincerity, Affection</entry>
+	<entry key="ObjectTitle24">Three of Cups</entry><entry key="ObjectMeaning24">Success, Triumph, Victory, Favourable issue</entry>
+	<entry key="ObjectTitle25">Four of Cups</entry><entry key="ObjectMeaning25">Ennui, Displeasure, Discontent, Dissatisfaction</entry>
+	<entry key="ObjectTitle26">Five of Cups</entry><entry key="ObjectMeaning26">Union, Junction, Marriage, Inheritance</entry>
+	<entry key="ObjectTitle27">Six of Cups</entry><entry key="ObjectMeaning27">The Past, passed by, Faded, Vanished, Disappeared</entry>
+	<entry key="ObjectTitle28">Seven of Cups</entry><entry key="ObjectMeaning28">Idea, Sentiment, Reflection, Project</entry>
+	<entry key="ObjectTitle29">Eight of Cups</entry><entry key="ObjectMeaning29">A fair Girl, Friendship, Attachment, Tenderness</entry>
+	<entry key="ObjectTitle30">Nine of Cups</entry><entry key="ObjectMeaning30">Victory, Advantage, Success, Triumph, Difficulties surmounted</entry>
+	<entry key="ObjectTitle31">Ten of Cups</entry><entry key="ObjectMeaning31">The Town wherein one resides, Honour, Consideration, Esteem, Virtue, Glory, Reputation</entry>
+	<entry key="ObjectTitle32">Page of Cups</entry><entry key="ObjectMeaning32">A fair Youth, Confidence, Probity, Discretion, Integrity</entry>
+	<entry key="ObjectTitle33">Knight of Cups</entry><entry key="ObjectMeaning33">Arrival, Approach, Advance</entry>
+	<entry key="ObjectTitle34">Queen of Cups</entry><entry key="ObjectMeaning34">A fair Woman, Success, Happiness, Advantage, Pleasure</entry>
+	<entry key="ObjectTitle35">King of Cups</entry><entry key="ObjectMeaning35">A fair Man, Goodness, Kindness, Liberality, Generosity</entry>
+	<entry key="ObjectTitle36">Ace of Pentacles</entry><entry key="ObjectMeaning36">Perfect Contentment, Felicity, Prosperity, Triumph</entry>
+	<entry key="ObjectTitle37">Two of Pentacles</entry><entry key="ObjectMeaning37">Embarrassment, Worry, Difficulties</entry>
+	<entry key="ObjectTitle38">Three of Pentacles</entry><entry key="ObjectMeaning38">Nobility, Elevation, Dignity, Rank, Power</entry>
+	<entry key="ObjectTitle39">Four of Pentacles</entry><entry key="ObjectMeaning39">Pleasure, Gaiety, Enjoyment, Satisfaction</entry>
+	<entry key="ObjectTitle40">Five of Pentacles</entry><entry key="ObjectMeaning40">Lover or Mistress, Love, Sweetness, Affection, Pure and Chaste Love</entry>
+	<entry key="ObjectTitle41">Six of Pentacles</entry><entry key="ObjectMeaning41">Presents, Gifts, Gratification:</entry>
+	<entry key="ObjectTitle42">Seven of Pentacles</entry><entry key="ObjectMeaning42">Money, Finance, Treasure, Gain, Profit</entry>
+	<entry key="ObjectTitle43">Eight of Pentacles</entry><entry key="ObjectMeaning43">A dark Girl, Beauty, Candour, Chastity, Innocence, Modesty</entry>
+	<entry key="ObjectTitle44">Nine of Pentacles</entry><entry key="ObjectMeaning44">Discretion, Circumspection, Prudence, Discernment</entry>
+	<entry key="ObjectTitle45">Ten of Pentacles</entry><entry key="ObjectMeaning45">House, Dwelling, Habitation, Family</entry>
+	<entry key="ObjectTitle46">Page of Pentacles</entry><entry key="ObjectMeaning46">A dark Youth, Economy, Order, Rule, Management</entry>
+	<entry key="ObjectTitle47">Knight of Pentacles</entry><entry key="ObjectMeaning47">A useful Man, Trustworthy, Wisdom, Economy, Order, Regulation</entry>
+	<entry key="ObjectTitle48">Queen of Pentacles</entry><entry key="ObjectMeaning48">A dark Woman, a generous Woman, Liberality, Greatness of Soul, Generosity</entry>
+	<entry key="ObjectTitle49">King of Pentacles</entry><entry key="ObjectMeaning49">A dark Man, Victory, Bravery, Courage, Success</entry>
+	<entry key="ObjectTitle50">Ace of Swords</entry><entry key="ObjectMeaning50">Triumph, Fecundity, Fertility, Prosperity</entry>
+	<entry key="ObjectTitle51">Two of Swords</entry><entry key="ObjectMeaning51">Friendship, Valour, Firmness, Courage</entry>
+	<entry key="ObjectTitle52">Three of Swords</entry><entry key="ObjectMeaning52">A Nun, Separation, Removal, Rupture, Quarrel</entry>
+	<entry key="ObjectTitle53">Four of Swords</entry><entry key="ObjectMeaning53">Solitude, Retreat, Abandonment, Solitary, Hermit</entry>
+	<entry key="ObjectTitle54">Five of Swords</entry><entry key="ObjectMeaning54">Mourning, Sadness, Affliction</entry>
+	<entry key="ObjectTitle55">Six of Swords</entry><entry key="ObjectMeaning55">Envoy, Messenger, Voyage, Travel</entry>
+	<entry key="ObjectTitle56">Seven of Swords</entry><entry key="ObjectMeaning56">Hope, Confidence, Desire, Attempt, Wish</entry>
+	<entry key="ObjectTitle57">Eight of Swords</entry><entry key="ObjectMeaning57">Sickness, Calumny, Criticism, Blame</entry>
+	<entry key="ObjectTitle58">Nine of Swords</entry><entry key="ObjectMeaning58">An Ecclesiastic, a Priest, Conscience. Probity, Good Faith, Integrity</entry>
+	<entry key="ObjectTitle59">Ten of Swords</entry><entry key="ObjectMeaning59">Tears, Affliction, Grief, Sorrow</entry>
+	<entry key="ObjectTitle60">Page of Swords</entry><entry key="ObjectMeaning60">A Spy, Overlooking, Authority</entry>
+	<entry key="ObjectTitle61">Knight of Swords</entry><entry key="ObjectMeaning61">A Soldier, a man whose profession is arms, Skilfulness, Capacity, Address, Promptitude</entry>
+	<entry key="ObjectTitle62">Queen of Swords</entry><entry key="ObjectMeaning62">Widowhood, Loss, Privation, Absence, Separation</entry>
+	<entry key="ObjectTitle63">King of Swords</entry><entry key="ObjectMeaning63">A Lawyer, a Man of Law, Power, Command, Superiority, Authority</entry>
+	<entry key="ObjectTitle64">Ace of Wands</entry><entry key="ObjectMeaning64">Birth, Commencement, Beginning, Origin, Source</entry>
+	<entry key="ObjectTitle65">Two of Wands</entry><entry key="ObjectMeaning65">Riches, Fortune, Opulence, Magnificence, Grandeur</entry>
+	<entry key="ObjectTitle66">Three of Wands</entry><entry key="ObjectMeaning66">Enterprise, Undertaking, Commerce, Trade, Negotiation</entry>
+	<entry key="ObjectTitle67">Four of Wands</entry><entry key="ObjectMeaning67">Society, Union, Association, Concord, Harmony</entry>
+	<entry key="ObjectTitle68">Five of Wands</entry><entry key="ObjectMeaning68">Gold, Opulence, Gain, Heritage, Riches, Fortune, Money</entry>
+	<entry key="ObjectTitle69">Six of Wands</entry><entry key="ObjectMeaning69">Attempt, Hope, Desire, Wish, Expectation</entry>
+	<entry key="ObjectTitle70">Seven of Wands</entry><entry key="ObjectMeaning70">Success, Gain, Advantage, Profit, Victory</entry>
+	<entry key="ObjectTitle71">Eight of Wands</entry><entry key="ObjectMeaning71">Understanding, Observation, Direction</entry>
+	<entry key="ObjectTitle72">Nine of Wands</entry><entry key="ObjectMeaning72">Order, Discipline, Good Arrangement, Disposition</entry>
+	<entry key="ObjectTitle73">Ten of Wands</entry><entry key="ObjectMeaning73">Confidence, Security, Honour, Good Faith</entry>
+	<entry key="ObjectTitle74">Page of Wands</entry><entry key="ObjectMeaning74">A Good Stranger, Good News, Pleasure, Satisfaction</entry>
+	<entry key="ObjectTitle75">Knight of Wands</entry><entry key="ObjectMeaning75">Departure, Separation, Disunion</entry>
+	<entry key="ObjectTitle76">Queen of Wands</entry><entry key="ObjectMeaning76">Woman living in the country, Lady of the Manor, Love of Money, Avarice, Usury</entry>
+	<entry key="ObjectTitle77">King of Wands  </entry><entry key="ObjectMeaning77">Man living in the country, Country Gentleman, Knowledge, Education</entry>
+	<entry key="ReversedMeaning0">Hesitation, Instability, Trouble arising herefrom.</entry>
+	<entry key="ReversedMeaning1">Will applied to evil ends, Weakness of Will, Cunning, Knavishness.</entry>
+	<entry key="ReversedMeaning2">Conceit, Ignorance, Unskilfulness, Superficial Knowledge.</entry>
+	<entry key="ReversedMeaning3">Inaction, Frittering away of power, Want of Concentration Vacillation.</entry>
+	<entry key="ReversedMeaning4">Stoppage, Check, Immature, Unripe.</entry>
+	<entry key="ReversedMeaning5">Over-kindness, weakness, Foolish exercise of generosity.</entry>
+	<entry key="ReversedMeaning6">Unwise Plans, Failure when put to the test.</entry>
+	<entry key="ReversedMeaning7">Overthrown, Conquered by Obstacles at the last moment.</entry>
+	<entry key="ReversedMeaning8">Abuse of Power, Overbearingness, Want of Fortitude.</entry>
+	<entry key="ReversedMeaning9">Over-prudence, Timorousness, Fear.</entry>
+	<entry key="ReversedMeaning10">Ill-Fortune, Failure, Unexpected Ill-Luck.</entry>
+	<entry key="ReversedMeaning11">Bigotry, Want of Balance, Abuse of Justice, Over-severity, Inequality, Bias.</entry>
+	<entry key="ReversedMeaning12">Selfishness, Unbound, Partial sacrifice.</entry>
+	<entry key="ReversedMeaning13">Death just escaped, Partial change, Alteration for the better.</entry>
+	<entry key="ReversedMeaning14">Ill-advised combinations, Disunion, Clashing interests, etc.</entry>
+	<entry key="ReversedMeaning15">Fatality for Evil.</entry>
+	<entry key="ReversedMeaning16">These in a more or less partial degree.</entry>
+	<entry key="ReversedMeaning17">Hopes not fulfilled, Expectations disappointed or fulfilled in a minor degree.</entry>
+	<entry key="ReversedMeaning18">Fluctuation, slight Deceptions, Trifling Mistakes.</entry>
+	<entry key="ReversedMeaning19">These in a minor degree.</entry>
+	<entry key="ReversedMeaning20">Postponement of Result, Delay, Matter re-opened later.</entry>
+	<entry key="ReversedMeaning21">Evil Reward, or Recompense.</entry>
+	<entry key="ReversedMeaning22">Change, Novelty, Metamorphosis, Inconstancy.</entry>
+	<entry key="ReversedMeaning23">Crossed desires, Obstacles, Opposition, Hindrance.</entry>
+	<entry key="ReversedMeaning24">Expedition of business, Quickness, Celerity, Vigilance.</entry>
+	<entry key="ReversedMeaning25">New Acquaintance, Conjecture, Sign, Presentiment.</entry>
+	<entry key="ReversedMeaning26">Arrival, Return, News, Surprise, False projects.</entry>
+	<entry key="ReversedMeaning27">The Future, that which is to come, Shortly, Soon.</entry>
+	<entry key="ReversedMeaning28">Plan, Design, Resolution, Decision.</entry>
+	<entry key="ReversedMeaning29">Gaiety, Feasting, Joy, Pleasure.</entry>
+	<entry key="ReversedMeaning30">Faults, Errors, Mistakes, Imperfections.</entry>
+	<entry key="ReversedMeaning31">Combat, Strife, Opposition, Differences, Dispute.</entry>
+	<entry key="ReversedMeaning32">A Flatterer, Deception, Artifice.</entry>
+	<entry key="ReversedMeaning33">Duplicity, Abuse of Confidence, Fraud, Cunning.</entry>
+	<entry key="ReversedMeaning34">A Woman in good position, but intermeddling, and to be distrusted; Success, but with some attendant trouble.</entry>
+	<entry key="ReversedMeaning35">A Man of good position, but shifty in his Dealings, Distrust, Doubt, Suspicion.</entry>
+	<entry key="ReversedMeaning36">Purse of Gold, Money, Gain, Help, Profit, Riches.</entry>
+	<entry key="ReversedMeaning37">Letter, Missive, Epistle, Message.</entry>
+	<entry key="ReversedMeaning38">Children, Sons, Daughters, Youths, Commencement.</entry>
+	<entry key="ReversedMeaning39">Obstacles, Hindrances.</entry>
+	<entry key="ReversedMeaning40">Disgraceful Love, Imprudence, License, Profligacy.</entry>
+	<entry key="ReversedMeaning41">Ambition, Desire, Passion, Aim, Longing.</entry>
+	<entry key="ReversedMeaning42">Disturbance, Worry, Anxiety, Melancholy.</entry>
+	<entry key="ReversedMeaning43">Flattery, Usury, Hypocrisy, Shifty.</entry>
+	<entry key="ReversedMeaning44">Deceit, Bad faith, Artifices, Deception.</entry>
+	<entry key="ReversedMeaning45">Gambling, Dissipation, Robbery, Loss.</entry>
+	<entry key="ReversedMeaning46">Prodigality, Profusion, Waste, Dissipation.</entry>
+	<entry key="ReversedMeaning47">A brave Man, but out of Employment, Idle, Unemployed, Negligent.</entry>
+	<entry key="ReversedMeaning48">Certain Evil, a suspicious Woman, a Woman justly regarded with Suspicion, Doubt, Mistrust.</entry>
+	<entry key="ReversedMeaning49">An old and vicious Man, a Dangerous Man, Doubt, Fear, Peril, Danger.</entry>
+	<entry key="ReversedMeaning50">Embarrassment, Foolish and Hopeless Love, Obstacle, Hindrance.</entry>
+	<entry key="ReversedMeaning51">False Friends, Treachery, Lies.</entry>
+	<entry key="ReversedMeaning52">Error, Confusion, Misrule, Disorder.</entry>
+	<entry key="ReversedMeaning53">Economy, Precaution, Regulation of Expenditure.</entry>
+	<entry key="ReversedMeaning54">Losses Trouble (same signification, whether reversed or not.)</entry>
+	<entry key="ReversedMeaning55">Declaration, Love proposed, Revelation, Surprise.</entry>
+	<entry key="ReversedMeaning56">Wise Advice, Good Counsel, Wisdom, Prudence, Circumspection.</entry>
+	<entry key="ReversedMeaning57">Treachery in the Past, Event, Accident, Remarkable Incident.</entry>
+	<entry key="ReversedMeaning58">Wise distrust, Suspicion, Fear, Doubt, Shady character.</entry>
+	<entry key="ReversedMeaning59">Passing Success, Momentary Advantage.</entry>
+	<entry key="ReversedMeaning60">That which is unforeseen, Vigilance, Support.</entry>
+	<entry key="ReversedMeaning61">A conceited fool, Ingenuousness, Simplicity.</entry>
+	<entry key="ReversedMeaning62">A Bad Woman, ill-tempered and bigoted, Riches and Discord, Abundance together with Worry, Joy with Grief.</entry>
+	<entry key="ReversedMeaning63">A Wicked Man, Chagrin, Worry, Grief, Fear, Disturbance.</entry>
+	<entry key="ReversedMeaning64">Persecution, Pursuits Voilence, Vexation, Cruelty, Tyranny.</entry>
+	<entry key="ReversedMeaning65">Surprise, Astonishment, Event, Extraordinary Occurrence.</entry>
+	<entry key="ReversedMeaning66">Hope, Desire, Attempt, Wish.</entry>
+	<entry key="ReversedMeaning67">Prosperity, Success, Happiness, Advantage.</entry>
+	<entry key="ReversedMeaning68">Legal proceedings, Judgment, Law, Lawyer, Tribunal.</entry>
+	<entry key="ReversedMeaning69">Infidelity, Treachery, Disloyalty, Perfidy.</entry>
+	<entry key="ReversedMeaning70">Indecision, Doubt, Hesitation, Embarrassment, Anxiety.</entry>
+	<entry key="ReversedMeaning71">Quarrels, Intestine disputes, Discord.</entry>
+	<entry key="ReversedMeaning72">Obstacles, Crosses, Delay, Displeasure.</entry>
+	<entry key="ReversedMeaning73">Treachery, Subterfuge, Duplicity, Bar.</entry>
+	<entry key="ReversedMeaning74">Ill News, Displeasure, Chagrin, Worry.</entry>
+	<entry key="ReversedMeaning75">Rupture, Discord, Quarrel.</entry>
+	<entry key="ReversedMeaning76">A good a virtuous Woman, but strict and economical, Obstacles, Resistance, Opposition.</entry>
+	<entry key="ReversedMeaning77">A naturally good but severe man, Counsel, Advice, Deliberation.</entry>
+</oracleio>
+

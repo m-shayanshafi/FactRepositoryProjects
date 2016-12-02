@@ -1,0 +1,21 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "SoccerMaster"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\SoccerMaster.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\client\\World.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Cviewer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\SoccerMaster.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\Replayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\dialog\\ViewDialog.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\view\\Field.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\MenuDefinitions.java" #[EndFile]
+#[BeginFile]SOURCE := "\\client\\action\\ShowBallCoordAction.java" #[EndFile]
+
+! Start Breakpoint Structure
+

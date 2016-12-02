@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Four Trines Spread (Doane)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+	<entry key="Title">Vier Trines Verbreitung (Doane)</entry>
+	<entry key="Description">Da der Name vorschlägt, gibt es vier Sätze von drei 
+Karten (trines) diese Arbeit in Verbindung mit anderen. Trine 
+des Lebens (1, 6, 11), Trine der Energie (2, 7, 12), Sozialtrine (3, 
+8, 9), Trine von Geheimnissen
+</entry>
+	<entry key="PositionTitle0">Persönliches Leben</entry><entry key="Meaning0">Gesundheit</entry>
+	<entry key="PositionTitle1">Ehre und Berechtigung</entry><entry key="Meaning1">Geschäft, Renommee</entry>
+	<entry key="PositionTitle2">Partner</entry><entry key="Meaning2">Ehelich, Feinde</entry>
+	<entry key="PositionTitle3">Klima</entry><entry key="Meaning3">Sachen verborgen im Klima</entry>
+	<entry key="PositionTitle4">Kummer</entry><entry key="Meaning4">Feinde, Ausfälle, Hindernisse</entry>
+	<entry key="PositionTitle5">Geistesleben</entry><entry key="Meaning5">Geistesleben: Spielraum</entry>
+	<entry key="PositionTitle6">Klima</entry><entry key="Meaning6">Krankheit, Arbeit</entry>
+	<entry key="PositionTitle7">Stämme und Gedanke</entry><entry key="Meaning7">Geschwister, intellektuelle Angelegenheiten</entry>
+	<entry key="PositionTitle8">Teilnehmer</entry><entry key="Meaning8">Freunde</entry>
+	<entry key="PositionTitle9">Geld</entry><entry key="Meaning9">Geld: Schulden, Steuern, Erbschaft</entry>
+	<entry key="PositionTitle10">Nachwelt</entry><entry key="Meaning10">Leben der Nachwelt: Kinder, Liebeangelegenheiten,
+Vergnügen, Betrachtung</entry>
+	<entry key="PositionTitle11">Fülle</entry><entry key="Meaning11"></entry>
+</oracleio>

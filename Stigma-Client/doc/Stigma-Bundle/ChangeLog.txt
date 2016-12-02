@@ -1,0 +1,97 @@
+Stigma - The Game: Bundle change log
+====================================
+
+Project started: December, 2005. Rewritten in 2008.
+This file contains changes made to project since: 2008/02/20
+
+
+
+For details on changes made to project look into ChangeLog.txt's of contained packages. 
+
+
+One-Click Bundle 0.5.0 - 2011/03/30
+----------------------------------
+
+Contains:
+
+    * Server 0.5.0 - Release Notes:
+        Chat support.
+
+    * Client 0.5.0 - Release Notes:
+        Chat support, changes to UI.
+        
+    * Editor 0.5.0 - Release Notes:
+        Maintenance release.
+
+
+
+One-Click Bundle 0.4.3 - 2010/10/24
+----------------------------------
+
+Contains:
+
+    * Server 0.4.3 - Release Notes:
+        Bugfix release.
+
+    * Client 0.4.3 - Release Notes:
+        Completed GUI rebuild.
+        
+    * Editor 0.4.3 - Release Notes:
+        Bugifx release.
+
+
+
+One-Click Bundle 0.4.2 - 2010/10/11
+----------------------------------
+
+Contains:
+
+    * Server 0.4.2 - Release Notes:
+        Bugfix release.
+
+    * Client 0.4.2 - Release Notes:
+        Windows/tooltips rebuilded, icons added.
+        
+    * Editor 0.4.2 - Release Notes:
+        Same as was - maintance release.
+
+
+
+One-Click Bundle 0.4.1 - 2010/08/15
+----------------------------------
+
+Contains:
+
+    * Server 0.4.1 - Release Notes:
+        Item icons added.
+
+    * Client 0.4.1 - Release Notes:
+        Item icons added, many bugs fixed.
+        
+    * Editor 0.4.1 - Release Notes:
+        Some bugs fixed.
+
+
+
+One-Click Bundle 0.4.0 - 2010/07/20
+----------------------------------
+
+Contains:
+
+    * Server 0.4.0 - Release Notes:
+        Internal HTTP resource server enables really 
+        standalone installations of Stigma-Server.
+        Items support.
+        Also: some bug fixes, 
+              "graceful" exit (with flushing logged out actors to database) 
+
+    * Client 0.4.0 - Release Notes:
+        New Synth-based user interface.
+        Items support. Smooth actor movement.
+        Also: bug fixes.
+        
+    * Editor 0.4.0 - Release Notes:
+        First - test - release.
+        Map editor available.
+        
+    * "Run Me" one-click scripts for Linux and Windows systems

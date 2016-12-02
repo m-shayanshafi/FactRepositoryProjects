@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/world
+END
+WorldIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/world/WorldIndex.java
+END
+GenericWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/world/GenericWorld.java
+END
+EWorldObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/towerdefence-engine/src/org/mysoft/td/engine/world/EWorldObjectType.java
+END
+IndexedWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/world/IndexedWorld.java
+END

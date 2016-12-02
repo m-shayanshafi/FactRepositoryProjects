@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/lib/bcel-5.1.jar"/>
+	<classpathentry kind="lib" path="jars/lib/jace.jar"/>
+	<classpathentry kind="lib" path="jars/lib/jaxp-api.jar"/>
+	<classpathentry kind="lib" path="jars/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="jars/lib/Regex.jar"/>
+	<classpathentry kind="lib" path="jars/lib/retroweaver.jar"/>
+	<classpathentry kind="lib" path="jars/lib/sax.jar"/>
+	<classpathentry kind="lib" path="jars/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="jars/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="jars/pacdasher_resources.jar"/>
+	<classpathentry kind="lib" path="jars/pacdasher.jar"/>
+	<classpathentry kind="lib" path="jars/pacdasher14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="src"/>
+</classpath>

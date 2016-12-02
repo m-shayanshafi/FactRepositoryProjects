@@ -1,0 +1,26 @@
+Release notes:Solitaire4j midp2 v1.0
+
+Notes
+Notes comming soon. Enjoy the game.
+
+About solitaire4j v1.0
+
+Solitaire4j was build using wireless toolkit 2.0 and j2mepolish 2.2. Until now no more recent versions of such software have been used to 
+test it. This crrent directory contents a solitaire4j_distro folder which holds the main jar and jad files to be used in mobile devices. They can be loaded and executed as
+any other j2me software. The other folder, solitaire4j_src, contains the source code and other resources used to developed the application. Be free to change any part of it GNU license document. 
+
+Solitaire4j v1.0 has been tested using a Siemens M56 cellphone with success; however, in other devices some GUI details can vary strikingly, so please tell 
+how it works to try to solve the problems. 
+
+
+
+Jose Hernan Valdes Murguia 
+Univeridad Mayor de San Simon
+Cochabamba - Bolivia
+
+
+
+
+
+
+

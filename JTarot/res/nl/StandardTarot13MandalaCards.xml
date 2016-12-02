@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="nl" author="Thomas Dilts" >
+<entry key="languagename">Nederlands</entry>
+<entry key="copyright">Auteursrecht © 2007 Thomas Dilts (tarot@lazy8.nu). 
+De toestemming wordt verleend aan exemplaar, verspreidt en/of 
+wijzigt dit document in het kader van de termijnen van de Vergunning 
+van de Documentatie van GNU Vrije, Versie 1.2 of om het even welke 
+recentere versie die door de Vrije Stichting van de Software wordt 
+gepubliceerd. Een exemplaar van de vergunning kan bij 
+http://www.gnu.org worden gevonden</entry>
+	<entry key="Title">Uitgespreide Mandala/Alchemistisch (Guiley)</entry>
+	<entry key="Description">Het doen van de lezing met slechts de eerste negen kaarten wordt
+genoemd Uitgespreide Mandala. Het toevoegen van de vier 
+elementaire kaarten is de Alchemistische verspreiding</entry>
+	<entry key="PositionTitle0">Zelf</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Wensen</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Dromen</entry><entry key="Meaning2">Wat u wilt bereiken</entry>
+	<entry key="PositionTitle3">Achtervolgingen</entry><entry key="Meaning3">Wat wij actief proberen om te bereiken</entry>
+	<entry key="PositionTitle4">Gehechtheid</entry><entry key="Meaning4">Achtervolgingen die ons van het bereiken van onze dromen 
+tegenhouden. Bijvoorbeeld, zal de vele mensendroom van geluk 
+maar achtervolgingsgeld die het hen gelukkig maken denken. 
+Nochtans, is het de zorg over geld, niet het gebrek aan het, dat
+eigenlijk geluk verhindert.</entry>
+	<entry key="PositionTitle5">Kwaliteiten</entry><entry key="Meaning5">Goede aspecten over querent</entry>
+	<entry key="PositionTitle6">Verdriet</entry><entry key="Meaning6">Fouten van querent die het verbeteren vergen</entry>
+	<entry key="PositionTitle7">Zelf-beeld</entry><entry key="Meaning7">Hoe de querent meningen hem/zelf</entry>
+	<entry key="PositionTitle8">De drang van de ziel</entry><entry key="Meaning8">Zijn waar doel en desitiny</entry>
+	<entry key="PositionTitle9">Aarde</entry><entry key="Meaning9">Duisternis, geheimzinnigheid, en onbekend</entry>
+	<entry key="PositionTitle10">Lucht</entry><entry key="Meaning10">Geestelijke verlichting en verlichting</entry>
+	<entry key="PositionTitle11">Brand</entry><entry key="Meaning11">Intellect, rationele gedachte, zal</entry>
+	<entry key="PositionTitle12">Water</entry><entry key="Meaning12">Creativiteit en emoties</entry>
+</oracleio>

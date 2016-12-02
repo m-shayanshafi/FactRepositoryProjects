@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Romany Spread (Doane/Peach)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Распространение Romany (Doane/Peach)</entry>
+	<entry key="Description">Каждый рядок представляет случаи или влияния на 
+показанный период. Смежная карточка в таком же рядке 
+дорабатывает одно другое. Приказывать карточек в рядке не 
+обязательно значительно. Изменение: Одно изменение этого 
+чтения что средняя карточка каждого рядка (18, 11, и 
+04) должна представить больше всего важня событие показанного 
+периода. Это делает карточки более далеким вне на краях рядка 
+(21, 15, 14, etc.) более менее значительно. 
+(Doane)</entry>
+	<entry key="PositionTitle0">За 1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">За 2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">За 3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">За 4</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">За 5</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">За 6</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">За 6</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">Настоящий момент 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Настоящий момент 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Настоящий момент 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Настоящий момент 4</entry><entry key="Meaning10"></entry>
+	<entry key="PositionTitle11">Настоящий момент 5</entry><entry key="Meaning11"></entry>
+	<entry key="PositionTitle12">Настоящий момент 6</entry><entry key="Meaning12"></entry>
+	<entry key="PositionTitle13">Настоящий момент 7</entry><entry key="Meaning13"></entry>
+	<entry key="PositionTitle14">Будущее 1</entry><entry key="Meaning14"></entry>
+	<entry key="PositionTitle15">Будущее 2</entry><entry key="Meaning15"></entry>
+	<entry key="PositionTitle16">Будущее 3</entry><entry key="Meaning16"></entry>
+	<entry key="PositionTitle17">Будущее 4</entry><entry key="Meaning17"></entry>
+	<entry key="PositionTitle18">Будущее 5</entry><entry key="Meaning18"></entry>
+	<entry key="PositionTitle19">Будущее 6</entry><entry key="Meaning19"></entry>
+	<entry key="PositionTitle20">Будущее 7</entry><entry key="Meaning20"></entry>
+</oracleio>

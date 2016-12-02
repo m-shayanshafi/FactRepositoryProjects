@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Ingrid (Sunny) Halvorsen" classification="GraphicObjTranslations" version="1" language="zh2" author="Ingrid (Sunny) Halvorsen" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年Ingrid Halvorsen (mailto:sunnyway@aol.com) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="ObjectTitle0">Fehu (F: 家養的牛, 財富。)</entry><entry key="ObjectMeaning0">財產贏取了或贏得了, 贏得收入, 運氣。豐盈、財政力量在禮物或不久的將來。希望的標誌和豐足、成功和幸福。社會成功。能量, 遠見, 生育力, creation/destruction (成為) 。</entry>
+	<entry key="ObjectTitle1">Uruz: (U: Auroch, 一頭野生黃牛。)</entry><entry key="ObjectMeaning1">體力和速度, 野性的潛力。偉大的能量和健康的時期。自由, 能量, 行動, 勇氣, 力量, 固執, 理解, 智慧。突然或意想不到的變動(通常為更好) 。性慾, 男性有力。塑造力量和樣式, 自已的公式化。</entry>
+	<entry key="ObjectTitle2">Thurisaz: (TH: 刺或巨人。)</entry><entry key="ObjectMeaning2">易反應的力量、破壞被指揮的力量和防禦,
+衝突。本能的意志, 重要性慾, 再生催化劑。一個傾向往變動。淨化作用, 清洗, 洗滌的火。馬律性別, 受精。(Thorr, 雷神, 是巨人</entry>
+	<entry key="ObjectTitle3">Ansuz: (A: 和, 祖先神, 即Odin 。)</entry><entry key="ObjectMeaning3">顯露的消息或洞察, 通信。信號、_發、熱情、講話、真實的詞的視覺, 力量和命名。祝福, 採取忠告。身體好, 和諧, 真相, 智慧。</entry>
+	<entry key="ObjectTitle4">Raidho: (R: 無蓋貨車或運輸車。)</entry><entry key="ObjectMeaning4">旅行, 用物理期限和那些生活方式方向。旅途、假期、拆遷、地方的演變、變動或設置。看更大的透視。看正確的移動為您做和決定在它。個人節奏, 世界節奏, 生活舞蹈。</entry>
+	<entry key="ObjectTitle5">Kenaz: (K: 烽火臺或火炬。)</entry><entry key="ObjectMeaning5">視覺, 揭示, 知識, 創造性, _發, 技術能力。生活、被利用的力量、火變革和再生重要火。力量創造您自己的現實, 光的力量。對新力量、能量, 和力量現在打開。激情, 性愛。</entry>
+	<entry key="ObjectTitle6">Gebo: (G: 禮物。)</entry><entry key="ObjectMeaning6">禮物, 在犧牲感覺和寬厚, 表明平衡。所有事態關於交換, 包括合同, 私人關係和合作。</entry>
+	<entry key="ObjectTitle7">Wunjo: (W 或V: 喜悅。)</entry><entry key="ObjectMeaning7">喜悅, 舒適, 樂趣。同伴關係, 和諧, 繁榮。銷魂, 榮耀, 精神獎勵, 而且可能性去"在上面" 。如果克制, 意思是價值的一般成功和認識。</entry>
+	<entry key="ObjectTitle8">Hagalaz: (H: 冰雹。)</entry><entry key="ObjectMeaning8">自然、破壞性, 未管制的力量, 特別是天氣憤怒, 或在不自覺之內。磨鍊, 測試, 試驗。受控危機, 導致完成, 內在和諧。</entry>
+	<entry key="ObjectTitle9">Nauthiz: (N: 需要。)</entry><entry key="ObjectMeaning9">延遲, 制約。抵抗導致力量, 創新, 需要火(自力) 。困厄、混亂、衝突, 和意志的力量克服他們。耐力, 生存, 決心。時候行使耐心。某人的命運的認識。少校自已被創始的變動。面對您的恐懼。</entry>
+	<entry key="ObjectTitle10">Isa: (I: 冰。) </entry><entry key="ObjectMeaning10">挑戰或失望。心理塊對想法或活動, 包括委屈。停頓, 或時候轉動內部和等待什麼將來, 或尋找清晰。這rune 加強runes 在它附近。</entry>
+	<entry key="ObjectTitle11">Jera: (J 或Y: 一年, 一個好收穫。)</entry><entry key="ObjectMeaning11">更加早期的努力的結果體會。和平和幸福的時期, 卓有成效的季節。它可能打破stagnancy 。和平和繁榮的希望和期望。成功諾言贏得了。生命週期, 宇宙的週期樣式。一切改變, 在它自己的時間。</entry>
+	<entry key="ObjectTitle12">Eihwaz: (EI: 赤柏松樹。)</entry><entry key="ObjectMeaning12">力量, 可靠性, 可靠性, 可信賴性。啟示, 耐力。防禦, 保護。驅動力獲取, 提供刺激和目的感覺。表明, 您設置了您的視域在一個合理的目標, 能達到您的目標。可能被依靠的一個誠實的人。</entry>
+	<entry key="ObjectTitle13">Perthro: (P: 全部杯子, 陰道。) </entry><entry key="ObjectMeaning13">不定的意思、一件秘密事情、奧秘、暗藏的事和隱密能力。_蒙, 某人的命運知識, 未來事態知識, 確定未來或您的道路。附屬對事女性, 女性奧秘包括女性生育力, 和陰道。好全部、同伴關係和喜悅。演變變動。</entry>
+	<entry key="ObjectTitle14">Algiz: (Z 或- R: 麋, 保護。) </entry><entry key="ObjectMeaning14">保護, 盾。防護敦促庇護自己或其他人。防禦, 擋住罪惡, 盾, 監護人。與神的連接, 喚醒, 奢侈生活。它可能使用適當地開闢能量。跟隨您的天性。保留成功舉行或堅守陣地被贏取或被贏得。</entry>
+	<entry key="ObjectTitle15">Sowilo: (S: 太陽。) </entry><entry key="ObjectMeaning15">成功, 目標達到, 榮譽。生活力量, 健康。時候當力量將供給您為正面變化在您的生活、勝利、健康, 和成功上。聯絡在更高的自已和不自覺之間。囫圇, 力量, 自然力, 火焰, 洗滌的火劍。</entry>
+	<entry key="ObjectTitle16">Tiwaz: (T: Tyr, 天空神。)</entry><entry key="ObjectMeaning16">榮譽、正義、領導和當局。分析, 合理性。知道何處某人真實的力量說謊。自願對自我犧牲。勝利和成功在任何競爭中或在法律問題。</entry>
+	<entry key="ObjectTitle17">Berkano: (B: Berchta, 樺樹女神。)</entry><entry key="ObjectMeaning17">誕生, 一般生育力, 精神和物理和個人成長, 解放。春天, 更新, 諾言新起點, 新成長再生力量和光。慾望激勵。風流韻事或新誕生。繁榮企業或事業。</entry>
+	<entry key="ObjectTitle18">Ehwaz: (E: 馬, 二匹馬。)</entry><entry key="ObjectMeaning18">運輸。代表馬、汽車、飛機、小船或其它車。運動和變動為更好。逐漸發展和穩固的進步被表明。和諧, 配合, 信任, 忠誠。一次理想的婚姻或合作。確認以遠懷疑runes 的意思在它附近。</entry>
+	<entry key="ObjectTitle19">Mannaz: (M: 人, 人類。)</entry><entry key="ObjectMeaning19">自已; 單獨或人種。您的對於其他人的態度和他們的對於您的態度。朋友和敵人, 社會秩序。智力, forethought, 創造, 技巧, 能力。神的結構, 智力, 了悟。準備現在接受某一類援助或合作。</entry>
+	<entry key="ObjectTitle20">Laguz: (L: 水, 或韭蔥。)</entry><entry key="ObjectMeaning20">流程, 水, 海, 生育力來源, 更新的醫治用的力量。生活能量和有機成長。想像力和精神事態。夢想, 幻想, 奧秘, 未知數, 掩藏,
+深, 地獄。成功在旅行或承購, 但以損失的可能性。</entry>
+	<entry key="ObjectTitle21">Ingwaz: (NG: Ing, 地球神。)</entry><entry key="ObjectMeaning21">馬律生育力, 懷孕, 內部成長。共同的賢良, 常識, 簡單的力量, 家庭愛, 關心, 人的溫暖,
+家。休息階段, 安心的時期, 沒有憂慮。時候當所有寬鬆串被栓並且您是自由行動一個新方向。聽你自己。</entry>
+	<entry key="ObjectTitle22">Dagaz: (D: 天或黎明。)</entry><entry key="ObjectMeaning22">突破, 喚醒, 了悟。白天清晰與夜間不確定性相對。時候計劃或開始企業。變動的力量指揮了由您自己意志, 變革。Hope/happiness, 理想。安全和把握。成長和發行。平衡對面見面的點, 地方。</entry>
+	<entry key="ObjectTitle23">Othala: (O: 祖先物產。)</entry><entry key="ObjectMeaning23">被繼承的物產或財產, 房子, 家。什麼真實地是重要對一。小組定貨, 小組繁榮。誕生、精神遺產、經驗和根本價值土地。援助在精神和物理旅途。源泉的安全、增量和豐盈。</entry>
+	<entry key="ReversedMeaning0">您投入在努力保持個人財產, 聲望, 或某事的損失。它表明某一類失敗。貪婪, 燒壞, 萎縮, 紛爭。怯懦, 愚蠢, 鈍澀, 貧窮, 奴隸制, 奴役。</entry>
+	<entry key="ReversedMeaning1">弱點, 積念, 誤導力量, 控制權由其他人。憔悴, 不一致, 無知。情熱, 殘酷, rashness, 無情, 暴力。</entry>
+	<entry key="ReversedMeaning2">危險, defenselessness, 強迫, 背叛, 鈍澀。罪惡, 毒心, 仇恨, torment, 賭氣, 說謊。一名壞人或婦女。強姦?</entry>
+	<entry key="ReversedMeaning3">誤解, 錯覺, 操作由其他人, 乏味。虛榮和grandiloquence 。(Odin 是一個強大, 但duplicitous
+神。他總有他自己的議程。)</entry>
+	<entry key="ReversedMeaning4">危機, 堅硬, stasis, 不公道, 荒謬。中斷, 脫臼, 降級, 錯覺, 可能死亡。</entry>
+	<entry key="ReversedMeaning5">疾病, 終止, 不穩定, 缺乏創造性。裸體、幻覺曝光、損失和假的希望。</entry>
+	<entry key="ReversedMeaning6">(Gebo 不被扭轉, 而是也許在在反對): 貪婪, 寂寞, 依賴性, 在犧牲。義務, 通行費, 缺乏, 賄賂。</entry>
+	<entry key="ReversedMeaning7">愚弄, 哀痛, 衝突, 疏遠。神志失常, 醉, 財產由更強的力量, 不切實際的熱情。發怒的瘋狂, berzerker 。</entry>
+	<entry key="ReversedMeaning8">(Hagalaz 不被扭轉, 而是也許在在反對): 自然災害, 浩劫。停滯, 力量損失。痛苦, 損失, 痛苦, 困難, 憔悴, 危機。</entry>
+	<entry key="ReversedMeaning9">自由, 困厄, 勞碌, 苦工, laxity 限制。必要, 肢, 要, 剝奪, 飢餓, 需要, 貧窮, 情感飢餓。</entry>
+	<entry key="ReversedMeaning10">(Isa 不被扭轉, 而是也許在在反對): 自大狂, 鈍澀, 盲目性, 散逸。倒戈, 幻覺, 欺騙, 背叛, guile, 秘密行動, 埋伏, 密謀。</entry>
+	<entry key="ReversedMeaning11">(Jera 不被扭轉, 而是也許在在反對): 突然的挫折, 逆轉。主要變動, 重複, 壞時間, 貧窮, 衝突。</entry>
+	<entry key="ReversedMeaning12">混亂, 破壞, 不滿情緒, 弱點。</entry>
+	<entry key="ReversedMeaning13">癮, 停滯, 寂寞, 不適。</entry>
+	<entry key="ReversedMeaning14">暗藏的危險, 消耗量由神的力量, 神的鏈接損失。禁忌, 警告, 轉動, 那排斥。</entry>
+	<entry key="ReversedMeaning15">(Sowilo 不被扭轉, 而是也許在在反對): 假的目標, 壞忠告, 假的成功, gullibility, 目標損失。破壞, 報應, 正義, 熔鑄下來虛榮。神憤怒。</entry>
+	<entry key="ReversedMeaning16">某人的能量和創造性的流程被阻攔。精神痲痺, 在分析, 在犧牲, 不公道, 不平衡狀態。衝突, 戰爭, 衝突, 失敗在競爭中。減少的激情、困難在通信, 和可能分離。</entry>
+	<entry key="ReversedMeaning17">家庭問題和或國內麻煩。對某人的憂慮緊挨您。粗心大意, 摒棄, 控制損失。弄髒知覺, 欺騙, 不育, 停滯。</entry>
+	<entry key="ReversedMeaning18">這真正地不是一消極rune 。變動或許熱衷。感到不安定或confined 在情況。魯莽的匆碌, 不調和, 不信任, 背叛。</entry>
+	<entry key="ReversedMeaning19">消沉, 必死, 盲目性, 自欺。狡猾, slyness, 操作, 巧妙, 演算。現在不要期待幫助。</entry>
+	<entry key="ReversedMeaning20">混亂的期間的徵兆在您的生活中。您也許做出錯誤決定和粗劣的評斷。缺乏創造性和感覺的是在車輪痕跡。恐懼, 圓行動, 退避, 凋枯。瘋狂, 積念, 絕望, 墮落, 憔悴, 自殺。</entry>
+	<entry key="ReversedMeaning21">(Ingwaz 不被扭轉, 而是也許在在反對): 無能, 運動沒有變動。生產, 勞碌, 勞方, 工作。</entry>
+	<entry key="ReversedMeaning22">(Dagaz 不被扭轉, 而是也許在在反對): 完成, 結尾, 極限, 回到原位的。盲目性, 絕望。</entry>
+	<entry key="ReversedMeaning23">缺乏習慣的秩序, 極權主義, 奴隸制, 貧窮, 無家可歸。壞羯磨, 偏見, 氏族, 方言。人一定。</entry>
+</oracleio>

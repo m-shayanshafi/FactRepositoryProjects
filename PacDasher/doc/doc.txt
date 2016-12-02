@@ -1,0 +1,661 @@
+Code Documentation and changelists for PacDasher April 2003 - March 2005
+James McCabe
+--------------------------------------------------------
+
+
+DESIGN PRINCIPLES
+-----------------
+
+Platform Independent
+    => pure Java, avoid dlls
+Smooth Animation
+    => delay between frames should be small
+        => data structures should be efficient
+            => optimized for querying on visual object by position
+            => 2D arrays used for MazeData
+        => use hardware acceleration capabilities of J2SE 1.4+
+          	=> use full-screen mode where possible
+    => frame rate should be consistent
+        => garbage collection should rarely be allowed to run
+            => minimal objects created on heap during animation iteration
+                => be wary of clipping and complex Shapes
+            => tweak arguments to java to run a quiet garbage collector
+    => Use frame rate control, sleep only as much as necessary
+Faithful 
+Yet Extensible
+    => object-oriented
+    => configurable
+        => mazes can be created in XML
+    => open source
+
+
+CODE ARCHITECTURE
+-----------------
+
+
+
+
+  ---------------------> Animation 
+  |					    
+  |                         |  <------- State
+  |                         v 
+User <---> GUI --------> FrameRunner ---------------
+            ^               |                       |
+            |               |                       |
+            |               |                       | 
+            |               |                       |
+            |               v                       v 
+            -------------MazeRenderer <--------- UIModel <-- XML
+
+
+* The GUI contains the frames and canvases.
+
+* The UIModel contains the existence and positions of all visual objects in the Maze: PacDasher, ghosts, dots, etc.
+
+* The Animation holds the main active loop. For each frame it 
+calls a type of FrameRunner based on the State. The FrameRunner uses its MazeRenderer to write the UIModel to the GUI.
+
+* User input is processed by FrameRunner. Also frames in the GUI are currently allowed to listen directly to PacDasher, an element of UIModel.
+
+
+MODEL CONTAINMENT HIERARCHY
+---------------------------
+
+           			
+
+UIModel -- level
+        -- virtualTime
+
+        -- GameInfo  -- initFramesPerSecond
+                     -- framesLevelSpeedup
+
+ 		-- PacDasher -- curImg
+					 -- score
+                     -- numGhostsEaten
+                     -- highScore
+                     -- numLives
+                     -- pacDyingFrameNum
+
+	    -- Maze		-- xCoarseBoundary
+					-- yCoarseBoundary
+					-- isMazeFinished
+					-- MazeBackgroundStatic  -- staticMazeData
+												-- VisualObject (many)
+ 											 -- backgroundObjectClass
+											 -- wallColor
+											 -- staticBgImage
+
+					-- MazeBackgroundDynamic -- dynamicMazeData
+												-- VisualObject (many)
+											 -- defaultForegroundClass
+											 -- clearArea
+											 -- clearAreaExtra
+
+					-- MazeAnimatedObjects   -- animatedList
+											   -- AnimatedVisualObject
+													(many)
+											 -- mobileList
+											   -- MobileVisualObject
+													(many)
+											 -- GhostCollection
+												-- Ghost (many)
+													-- GhostStrategy
+ 													-- curImg													
+												-- generalGhostState
+											 -- currentMazeFruit
+
+
+
+NOTE ON MVC
+-----------
+
+The architectural pattern Model-View-Controller has been found to
+simplify the design of many GUI applications. Does PacDasher use MVC?
+
+There are three main features associated with the MVC pattern:
+
+1. Separation of Model and View. 
+ This allows you to modify the UI or create a new UI entirely without 
+ modifying the Model.
+
+2. Actions are encapsulated in a Controller. 
+ Input from the user is passed directly from the UI on to the Controller, 
+ which then make calls the Model. This makes it easy to see what actions 
+ are going on in an application.
+
+3. Listeners manage flow control.
+ This is an optional feature. Generally, the independence of the Model 
+ is enforced by having the View(s) "listen" and react to standard events 
+ published by the Model, rather than having the Model make calls directly 
+ on a View.
+
+How does PacDasher compare?
+
+1. Separation of Model and View
+
+ In PacDasher the Model is contained in the uimodel.* classes and the
+ UI in the ui.* classes and these are kept very independent. The ui.*  
+ manages the GUI components while the uimodel.* keeps track of the state of 
+ the Maze -- which sprites are where, where the walls are, what level we're 
+ on, etc. 
+ 
+ One issue is that the GUI singleton is visible everywhere via getInstance(). 
+ TODO: Check that it is not being called from the uimodel classes, and consider
+ making it non-global, i.e. a member var of the controller or something like 
+ that.
+ 
+ The division between Model and View is not absolute 
+ because the real drawing code is in the uimodel. For instance a Ghost in the 
+ uimodel has its own render() method. It does not make much sense to me to 
+ have a separate GhostView object in the ui.* package because I would probably 
+ just end up replicating much of the state in Ghost. As it is, a sprite like
+ Ghost is a "true object" because it has both state and behavior. There is
+ a tight coupling here which does not apply to many GUI applications.
+ 
+ If I intended to have different types of views, e.g. I wanted a 3D PacDasher,
+ I would consider more separation. One way to do this would be to have a 
+ class for each view, e.g. ui.Render2DVisualObjects, ui.Render3DVisualObjects,
+ etc. with each class having methods like renderGhost(), renderPacDasher(), 
+ etc. The model classes would have an accept() method which would take 
+ a RenderVisualObjects interface, and it would call the appropriate method
+ on it.
+ 
+2. Actions are encapsulated in a Controller.
+
+ The Controller is composed of the controller.* classes. There are a lot 
+ of them: this is a big controller! In particular the controller keeps 
+ track of a State which is a bit like a mini-model within the Controller.
+ Sample State's are START_STATE, PAC_CAPTURED_STATE, BETWEEN_GAMES_STATE...
+ This is a use of the State pattern. Which FrameRunner and MazeRenderer
+ are chosen depend on the State.
+ 
+ What happens on input? The GUI stores the key code in a variable. 
+ Meanwhile the Animation is constantly calling on FrameRunner's 
+ (the particular one depends on the State). The FrameRunner has
+ the option to inspect the GUI variable for the key pressed, and
+ then set something in the Model, usually via UIModel.
+ 
+ The Controller manages more than input in PacDasher; it manages the main
+ animation loop of the application.
+
+ The MazeRenderer classes play a crucial role in linking the
+ Model and View, because each basically takes as input a
+ maze model object and a Graphics context, and draws the maze
+ on the View. Note that the MazeRenderer has wide access to the 
+ view and model without going through any other Controller 
+ class like Animation.
+  
+3. Listeners manage flow control.
+
+ Mostly not. The major control is in the Animation loop which keeps
+ calling the FrameRunner to collect input, draw the View, and update
+ the Model. My feeling is that for an arcade game it is simpler and
+ more efficient to have this centralized control thread.
+ 
+ The independence between Model and View is enforced however, by 
+ having the Controller manage communication. The Model never has to
+ know about the View, because the Controller knows about both.
+ 
+ But there is some use of listeners. Within the Model, Ghosts 
+ are Listener's on PacDasher, and also peripheral parts of the UI are 
+ allowed to listen directly to PacDasher to update things like score, 
+ lives, etc.
+
+
+
+
+NOTE ON HARDWARE ACCELERATION
+-----------------------------
+
+* My card is Radeon 9000 with 32Mb VRAM
+
+* Others have 
+	- GeForce 4 MX 440 SE (Gf4)
+      - 64 MB VRAM
+	- ATI Radeon 9500
+      - 64 MB VRAM
+
+
+NOTES ON FRUIT
+--------------
+
+Requirements:
+    - Right from the beginning of the game there is a cherry symbol
+     at the right bottom part of the screen.
+    - A few seconds into the game the cherry occurs just below the 
+     ghost box, central in the maze. (The strawberry also occurs
+     in this place. Note, it is always the same place.)
+
+    - The first Fruit appears after the 57th pellet is ingested by 
+     Pac-Man, the second appears after the 137th pellet is
+     gobbled by Pac-Man. (including energizers)
+     Suppose it disappears after the 97th pellet and 177th.
+    - If you do not eat the cherry, after a while it disappears.
+    - On eating the cherry, you get 100 and there is a 100 message
+     in white (or purple). (I have yellow for some reason.)
+    - On the next level a strawberry followed by a cherry appears
+     in the bottom right corner. Same pattern. The cherry never
+     appears anywhere.
+
+Cherry     : Level One		- 100
+Strawberry : Level Two		- 300
+Peach      : Level Three & Level Four	- 500
+Apple      : Level Five & Level Six		- 700
+Kiwi       : Level Seven & Level Eight	- 1000
+
+screenshots
+http://home.kabelfoon.nl/~msilvius/jerry/fhmcpac.htm
+
+
+GENERAL NOTES
+-------------
+
+* The undocumented switch -Xcomp disables HotSpot's opportunistic
+ compilation. This would be useful for deterministic frame speed,
+ but unfortunately the switch causes audio to crash the VM
+ (getLine()). 
+ 
+* Experimentation with the various available garbage collectors 
+ on a medium speed machine (1.2MHz) failed to yield any detectable 
+ performance improvement. It seems helpful to set the 
+ SurvivorRatio low though.
+
+* The signer certificate, necessary for Web Start to work, 
+ will expire after a few (6?) months from Sep 2004
+
+* It is not feasible to do native compilation of PacDasher
+ as of May 2004. GCJ and Excelsior JET are the two most 
+ popular products, but neither support AWT. Also in the past,
+ many have reported issues trying out native compilers like
+ these.
+
+* In classic Pac-Man, captured ghosts become eyeballs which
+ travel efficiently back to their initial position. Given that
+ PacDasher is configurable to allow lots of maze layouts,
+ this would be too complex to implement. So eyeballs are teleported
+ directly to a ghost's initial position after a capture.
+
+* Original images were either created in PaintShop Pro or freeware, 
+ downloaded from various sites.
+
+* Original sounds were freeware, downloaded from
+ http://www.thepcmanwebsite.com/ and edited with GoldWave
+
+
+MANUAL TEST SUITE / PREPARATION
+-------------------------------
+
+* Play the game with the latest J2SE 5.0, as far as I can go. - DONE
+
+* test after it has been packaged - DONE
+
+* test with all the .xml files - DONE
+
+* Compile for 1.4 if possible, play one level and lose all lives.
+ - 
+
+* Test on Linux. - 
+
+* Check that 5.0 .jnlp loads correctly - 
+  (optional: test 1.4 .jnlp) 
+
+* screenshots for announce - DONE
+
+
+CHANGES FROM version 1.11 to 1.2
+-----------------------------------------
+
+* enhancement: new opening (splash) screen
+
+* enhancement: allow minimize during play (and on splash screen)
+
+
+CHANGES FROM version 1.1 to 1.11
+-----------------------------------------
+
+* bugfix: so that the new JDOM reading works with WebStart (i.e. can use jar's)
+
+
+CHANGES FROM version 1.0 to 1.1
+-----------------------------------------
+
+* infrastructure: wrapped SAX parsing of the .xml files with JDOM 1.0.
+ Much neater and more extensible, and it is not any slower than before.
+
+* performance: initial heap size bumped up based on seen usage. Whatever.
+
+
+CHANGES FROM version 1.0 RC to 1.0 (final)
+-----------------------------------------
+
+* enhancement: the side escapes now slow the ghosts down, thanks to 
+ a suggestion from anist on gamedev.net. This makes the game more
+ faithful.
+ 
+* Reviewed/revised documentation.
+
+* Reduced the starting high score to 2500.
+
+
+CHANGES FROM version 0.993 to 1.0 RC
+----------------------------------------
+
+* bugfix: earlier refactoring caused ghosts to cluster at the
+ top left corner. Really bad. Fixed.
+
+* bugfix: where in pacdasherVariety.xml, invisible ghosts were left over 
+ from previous mazes (TODO: ghostCollection should probably NOT be a singleton)
+
+* bugfix: RunSoundHack introduced to work around an apparent bug in
+ J2SE 5.0 (Beta 2 and over) about playing sounds in sequence
+
+
+CHANGES FROM version 0.99 to 0.993
+---------------------------------
+
+* bugfix: took out sound for Java 1.4 version
+
+* enhancement: included Webstart version for Java 1.4
+
+* Switched to AFPL
+
+
+CHANGES FROM version 0.98 to 0.99
+---------------------------------
+
+* bugfix: where PacDasher could pass through a 
+ ghost at the horizontal boundary without anything happening
+
+* Design refactoring. UIModel was too long, and has been split up. Big job.
+
+* Now there is Fruit! as in classic Pac-Man. See NOTES ON FRUIT.
+
+* Now PacDasher can be run with Java 1.4 using the run14 script. 
+ Thanks for the tip on Retroweaver, "TheBohemian" ! 
+     
+     
+CHANGES FROM version 0.97 to 0.98
+---------------------------------
+
+* bug"fix" for jnlp arguments -- not sure what was wrong, maybe just
+ caching?
+
+* bugfix: for full-screen mode, on Alt-Tabbing, application was 
+ drawing to the old Graphics Context rather than the new one
+
+* bugfix: NetBeans project files no longer packaged.
+
+* enhancement: ghosts show 200/400 etc. when captured
+
+* enhancement: animation for pacDasher's death throes 
+
+* enhancement: JNLP ant targets.
+
+
+CHANGES FROM version 0.96 to 0.97
+---------------------------------
+
+* Bugfix: stack overflow/infinite recursion.
+
+* Bugfix: drawing-outside-boundary by clipping.
+
+* Bugfix: false collision (losing life) at the right boundary.
+
+* Centered maze in the full screen.
+
+* Escape key now exits.
+
+* for loop syntax changed to J2SE 1.5
+
+* Made it possible to speed up the frame rate on new mazes
+
+* Introduced two configurations with Web Start support:
+ pacDasher.xml and pacDasherVariety.xml
+
+CHANGES FROM version 0.95 to 0.96
+---------------------------------
+
+Changes to reduce CPU usage:
+
+  * Use Full-Screen Exclusive Mode where possible to ensure
+   hardware acceleration (I thought I was doing page flipping
+   before, but apparently not.)
+
+  * Extra double buffering. Store the static maze image which
+   is complex to construct.
+
+
+CHANGES FROM version 0.94 to 0.95
+---------------------------------
+
+* Sound effects
+
+* Centralized resource management
+ 
+
+CHANGES FROM version 0.93 to 0.94
+---------------------------------
+
+* bugfixes: .jnlp and resource access 
+
+* Captured ghosts now pause as eyeballs before becoming active
+ again
+
+* Slowed from 50 frames to 40 frames
+
+* framerunner package changed to controller
+
+CHANGES FROM version 0.92 to 0.93
+---------------------------------
+
+* Made accessible with Web Start
+
+* Can now pass a .xml file as a parameter
+
+* Sample .xml mazes
+
+
+CHANGES FROM version 0.91 to 0.92
+---------------------------------
+
+* Switched to JDK 1.5, including these changes
+  - typesafe enum for State and GhostState
+  - generics used for Collection's in most places now
+
+* Replaced use of com.oranda.util.FileLogger & Output with 
+ J2SE logging. Including a BriefFormatter class.
+
+* Enhancement: where ghost points need to double each time one
+ is captured.
+
+* Performance enhancement: now mazes are cloned for quick access.
+
+* Bug fixed where final dot is not seen to be eaten
+
+* Bug fixed where user input is badly handled in the
+ GAME_OVER state
+
+* Bug fixed where PacDasher does not have always have the same 
+ direction in the starting position.
+
+* Bugfix: Made corrections to performance logging.
+
+
+CHANGES FROM version 0.90 to 0.91
+---------------------------------
+
+* Simplified architecture by removing the Controller, removing
+ Animation switch logic, and using instead the State pattern with 
+ FrameRunner and MazeRenderer
+
+* Added performance logging to help track problems in different
+ environments
+
+CHANGES FROM version 0.89 to 0.90
+---------------------------------
+
+* Switched to ant build
+
+* Removed setPriority calls (suspecting they interfere with key input)
+
+* Fixed collision detection failure at X boundary bug
+
+CHANGES FROM version 0.88 to 0.89
+---------------------------------
+
+* Packaging cleaned up
+
+* Tested and debugged for Linux (RedHat 9)
+
+* Frame rate control cleaned up
+
+CHANGES FROM version 0.85 to 0.88
+---------------------------------
+
+* repaint() calls replaced with BufferStrategy.show()
+
+* event processing changed to use processKeyEvent()
+
+* classpath added to run script
+
+
+CHANGES FROM version 0.75 to 0.85
+---------------------------------
+
+* SAX parsing of mazes. Can now create/change mazes in pacdasher.xml. 
+  Includes XML Schema validation.
+
+* Hotspot interruptions thwarted with -Xcomp
+
+* Frame rate control introduced
+
+
+PACDASHER ISSUES/BUGS/TODO's post 1.2
+---------------------------------------
+
+* consider converting the minimize/escape menu to a couple of little boxes
+ at the top right... but then how would the user know what keys to use?
+ Answer: from the splash screen.
+ 
+* at the end of the game, a 'GAME OVER' message is displayed but no
+ instructions for restarting. Maybe there should be a 'RESTART' button?
+ 
+* make sure the game works with 640x480 display.
+
+* fruit in later, faster levels do/may not play a sound when eaten 
+ (up to strawberry known to be ok)
+
+* Should be a "CONGRATULATIONS/nGAME COMPLETE" state for the end of 8 levels
+
+* should there be sound on a new level? there isn't now. review sound
+ effects.
+
+* bug: Escape key only works (to exit) in Animated state
+
+  Minimize has the same problem.
+    (go back to the old KeyListener model? - maybe better would be to
+     have multiple frames during a state like GameReady the same as
+     with the splash screen)
+  - Also setDirectionCode is allowed to work outside the Animated state!
+ 
+
+* (make sure static as well as dynamic objects are centered (for XY) ?)
+
+* For Java 1.4, Web Start gives a scary message about certificate 
+ failure initially. Plus, if the keys don't work, it's because 
+ there's another dialog holding it up which you need to get rid of
+
+
+* In code design, nothing outside of UIModel should know about 
+ PacDasher (should it? listeners?)  ... pacDasher is currently
+ part of both UIModel and the Maze. Do I want this configurable
+ from XML or not? 2-player? 3-player?
+
+
+* Remarks of "anist" on gamedev.net:
+ - there is a slight control issue, but not sure it is preventable in Java. 
+ - doesn't each ghost get it's own seeking algorithm?  
+  the seeking algos look a little simular at close range from the original. 
+  they basically stay on your ass till the controls delay and get you offed :P
+  of course the slowing outs would help here as well
+ 
+ 
+* Requested feature from Gregg Bolinger on javaranch.com
+ - Could you make it playable in a Window? What if my boss walks by? 
+  I need to minimize it.
+  (Minimized version done.)
+  
+
+* consistency of access modifiers
+
+* Code design: note how Ghost contains a reference to PacDasher's
+ direction. How to decouple?
+
+
+* Malokan on java.net:  However I like how in the origional pacman if you're 
+ moving left and you hold the stick Up, PacMan will take the first opening that 
+ appears above him.  I got killed once because I was holding left to make a 
+ turn and he never did, and instead just kept going up into a ghost 
+ 
+* Behavior of ghosts at beginning too deterministic ?
+ - Malokhan on java.net: Also, the AI is nothing like what was in the origional 
+ PacMan.  At one point I cleared at least 1/3 of the level because 3 ghosts 
+ were just running around at the bottom left while the last ghost ran back and 
+ forth in the little box where they spawn.
+ 
+* Malohkan on java.net: Could you try anti-aliasing the shapes for your 
+ guys? That might help them look better too.
+ - note: maybe, but the sprites in other clones look even worse (looking at
+  the edges of the sprites)
+
+
+* convert constants to properties file? or XML, e.g. diff speed each
+ maze?
+
+* Some string constants in ghost files...
+
+* pausing on losing focus, pause option
+
+* requested feature on JavaRanch - allow user to decide to make it a
+ window, esp. so it can be minimized. This could be done by command-line
+ or with a link on the screen.
+
+* make GUI size adjustable
+
+* in Frame mode, sometimes on clicking back on the Frame, keyListener 
+ is lost
+
+* Too much drawing of ellipses, rectangles - instead use images ?
+
+* put version number in log
+
+* check performance with JProbe
+
+*  daviangel gamedev.net, on 1.0 RC   - 9/19/2004 
+won't run on my mac using java 1.4.2_05-141 :(
+
+PROBABLY FIXED BUT TO MONITOR
+-----------------------------
+
+
+* BUG: (this could still be here)
+ with every new maze, I am re-adding ghost listeners to
+ PacDasher, while the old are left behind. Need to investigate
+ if ghosts are being re-created per maze and if they should be.
+ And if PacDasher should be, for simplicity. Hm, but PacDasher
+ is not maze-specific, he has an accumulating score.
+ 
+* switching from one pacdasher.jnlp to pacdasherVariety.jnlp, it seems like 
+ the old one is cached.
+
+* where PacDasher could pass through a 
+ ghost at the horizontal boundary without anything happening
+
+* key input:
+  0.85-0.89: Several reports of keys taking 1-3 seconds to respond in 0.85 - 0.89
+  Probably due to slow CPU, hence fixed.(but what about Linux)
+
+* Occasional pauses/jerkiness still 
+  - may be one or two especially at the beginning for < 500MHz
+
+

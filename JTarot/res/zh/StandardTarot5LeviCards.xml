@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">Eliphas Levi 轮子传播(Guiley)</entry>
+	<entry key="Description">布局是因此命名因为它根据Eliphas Levi
+轮子, 版本的看在王牌10 在车手Waite 舱板; Levi 没有发明这种布局。Levi's 轮子分配了Tetragramaton (Yod, 他, Vau, 他的信件, 各自地) 到每个四个位置被显示以上。Levi's 轮子并且提供四套tarot 衣服的一些另外的解释, 花牌四种等级, 和信件T 、O 、R, 和A 的意思。</entry>
+	<entry key="PositionTitle0">礼物</entry><entry key="Meaning0">当前的形式</entry>
+	<entry key="PositionTitle1">减少的影响</entry><entry key="Meaning1">障碍已经克服。改变从前发生过。</entry>
+	<entry key="PositionTitle2">掩藏</entry><entry key="Meaning2">暗藏的或不自觉的影响</entry>
+	<entry key="PositionTitle3">涌现</entry><entry key="Meaning3">涌现的影响。</entry>
+	<entry key="PositionTitle4">综合</entry><entry key="Meaning4">一起画其它四影响。</entry>
+</oracleio>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<xs:schema xmlns:xs='http://www.w3.org/2001/XMLSchema'>
+
+  <xs:element name="game" type="GameType"/>
+
+  <xs:complexType name="GameType">
+    <xs:sequence>      
+      <xs:element name="maze" type="MazeType" minOccurs='1' maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="title" type="xs:string"/>
+    <xs:attribute name="date" type="xs:date"/>
+    <xs:attribute name="author" type="xs:string"/>
+    <xs:attribute name="framesPerSecond" type="xs:integer"/>
+    <xs:attribute name="framesLevelSpeedup" type="xs:integer"/>
+    <xs:attribute name="numLevels" type="xs:integer"/>
+  </xs:complexType>
+  
+  <xs:complexType name="MazeType">
+    <xs:sequence>
+      <xs:element name="number" type="xs:integer" minOccurs='1' />
+      <xs:element name="level" type="xs:string"/>          
+      <xs:element name="wallColor" type="xs:string"/>
+      <xs:element name="gateColor" type="xs:string"/>
+      <xs:element name="defaultBackgroundObject" type="DefaultElementType"/>
+      <xs:element name="defaultForegroundObject" type="DefaultElementType"/>
+      <xs:element name="clearAreaBounds" type="xs:string" minOccurs='0' />
+      <xs:element name="clearAreaExtra" type="xs:string" minOccurs='0' />
+      <xs:element name="pacDasher" type="xs:string"/>
+      <xs:element name="mazeObjects" type="MazeObjectsType"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="DefaultElementType">
+    <xs:attribute name="class" type="xs:string" use='required'/>  
+  </xs:complexType>
+    
+  <xs:complexType name="MazeObjectsType">
+    <xs:sequence>
+      <xs:element name="visualObject" type="VisualObjectType" maxOccurs="unbounded"/>
+      <xs:element name="fruits" type="FruitsType" minOccurs='0' maxOccurs='1'/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="VisualObjectType" mixed="true">
+    <xs:attribute name="class" type="xs:string" use='required'/>
+    <xs:attribute name="layer" type="xs:string" use='required'/>  
+  </xs:complexType>
+  
+  <xs:complexType name="FruitsType" mixed="true">
+    <xs:attribute name="classes" type="xs:string" use="required"/>
+  </xs:complexType>
+  
+</xs:schema>

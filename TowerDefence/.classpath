@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/towerdefence-engine/src"/>
+	<classpathentry kind="src" path="src/towerdefence-game1/src"/>
+	<classpathentry kind="src" path="src/towerdefence-gui/src"/>
+	<classpathentry kind="src" path="src/towerdefence-pgui/src"/>
+	<classpathentry kind="src" path="src/towerdefence-tests/src"/>
+	<classpathentry kind="lib" path="src/towerdefence-engine/lib/ai_path.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-engine/lib/SGImplify.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-engine/lib/Tuple.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-game1/dist/td1.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-gui/dist/lib/ai_path.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-gui/dist/lib/towerdefence-engine_bin.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-gui/dist/Main.jar"/>
+	<classpathentry kind="lib" path="src/towerdefence-gui/temp/lib/towerdefence-engine_bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="src/towerdefence-gui/temp/compiled"/>
+</classpath>

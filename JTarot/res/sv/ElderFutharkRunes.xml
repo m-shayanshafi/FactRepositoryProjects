@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="sv" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Elder Futhark Runes</entry>
+	<entry key="description">The Elder Futhark is thought to be the oldest version of the runic alphabet, and was used in the parts of Europe which were home to Germanic peoples, including Scandinavia. Other versions probably developed from it.</entry>
+	<entry key="subgroup0">Airt (Ætt) of Freya</entry>
+	<entry key="subgroup1">Airt (Ætt) of Heimdall</entry>
+	<entry key="subgroup2">Airt (Ætt) of Tyr</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Airt (Ætt) of Freya</entry>
+	<entry key="grouping1">Airt (Ætt) of Heimdall</entry>
+	<entry key="grouping2">Airt (Ætt) of Tyr</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Svenska</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+</oracleio>
+

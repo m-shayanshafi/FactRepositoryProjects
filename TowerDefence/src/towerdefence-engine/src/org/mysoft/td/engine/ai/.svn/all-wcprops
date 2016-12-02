@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/ai
+END
+GenericObjectAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/35/towerdefence-engine/src/org/mysoft/td/engine/ai/GenericObjectAI.java
+END
+GenericEnemyAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/53/towerdefence-engine/src/org/mysoft/td/engine/ai/GenericEnemyAI.java
+END
+ENextMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24/towerdefence-engine/src/org/mysoft/td/engine/ai/ENextMove.java
+END

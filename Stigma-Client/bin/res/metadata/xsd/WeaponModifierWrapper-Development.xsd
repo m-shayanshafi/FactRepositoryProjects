@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="weaponModifierWrapper" type="weaponModifierWrapper"/>
+
+  <xs:complexType name="weaponModifierWrapper">
+    <xs:sequence>
+      <xs:element name="list" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="modifier" type="weaponModifier" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="version" type="xs:string"/>
+  </xs:complexType>
+
+  <xs:complexType name="weaponModifier">
+    <xs:complexContent>
+      <xs:extension base="itemModifier">
+        <xs:sequence>
+          <xs:element name="baseDamageModifier" type="xs:int" minOccurs="0"/>
+          <xs:element name="baseDamageMultipier" type="xs:int" minOccurs="0"/>
+          <xs:element name="proficiecyIds" type="xs:short" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+          <xs:element name="valueModifier" type="xs:int" minOccurs="0"/>
+          <xs:element name="valueMultiplier" type="xs:int" minOccurs="0"/>
+          <xs:element name="weightModifier" type="xs:int" minOccurs="0"/>
+          <xs:element name="weightMultiplier" type="xs:int" minOccurs="0"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:complexType name="itemModifier" abstract="true">
+    <xs:sequence>
+      <xs:element name="desc" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string"/>
+    </xs:sequence>
+    <xs:attribute name="catId" type="xs:short" use="required"/>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+  </xs:complexType>
+</xs:schema>
+

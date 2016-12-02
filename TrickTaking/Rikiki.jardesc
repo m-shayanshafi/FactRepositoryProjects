@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<jardesc>
+  <jar path="/media/winlinux/projets/workspace/tricktakinggame/rules/Rikiki.jar"/>
+  <options overwrite="false" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/tricktakinggame/Rikiki.jardesc" useSourceFolders="false" buildIfNeeded="true" includeDirectoryEntries="false" storeRefactorings="false"/>
+  <storedRefactorings structuralOnly="false" deprecationInfo="true"/>
+  <selectedProjects/>
+  <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="true" manifestLocation="/manille/client-manifest.mf">
+    <sealing sealJar="false">
+      <packagesToSeal/>
+      <packagesToUnSeal/>
+    </sealing>
+  </manifest>
+  <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.rikiki{RikikiProvider.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.rikiki{RikikiRules.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.rikiki{RikikiAuction.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.rikiki{RikikiAnnounce.java"/>
+    <javaElement handleIdentifier="=tricktakinggame/src&lt;sjrd.tricktakinggame.rules.rikiki{RikikiContract.java"/>
+  </selectedElements>
+</jardesc>

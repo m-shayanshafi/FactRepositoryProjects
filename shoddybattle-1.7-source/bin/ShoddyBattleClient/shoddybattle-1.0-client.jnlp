@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp
+    spec="1.0+"
+    codebase="http://shoddybattle.com/client/"
+    href="shoddybattle.jnlp">
+    <information>
+        <title>Shoddy Battle</title>
+        <vendor>Colin Fitzpatrick</vendor>
+        <homepage href="http://shoddybattle.com" />
+        <description kind="short">An extensible Pokemon simulator</description>
+        <description>A pokemon simulator that is free as in freedom</description>
+        <shortcut online="true">
+            <desktop />
+            <menu />
+        </shortcut>
+        <icon href="http://shoddybattle.com/client/icon.gif" width="64" height="64" />
+    </information>
+    <resources>
+        <j2se version="1.4+" />
+        <j2se version="1.5+" />
+        <j2se version="1.6+" />
+        <jar href="ShoddyBattleClient.jar" />
+        <jar href="ShoddyBattle.jar" />
+        <jar href="PokemonSprites.jar" />
+        <jar href="swing-layout-1.0.2.jar" />
+    </resources>
+    <resources os="Windows" arch="x86">
+        <nativelib href="ShoddyHelper.jar" />
+    </resources>
+    <security>
+         <all-permissions />
+    </security>
+    <application-desc main-class="shoddybattleclient.WelcomeWindow">
+    <argument>sprites.PokemonSprite</argument>
+    <argument>http://shoddybattle.com/client/dpmovesets.db</argument>
+    </application-desc>
+</jnlp> 

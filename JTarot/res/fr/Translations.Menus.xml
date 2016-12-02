@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="fr" author="Thomas Dilts" >
+<entry key="menulanguage">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+<entry key="Advisor">Conseiller</entry>
+<entry key="BadFileMessage">Le dossier que vous avez choisi ne pourrait pas être 
+employé. Essayez encore avec un autre dossier qui est le format
+correct.</entry>
+<entry key="CancelButton">Décommandez</entry>
+<entry key="CardSelectionWizard">Objectez Le Magicien De Choix</entry>
+<entry key="ChooseWhichFileToCreate">Choisissez qui vous classent veulent et puis appuient 
+sur le bouton "créent ce dossier"</entry>
+<entry key="Create this file">Créez ce dossier</entry>
+<entry key="DoYouWantToMakeThisDefault">Voulez-vous faire à ceci votre dossier de défaut au 
+relancement de tne après du jTarot ?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, vous avez frappé l'annulation. Voulez-vous 
+vraiment gâcher tous vos changements ?</entry>
+<entry key="Graphical objects">Objets graphiques</entry>
+<entry key="Lastusedreadingslistisempty">La liste de lectures utilisée par bout est vide</entry>
+<entry key="Layout translations">Traductions de disposition</entry>
+<entry key="Layout">Disposition</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Choisissez manuellement dans la liste gauche l'objet 
+montré dans l'image du côté droit et frappez 'après '.</entry>
+<entry key="ManuallySelectEachCard">Choisissez manuellement chaque objet</entry>
+<entry key="Menu and message translations">Traductions de menu et de message</entry>
+<entry key="More">Plus</entry>
+<entry key="NextButton">Après</entry>
+<entry key="No">Non</entry>
+<entry key="OpenAFile">Choisissez un dossier pour s'ouvrir</entry>
+<entry key="Oracle translations">Traductions d'oracle</entry>
+<entry key="RandomlyChooseTheNextCard">Choisissez le prochain objet pour entrer en position 
+montrée dans l'image.</entry>
+<entry key="RandomlySelectCards">Choisissez aléatoirement les objets</entry>
+<entry key="Removealllastusedreadings">Enlevez toutes les dernières lectures utilisées</entry>
+<entry key="SaveAFile">Choisissez un dossier ou écrivez un nouveau nom de 
+fichier</entry>
+<entry key="SelectLayoutAndCardSelection">Choisissez la disposition que vous voulez et la 
+manière vous voulez choisir les objets ; aléatoirement ou 
+manuellement. Si vous êtes vraiment perdu ici, frappez juste 
+objets les 'aléatoirement choisis "de bouton</entry>
+<entry key="Smaller group of objects">Un plus petit groupe d'objets</entry>
+<entry key="StartupWizard">Magicien De démarrage</entry>
+<entry key="TheDeckCopyright">Copyright d'image d'objet</entry>
+<entry key="Title">jTarot et Runes</entry>
+<entry key="Type of oracle">Type d'oracle</entry>
+<entry key="Use reversed objects">Employez les objets renversés</entry>
+<entry key="Yes">Oui</entry>
+<entry key="YouMustFirstSelectAValidCard">Vous devez d'abord choisir un objet valide</entry>
+<entry key="advancedLabel">Avançé</entry>
+<entry key="advisorsLabel">Conseillers</entry>
+<entry key="browseroptionsLabel">Montrez le dialogue d'options de navigateur</entry>
+<entry key="cardisreversed">Cet objet est renversé</entry>
+<entry key="contributeLabel">Comment est-ce que je peux aider ce projet ?</entry>
+<entry key="copyrighttitle">Copyright des textes de conseiller</entry>
+<entry key="createsetupfilesLabel">Créez un dossier d'installation d'oracle</entry>
+<entry key="editsetupfileLabel">Éditez un dossier d'installation</entry>
+<entry key="exitLabel">Sortez</entry>
+<entry key="exportLabel">Exportation</entry>
+<entry key="exporthtmlLabel">HTML (beaucoup de dossiers, compatibles tous les 
+navigateurs d'enchaînement)</entry>
+<entry key="exportmhtmlLabel">MHTML (dossier simple, MS Windows compatible)</entry>
+<entry key="exportwarLabel">WAR (le dossier simple, le Konqueror compatible et 
+un certain mozilla copie)</entry>
+<entry key="generalhelpLabel">Aide</entry>
+<entry key="givetranslatehelpLabel">Traduisez l''aide 'à votre langue</entry>
+<entry key="helpLabel">Aide</entry>
+<entry key="ifreversed">Description renversée</entry>
+<entry key="imagesLabel">Images</entry>
+<entry key="languageLabel">Langue</entry>
+<entry key="loadsetupfileLabel">Chargez un dossier d'installation pour l'usage dans ce 
+programme</entry>
+<entry key="newlayoutLabel">Faites une nouvelle lecture</entry>
+<entry key="openLabel">Ouvrez une lecture précédemment sauvée</entry>
+<entry key="optionsLabel">Options</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Copie par l'intermédiaire d'un navigateur 
+d'enchaînement</entry>
+<entry key="readingsLabel">Lectures</entry>
+<entry key="recentLabel">Lectures utilisées par bout</entry>
+<entry key="reportbugLabel">Rapportez une erreur de programme</entry>
+<entry key="saveLabel">Économiser la lecture courante</entry>
+<entry key="screensPersonalReading">Votre traduction de la lecture</entry>
+<entry key="screensQuestion">Question pour la lecture</entry>
+<entry key="screensReading">Lecture Produite</entry>
+<entry key="showallobjectsLabel">Montrez toutes les images pour cet oracle</entry>
+<entry key="showpositionnumbersLabel">Montrez les numéros de position de disposition</entry>
+<entry key="showreversedandnormalLabel">Montrez les textes normaux et renversés d'objet 
+ensemble</entry>
+<entry key="thecard">L'objet</entry>
+<entry key="theposition">Position</entry>
+</oracleio>

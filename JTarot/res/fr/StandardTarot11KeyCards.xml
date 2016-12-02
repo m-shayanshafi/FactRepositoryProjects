@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Key Spread (Efran)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion De Clef (Efran)</entry>
+	<entry key="Description">"voici la disposition de Tarot que j'emploie, une j'ai 
+inventée (dans la mesure où je sais). J'ai développé les 
+fondations de la disposition très peu après que je sois devenu 
+intéressé par le Tarot (je n'ai pas pensé une grande partie de le 
+standard), mais je travaille toujours à lui. On ne le cense pas
+être principalement prédictif. Au lieu de cela, on le prévoit
+pour aider le querent à examiner leur question dans une nouvelle 
+lumière. (pour cette raison, c'est une disposition raisonnable 
+pour art de l'auto-portrait-readings, si vous les faites.) Il y a les 
+éléments prédictifs, mais je tends à les employer plutôt 
+largement." - Efran</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Querent et position par rapport à votre 
+question/situation</entry>
+	<entry key="PositionTitle1">Paire avec 3 ci-dessous</entry><entry key="Meaning1">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle2">Appareillez avec 2 ci-dessus</entry><entry key="Meaning2">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle3">Appareillez avec 5 ci-dessous</entry><entry key="Meaning3">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle4">Appareillez avec 4 ci-dessus</entry><entry key="Meaning4">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle5">Appareillez avec 7 ci-dessous</entry><entry key="Meaning5">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle6">Appareillez avec 6 ci-dessus</entry><entry key="Meaning6">Chaque paire représente un conflit entre deux 
+influences, facteurs, personnes, avis, etc.. d'opposition. 
+L'interprétation dépendra de la question, mais les conflits 
+tendent à être des problèmes ou des obstacles les visages querent. 
+Vous pouvez vouloir choisir une option dans un excédent de 
+paire l'autre, ou essayez de réconcilier les deux, ou identifiez 
+simplement qu'un conflit existe.</entry>
+	<entry key="PositionTitle7">Après</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Présent</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Futur</entry><entry key="Meaning9">Là où des choses sont dirigées. Ceci pourrait 
+être le futur si aucune mesure n'est prise, ou le futur désiré, ou 
+le futur si une certaine mesure spécifique est prise. Vous 
+pourriez essayer d'ajouter une carte entre 9 et 10 pour représenter 
+l'action ou la décision qui mèneront à carder le futur de 10, ou 
+avez plusieurs 'futures 'cartes pour différents résultats possibles 
+(deux seraient raisonnables). Si vous êtes confortable avec une
+carte simple 'prévision 'du futur, la disposition est probablement 
+correcte comme est.</entry>
+	<entry key="PositionTitle10">Summaryt</entry><entry key="Meaning10">Un sommaire de la lecture, ou un commentaire final sur 
+la situation, ou conseil, ou une clarification des cartes 8-10 
+s'ils sont peu clairs. Je n'emploie pas toujours cette carte -- 
+j'ai constaté qu'elle généralement ne clarifie pas des choses 
+beaucoup. (voir la carte 10 pour d'autres choses pour mettre ici
+à la place.) J'estime qu'il devrait y a une carte ici, parce 
+qu'alors la disposition est formée rudement comme une clef (par 
+conséquent le nom), qui à mon avis semble fraîche. Je 
+suspecte que la disposition semble non équilibrée sans carte ici. 
+[ note d'ED : 'I 'se rapporte à Efran qui a fait la 
+disposition ]</entry>
+</oracleio>

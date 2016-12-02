@@ -1,0 +1,9 @@
+#############################################################################
+#
+# Advance (Sapphire/Ruby/Emerald) Metagame
+#
+#############################################################################
+
+metagame.mechanics = mechanics.AdvanceMechanics
+metagame.species = species.db
+metagame.moveset = movesets.db

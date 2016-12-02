@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="el" author="Thomas Dilts" >
+<entry key="menulanguage">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+<entry key="Advisor">Σύμβουλος</entry>
+<entry key="BadFileMessage">Το αρχείο που επιλέξατε δεν θα μπορούσε να χρησιμοποιηθεί. 
+Προσπαθήστε πάλι με ένα άλλο αρχείο που είναι το σωστό 
+σχήμα.</entry>
+<entry key="CancelButton">Ακυρώστε</entry>
+<entry key="CardSelectionWizard">Μάγος επιλογής αντικειμένου</entry>
+<entry key="ChooseWhichFileToCreate">Επιλέξτε ποιο αρχείο θέλετε και πιέζετε έπειτα το κουμπί 
+"δημιουργείτε αυτών των αρχείων"</entry>
+<entry key="Create this file">Δημιουργήστε αυτό το αρχείο</entry>
+<entry key="DoYouWantToMakeThisDefault">Θέλετε να κάνετε αυτό το αρχείο προεπιλογής σας στο 
+επόμενο καινούριο ξεκίνημα tne jTarot;</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Το Ooops, εσείς χτύπησε ακυρώνει. Θέλετε 
+πραγματικά να ρίξετε μακριά όλες τις αλλαγές σας;</entry>
+<entry key="Graphical objects">Γραφικά αντικείμενα</entry>
+<entry key="Lastusedreadingslistisempty">Ο τελευταίος χρησιμοποιημένος κατάλογος αναγνώσεων είναι 
+κενός</entry>
+<entry key="Layout translations">Μεταφράσεις σχεδιαγράμματος</entry>
+<entry key="Layout">Σχεδιάγραμμα</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Με το χέρι επιλέξτε στον αριστερό κατάλογο το αντικείμενο 
+που παρουσιάζεται στην εικόνα στο δικαίωμα και το χτύπημα 
+"έπειτα".</entry>
+<entry key="ManuallySelectEachCard">Με το χέρι επιλέξτε κάθε αντικείμενο</entry>
+<entry key="Menu and message translations">Μεταφράσεις επιλογών και μηνυμάτων</entry>
+<entry key="More">Περισσότεροι</entry>
+<entry key="NextButton">Έπειτα</entry>
+<entry key="No">Αριθ.</entry>
+<entry key="OpenAFile">Επιλέξτε ένα αρχείο που ανοίγει</entry>
+<entry key="Oracle translations">Μεταφράσεις Oracle</entry>
+<entry key="RandomlyChooseTheNextCard">Επιλέξτε το επόμενο αντικείμενο για να πάτε στη θέση που 
+παρουσιάζεται στην εικόνα.</entry>
+<entry key="RandomlySelectCards">Τυχαία επιλέξτε τα αντικείμενα</entry>
+<entry key="Removealllastusedreadings">Αφαιρέστε όλες τις τελευταίες χρησιμοποιημένες αναγνώσεις</entry>
+<entry key="SaveAFile">Επιλέξτε ένα αρχείο ή εισάγετε ένα νέο όνομα αρχείων</entry>
+<entry key="SelectLayoutAndCardSelection">Επιλέξτε το σχεδιάγραμμα θέλετε και ο τρόπος που θέλετε να 
+επιλέξετε τα αντικείμενα  είτε τυχαία είτε με το χέρι. 
+Εάν χάνεστε πραγματικά εδώ, χτυπήστε ακριβώς τα επίλεκτα 
+αντικείμενα κουμπιών "τυχαία"</entry>
+<entry key="Smaller group of objects">Μικρότερη ομάδα αντικειμένων</entry>
+<entry key="StartupWizard">Μάγος ξεκινήματος</entry>
+<entry key="TheDeckCopyright">Πνευματικά δικαιώματα εικόνων αντικειμένου</entry>
+<entry key="Title">jTarot και ρούνοι</entry>
+<entry key="Type of oracle">Τύπος χρησμού</entry>
+<entry key="Use reversed objects">Χρήση αντικείμενα</entry>
+<entry key="Yes">Ναι</entry>
+<entry key="YouMustFirstSelectAValidCard">Πρέπει πρώτα να επιλέξετε ένα έγκυρο αντικείμενο</entry>
+<entry key="advancedLabel">Προηγμένος</entry>
+<entry key="advisorsLabel">Σύμβουλοι</entry>
+<entry key="browseroptionsLabel">Παρουσιάστε διάλογο επιλογών ξεφυλλιστή</entry>
+<entry key="cardisreversed">Αυτό το αντικείμενο αντιστρέφεται</entry>
+<entry key="contributeLabel">Πώς μπορώ να βοηθήσω αυτό το πρόγραμμα;</entry>
+<entry key="copyrighttitle">Πνευματικά δικαιώματα κειμένων συμβούλων</entry>
+<entry key="createsetupfilesLabel">Δημιουργήστε ένα αρχείο οργάνωσης χρησμού</entry>
+<entry key="editsetupfileLabel">Εκδώστε ένα αρχείο οργάνωσης</entry>
+<entry key="exitLabel">Έξοδος</entry>
+<entry key="exportLabel">Εξαγωγή</entry>
+<entry key="exporthtmlLabel">HTML (πολλά αρχεία, συμβατό σύστημα όλοι οι ξεφυλλιστές
+Ιστού)</entry>
+<entry key="exportmhtmlLabel">MHTML (ενιαίο αρχείο, συμβατό σύστημα MS-*Windows)</entry>
+<entry key="exportwarLabel">WAR (ενιαίο αρχείο, συμβατό σύστημα Konqueror και 
+μερικοί κλώνοι mozilla)</entry>
+<entry key="generalhelpLabel">Βοήθεια</entry>
+<entry key="givetranslatehelpLabel">Μεταφράστε "τη βοήθεια" στη γλώσσα σας</entry>
+<entry key="helpLabel">Βοήθεια</entry>
+<entry key="ifreversed">Περιγραφή</entry>
+<entry key="imagesLabel">Εικόνες</entry>
+<entry key="languageLabel">Γλώσσα</entry>
+<entry key="loadsetupfileLabel">Φορτώστε ένα αρχείο οργάνωσης για τη χρήση σε αυτό το 
+πρόγραμμα</entry>
+<entry key="newlayoutLabel">Κάνετε μια νέα ανάγνωση</entry>
+<entry key="openLabel">Ανοίξτε μια προηγουμένως σωζόμενη ανάγνωση</entry>
+<entry key="optionsLabel">Επιλογές</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Τυπωμένη ύλη μέσω ενός ξεφυλλιστή Ιστού</entry>
+<entry key="readingsLabel">Αναγνώσεις</entry>
+<entry key="recentLabel">Τελευταίες χρησιμοποιημένες αναγνώσεις</entry>
+<entry key="reportbugLabel">Εκθέστε ένα λάθος προγράμματος</entry>
+<entry key="saveLabel">Εκτός από την τρέχουσα ανάγνωση</entry>
+<entry key="screensPersonalReading">Η μετάφρασή σας της ανάγνωσης</entry>
+<entry key="screensQuestion">Ερώτηση για την ανάγνωση</entry>
+<entry key="screensReading">Παραγμένη ανάγνωση</entry>
+<entry key="showallobjectsLabel">Παρουσιάστε όλες εικόνες για αυτόν τον χρησμό</entry>
+<entry key="showpositionnumbersLabel">Παρουσιάστε αριθμούς θέσης σχεδιαγράμματος</entry>
+<entry key="showreversedandnormalLabel">Παρουσιάστε κανονικά και κείμενα αντικειμένου από κοινού</entry>
+<entry key="thecard">Το αντικείμενο</entry>
+<entry key="theposition">Θέση</entry>
+</oracleio>

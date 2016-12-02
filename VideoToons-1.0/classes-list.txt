@@ -1,0 +1,60 @@
+**************************************************************************
+* Here are the files you will find in videotoons.game & videotoons.swing *
+**************************************************************************
+*
+* Definitions & Tools
+*    GameDefinitions;          // interface containing general definitions
+*    Tools;                    // various tools
+*    Anim;                     // an animation is a set of image indexes with a cursor
+*
+* Windows
+*    GameModeWindow;           // Game mode window: one player/multiplayer
+*    GameScreen;               // game window
+*    StatusWindow;             // status window associated to the GameScreen
+*    PlayerSetupWindow;        // player setup
+*    MultiplayerWindow;        // multiplayer setup : client, server...
+*    ServerWaitWindow;         // server waiting room
+*    ClientWaitWindow;         // client waiting room
+*
+*
+* Level Process
+*    ClientLevelProcess;       // Loads & process the level data on the client side
+*    ServerLevelProcess;       // """"" " """"""" """ """"" """" "" """ server """"
+*
+* Data structures
+*    LevelData;                // contains the variables needed to construct a level;
+*    UserData;                 // variables describing : player names, options, etc...
+*    AnimLibrary;              // variables needed to construct sprite animations (players)
+*    AnimMonsterLibrary;       // variables needed to construct sprite animations (monsters)
+*    ImageLibrary;             // images needed by the game screen to draw sprites.
+*    ObjectLibrary;            // Link String <-> Object for levels & players
+*
+* Sprites Types
+*    BasicSprite;              // a simple rectangle that is used to represent every game object.
+*    AnimatedSprite;           // a animated BasicSprite: it can walk, jump, fall, hit, ...
+*    Player;                   // a player is an AnimatedSprite with Key events...
+*    Monster;                  /// a monster is an AnimatedSprite that has a special behaviour...
+*
+* Level Objects
+*    Tunnel;                   // tunnels are found on the right & left side of a stage
+*    Cloud;                    // well... yes it's a cloud !
+*    Block;                    // inactive stone/object with collisions
+*    BrokenStone;              // a broken stone...
+*    FilledHole;               // hole that has just been filled-in
+*
+* Network Client
+*    GameClient;              // network client
+*
+* Network Server
+*    GameServer;              // server
+*    GameServerThread;        // server part that discuss with 1 client
+*
+* Monsters Behaviour
+*    RollingMonster;          // monster that walks in a direction and fall
+*    HittingMonster;          // monster that tries to hit players
+*    LevelUpMonster;          // monster that makes the screen goes up
+*    StoneMonster;            // stone used to fill holes
+*    HoleFillerMonster;       // monster that fills hole with the help of a StoneMonster
+*    FallingMonster;          // collapsing stone
+*
+**********************************************************************

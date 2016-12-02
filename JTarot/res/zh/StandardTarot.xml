@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" classification="OracleTranslations" subclass="" language="zh" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Tarot 标准78 卡片</entry>
+	<entry key="description">标准tarot 舱板与22 张卡片在higer arcanna 和56 张卡片在更低的arcanna 。更低的arcanna 与一叠板是相同的正常纸牌除"页的" 加法之外在花牌。并且, 代替心脏、锹、俱乐部和金刚石; 这是杯子、剑、鞭子和pentacles 。</entry>
+	<entry key="subgroup0">更高的Arcanna</entry>
+	<entry key="subgroup1">降低Arcanna</entry>
+	<entry key="subgroup2">52 张纸牌舱板</entry>
+
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">更高的Arcanna</entry>
+	<entry key="grouping1">杯子</entry>
+	<entry key="grouping2">Pentacles</entry>
+	<entry key="grouping3">剑</entry>
+
+	<entry key="grouping4">鞭子</entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">汉语</entry>
+	<entry key="author">托马斯・Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">版权  © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+</oracleio>
+
+

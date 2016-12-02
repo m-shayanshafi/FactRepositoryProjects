@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="de" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Edred Thorsson, Handbuch Runecasters.</entry>
+		<entry key="Title">24 Rune Futhark Plan</entry>
+		<entry key="Description">Alle runes Bedeutungen werden hier gezeigt, also 
+erhalten Sie eine Mischung von Bedeutungen mit einem rune, das in die 
+Bedeutung eines anderen rune fällt.</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">Geldangelegenheiten. Psychische Energie. 
+Finanzielle Stärke und Wohlstand des Geschenkes und der nahen 
+Zukunft.</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">Körperliche Gesundheit. Lebenswichtige Energie.</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">Was Ihnen entgegensetzte (möglicherweise körperlich). 
+Konflikte und Kompliziertheiten einer konkurrenzfähigen Natur; 
+psychologische Probleme.</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">Quellen der Inspiration und des intellektuellen 
+Ausdruckes. Kommunikationen und Getriebe; zeigt Sachen 
+zurück zu Quellen in der Vergangenheit.</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">Spielräume - inner oder äußer. Was recht oder 
+nicht recht ist; welche Bewegung zu bilden; 
+Entscheidungen; Rückkehr.</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">Kreativität. Erotische Verhältnisse. 
+Erschließen der neuen Weisen; Gelegenheiten; 
+Informationen.</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">Was Ihnen gegeben wird. Alle Angelegenheiten einer
+wertSEIENDEN Natur; Verträge; persönliche Verhältnisse.</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">Verhältnisse, Freunde. Was Ihnen Glück gibt. 
+Gewinn; Vollendungen; das, das für gewünscht wird.</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">Bereich der möglichen Krise führend zu Umwandlung. 
+Die unbeaufsichtigten Kräfte in den unbewußten, die 
+normalerweise von einer Unterbrechungsnatur sind und die normalerweise
+in der Vergangenheit entstehen.</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">Was Ihnen widersteht (psychically). Quelle von 
+Unzufriedenheit. Einschränkende Kräfte im unbewußten; 
+Furcht, Ängste; Gefühle von Schuld.</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">Was Sie begrenzt. Blöcke; stultified 
+Bedingungen; Beschwerden; alles, dem die Einzelperson 
+ließ gehen nicht von vorbereitet wird; die Anordnung der 
+Beschaffenheit; Konditionierung.</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">Wo Belohnungen erwartet werden können. 
+Verhältnis zum natürlichen Klima. Hoffnungen und 
+Erwartungen; Drehpunkte; stufenweise Änderungen; 
+Resultate der früheren Tätigkeiten.</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">Versteckte Einflüsse, Zustand des vollständigen Seins.
+Verhältnis zum numinous Klima. Die Antriebskräfte im 
+unbewußten; Beweggrund; Richtung des Zweckes.</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">Wie Sie Freude finden. Das tiefste kreative Teil 
+vom unbewußten; der versteckte Reich des höheren Materials, 
+das wartet, um zur Verwirklichung und zur Geburt zu kommen; 
+versteckte Talente; geheimnisvolle oder psychische 
+Fähigkeiten.</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">Sache, die Aufmerksamkeit benötigt. Weise zu den 
+Göttern. Die starke schützende Seite im unbewußten; der
+Einfluß, der Sie schützt; fromme Aspirationen.</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">Was Sie führt. Position des höheren Selbst in 
+den Relationen zum unbewußten; die Richtung, in der Sie vom 
+höheren Selbst geführt werden; die Fähigkeit, Kontakt 
+zwischen dem höheren Selbst- und dem unbewußten herzustellen.</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">Kognitiver Zustand. Rechtssachen. Ideale. 
+Kreative Energie in der kriegerischen Richtung; wo Ihre 
+Stärken liegen; wo man Ihre Energie verweist, wenn Initiativen 
+genommen werden; Ehre und Gerechtigkeit, Führung und 
+Berechtigung.</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">Was Wachstum und Schönheit liefert. Ergiebigkeit;
+Geburt ' Wiedergeburt; Wachstum; Mutterschaft; 
+Familienleben; weibliche Geheimnisse.</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">Mit was oder, wem sollten Sie bearbeiten. 
+Erotische Relationen. Anpassungsfähigkeit; 
+Verhältnisse zu anderen; gemeinsame Bemühungen; 
+Mitarbeit; Sexualität.</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">Gesamter psychischer Zustand. Einstellung 
+gegenüber Tod. Leute an großem; einstellung gegenüber 
+anderen; einstellungen der Leute gegenüber Ihnen; 
+Rechtssachen, Freunde und Feinde; Intellekt.</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">Zustand der emotionalen Balance. Was Sie prüft. 
+Gefühle; Stabilität; Phantasie; psychische 
+Angelegenheiten; Neigungen.</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">Was Sie erwägen. Integration; 
+Schwangerschaft; Erwartungen; Nachkommen.</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">Bereich des unerwarteten synchronicity. Getriebe; 
+Entgegengesetzte; Position zwischen hellem und 
+Schwärzung; Einführung; gleichen Sie zwischen der 
+Weltaußenseite Zeit und dem Raum aus; kosmisches Bewußtsein; 
+ändern Sie von einer Sache in sein Entgegengesetztes; 
+neue Anfänge.</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">Grössere Familie Angelegenheiten. 
+Staatsangehörig- oder Gemeinschaftsissues.Home Leben; 
+Land; geistiges Erbe; Erfahrung; Grundlage; 
+grundlegende Werte; Herstellen.</entry>
+</oracleio>

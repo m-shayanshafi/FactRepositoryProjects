@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="template">
+  <name>IHM</name>
+  <creationDate>20.01.2005</creationDate>
+  <author>Bernhard von Gunten</author>
+  <copyright>www.icehockeymanager.org</copyright>
+  <authorEmail>bvg_dev@nostromo.ch</authorEmail>
+  <authorUrl>www.icehockeymanager.org</authorUrl>
+  <version>2.0</version>
+  <description>The IHM Template, based on the akowinterportal theme by Arthur Konze.</description>
+  <files>
+    <filename>index.php</filename>
+    <filename>template_thumbnail.png</filename>
+  </files>
+  <images>
+    <filename>images/arrow2up.gif</filename>
+    <filename>images/arrow.gif</filename>
+    <filename>images/indent1.png</filename>
+    <filename>images/bottom_snow.jpg</filename>
+    <filename>images/menu_bg.png</filename>
+    <filename>images/headermainbg.png</filename>
+    <filename>images/headermenbg.gif</filename>
+    <filename>images/topshadow.gif</filename>
+    <filename>images/subhead_bg.png</filename>
+  </images>
+  <css>
+    <filename>css/template_css.css</filename>
+  </css>
+</mosinstall>

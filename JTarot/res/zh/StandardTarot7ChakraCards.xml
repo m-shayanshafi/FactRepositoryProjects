@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Seven card chakra layout" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">德语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">七张卡片chakra 布局</entry>
+	<entry key="Description">各张卡片对应到身体的七chakras 的当中一个。主题的适当的研究会被劝告当使用这种布局和名单如下意欲只作为参考指南从Guiley 的书被提取。各个位置的解释也许变化取决于您的learnings</entry>
+	<entry key="PositionTitle0">根chakra</entry><entry key="Meaning0">自我保存和天性</entry>
+	<entry key="PositionTitle1">Sacral chakra</entry><entry key="Meaning1">性别</entry>
+	<entry key="PositionTitle2">太阳结节</entry><entry key="Meaning2">情感</entry>
+	<entry key="PositionTitle3">心脏chakral</entry><entry key="Meaning3">更高的知觉, 无条件的爱</entry>
+	<entry key="PositionTitle4">喉头chakra</entry><entry key="Meaning4">创造性和自已表示</entry>
+	<entry key="PositionTitle5">第三只眼睛chakra</entry><entry key="Meaning5">精神能力, 精神启示</entry>
+	<entry key="PositionTitle6">冠chakra</entry><entry key="Meaning6">神志清楚的evoluion 的单独水平</entry>
+</oracleio>

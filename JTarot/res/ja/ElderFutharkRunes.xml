@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="ja" version="1" author="Thomas Dilts" >
+	<entry key="displayname">より古いFuthark Runes</entry>
+	<entry key="description">より古いFuthark はrunic アルファベットの最も古い版であると考えられドイツの人々に家だったスカンジナビアを含むヨーロッパの部分で、使用された。おそらくそれから開発される他の版。</entry>
+	<entry key="subgroup0">Freya のAirt (?t)</entry>
+	<entry key="subgroup1">Heimdall のAirt (?t)</entry>
+	<entry key="subgroup2">Tyr のAirt (?t)</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Freya のAirt (?t)</entry>
+	<entry key="grouping1">Heimdall のAirt (?t)</entry>
+	<entry key="grouping2">Tyr のAirt (?t)</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">日本語</entry>
+	<entry key="author">トマスDilts tarot@lazy8.nu</entry>
+	<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+</oracleio>

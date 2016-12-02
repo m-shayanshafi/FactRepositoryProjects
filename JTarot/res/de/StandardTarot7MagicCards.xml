@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Magic seven layout (Doane)" classification="LayoutTranslations" version="1" language="de" author="Thomas Dilts" >
+<entry key="languagename">Deutsch</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). Erlaubnis wird Kopie bewilligt, verteilt 
+und/oder ändert dieses Dokument unter den Bezeichnungen der neueren 
+Version der GNU freien Unterlagen Lizenz, der Version 1.2 oder 
+irgendein, die durch die freie Software-Grundlage veröffentlicht 
+wird. Eine Kopie der Lizenz kann an http://www.gnu.org gefunden 
+werden</entry>
+	<entry key="Title">Plan der Magie sieben (Doane)</entry>
+	<entry key="Description">Davidsstern</entry>
+	<entry key="PositionTitle0">Hinter</entry><entry key="Meaning0">Hinter dem Fall, der bis zum aktuellen Stand führt</entry>
+	<entry key="PositionTitle1">Geschenk</entry><entry key="Meaning1">Der aktuelle Stand</entry>
+	<entry key="PositionTitle2">Sofortig Zukunft</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Lösung</entry><entry key="Meaning3">Vorgeschlagene Lösung, was das querent tun sollte, um 
+mehr Steuerung über der gegenwärtigen Lage zu erreichen</entry>
+	<entry key="PositionTitle4">Klima</entry><entry key="Meaning4">Das gegenwärtige Klima und/oder sein beeinflussen auf 
+der Angelegenheit</entry>
+	<entry key="PositionTitle5">Opposition</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">Resultat</entry><entry key="Meaning6"></entry>
+</oracleio>

@@ -1,0 +1,33 @@
+=========================================================================
+
+  Stigma - Multiplayer online RPG - http://stigma.sourceforge.net
+  Copyright (C) 2005-2009 Minions Studio
+
+ -----------------------------------------------------------------------
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ -----------------------------------------------------------------------
+
+  Full text of GNU General Public License can be found in gpl-3.0.txt
+  or at <http://www.gnu.org/licenses/>.
+
+=========================================================================
+
+ All game resources and contents (including: artwork, images, icons,
+ music, in-game texts, game world settings (maps, quest etc.) etc.
+ provided with this game are distributed under:
+
+    Creative Commons Attribution/Share-Alike 3.0 License.
+
+ which can be found at <http://creativecommons.org/licenses/by-sa/3.0/>.
+
+=========================================================================

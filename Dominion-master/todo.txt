@@ -1,0 +1,20 @@
+Things left to do:
+
+make trash a real trash pile (i.e. make it so you can see the last thing trashed, 
+	maybe some indicator of how many things trashed?)
+
+-at game end, play again/start game with new players?
+
+-do something intelligent if connection drops
+
+work on message box (make it display html)
+
+option to turn off tooltips/do it on right click instead of hover
+
+visual display of deck/discard?  maybe include a count of deck?  
+
+work on the whole "inProgress"/DecisionCard/DecisionObject thing
+	--implement more cards!!!!!
+
+
+for later: store scores and rank people over time?

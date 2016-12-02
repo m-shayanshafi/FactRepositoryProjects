@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" classification="OracleTranslations" subclass="" language="el" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Παλαιότεροι ρούνοι Futhark</entry>
+	<entry key="description">Το παλαιότερο Futhark είναι πιθανά η παλαιότερη έκδοση 
+του ρουνικού αλφάβητου, και χρησιμοποιήθηκε στα μέρη της Ευρώπης 
+που ήταν κατ' οίκον στους γερμανικούς λαούς, συμπεριλαμβανομένης 
+Σκανδιναβίας. Αλλες εκδόσεις που αναπτύσσονται πιθανώς από
+τον.</entry>
+	<entry key="subgroup0">Airt (Ζtt) Freya</entry>
+	<entry key="subgroup1">Airt (Ζtt) Heimdall</entry>
+	<entry key="subgroup2">Airt (Ζtt) Tyr</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Airt (Ζtt) Freya</entry>
+	<entry key="grouping1">Airt (Ζtt) Heimdall</entry>
+	<entry key="grouping2">Airt (Ζtt) Tyr</entry>
+	<entry key="grouping3"></entry>
+	<entry key="grouping4"></entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Ελληνικά</entry>
+	<entry key="author">Θ*Τχομας Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+</oracleio>

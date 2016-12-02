@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Wish Spread (Doane)" classification="LayoutTranslations" version="1" language="sv" author="Thomas Dilts" >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Wish Spread (Doane)</entry>
+	<entry key="Description">The nine of cups is often called the wish card.  If this card
+should turn up anywhere in the reading, except in the group of three including card 8, this
+would be a strong indication that some part or all of the querent's
+wish will come true.  The closer it appears in the above numeric
+sequence, the sooner the wish will be realized.  If the nine of
+cups appears in group 8, this is an indication that the wish will
+probably not come true; the other two cards in the group will yield
+the cause.  If the nine of cups does not appear, this should not be
+taken as an indication of either fate, although other cards in the
+reading may confirm or deny the wish.</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Environment 1</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Environment 2</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Environment 3</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Wish 1</entry><entry key="Meaning4">Description of querent's wish</entry>
+	<entry key="PositionTitle5">Wish 2</entry><entry key="Meaning5">Description of querent's wish</entry>
+	<entry key="PositionTitle6">Wish 3</entry><entry key="Meaning6">Description of querent's wish</entry>
+	<entry key="PositionTitle7">Opposition 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">Opposition 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">Opposition 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">Factors 1</entry><entry key="Meaning10">Factors that will enter into this matter</entry>
+	<entry key="PositionTitle11">Factors 2</entry><entry key="Meaning11">Factors that will enter into this matter</entry>
+	<entry key="PositionTitle12">Factors 3</entry><entry key="Meaning12">Factors that will enter into this matter</entry>
+	<entry key="PositionTitle13">Realizations 1</entry><entry key="Meaning13">Realizations of the querent (usually in the future)</entry>
+	<entry key="PositionTitle14">Realizations 2</entry><entry key="Meaning14">Realizations of the querent (usually in the future)</entry>
+	<entry key="PositionTitle15">Realizations 3</entry><entry key="Meaning15">Realizations of the querent (usually in the future)</entry>
+</oracleio>

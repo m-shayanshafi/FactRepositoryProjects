@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="" classification="Translations" subclass="menus" version="1" language="ru" author="Thomas Dilts" >
+<entry key="menulanguage">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+<entry key="Advisor">Советник</entry>
+<entry key="BadFileMessage">Архив, котор вы выбрали не смог быть использован. 
+Пытайтесь снова с другим архивом будет правильно формой.</entry>
+<entry key="CancelButton">Отмените</entry>
+<entry key="CardSelectionWizard">Возразите Чудодея Выбора</entry>
+<entry key="ChooseWhichFileToCreate">Выберите хранят вас хотят и после этого отжимают 
+"создают кнопку этот архив"</entry>
+<entry key="Create this file">Создайте этот архив</entry>
+<entry key="DoYouWantToMakeThisDefault">Вы хотите сделать этим ваш архив невыполнения 
+обязательства на рестарте tne затем jTarot?</entry>
+<entry key="DoYouWantToThrowAwayYourChanges">Ooops, вы ударили cancel. Вы реально хотите 
+бросить прочь все ваши изменения?</entry>
+<entry key="Graphical objects">Графические предметы</entry>
+<entry key="Lastusedreadingslistisempty">Используемый последним список чтений пуст</entry>
+<entry key="Layout translations">Переводы плана</entry>
+<entry key="Layout">План</entry>
+<entry key="ManuallyChooseTheCardShownInImageCardAndHitOk">Ручно выберите в левом списке предмет показанный в 
+изображении на праве и ударьте ' затем '.</entry>
+<entry key="ManuallySelectEachCard">Ручно выберите каждый предмет</entry>
+<entry key="Menu and message translations">Переводы меню и сообщения</entry>
+<entry key="More">Больше</entry>
+<entry key="NextButton">Затем</entry>
+<entry key="No">Нет</entry>
+<entry key="OpenAFile">Выберите архив для того чтобы раскрыть</entry>
+<entry key="Oracle translations">Переводы оракула</entry>
+<entry key="RandomlyChooseTheNextCard">Выберите следующий предмет для того чтобы пойти в 
+положение показанное в изображении.</entry>
+<entry key="RandomlySelectCards">Случайно выбирайте предметы</entry>
+<entry key="Removealllastusedreadings">Извлекайте все последние используемые чтения</entry>
+<entry key="SaveAFile">Выберите архив или впишите новое имя архива</entry>
+<entry key="SelectLayoutAndCardSelection">Выберите план, котор вы хотите и дорога вы хотите 
+выбрать предметы; или случайно или ручно. Если вы реально 
+потеряны здесь, то как раз ударьте предметы кнопки ' случайно отборные
+"</entry>
+<entry key="Smaller group of objects">Более малая группа в составе предметы</entry>
+<entry key="StartupWizard">Startup Чудодей</entry>
+<entry key="TheDeckCopyright">Авторское право изображения предмета</entry>
+<entry key="Title">jTarot и Runes</entry>
+<entry key="Type of oracle">Тип оракула</entry>
+<entry key="Use reversed objects">Используйте обращенные предметы</entry>
+<entry key="Yes">Да</entry>
+<entry key="YouMustFirstSelectAValidCard">Вы должны сперва выбрать действительный предмет</entry>
+<entry key="advancedLabel">Предварительно</entry>
+<entry key="advisorsLabel">Советники</entry>
+<entry key="browseroptionsLabel">Покажите диалог вариантов браузера</entry>
+<entry key="cardisreversed">Этот предмет обращен</entry>
+<entry key="contributeLabel">Как могу я помочь этому проекту?</entry>
+<entry key="copyrighttitle">Авторское право текстов советника</entry>
+<entry key="createsetupfilesLabel">Создайте архив установки оракула</entry>
+<entry key="editsetupfileLabel">Редактируйте архив установки</entry>
+<entry key="exitLabel">Выйдите</entry>
+<entry key="exportLabel">Экспорт</entry>
+<entry key="exporthtmlLabel">Html (много архивы, совместимых все браузеры 
+стержня)</entry>
+<entry key="exportmhtmlLabel">MHTML (одиночный архив, ГОСПОЖА Windows 
+совместимое)</entry>
+<entry key="exportwarLabel">WAR (одиночный архив, Konqueror совместимое и 
+некоторое mozilla клонируют)</entry>
+<entry key="generalhelpLabel">Помощь</entry>
+<entry key="givetranslatehelpLabel">Переведите ' помощь ' к вашему языку</entry>
+<entry key="helpLabel">Помощь</entry>
+<entry key="ifreversed">Обращенное описание</entry>
+<entry key="imagesLabel">Изображения</entry>
+<entry key="languageLabel">Язык</entry>
+<entry key="loadsetupfileLabel">Нагрузите архив установки для пользы в этой программе</entry>
+<entry key="newlayoutLabel">Сделайте новое чтение</entry>
+<entry key="openLabel">Раскройте ранее сохраненное чтение</entry>
+<entry key="optionsLabel">Варианты</entry>
+<entry key="percent25Label">25%</entry>
+<entry key="percent50Label">50%</entry>
+<entry key="percent75Label">75%</entry>
+<entry key="percent100Label">100%</entry>
+<entry key="percent150Label">150%</entry>
+<entry key="percent200Label">200%</entry>
+<entry key="printtowebLabel">Печать через web browser</entry>
+<entry key="readingsLabel">Чтения</entry>
+<entry key="recentLabel">Чтения используемые последним</entry>
+<entry key="reportbugLabel">Сообщите ошибку программы</entry>
+<entry key="saveLabel">За исключением в настоящее время чтения</entry>
+<entry key="screensPersonalReading">Ваш перевод чтения</entry>
+<entry key="screensQuestion">Вопрос для чтения</entry>
+<entry key="screensReading">Произведенное Чтение</entry>
+<entry key="showallobjectsLabel">Покажите все изображения для этого оракула</entry>
+<entry key="showpositionnumbersLabel">Покажите номера положения плана</entry>
+<entry key="showreversedandnormalLabel">Покажите нормальные и обращенные тексты предмета 
+совместно</entry>
+<entry key="thecard">Предмет</entry>
+<entry key="theposition">Положение</entry>
+</oracleio>

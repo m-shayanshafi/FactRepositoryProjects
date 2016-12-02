@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Key Spread (Efran)" classification="LayoutTranslations" version="1" language="zh2" author="Thomas Dilts" >
+<entry key="languagename">漢語</entry>
+<entry key="copyright">版權 © 2007 年托馬斯Dilts (tarot@lazy8.nu) 。允許被授予拷貝, 分佈並且/或者修改這個文件在GNU 自由文獻執照, 版本1.2 或任何最新版本條件下由自由軟體基金會出版。執照的拷貝也許被發現在http://www.gnu.org</entry>
+	<entry key="Title">鑰匙傳播(Efran)</entry>
+	<entry key="Description">"這我使用的Tarot 佈局, 一個我發明(只要我知道) 。我非常開發了佈局的基本在我變得對Tarot (之後我感興趣沒有認為許多標準部分), 但我仍然從事它。它不被認為是主要有預測性的。反而, 它意欲幫助querent 審查他們的問題在新光。(因此, 這是一種合理的佈局為自已讀書, 如果您做他們。) 有有預測性的元素, 但我傾向於寧可寬廣地使用他們。" - Efran</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Querent 和位置關於您的question/situation</entry>
+	<entry key="PositionTitle1">對與下面3</entry><entry key="Meaning1">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle2">與2 配對上述</entry><entry key="Meaning2">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle3">與下面5 配對</entry><entry key="Meaning3">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle4">與4 配對上述</entry><entry key="Meaning4">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle5">與下面7 配對</entry><entry key="Meaning5">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle6">與6 配對上述</entry><entry key="Meaning6">各對代表一種衝突在二反對的影響、因素、人、觀點, 等之間。解釋將取決於問題, 但衝突傾向於是問題或障礙querent 面孔。您可以想要選擇一個選擇在對其他, 或試圖和解二, 或簡單地認為衝突存在。</entry>
+	<entry key="PositionTitle7">通過</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">禮物</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">未來</entry><entry key="Meaning9">那裡事朝向。這能是未來如果行動不被採取, 或渴望的未來, 或未來如果一些具體行動被採取。您能設法增加一張卡片在9 和10 之間代表將帶領擬訂10 未來的行動或決定, 或有幾張' 未來' 卡片因為各種可能的結果(二會是合理的) 。如果您是舒適的與一張唯一卡片' 預言' 未來, 佈局和大概是好。</entry>
+	<entry key="PositionTitle10">Summaryt</entry><entry key="Meaning10">讀書的總結, 或關於情況的一個最後的評論、或忠告, 或卡片的闡明8-10 如果他們是不明的。我總不使用這張卡片-- 我發現它一般澄清事不。(參見卡片10 為其它事改為投入這裡。) 我認為, 那裡應該是卡片這裡, 因為佈局然後被塑造大致像鑰匙(因此名字), 以我所見看起來涼快。我懷疑佈局會看起來失衡沒有卡片這裡。[ 編輯筆記: ' 我' 提到做佈局] 的Efran</entry>
+</oracleio>

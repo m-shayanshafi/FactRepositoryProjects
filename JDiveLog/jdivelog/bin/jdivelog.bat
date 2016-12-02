@@ -1,0 +1,1 @@
+javaw -cp jdivelog.jar;avalon-framework-4.2.0.jar;batik-all-1.7.jar;colorchooser.jar;commons-beanutils.jar;commons-collections.jar;commons-digester.jar;commons-io.jar;commons-logging-api.jar;.;commons-fop.jar;jcommon-1.0.16.jar;jfreechart-1.0.13.jar;xml-apis-1.3.04.jar;xml-apis-ext-1.3.04.jar;xmlgraphics-commons-1.3.1.jar -Dskindir="..\skins" net.sf.jdivelog.JDiveLog

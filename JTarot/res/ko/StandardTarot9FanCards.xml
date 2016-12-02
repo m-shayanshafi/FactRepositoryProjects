@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Amanda's Fan (Davis)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">Amanda's팬 (데이비스)</entry>
+	<entry key="Description">"이것은 켈트 십자가 및 칼에 
+명백하게 기초를 둔다; 우리가 양쪽 
+켈트 십자가 -- 다만*에 교류*논리적으로 
+만족하지 않았기 때문에 그것은 개발되었다. 
+이렇게 나는 재생산했다 그것을." 
+(데이비스는). 사람 데이비스가에게 때 
+개발해 말한 후에 지명하는.</entry>
+	<entry key="PositionTitle0">질문자</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">교차점</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">기초</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">지나서</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">현재</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">미래</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">결과</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">안 영향</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">외부 영향</entry><entry key="Meaning8"></entry>
+</oracleio>

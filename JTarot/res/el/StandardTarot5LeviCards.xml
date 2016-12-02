@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Eliphas Levi Wheel Spread (Guiley)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Eliphas Levi Wheel Spread (Guiley)</entry>
+	<entry key="Description">Το σχεδιάγραμμα ονομάζεται έτσι επειδή είναι βασισμένο στο
+Eliphas Levi Wheel, μια έκδοση του οποίου βλέπει 
+στο ατού 10 στη γέφυρα αναβάτης- Waite  Ο Levi δεν 
+έφηυρε αυτό το σχεδιάγραμμα. Η ρόδα του Levi όρισε τις 
+επιστολές του Tetragramaton (Yod, αυτός, Vau, αυτός, 
+αντίστοιχα) σε κάθε μια από τις τέσσερις θέσεις που 
+παρουσιάστηκαν ανωτέρω. Η ρόδα του Levi προσφέρει επίσης
+μερικές πρόσθετες ερμηνείες των τεσσάρων κοστουμιών tarot, τις
+τέσσερις τάξεις των καρτών δικαστηρίων, και την έννοια των 
+γραμμάτων τ, ο, ρ, και Α.</entry>
+	<entry key="PositionTitle0">Παρόν</entry><entry key="Meaning0">Παρούσα κατάσταση</entry>
+	<entry key="PositionTitle1">Εξασθενίζοντας επιρροές</entry><entry key="Meaning1">Εμπόδια που υπερνικήθηκαν ήδη. Οι αλλαγές που έχουν 
+στο παρελθόν.</entry>
+	<entry key="PositionTitle2">Κρυμμένος</entry><entry key="Meaning2">Κρυμμένες ή ασυναίσθητες επιρροές</entry>
+	<entry key="PositionTitle3">Ανάδυση</entry><entry key="Meaning3">Αναδυόμενες επιρροές.</entry>
+	<entry key="PositionTitle4">Σύνθεση</entry><entry key="Meaning4">Σύρει μαζί τις άλλες τέσσερις επιρροές.</entry>
+</oracleio>

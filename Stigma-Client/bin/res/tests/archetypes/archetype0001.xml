@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archetype ver="Development" persistent="true" name="testArchetype"
+	id="1" xsi:noNamespaceSchemaLocation="http://stigma.sourceforge.net/schemes/ArchetypeWrapper-Development.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<agl>10</agl>
+	<fns>10</fns>
+	<parentArchetypes>2</parentArchetypes>
+	<proficiencies>1</proficiencies>
+	<resMap>
+		<entry>
+			<key>BLUNT</key>
+			<value>
+				<relative>10</relative>
+				<threshold>30</threshold>
+			</value>
+		</entry>
+	</resMap>
+</archetype>

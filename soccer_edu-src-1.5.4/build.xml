@@ -1,0 +1,183 @@
+<project name="TOS_Education" default="build" basedir=".">
+
+
+  <!-- =================================================================== -->
+  <!-- Compiler Options                                                    -->
+  <!-- =================================================================== -->
+  <!-- Should Java compilations set the 'debug' compiler option? -->
+  <property name="compile.debug"         value="false"/>
+  <!-- Should Java compilations set the 'deprecation' compiler option? -->
+  <property name="compile.deprecation"   value="true"/>
+  <!-- Should Java compilations set the 'optimize' compiler option? -->
+  <property name="compile.optimize"      value="true"/>
+
+
+  <!-- =================================================================== -->
+  <!-- Project Properties                                                  -->
+  <!-- =================================================================== -->
+  <property name="name"                  value="Tao of Soccer - Education" />
+  <property name="year"                  value="2006" />
+  <property name="version"               value="1.5.4" />
+  <property name="project"               value="soccer_edu" />
+  <property name="final.name"            value="${project}-${version}" />
+  <property name="final-src.name"        value="${project}-src-${version}" />
+
+
+  <!-- =================================================================== -->
+  <!-- Dependencies Properties                                             -->
+  <!-- =================================================================== -->
+
+
+  <!-- =================================================================== -->
+  <!-- Build Properties                                                    -->
+  <!-- =================================================================== -->
+  <property name="path.src"            value="./" />
+  <property name="path.build"           value="./build" />
+  <property name="path.dist"            value="./dist" />
+
+
+  <!-- =================================================================== -->
+  <!-- Targets                                                             -->
+  <!-- =================================================================== -->
+  <target name="targets">
+    <echo message="" />
+    <echo message="**** ${project} ${version} build targets ****" />
+    <echo message="" />
+    <echo message="---------------------------------" />
+    <echo message="" />
+    <echo message="build (default)  : Builds ${project}" />
+    <echo message="dist               : Creates ${project} distributions" />
+    <echo message="" />
+  </target>
+
+
+  <!-- =================================================================== -->
+  <!-- Prepare                                                             -->
+  <!-- =================================================================== -->
+  <target name="prepare">
+
+    <mkdir dir="${path.build}"/>
+    <mkdir dir="${path.build}/classes"/>
+    <mkdir dir="${path.build}/javadoc"/>
+    <mkdir dir="${path.dist}"/>
+
+  </target>
+
+
+  <!-- =================================================================== -->
+  <!-- Build Tao of soccer                                                    -->
+  <!-- =================================================================== -->
+  <target name="compile" depends="prepare">
+
+    <echo message="Building ${project}" />
+    <javac
+       srcdir="${path.src}"
+       destdir="${path.build}/classes"
+       deprecation="${compile.deprecation}"
+       optimize="${compile.optimize}">
+        <classpath>
+        	<pathelement location="${path.src}/lib/j3d-org.jar"/>
+        	<pathelement location="${path.src}/lib/js.jar"/>
+        	<pathelement location="${path.src}/lib/uri.jar"/>
+        	<pathelement location="${path.src}/lib/vlc_uri.jar"/>
+        	<pathelement location="${path.src}/lib/xj3d-all.jar"/>
+      	</classpath>
+    </javac>
+
+  <javadoc packagenames="soccer.common.*"
+           sourcepath="${path.src}"
+           defaultexcludes="yes"
+           destdir="${path.build}/javadoc"
+           author="true"
+           version="true"
+           use="true"
+           windowtitle="Soccer Common API">
+    <doctitle><![CDATA[<h1>Soccer Common API</h1>]]></doctitle>
+    <bottom><![CDATA[<i>Copyright &#169; 2006 Yu Zhang All Rights Reserved.</i>]]></bottom>
+    <tag name="todo" scope="all" description="To do:" />
+  </javadoc>
+
+    <copy todir="${path.build}/classes/imag">
+      <fileset dir="${path.src}/imag" />
+    </copy>
+    
+    <copy todir="${path.build}/classes/midi">
+      <fileset dir="${path.src}/midi" />
+    </copy>
+    
+    <copy todir="${path.build}/classes/sound">
+      <fileset dir="${path.src}/sound" />
+    </copy>
+
+    <copy todir="${path.build}/classes/model">
+      <fileset dir="${path.src}/model" />
+    </copy>
+    
+  </target>
+
+
+  <!-- =================================================================== -->
+  <!-- Clean build and distribution directories                            -->
+  <!-- =================================================================== -->
+  <target name="clean">
+    <delete dir="${path.build}"/>
+    <delete dir="${path.dist}"/>
+  </target>
+
+
+  <!-- =================================================================== -->
+  <!-- Build Soccer                                                    -->
+  <!-- =================================================================== -->
+  <target name="build" depends="compile">
+
+    <echo message="Building ${project}.jar file" />
+
+	<copy todir="${path.build}/">
+    	<fileset dir="./etc"/>
+	</copy>
+     
+    <jar jarfile="${path.build}/${project}.jar"
+      basedir="${path.build}/classes"
+      manifest="${path.src}/MANIFEST.MF"
+    />
+
+  </target>
+
+
+  <!-- =================================================================== -->
+  <!-- create distribution of Soccer                                   -->
+  <!-- =================================================================== -->
+  <target name="dist" depends="clean, build">
+  
+    <echo message="Create source code distribution" />
+    <zip zipfile="${path.dist}/${final-src.name}.zip">
+      <zipfileset dir="./tos_teams" prefix="${final-src.name}/tos_teams"/>
+      <zipfileset dir="./tos_tests" prefix="${final-src.name}/tos_tests"/>
+      <zipfileset dir="./tos_tools" prefix="${final-src.name}/tos_tools"/>	
+      <zipfileset dir="./etc" prefix="${final-src.name}/etc"/>
+      <zipfileset dir="./imag" prefix="${final-src.name}/imag"/>
+      <zipfileset dir="./lib" prefix="${final-src.name}/lib"/>
+      <zipfileset dir="./midi" prefix="${final-src.name}/midi"/>
+      <zipfileset dir="./model" prefix="${final-src.name}/model"/>
+      <zipfileset dir="./soccer" prefix="${final-src.name}/soccer"/>
+      <zipfileset dir="./sound" prefix="${final-src.name}/sound"/>
+      <zipfileset dir="." prefix="${final-src.name}" includes="build.xml" />
+      <zipfileset dir="." prefix="${final-src.name}" includes="MANIFEST.MF" />
+      <zipfileset dir="." prefix="${final-src.name}" includes="*.jc?" />
+    </zip>
+
+    <echo message="Create binary distribution" />
+      <zip zipfile="${path.dist}/${final.name}.zip">
+      <zipfileset dir="${path.build}" prefix="${final.name}" includes="${project}.jar" />
+      <zipfileset dir="${path.build}/javadoc" prefix="${final.name}/javadoc" />
+      <zipfileset dir="./lib" prefix="${final.name}" includes="j3d-org.jar" />
+      <zipfileset dir="./lib" prefix="${final.name}" includes="js.jar" />
+      <zipfileset dir="./lib" prefix="${final.name}" includes="uri.jar" />
+      <zipfileset dir="./lib" prefix="${final.name}" includes="vlc_uri.jar" />
+      <zipfileset dir="./lib" prefix="${final.name}" includes="xj3d-all.jar" />
+      <zipfileset dir="./etc" prefix="${final.name}" />
+    </zip>
+  </target>
+
+
+</project>

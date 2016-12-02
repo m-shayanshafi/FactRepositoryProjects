@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Romany Spread (Doane/Peach)" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">Romany퍼짐 (Doane/Peach)</entry>
+	<entry key="Description">각 줄은 지적되는 기한을 위해 사건 
+또는 영향을 대표한다. 동일한 줄안에 
+인접하는 카드는 변경한다. 카드의 
+주문은 연속적으로 필요하게 뜻깊지 않다. 
+변이: 이 독서의 1개의 변이는 각 줄 
+(18,11, 및04)의 중간 카드가 보이는 기한의 
+가장 뜻깊은 사건을 대표해야 한다 고 이다. 
+줄 (21,15,14,etc.의 가장자리에 카드가 
+이것에 의하여 시킨다 더 먼 밖으로.) 보다 적게 
+뜻깊은. (Doane)</entry>
+	<entry key="PositionTitle0">1지나서</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">2지나서</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">3지나서</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">4지나서</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">5지나서</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">6지나서</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">6지나서</entry><entry key="Meaning6"></entry>
+	<entry key="PositionTitle7">현재 1</entry><entry key="Meaning7"></entry>
+	<entry key="PositionTitle8">현재 2</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">현재 3</entry><entry key="Meaning9"></entry>
+	<entry key="PositionTitle10">현재 4</entry><entry key="Meaning10"></entry>
+	<entry key="PositionTitle11">현재 5</entry><entry key="Meaning11"></entry>
+	<entry key="PositionTitle12">현재 6</entry><entry key="Meaning12"></entry>
+	<entry key="PositionTitle13">현재 7</entry><entry key="Meaning13"></entry>
+	<entry key="PositionTitle14">미래 1</entry><entry key="Meaning14"></entry>
+	<entry key="PositionTitle15">미래 2</entry><entry key="Meaning15"></entry>
+	<entry key="PositionTitle16">미래 3</entry><entry key="Meaning16"></entry>
+	<entry key="PositionTitle17">미래 4</entry><entry key="Meaning17"></entry>
+	<entry key="PositionTitle18">미래 5</entry><entry key="Meaning18"></entry>
+	<entry key="PositionTitle19">미래 6</entry><entry key="Meaning19"></entry>
+	<entry key="PositionTitle20">미래 7</entry><entry key="Meaning20"></entry>
+</oracleio>

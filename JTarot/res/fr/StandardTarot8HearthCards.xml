@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Hearth spread (Carr-Gomm)" classification="LayoutTranslations" version="1" language="fr" author="Thomas Dilts" >
+<entry key="languagename">Français</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). La permission est accordée à la copie, 
+distribue et/ou modifie ce document en vertu de la version 
+postérieure libre de permis, de version 1.2 ou tout de documentation 
+de GNU éditée par la base libre de logiciel. Une copie du 
+permis peut être trouvée à http://www.gnu.org</entry>
+	<entry key="Title">Diffusion de foyer (Carr-Gomm)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Est - 1 Perçu</entry><entry key="Meaning0">la manière querent perçoit l'issue</entry>
+	<entry key="PositionTitle1">Est - 2 Perçus</entry><entry key="Meaning1">la manière querent perçoit l'issue</entry>
+	<entry key="PositionTitle2">Sud - 1 observé</entry><entry key="Meaning2">la manière d'autres perçoivent l'issue</entry>
+	<entry key="PositionTitle3">Sud - 2 observés</entry><entry key="Meaning3">la manière d'autres perçoivent l'issue</entry>
+	<entry key="PositionTitle4">Occidental - 1 Désiré</entry><entry key="Meaning4">issue querent de souhaits de manière à être</entry>
+	<entry key="PositionTitle5">Occidental - 2 Désirés</entry><entry key="Meaning5">issue querent de souhaits de manière à être</entry>
+	<entry key="PositionTitle6">Nord - potentiel 1</entry><entry key="Meaning6">l'issue de manière a pu être</entry>
+	<entry key="PositionTitle7">Nord - potentiel 2</entry><entry key="Meaning7">l'issue de manière a pu être</entry>
+</oracleio>

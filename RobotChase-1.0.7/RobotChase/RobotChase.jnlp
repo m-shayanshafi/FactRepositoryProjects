@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for RobotChase -->
+
+<jnlp spec="1.0+"
+      codebase="http://robotchase.sourceforge.net/" 
+      href="RobotChase.jnlp">
+    <information>
+      <title>RobotChase</title>
+      <vendor>John B. Matthews.</vendor>
+      <description>RobotChase</description>
+      <homepage href="http://robotchase.sourceforge.net/"/>
+      <description kind="short">RobotChase</description>
+      <offline-allowed/>
+    </information>
+    <resources>     
+        <jar href="RobotChase.jar"/>   
+        <j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se"/>
+    </resources>
+    <application-desc main-class="org.gcs.robot.RobotChase"/>
+    <security>
+         <all-permissions/>
+    </security>
+</jnlp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Tree of Life Spread (Doane)" classification="LayoutTranslations" version="1" language="zh" author="Thomas Dilts" >
+<entry key="languagename">汉语</entry>
+<entry key="copyright">版权 © 2007 年托马斯Dilts (tarot@lazy8.nu) 。允许被授予拷贝, 分布并且/或者修改这个文件在GNU 自由文献执照, 版本1.2 或任何最新版本条件下由自由软件基金会出版。执照的拷贝也许被发现在http://www.gnu.org</entry>
+	<entry key="Title">生活传播(Doane) 树</entry>
+	<entry key="Description">卡片3, 5, 和7 组成罪恶或不赞同的树树。卡片2, 4, 和8 组成好或有利树树。残余的卡片是结果卡片。</entry>
+	<entry key="PositionTitle0">精神结果</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">智慧</entry><entry key="Meaning1">智慧的影响</entry>
+	<entry key="PositionTitle2">智力</entry><entry key="Meaning2">智力的影响</entry>
+	<entry key="PositionTitle3">正义</entry><entry key="Meaning3">正义的影响(和搜寻它)</entry>
+	<entry key="PositionTitle4">慈悲</entry><entry key="Meaning4">慈悲的影响</entry>
+	<entry key="PositionTitle5">爱</entry><entry key="Meaning5">秀丽爱, 爱, 和生活</entry>
+	<entry key="PositionTitle6">欲望</entry><entry key="Meaning6">欲望为胜利</entry>
+	<entry key="PositionTitle7">辉煌</entry><entry key="Meaning7">辉煌的影响</entry>
+	<entry key="PositionTitle8">环境</entry><entry key="Meaning8"></entry>
+	<entry key="PositionTitle9">物理结果</entry><entry key="Meaning9">物理力量或材料结果</entry>
+</oracleio>

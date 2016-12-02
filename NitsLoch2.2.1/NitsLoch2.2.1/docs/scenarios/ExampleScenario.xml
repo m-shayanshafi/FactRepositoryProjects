@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NitsLoch>
+	<!-- Scenario name -->
+	<name>Test Scenario 1.0</name>
+
+	<map path="maps/Test Map"/>
+	
+	<!-- Custom ending message -->
+	<endingMessage>The world is now free of the NitsLoch monster!  Good job!</endingMessage>
+	
+	<!-- Hit point threshold that enemy will start running -->
+	<runHitPointAmount>30</runHitPointAmount>
+	
+	<!-- Chance that enemy will run when the threshold is hit (between 0 and 1) -->
+	<runChance>0</runChance>
+	
+	<!-- Chance that enemy will spawn when resting in the city (between 0 and 1) -->
+	<spawnChanceCity>.007</spawnChanceCity>
+	
+	<!-- Chance that enemy will spawn when in a dungeon (between 0 and 1) -->
+	<spawnChanceDungeon>.02</spawnChanceDungeon>
+	
+	<!-- Chance that an item will drop when an enemy dies (between 0 and 1) -->
+	<itemDropChance>.03</itemDropChance>
+
+	<!-- Difficulty scales -->
+	<difficulty>
+		<health>.85</health>
+		<ability>.6</ability>
+		<damage>.8</damage>
+	</difficulty>
+	
+	<!-- Inventory Item Limits.  Types 0-10 are possible. (all are required) (0 = no limit) -->
+	<inventoryLimits>
+		<item type="0">
+			<limit>0</limit>
+		</item>
+	</inventoryLimits>
+	
+	<!-- Inventory the player will start with. -->
+	<startingInventory>
+		<bandaids>1</bandaids>
+		<grenades>1</grenades>
+		<dynamite>0</dynamite>
+		<bullets>0</bullets>
+		<rockets>0</rockets>
+		<flamePacks>0</flamePacks>
+		<laddersUp>3</laddersUp>
+		<laddersDown>3</laddersDown>
+		<mapViewers>3</mapViewers>
+		<exports>0</exports>
+	</startingInventory>
+
+	<!-- Explosion damages. Types 0-2 are required-->
+	<explosionDamage>
+		<explosion type="0">
+			<damage>65</damage>
+		</explosion>
+		<explosion type="1">
+			<damage>90</damage>
+		</explosion>
+		<explosion type="2">
+			<damage>500</damage>
+		</explosion>
+	</explosionDamage>
+	
+	<!-- Weapons.  Types 0-24 are possible. Types 0-16 are possible for damageTypes. (at least one weapon required) 
+		type 0 can never be broken -->
+	<weapons>
+		<weapon type="0">
+			<itemName>Bare Hands</itemName>
+			<secondName>bare hands</secondName>
+			<verb>punched</verb>
+			<damage>12</damage>
+			<damageType>0</damageType>
+			<canBreak>false</canBreak>
+			<usesRockets>false</usesRockets>
+			<usesFlamePacks>false</usesFlamePacks>
+		</weapon>
+	</weapons>
+	
+	<!-- Armor.  Types 0-24 are possible (at least one required) Type 0 can never be broken -->
+	<defense>
+		<armor type="0">
+			<itemName>Street Clothes</itemName>
+			<secondName>street clothes</secondName>
+			<melee>0</melee>
+			<martialArts>0</martialArts>
+			<marksman>0</marksman>
+			<flame>0</flame>
+			<other>0</other>
+			<canBreak>false</canBreak>
+		</armor>
+	</defense>
+	
+	<!-- Enemies. Types 0-199 are possible (optional) -->
+	<enemies>
+		<enemy type="0">
+			<name>Pickpocket</name>
+			<leftImage>images/Pickpocket-L.png</leftImage>
+			<rightImage>images/Pickpocket-R.png</rightImage>
+			<dungeonImage>images/Pickpocket-dun.png</dungeonImage>
+			<hitPoints>40</hitPoints>
+			<ability>60</ability>
+			<weaponType>15</weaponType>
+			<armorType>10</armorType>
+			<behavior>2</behavior>
+			<minMoney>0</minMoney>
+			<maxMoney>4</maxMoney>
+			<leader>false</leader>
+			<shopkeeper>false</shopkeeper>
+			<thief>true</thief>
+		</enemy>
+	</enemies>
+	
+	<!-- NPCs.  Types 0-199 are possible (optional) -->
+	<NPCs>
+		<npc type="0">
+			<name>Bob</name>
+			<message>Hi there!</message>
+			<image>images/bob.png</image>
+		</npc>
+	</NPCs>
+	
+	<!-- GroundItems.  Types 0-6 are possible (all are required) -->
+	<items>
+		<item type="0">
+			<image>images/grenade.png</image>
+		</item>
+	</items>
+	
+	<!-- Shops.  Types 0-13 are possible (all are required) -->
+	<shops>
+		<shop type="0">
+			<image>images/Ammo_Color_L.png</image>
+		</shop>
+	</shops>
+	
+	<!-- Weapon shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<weaponPresets>
+  		<preset type="0">
+      		<shopItem>
+				<itemID>weapon1</itemID>
+				<price>10</price>
+      		</shopItem>
+      		<shopItem>
+				<itemID>weapon3</itemID>
+				<price>20</price>
+			</shopItem>
+		</preset>
+  </weaponPresets>
+  
+  	<!-- Armor shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<armorPresets>
+		<preset type="0">
+      		<shopItem>
+				<itemID>armor1</itemID>
+				<price>25</price>
+			</shopItem>
+      		<shopItem>
+				<itemID>armor2</itemID>
+				<price>45</price>
+			</shopItem>
+		</preset>
+	</armorPresets>
+  
+  	<!-- Ammo shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<ammoPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>grenade</itemID>
+				<price>50</price>
+			</shopItem>
+			<shopItem>
+				<itemID>dynamite</itemID>
+				<price>75</price>
+			</shopItem>
+    	</preset>
+  	</ammoPresets>
+  
+  	<!-- Magic shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<magicPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>ladder up</itemID>
+				<price>75</price>
+			</shopItem>
+			<shopItem>
+				<itemID>ladder down</itemID>
+				<price>50</price>
+			</shopItem>
+    	</preset>
+  	</magicPresets>
+  
+  	<!-- Generic shop Presets.  All types for used in the scenario's map are required. (Up to 20 types) -->
+  	<genericPresets>
+    	<preset type="0">
+			<shopItem>
+				<itemID>grenade</itemID>
+				<price>25</price>
+			</shopItem>
+			<shopItem>
+				<itemID>ladder up</itemID>
+				<price>75</price>
+			</shopItem>
+		</preset>
+		<preset type="1">
+			<shopItem>
+				<itemID>armor4</itemID>
+				<price>25</price>
+			</shopItem>
+			<shopItem>
+				<itemID>armor9</itemID>
+				<price>45</price>
+			</shopItem>
+    	</preset>
+  	</genericPresets>
+	
+	<!-- Enemies that will spawn at the different levels in the dungeons. Levels 1-50 are possible (optional) -->
+	<dungeonSpawns>
+		<dungeon level="1">
+			<enemy>0</enemy>
+			<enemy>0</enemy>
+			<enemy>0</enemy>
+		</dungeon>
+		<dungeon level="2">
+			<enemy>2</enemy>
+			<enemy>3</enemy>
+		</dungeon>
+	</dungeonSpawns>
+
+	<!-- Enemies that can spawn at the different cities in the world.  (spawns are required for every city in the scenario) -->
+	<citySpawns>
+		<city level="0">
+			<enemy>2</enemy>
+		</city>
+		<city level="1">
+			<enemy>3</enemy>
+		</city>
+	</citySpawns>
+	
+	<!-- Shopkeeper spawns.  One must be defined per city in the map file -->
+	<shopkeeperSpawns>
+		<city level="0">
+			<shopkeeper>6</shopkeeper>
+		</city>
+		<city level="1">
+			<shopkeeper>6</shopkeeper>
+		</city>
+	</shopkeeperSpawns>
+
+	<!-- Streets.  Types 0-199 are possible. (type 0 is required) -->
+	<streets>
+		<street type="0">
+			<name>Street</name>
+			<image>images/street.png</image>
+		</street>
+		<street type="1">
+			<name>Dirt</name>
+			<image>images/dirt.png</image>
+		</street>
+	</streets>
+	
+	<!-- Monster spawn trigger types.  Types 200-209 are possible. (optional) -->
+	<triggers>
+		<trigger index="200">
+			<name>Weak monster spawn</name>
+			<image>images/trigger1.png</image>
+			<chance>20.0</chance>
+			<enemy>0</enemy>
+			<enemy>2</enemy>
+			<enemy>2</enemy>
+		</trigger>
+	</triggers>
+
+	<!-- Exit type image locations. Types 0-3 are possible.  (all are required) -->
+	<exits>
+		<exit type="0">
+			<openImage>images/exit.png</openImage>
+			<closedImage>images/exitClosed.png</closedImage>
+		</exit>
+		<exit type="1">
+			<openImage>images/dungeon.png</openImage>
+			<closedImage>images/dungeonClosed.png</closedImage>
+		</exit>
+	</exits>
+	
+	<!-- Obstruction Images.  Types 0-199 are possible.  (First two are required)  type 0 is always the "outside" -->
+	<obstructionImages>
+		<obstruction type="0">
+			<image>images/outside.png</image>
+			<destroyable>false</destroyable>
+			<name>Outside</name>
+		</obstruction>
+		<obstruction type="1">
+			<image>images/wall.png</image>
+			<destroyable>true</destroyable>
+			<name>Regular Wall</name>
+		</obstruction>
+	</obstructionImages>
+
+	<!-- Player images.  Types 0-25 are possible.  (one image is required for each weapon the player can carry) 
+	Type 25 is always required, it is the image when you die.-->
+	<playerImages>
+		<plrImage index="0">
+			<leftImage>images/plrHands-L.png</leftImage>
+			<rightImage>images/plrHands-R.png</rightImage>
+		</plrImage>
+		<plrImage index="1">
+			<leftImage>images/plrHands-L.png</leftImage>
+			<rightImage>images/plrHands-R.png</rightImage>
+		</plrImage>
+	</playerImages>
+	
+	<!-- Hit image pictures.  Types 0-4 are possible.  (at least one is required) -->
+	<hitImages>
+		<hit type="0">
+			<image>images/hitImage1.png</image>
+		</hit>
+		<hit type="1">
+			<image>images/hitImage2.png</image>
+		</hit>
+	</hitImages>
+
+	<!-- Explosion Images.  Types 0-8 are possible.  (All are required) -->
+	<explosionImages>
+		<explosion type="0">
+			<image>images/explosionC.png</image>
+		</explosion>
+		<explosion type="1">
+			<image>images/explosionN.png</image>
+		</explosion>
+	</explosionImages>
+
+	<!-- Bar text (number of bar types must match the number of types placed in the scenario. Types 0 - 49 are possible) -->
+	<bars>
+		<bar type="0">
+			<tonicwater>You just drank tonic water</tonicwater>
+			<soda>You just drank soda</soda>
+			<gin>You just drank gin</gin>
+			<rum>You just drank rum</rum>
+			<scotch>You just drank scotch</scotch>
+			<redeye>You must kill the LochNits monster to leave this world.</redeye>
+		</bar>
+	</bars>
+	
+	<!-- Drinks.  Types 0-5 are possible (All are required) -->
+	<drinks>
+		<drink type="0">
+			<price>1</price>
+		</drink>
+		<drink type="1">
+			<price>5</price>
+		</drink>
+	</drinks>
+	
+	<!-- Sounds.  All sounds are optional, but this example includes all possible sounds-->
+	<sounds>
+		<enemyHitOutside>sounds/enemyHitOutside.wav</enemyHitOutside>
+		<enemyHitDungeon>sounds/enemyHitDungeon.wav</enemyHitDungeon>
+		<playerHitOutside>sounds/playerHitOutside.wav</playerHitOutside>
+		<playerHitDungeon>sounds/playerHitDungeon.wav</playerHitDungeon>
+		<enemyMeleeAttack>sounds/enemyMeleeAttack.wav</enemyMeleeAttack>
+		<enemyMartialArtsAttack>sounds/enemyMartialArtsAttack.wav</enemyMartialArtsAttack>
+		<enemyMarksmanAttack>sounds/enemyMarksmanAttack.wav</enemyMarksmanAttack>
+		<enemyFlameAttack>sounds/enemyFlameAttack.wav</enemyFlameAttack>
+		<enemyOtherAttack>sounds/enemyOtherAttack.wav</enemyOtherAttack>
+		<playerMeleeAttack>sounds/plrMeleeAttack.wav</playerMeleeAttack>
+		<playerMartialArtsAttack>sounds/plrMartArtsAttack.wav</playerMartialArtsAttack>
+		<playerMarksmanAttack>sounds/plrMarksmanAttack.wav</playerMarksmanAttack>
+		<playerFlameAttack>sounds/plrFlameAttack.wav</playerFlameAttack>
+		<playerOtherAttack>sounds/plrOtherAttack.wav</playerOtherAttack>
+		<explosion>sounds/explosion.wav</explosion>
+		<scenarioInfo>sounds/scenarioInfo.wav</scenarioInfo>
+		<playerDies>sounds/dead.wav</playerDies>
+		<enemyDies>sounds/scream.wav</enemyDies>
+		<pickupItem>sounds.pickup.wav</pickupItem>
+	</sounds>
+	
+</NitsLoch>

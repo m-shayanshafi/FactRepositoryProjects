@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="ihm" default="init" basedir=".">
+ 
+  <!--
+      Give user a chance to override without editing this file
+      (and without typing -D each time they run it)
+ -->
+  <property file="build.properties" />
+  
+  <!--Initialization-->
+  <target name="init">
+    <property name="version"  value="0.3" />
+
+    <property name="work.dir" value="./ihm-build" />
+    
+    <property name="work.build.dir" value="${work.dir}/tmp" />
+
+    <property name="work.dist.bin.dir" value="${work.dir}/ihm-${version}" />
+    <property name="work.dist.src.dir" value="${work.dir}/ihm-src-${version}" />
+    <property name="work.javadoc.dir" value="${work.dir}/javadoc" />
+    
+    <property name="ihm.dir" value="." />
+
+    <property name="ihm.dev.dir" value="${ihm.dir}/dev" />
+    <property name="ihm.dev.src.dir" value="${ihm.dev.dir}/src" />
+    <property name="ihm.dev.manifest.dir" value="${ihm.dev.dir}/manifest" />
+    <property name="ihm.dev.lib.dir" value="${ihm.dev.dir}/lib" />
+
+    <property name="ihm.dist.dir" value="${ihm.dir}/dist" />
+
+    <property name="ihm.doc.dir" value="${ihm.dir}../doc" />
+  
+  	<property name="lib.liquid" value="${ihm.dev.lib.dir}/liquidlnf.jar" />
+  	<property name="lib.animation" value="${ihm.dev.lib.dir}/animation-1.1.3.jar" />
+  	
+  	<property name="javaheader" value="${ihm.dev.dir}/doc/javaheader.txt" />
+  	
+    <echo>Ice Hockey Manager</echo>
+    <echo/>    
+    <echo>Build properties:</echo>
+    <echo>   Build directory: ${work.dir}</echo>
+    <echo>   Version: ${version}</echo>
+    <echo/>
+    <echo>Common ant tasks:</echo>
+    <echo>   build      Creates a runnable Ice Hockey Manager.</echo>
+    <echo>   javadoc    Creates java documentation.</echo>
+    <echo>   clean      Removes old build directories.</echo>
+    <echo/>
+    <echo>Developer ant tasks:</echo>
+    <echo>   version    Updates GameVersion.java with version id.</echo>
+    <echo>   copyright  Updates copyright informations in every java file.</echo>
+  	<echo>   dist-bin   Creates a binary distribution.</echo>
+    <echo>   dist-src   Creates a source code distribution.</echo>
+	
+  </target>
+  
+  <!--Cleanup previous builds-->
+  <target name="clean" depends="init">
+    <delete dir="${work.dir}" />
+  </target>
+
+
+  <!--Creates binary distribution-->
+  <target name="build" depends="init">
+    <delete dir="${work.build.dir}" />
+    <mkdir dir="${work.build.dir}" />
+
+    <delete dir="${work.dist.bin.dir}" />
+    <mkdir dir="${work.dist.bin.dir}" />
+
+    <unzip src="${lib.liquid}" dest="${work.build.dir}" />
+    <unzip src="${lib.animation}" dest="${work.build.dir}" />
+    <javac debug="on" target="1.5" classpath="${work.build.dir}" srcdir="${ihm.dev.src.dir}" destDir="${work.build.dir}" />
+    <jar jarfile="${work.dist.bin.dir}/ihm.jar" basedir="${work.build.dir}" manifest="${ihm.dev.manifest.dir}/MANIFEST.MF" compress="false" />
+
+    <copy todir="${work.dist.bin.dir}">
+      <fileset dir="${ihm.dist.dir}">
+        <patternset>
+	  <exclude name=".svn" />
+        </patternset>
+      </fileset>
+    </copy>
+    
+    <chmod file="${work.dist.bin.dir}/ihm.sh" perm="ugo+rx"/>
+  </target>
+ 
+	
+
+  <!--Generate binary distribution-->
+  <target name="dist-bin" depends="build">
+    <tar tarfile="${work.dir}/ihm-${version}.tar.gz" compression="gzip" longfile="gnu">
+      <tarfileset dir="${work.dist.bin.dir}" mode="755" prefix="ihm-${version}">
+	<include name="ihm.sh"/>
+      </tarfileset>
+      <tarfileset dir="${work.dist.bin.dir}" prefix="ihm-${version}">
+	<exclude name="ihm.sh"/>
+      </tarfileset>
+    </tar>
+  </target>
+
+  <!--Generate srcdist -->
+  <target name="dist-src" depends="init" >
+    <delete dir="${work.dist.src.dir}" />
+    <mkdir dir="${work.dist.src.dir}" />
+    <copy todir="${work.dist.src.dir}">
+      <fileset dir="${ihm.dir}">
+        <patternset>
+          <exclude name=".svn" />
+          <exclude name="**/*.local" />
+          <exclude name="**/*~*"/>
+        </patternset>
+      </fileset>
+    </copy>
+    
+    <!-- Delete build.properties, it's only useful for builds from the svn trunk folder -->
+    <delete file="${work.dist.src.dir}/build.properties" />
+    
+    <tar tarfile="${work.dir}/ihm-src-${version}.tar.gz" compression="gzip" longfile="gnu">
+      <tarfileset dir="${work.dist.src.dir}" prefix="ihm-src-${version}"/>
+    </tar>
+  </target>
+ 
+    
+  <!--Generate javadoc-->
+  <target name="javadoc" depends="init" >
+    <delete dir="${work.javadoc.dir}" />
+    <mkdir dir="${work.javadoc.dir}" />
+    <javadoc packagenames="org.icehockeymanager.ihm.*" 
+    	   sourcepath="${ihm.dev.src.dir}" 
+    	   defaultexcludes="yes" 
+    	   destdir="${work.javadoc.dir}" 
+           author="true"
+           version="true"
+           use="true"
+           windowtitle="Ice Hockey Manager">
+           <classpath>
+             <pathelement path="${lib.liquid}"/>
+             <pathelement path="${lib.animation}"/>
+           </classpath>
+           <doctitle><![CDATA[<h1>Ice Hockey Manager ${version}</h1>]]></doctitle>
+           <tag name="todo" scope="all" description="To do:" />
+	       <tag name="created" scope="all" description="Created:" />
+    </javadoc>
+  </target>
+
+	  <!-- Update Version in GameVersion.java -->
+	  <target name="version" depends="init" >
+	  	<replaceregexp file="${ihm.dev.src.dir}/org/icehockeymanager/ihm/game/GameVersion.java" match="IHM_VERSION = .*?;" replace='IHM_VERSION = "${version}";' />
+	  </target>
+
+	  <!-- Update Copyright at the beginning of each java file -->
+	  <target name="copyright" depends="init" >
+	  	<loadfile property="javaheader-value" srcFile="${javaheader}" />
+	  	<replaceregexp flags="s" match=".*?package org.icehockeymanager" replace='${javaheader-value} ${line.separator}package org.icehockeymanager' >
+	  		<fileset dir="${ihm.dev.src.dir}" includes="**/*.java"/>
+	  	</replaceregexp>
+	  </target>
+
+	
+</project>

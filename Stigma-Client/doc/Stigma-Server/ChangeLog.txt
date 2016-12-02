@@ -1,0 +1,231 @@
+Stigma - The Game: Server change log
+====================================
+
+Project started: December, 2005. Rewritten in 2008.
+This file contains changes made to project since: 2008/02/20
+
+
+Key:
+ * changes in end-user functionality, may be interesting for everybody
+ - changes in code, important for developers  
+
+All #numbers refers to tickets numbers on http://sourceforge.net/apps/trac/stigma/
+
+
+Server 0.5.0 - 2011/03/30
+----------------------------------
+
+Features:
+    * Chat added
+    * (#218) Server now has configurable (max-map-instances) max map instances count - more instances will not be created.
+    * Server will check every 2s if logger configuration has changed.
+    * (#231) Added 'gender' attribute to actor.
+    * (#251) Maximum packet size added to server configuration - senders of bigger messages will be disconnected.
+    - Log4j updated to 1.2.16 version. 
+    - MySQL connector updated to 5.1.13 version.
+
+Fixes:
+    * (#255) 'Cache validation period' configuration variable will be used for resource cache (and cache will be cleaned).
+    - (#206) No more separate versions of XML files - just application version will be used.
+    - (#213) Fixed inconsistency in protocol - item weight synchronization.
+    - (#274) Server will not allow request for equipping on 'INVENTORY' physical slot.
+
+
+
+Server 0.4.3 - 2010/10/24
+----------------------------------
+
+Fixes:
+	* (#211) Critical chance added to weapon attack
+	* (#235) Updated 'SQLite test database' - default actor (player: 'test', actor: 'test') no longer starts overcumberred.
+	- Updated i18n4j version to 0.4.2
+
+
+
+Server 0.4.2 - 2010/10/11
+----------------------------------
+
+Fixes:
+    - (#181) Fixed problem with loading items types on client. 
+
+
+
+Server 0.4.1 - 2010/08/15
+----------------------------------
+
+Features:
+    * (#187) Item type can now have icons defined.
+
+
+
+Server 0.4.0 - 2010/07/20
+----------------------------------
+
+Features:
+    * Support for picking up, dropping and equipping items.
+    * (#182) Changed login procedure - other actors/clients of same player will be disconnected just after acceptance of password (was: after choosing new actor)
+    * (#91) Server sends information about available player's actors safe map id.
+    * (#73) Server can have its own HTTP inner server for distributing resources to clients (with automatic compression as option).
+    * (#47) "Graceful" vs. "Kill" server stop - "graceful" will try to perform all queued SQL operations (will save actors already scheduled for saving).
+    * (#93) License information on server - "About" dialog.
+    * (#52) 'Connection timed out' detection added.
+    * (#52) Special time-outs for authorization process and limited authorization process pool added (both parameters configurable).
+    * (#119) Spammer detection on network level (configurable minimum average interval between messages).
+    * (#148) Overcumbered actor will not be allowed to move.  
+    * Items support added (data structures, managers etc.)    
+    * Pseudo AI fix - NPCs moves should be more random. 
+    * Updated distributed MySQL JDBC connector package from 5.1.7 to 5.1.8.
+    * Updated distributed SQLiteJDBC package from v054 to v056.
+    * I18n utility moved to separate project (i18n4j) and re-attached to Stigma as external library.
+    * Configurable server main network port.
+    - Renamed packages to pl.minions.org.* - now they match existing domain.
+    - (#97) 'resource.properties' renamed to 'resourceset.stigmares' - custom file extension will allow some application assignments in OS in future.  
+    - (#118) 'Time-stamp' protocol implemented for items (items data synchronization client-server).
+    - (#82) Server sends resistances of player's actors.
+    - (#132) WorldManager will try to respect actor's map instance when "addActor" is called.
+    - AllClassesLoader added to i18n tool - no more "static registering" of classes needed.
+    - Single Commands wrapping class split to many packages.
+    - Single Deltas wrapping class split to many packages. Separate package delta created.
+    - Single NetworkMessage wrapping class split to many packages.
+    - Great re-factoring - Deltas split to Events and WorldData. Changed interpretation of Events - more descriptive, less general.
+    - 'Time-stamp' protocol refactored to be more generic.
+    - 'Ping' message added. Server will automatically re-send them. Client can process them.
+    - Removed 'cleaningThread' from LoggedPlayersCache - GlobalTimer used instead.
+    - Created SystemMessage class for transporting different events to player.
+    - AiManagerQueue generalized into TurnScheduleQueue.
+    - Changed login sequence - now client has 'time' to download some data before receiving available actors list.
+    
+Fixes:
+    * Changed tests actors properties to be more "different" inside one account.
+    * While saving archetypes are subtracted properly from actor.
+    * While adding/subtracting archetypes resistances are calculated properly.
+    * (#99) When missing translated string i18n utility will no longer crash application.
+    * (#107) Newly logged player's actor didn't have actual stamina level restored.
+    * AI will no longer calculate "move timeout" - less probability of NPC trying to move to soon.
+    * (#110) Player receive archetypes of his actors when logging in.
+
+
+
+Server 0.3.0 - 2009/07/01
+----------------------------------
+
+Features:
+    * XML resources will be verified against schemas provided in res/metadata/xsd directory.
+    * (#30) MapType has a one-to-one association with StaticNpcs, other ways to generate NPCs will be made in future.
+    * (#16) 'Archetype engine' added - each actor can be build from archetypes and every archetype can be build from other archetypes.
+    * (#36) NPC description uses 'archetype engine' so NPCs can be composed from various archetypes.
+    * (#39) 'Safe' maps added - player actors are saved only on certain maps; on login the actors are spawned inside a 'safe entry zone' defined in the last visited 'safe' map. 
+    * "Disconnected player's actors reconnect grace period" added to server configuration.
+    * Disconnected (brutally, not by logout) player's actor will be available for >at least< "grace period".
+    * (#41) Periodical 'world saves' added - every few (configurable) minutes all players' actors are stored in the database.
+    * (#46) Authentication moved to a separate thread - less chance of "blocking lag".
+    * (#37) Created some stubs for calculating actor dynamic characteristics (ActorCalculator class).
+    * (#38) Server allows to log out player actors - logging out will save the actor but disallow logging in with the same actor for some time.
+    * (#53) Server allows refreshing list of currently disabled actors when client is in 'choose actor' login state.
+    * "Kill" option added to tray menu.
+    * (#65) Server version available in tray icon tool tip.
+    * Server will accept connections from "development" clients and "development" server will accept connections from all client versions.
+    - (#25) 'Time-stamp' protocol implemented (actor data synchronization client-server).
+    - (#40) Entrance/Exit renamed to EntryZone/ExitZone.
+    - Map renamed to MapInstance.
+    - TileSet renamed to TerrainSet.
+    - WordManager's thread now has MAX_PRIORITY.
+    - New implementation of SqlAsynDB and other classes for SQL databases.
+    - ArchetypeBase class created, so now Actor and Archetype can have different id type (int and short).
+    - UserDB renamed to PlayerLoadDB.
+    - LogonDB renamed to LoggedPlayersCache.
+    - LoginState enum values changed to UPPER_CASE.
+
+Fixes:
+    * (#31) Proper putting NPCs in command queue - there was some issue with cooldown race.
+    * "Stop server" function disconnects properly all clients.
+
+Translations:
+    * Polish translation of tray menu options added.
+
+
+
+Server 0.2.4 - 2009/04/12
+----------------------------------
+
+Fixes:
+    - (#10) BufferOverflowException error while encoding some commands fixed,
+            changed fixed sizes of commands/deltas.
+
+Features:
+    * Updated distributed MySQL JDBC connector package from 5.1.6 to 5.1.7.
+    * Updated distributed SQLiteJDBC package from v053 to v054.
+    * Added simple HTTP status page on configurable port.
+    * (#1) Added 'Restart server' option to tray icon menu.
+    * (#5) Added AI (simple implementation, basic interfaces for future development), NPCs and XML description of both.
+    - (#13) Server sends information about failed commands (does NOT change protocol, just interpretation).
+    - Starting/stopping server moved to separate threads (should not block main thread, for example AWT).
+    - All *.prop files renamed to *.properties (more "Java Standard").
+    - Frequently occurring log messages moved form debug level to trace for efficiency.
+    - XmlDB can now support whole hierarchy of classes.
+    - Much more informational "toString()" method of Commands and Deltas.
+
+
+
+Server 0.2.3 - 2008/12/17
+----------------------------------
+
+Fixes:
+    * After failing all retries for login, server will immediately disconnect client.
+    * Default turn length changed to 100ms from 200ms.
+
+
+
+Server 0.2.2 - 2008/12/14
+----------------------------------
+
+Installation:
+    * Added server_config.prop.tests to installation package, more instructions in ReadMe.txt file.
+
+Fixes:
+    * Finally we include resource images in release packages (REALLY BIG BUG).
+
+
+
+Server 0.2.1 - 2008/12/05
+----------------------------------
+
+Resources:
+    * Provided images for all tiles in 'test' resource set.
+    
+Fixes:
+    * All XML resources are now loaded using hexadecimal numbers.
+ 
+
+
+Server 0.2.0 - 2008/11/23
+----------------------------------
+
+Features:
+    * SQLite database support
+    * New parameter in server configuration: 'client-resource-compression', 
+      defines whether or not client should use compressed resource files. 
+    * Server now has it's own password hasher, a "PASSWORD" function in used SQL database is not needed anymore.
+
+Resources:
+    * Added an tile image for test.0001.0001 tile type (downloaded by client over network).
+    * Increased test.0001 map size to 30 x 30 tiles.
+	
+Fixes:
+    * Proper availability of "Start server/Stop server" tray icon menus options.
+    * Server will detect lack of needed tables in database and won't start.
+    * Fixed bugs that made it impossible to use maps with more than one segment.
+
+
+
+Server 0.1.0 - 2008/11/16
+----------------------------------
+
+Features:
+    * Multiple map support.
+    * Multiple map instances support.
+    * Multiple actors/players support.
+    * 'Pseudo turns' for processing players commands.
+    * Loading maps from XML.
+    * Logging players using SQL database.
+    * Secured authentication (using asymmetric keys).

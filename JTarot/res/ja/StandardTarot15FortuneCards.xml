@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Fortune Teller's Spread (Morison)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">占い師の広がり(Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">結果1</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">結果2</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">結果3</entry><entry key="Meaning2"></entry>
+	<entry key="PositionTitle3">Querent の思考1</entry><entry key="Meaning3"></entry>
+	<entry key="PositionTitle4">Querent の思考2</entry><entry key="Meaning4"></entry>
+	<entry key="PositionTitle5">Querent の思考3</entry><entry key="Meaning5"></entry>
+	<entry key="PositionTitle6">選択1</entry><entry key="Meaning6">あなたが制御する事、可能な選択</entry>
+	<entry key="PositionTitle7">選択2</entry><entry key="Meaning7">あなたが制御する事、可能な選択</entry>
+	<entry key="PositionTitle8">選択3</entry><entry key="Meaning8">あなたが制御する事、可能な選択</entry>
+	<entry key="PositionTitle9">強さ1</entry><entry key="Meaning9">強さを与える事</entry>
+	<entry key="PositionTitle10">強さ2</entry><entry key="Meaning10">強さを与える事</entry>
+	<entry key="PositionTitle11">強さ3</entry><entry key="Meaning11">強さを与える事</entry>
+	<entry key="PositionTitle12">驚き1</entry><entry key="Meaning12">querent に知られないか、または見落とされない事</entry>
+	<entry key="PositionTitle13">驚き2</entry><entry key="Meaning13">querent に知られないか、または見落とされない事</entry>
+	<entry key="PositionTitle14">驚き2</entry><entry key="Meaning14">querent に知られないか、または見落とされない事</entry>
+</oracleio>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio>
+     <entry key="version">1.0</entry>
+<entry key="jTarotVersion">2.00</entry>
+<!--
+# menubar definition
+#
+# Each of the strings that follow form a key to be 
+# used to the actual menu definition.
+-->
+<entry key="menubar">readings images options advisors export language advanced help</entry>
+<!--
+#
+# The Readings menu definition
+#
+# Each of the strings that follow form a key to be
+# used as the basis of a menu item definition.
+#-->
+<entry key="readings">newlayout - open save recent - printtoweb - exit</entry>
+<entry key="newlayoutAction">newlayout</entry>
+<entry key="openAction">open</entry>
+<entry key="saveAction">save</entry>
+<entry key="recentAction">recent</entry>
+<entry key="printtowebAction">printtoweb</entry>
+<entry key="exitAction">exit</entry>
+<entry key="recentDynamicGroup">true</entry>
+
+
+<!--
+#
+# images Menu definition
+#-->
+<entry key="imagesAction">images</entry>
+<entry key="imagesDynamicGroup">true</entry>
+<!--
+#
+# Options Menu definition
+#-->
+<entry key="options">showallobjects -  showpositionnumbers showreversedandnormal - percent200 percent150 percent100 percent75 percent50 percent25</entry>
+<entry key="showallobjectsAction">showallobjects</entry>
+<entry key="showpositionnumbersAction">showpositionnumbers</entry>
+<entry key="showreversedandnormalAction">showreversedandnormal</entry>
+<entry key="percent200Action">percent200</entry>
+<entry key="percent150Action">percent150</entry>
+<entry key="percent100Action">percent100</entry>
+<entry key="percent75Action">percent75</entry>
+<entry key="percent50Action">percent50</entry>
+<entry key="percent25Action">percent25</entry>
+<entry key="showpositionnumbersCheckBox">true</entry>
+<entry key="showreversedandnormalCheckBox">true</entry>
+<entry key="percent200RadioGroup">percentradiogroup</entry>
+<entry key="percent150RadioGroup">percentradiogroup</entry>
+<entry key="percent100RadioGroup">percentradiogroup</entry>
+<entry key="percent75RadioGroup">percentradiogroup</entry>
+<entry key="percent50RadioGroup">percentradiogroup</entry>
+<entry key="percent25RadioGroup">percentradiogroup</entry>
+<entry key="percent100RadioGroupDefault">true</entry>
+<!--
+#
+# Advisors Menu definition
+#-->
+<entry key="advisorsAction">advisors</entry>
+<entry key="advisorsDynamicGroup">true</entry>
+<!--
+#
+# Export Menu definition
+#-->
+<entry key="export">exporthtml exportmhtml exportwar </entry>
+<entry key="exporthtmlAction">exporthtml</entry>
+<entry key="exportmhtmlAction">exportmhtml</entry>
+<entry key="exportwarAction">exportwar</entry>
+<!--
+#
+# lanugage Menu definition
+#-->
+<entry key="languageAction">language</entry>
+<entry key="languageDynamicGroup">true</entry>
+<!--
+#
+# advanced Menu definition
+#-->
+<entry key="advanced">browseroptions - createsetupfiles editsetupfile loadsetupfile  - givetranslatehelp - reportbug </entry>
+<entry key="browseroptionsAction">browseroptions</entry>
+<entry key="createsetupfilesAction">createsetupfiles</entry>
+<entry key="editsetupfileAction">editsetupfile</entry>
+<entry key="loadsetupfileAction">loadsetupfile</entry>
+<entry key="givetranslatehelpAction">givetranslatehelp</entry>
+<entry key="reportbugAction">reportbug</entry>
+<!--
+#
+# Help Menu definition
+#-->
+<entry key="help">generalhelp - contribute</entry>
+<entry key="generalhelpAction">generalhelp</entry>
+<entry key="contributeAction">contribute</entry>
+</oracleio>

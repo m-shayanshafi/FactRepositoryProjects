@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Original Thoth Spread" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">Первоначально Распространение Thoth</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Querent 1</entry><entry key="Meaning0">Природа querent и вопроса</entry>
+	<entry key="PositionTitle1">Querent 2</entry><entry key="Meaning1">Природа querent и вопроса</entry>
+	<entry key="PositionTitle2">Querent 3</entry><entry key="Meaning2">Природа querent и вопроса</entry>
+	<entry key="PositionTitle3">Второй исход 1</entry><entry key="Meaning3">Во-вторых по возможности исход</entry>
+	<entry key="PositionTitle4">Первый Исход 3</entry><entry key="Meaning4">Первый по возможности исход</entry>
+	<entry key="PositionTitle5">Психологические 3</entry><entry key="Meaning5">"психологический комментарий" на распространении 
+целого </entry>
+	<entry key="PositionTitle6">Внешния факторы 1</entry><entry key="Meaning6">Факторы за управлением querent</entry>
+	<entry key="PositionTitle7">Второй исход 2</entry><entry key="Meaning7">Во-вторых по возможности исход</entry>
+	<entry key="PositionTitle8">Первый Исход 2</entry><entry key="Meaning8">Первый по возможности исход</entry>
+	<entry key="PositionTitle9">Психологические 2</entry><entry key="Meaning9">"психологический комментарий" на распространении 
+целого </entry>
+	<entry key="PositionTitle10">Внешния факторы 2</entry><entry key="Meaning10">Факторы за управлением querent</entry>
+	<entry key="PositionTitle11">Второй исход 3</entry><entry key="Meaning11">Во-вторых по возможности исход</entry>
+	<entry key="PositionTitle12">Первый Исход 1</entry><entry key="Meaning12">Первый по возможности исход</entry>
+	<entry key="PositionTitle13">Психологическое 1</entry><entry key="Meaning13">"психологический комментарий" на распространении 
+целого </entry>
+	<entry key="PositionTitle14">Внешния факторы 3</entry><entry key="Meaning14">Факторы за управлением querent</entry>
+</oracleio>

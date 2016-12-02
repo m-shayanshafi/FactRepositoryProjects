@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+
+<!--
+
+    Ant build file for the jTarot plugin for jEdit
+
+    Please note that jedit.jar must be in the system classpath.
+
+-->
+
+
+<project name="jTarot" default="dist" basedir=".">
+
+	<property name="jar.name"  value="${ant.project.name}.jar"/>
+
+	<property name="src.dir" value="src"/>
+	<property name="home.dir" value="."/>
+	<property name="build.dir" value="build"/>
+	<property name="install.dir" value=".."/>
+
+	<target name="init">
+		<mkdir dir="${build.dir}"/>
+	</target>
+
+
+      <!-- add     debug="yes"  after includeJavaRuntime if you want debugging -->
+	<target name="compile" depends="init">
+		<javac
+			srcdir="${src.dir}"
+			destdir="${build.dir}"
+			deprecation="on"
+			includeJavaRuntime="yes"
+			debug="yes"
+		>
+<!--		<compilerarg value="-Xlint"/> -->
+		</javac>
+	</target>
+
+	<target name="compileonly">
+		<javac
+			srcdir="${src.dir}"
+			destdir="${build.dir}"
+			deprecation="on"
+			includeJavaRuntime="yes"
+      debug="yes"
+		>
+		</javac>
+	</target>
+
+	<target name="dist" depends="compile">
+		<mkdir dir="${install.dir}"/>
+		<delete file="${build.dir}/build.xml"/>
+		<delete file="${build.dir}/log4j.properties"/>
+		<delete file="${home.dir}/res/InternalFiles.xml"/>
+		<delete file="${home.dir}/res/sv/StandardTarotCards.Jonsson.xml"/>
+		<delete dir="${build.dir}/META-INF"/>
+		<delete dir="${build.dir}/tmp"/>
+		<copy file="${home.dir}/filelist/InternalFiles.free.xml" tofile="${home.dir}/res/InternalFiles.xml"/>
+		<jar jarfile="${install.dir}/jTarot.jar"
+		     manifest="src/jtarot.manifest" 
+		     compress="true"
+		>
+			<fileset dir="${build.dir}"/>
+			<fileset dir="${home.dir}">
+				<include name="LICENSE.txt"/>
+				<include name="src/**"/>
+				<include name="res/*.xml"/>
+				<include name="res/*.png"/>
+				<include name="res/*.html"/>
+				<include name="res/*.properties"/>
+				<include name="res/de/**"/>  
+				<include name="res/el/**"/>
+				<include name="res/en/**"/>
+				<include name="res/es/**"/>
+				<include name="res/fr/**"/>
+				<include name="res/it/**"/>
+				<include name="res/ja/**"/>
+				<include name="res/ko/**"/>
+				<include name="res/nl/**"/>
+				<include name="res/pt/**"/>
+				<include name="res/ru/**"/>
+				<include name="res/sv/**"/>
+				<include name="res/zh/**"/>
+				<include name="res/zh2/**"/>
+				<include name="res/ElderFutharkRunes.*/**"/>
+				<include name="res/StandardTarotCards.RiderWaite/**"/>
+				<include name="res/StandardTarotCards.Cards52/**"/>
+				<include name="res/StandardTarotCards.Marseilles/**"/>
+				<include name="res/StandardTarotCards.RiderWaiteBw/**"/>
+				<include name="res/StandardTarotCards.Minchiate/**"/>
+				<include name="build.xml"/>
+			</fileset>
+		</jar>
+		<delete file="${home.dir}/res/InternalFiles.xml"/>
+		<delete file="${home.dir}/res/sv/StandardTarotCards.Jonsson.xml"/>
+		<copy file="${home.dir}/filelist/InternalFiles.all.xml" tofile="${home.dir}/res/InternalFiles.xml"/>
+		<copy file="${home.dir}/filelist/StandardTarotCards.Jonsson.xml" tofile="${home.dir}/res/sv/StandardTarotCards.Jonsson.xml"/>
+		<jar jarfile="${install.dir}/jTarotNonFree.jar"
+		     manifest="src/jtarot.manifest" 
+		     compress="true"
+		>
+			<fileset dir="${build.dir}"/>
+			<fileset dir="${home.dir}">
+				<include name="LICENSE.txt"/>
+				<include name="**/*.jpg"/>
+				<include name="src/**"/>
+				<include name="build.xml"/>
+				<include name="res/**"/>
+			</fileset>
+		</jar>
+	</target>
+
+
+	<target name="clean">
+		<delete dir="${build.dir}"/>
+		<delete>
+			<fileset dir="." includes="**/*~" defaultexcludes="no"/>
+		</delete>
+	</target>
+
+</project>

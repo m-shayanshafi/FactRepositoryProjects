@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="489.20889"
+   width="489.20889"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Stigma_logo_new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 244.60445 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="489.20889 : 244.60445 : 1"
+       inkscape:persp3d-origin="244.60445 : 163.06963 : 1"
+       id="perspective2411" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="547.41601"
+     inkscape:cy="258.95811"
+     inkscape:zoom="0.89715695"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:window-width="1280"
+     inkscape:window-height="774"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>em3</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Line"
+     style="display:inline"
+     transform="translate(-90.899841,-106.6541)">
+    <g
+       id="g3143"
+       transform="matrix(-1,0,0,1,692.51991,-2.5213513)">
+      <path
+         id="path2237"
+         d="M 194.25,154.28125 C 194.25,154.28125 180.4321,159.91114 169.84375,168.8125 C 159.25539,177.71385 151.3125,190.9375 151.3125,190.9375 C 151.3125,190.9375 147.13945,296.03863 231.84375,338.34375 C 271.07972,303.74766 291.35327,303.31047 319.8125,312.21875 C 327.22655,302.19652 336.34273,293.68656 346.59375,286.8125 C 339.21459,283.45115 331.53684,280.86535 323.84375,279 C 269.61008,265.84994 233.40625,297.00001 233.40625,297 C 191.84273,272.58868 184.04051,215.06963 194.25,154.28125 z M 390.21875,324.125 C 379.49137,329.05803 369.94676,336.60196 363,346.125 C 370.82285,359.72213 374.77165,377.29331 370.3125,398.875 C 358.61245,455.50159 323.96455,460.51997 298.21875,471.25 C 272.0682,482.14871 254.14498,495.24597 257.96875,524.3125 C 263.0283,562.5255 302.74077,553.79441 314.03125,548.5 C 317.44008,542.02334 318.16787,542.28533 322.0625,522.03125 C 310.7098,528.72496 294.48226,531.87323 291.125,519.65625 C 287.76774,507.43924 297.35733,502.40565 313.03125,497.25 C 328.24406,492.24601 351.02969,488.27838 372.03125,469.84375 C 388.70634,455.20677 404.9359,434.14268 405.3125,382.96875 C 405.49032,358.80554 399.71642,339.418 390.21875,324.125 z "
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path4452"
+         d="M 519.78125,154.28125 C 529.99075,215.06963 522.18852,272.58868 480.625,297 C 480.62499,297.00001 444.42117,265.84994 390.1875,279 C 348.82682,289.02875 308.25172,319.50445 308.71875,382.96875 C 308.95552,415.14195 315.43726,435.40382 324.375,449.65625 C 329.25903,447.08876 333.922,444.16228 338.1875,440.5625 C 343.41705,435.45415 347.85454,429.61979 351.40625,423.28125 C 351.40231,423.27255 351.41018,423.25871 351.40625,423.25 C 348.30438,416.38709 345.68057,408.36994 343.71875,398.875 C 333.48708,349.35514 367.4774,320.95372 391.125,313.1875 C 421.27045,303.2873 441.52925,302.49357 482.1875,338.34375 C 566.89179,296.03863 562.71875,190.9375 562.71875,190.9375 C 562.71872,190.9375 554.77586,177.71385 544.1875,168.8125 C 533.59918,159.91114 519.78125,154.28125 519.78125,154.28125 z M 392.875,462.34375 C 388.74676,467.84598 384.03746,472.93576 378.75,477.46875 C 375.32315,480.76009 371.64625,483.60058 367.78125,486.125 C 380.21548,491.62705 391.95505,494.27482 401,497.25 C 416.67392,502.40565 426.26351,507.43924 422.90625,519.65625 C 419.54899,531.87323 403.32145,528.72496 391.96875,522.03125 C 395.86338,542.28533 396.59117,542.02334 400,548.5 C 411.29048,553.79441 451.00295,562.5255 456.0625,524.3125 C 459.88627,495.24597 441.96305,482.14871 415.8125,471.25 C 408.62672,468.2552 400.75481,465.69426 392.875,462.34375 z "
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+    </g>
+  </g>
+</svg>

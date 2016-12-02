@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" classification="OracleTranslations" subclass="" language="sv" version="1" author="Thomas Dilts" >
+	<entry key="displayname">Tarot Standard 78 Kort</entry>
+	<entry key="description">Standard tarot kortlek med 22 kort i den stora arkanan och 56 kort i den lilla arkanan.</entry>
+	<entry key="subgroup0">Den stora arkanan</entry>
+	<entry key="subgroup1">Den lilla arkanan</entry>
+	<entry key="subgroup2">Vanlig 52 kort kortlek</entry>
+	<entry key="subgroup3"></entry>
+	<entry key="subgroup4"></entry>
+	<entry key="subgroup5"></entry>
+	<entry key="grouping0">Den stora arkanan</entry>
+	<entry key="grouping1">Bägare</entry>
+	<entry key="grouping2">Pentagram</entry>
+	<entry key="grouping3">Svärd</entry>
+	<entry key="grouping4">Staver</entry>
+	<entry key="grouping5"></entry>
+	<entry key="languagename">Svenska</entry>
+	<entry key="author">Thomas Dilts tarot@lazy8.nu</entry>
+	<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+</oracleio>
+

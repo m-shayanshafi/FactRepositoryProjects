@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="ja" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">Edred Thorsson のRunecaster の手引。</entry>
+		<entry key="Title">Rune 24 Futhark のレイアウト</entry>
+		<entry key="Description">runes の意味すべてはここに示されている従って別のrune の意味に落ちる1 つのrune との意味の混合物を得る。</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">お金は重要である。霊魂エネルギー。現在および近い将来の財政の強さそして繁栄。</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">物理的な健康。重大なエネルギー。</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">反対した何が(多分物理的) 。積極的な性質の対立そして複雑さ; 心理的な問題。</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">インスピレーシヨン及び知的な表現のもと。コミュニケーション及び伝達; ポイント事は以前源に支持する。</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">内部か外旅行- 。右または右である何が; 作るかどんな移動; 決定; リターン。</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">創造性。好色な関係。新しい方法の開発; 機会; 情報。</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">与えられる何があなたに。交換の性質のすべての問題; 契約; 個人的な関係。</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">関係、友人。幸福を与える何が。利益; 業積; 望まれるそれ。</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">変形をもたらす可能な危機の区域。通常である分裂的な性質通常以前起き、意識不明の自由な力。</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">抵抗する何が(霊魂に) 。不満のもと。意識不明の制限する力; 恐れ、心配; 罪悪感。</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">強いている何が。ブロック; 条件をstultified; 不満; 個人が行くために割り当てた準備されない何でも; 人格の形成; 調節。</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">報酬が期待することができるところ。自然な環境との関係。希望及び予想; 分岐点; 漸進的な変更; より早い行為の結果。</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">隠された影響、全ある状態。numinous 環境との関係。意識不明の原動力; 刺激; 目的の感覚。</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">喜びをいかに見つけるか。意識不明の最も深く創造的な部分; 達成及び生れに来るために待っているより高い材料の隠された王国; 隠された才能; 神秘的なか霊魂の能力。</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">注意を必要とする事。神への方法。意識不明の強い保護側面; 保護する影響; 宗教抱負。</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">導く何が。意識不明への関係のより高い自己の位置; あなたがより高い自己によって導かれる方向; より高い自己と意識不明間の接触を確立する機能。</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">認識国家。法的問題。理想。軍感覚の創造的なエネルギー; あなたの強さがあるところ; 率先の取得のあなたのエネルギーをどこ指示するために; 名誉および正義、リーダーシップおよび権限。</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">成長及び美を提供する何が。豊饒; 生れの' 再生; 成長; 母性; 家族生活; 女らしいミステリー。</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">働かせる何またはべきである誰をと。好色な関係。適応性; 他の関係; 相互協力; 協同; 性別。</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">全面的な霊魂の状態。死の方の態度。大きいの人々; 他の方の態度; あなたの方の人々へ態度; 法的問題、友人および敵; 知性。</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">感情的なバランスの状態。テストする何が。感情; 安定性; 想像; 霊魂の問題; 愛情。</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">熟視すれば何を。統合; 妊娠;
+予想; 子孫。</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">予想外のsynchronicity の区域。伝達;
+反対; 明暗間の位置; 開始; 外界時間と空間間のバランス; 宇宙意識; 反対への1 つの事からの変更; 新しい初め。</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">すばらしい家族は重要である。国民またはコミュニティissues.Home 生命; 国; 精神的な相続財産; 経験; 基礎; 基本的な価値; 確立。</entry>
+</oracleio>

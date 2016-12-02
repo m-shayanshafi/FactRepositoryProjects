@@ -1,0 +1,17 @@
+jmines
+jmines.control
+jmines.control.actions
+jmines.control.actions.board
+jmines.control.actions.displayandsounds
+jmines.control.actions.game
+jmines.control.actions.info
+jmines.control.actions.language
+jmines.control.actions.other
+jmines.control.actions.robot
+jmines.control.listeners
+jmines.model
+jmines.model.events
+jmines.persistence
+jmines.view
+jmines.view.components
+jmines.view.dialogs

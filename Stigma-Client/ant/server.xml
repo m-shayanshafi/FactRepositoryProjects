@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="Server" default="build_package">
+	<property name="package" value="Stigma-Server" />
+	<property name="main_class" value="pl.org.minions.stigma.server.Main" />
+	<property name="use_log_4j" value="true" />
+
+	<patternset id="source_pattern">
+		<include name="**/server/**"/>
+		<include name="**/server/*.java"/>
+		<include name="**/minions/utils/*.java"/>
+		<include name="**/logger/Log.java"/>
+		
+	    <exclude name="**/test/*.java"/> 
+	</patternset>
+
+	<patternset id="jar_files_pattern">
+		<include name="img/server/**/*.png"/>
+		<include name="img/server/**/*.ico"/>
+		<include name="img/default/**/*.png"/>
+	</patternset>
+
+	<patternset id="package_files_pattern">
+		<include name="res/metadata/xsd/*.xsd"/>
+		<include name="res/**/*.xml"/>
+		<include name="res/**/*.stigmares"/>
+		<include name="res/**/*.png"/>
+		<include name="sql/**/*.sql"/>
+		<include name="sql/**/*.db"/>
+		<include name="www/index.html"/>
+	</patternset>
+
+	<target name="build_package" >
+		<ant antfile="base.xml" inheritrefs="yes">
+			<property name="generate_schemas" value="true" />
+			<property name="version_res" value="true" />
+		</ant>
+		<ant antfile="base.xml" inheritrefs="yes" >
+			<property name="package.suffix" value="MySQL" />
+			<property name="add_mysql" value="true" />
+		</ant>
+		<ant antfile="base.xml" inheritrefs="yes" >
+		            <property name="package.suffix" value="AllJdbcDrivers" />
+		            <property name="add_mysql" value="true" />
+		            <property name="add_sqlite" value="true" />
+		</ant>
+		<ant antfile="base.xml" inheritrefs="yes" >
+			<property name="package.suffix" value="SQLite" />
+			<property name="add_sqlite" value="true" />
+		</ant>
+	</target>
+
+</project>

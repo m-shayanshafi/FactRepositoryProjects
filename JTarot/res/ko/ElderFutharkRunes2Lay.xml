@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Two Runes" classification="LayoutTranslations" version="1" language="ko" author="Thomas Dilts" >
+<entry key="languagename">한국어</entry>
+<entry key="copyright">저작권 © 2007년 
+토마스Dilts(tarot@lazy8.nu). 허가는 무료 
+소프트웨어 기초에의해 간행되는GNU자유로운 
+문서 제시 면허, 버전1.2또는 어떤 더 늦은 버전의 
+조건으로 사본에게 수여되고, 이 문서를 배부하고 
+그리고/또한 변경한다. 면허의 
+사본은http://www.gnu.org에 발견될지도 모른다</entry>
+	<entry key="Title">2Runes</entry>
+	<entry key="Description">때때로 사용하는 대로yes/no응답 
+또는 2개의 상황의 제일 선택하는. 
+Tarot은 일반적으로yes/no응답에 나쁘다 그러나 
+너가 1개을 물어야 하면, 이것은 그것을 위해 더 나은 
+배치의 한 이다. 미리 선택하십시요rune이 
+"그렇다"rune"아니"rune이을 것이다 카드가 다룰 것이다 
+상황. 경고해서, 때때로 보다 
+적게desireablerune은 제일 해결책 어쨌든 
+이다! 때때로 너는 보다 적게 여행했다 
+도로를 따라간것을 필요로 한다.</entry>
+	<entry key="PositionTitle0">해결책 1</entry><entry key="Meaning0">너가 해결책을 가지고 가면 너가 
+예기할 수 있는 무엇이라고 이 카드가 대표할 것을 
+너는 미리 결정했다.</entry>
+	<entry key="PositionTitle1">해결책 2</entry><entry key="Meaning1">너가 해결책을 가지고 가면 너가 
+예기할 수 있는 무엇이라고 이 카드가 대표할 것을 
+너는 미리 결정했다.</entry>
+</oracleio>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="sv" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">Svenska</entry>
+<entry key="copyright">Edred Thorsson, Runecaster's Handbook.</entry>
+		<entry key="Title">24 Rune Futhark Layout</entry>
+		<entry key="Description">All the runes meanings are shown here so you get a mixture of meanings with one rune falling into the meaning of another rune.</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">Money matters. Psychic energies. Financial strength and prosperity of the present and near future.</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">Physical health. Vital energies.</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">What opposed you (perhaps physical). Conflicts and complexities of an aggressive nature; psychological problems.</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">Sources of inspiration and intellectual expression.  Communications and transmissions; points things back to sources in the past.</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">Travels - inner or outer. What is right or not right; what move to make; decisions; returns.</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">Creativity. Erotic relationships. Opening up of new ways; opportunities; information.</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">What will be given to you. All matters of an exchanging nature; contracts; personal relationships.</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">Relationships, friends. What will give you happiness. Gain; accomplishments; that which is wished for.</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">Area of possible crisis leading to transformation. The uncontrolled forces in the unconscious, which are usually of a disruptive nature and which usually originate in the past.</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">What resists you (psychically). Source of discontent. Restrictive forces in the unconscious; fears, anxieties; feelings of guilt.</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">What is constraining you. Blocks; stultified conditions; grievances; anything that the individual is not prepared to let go of; the formation of the personality; conditioning.</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">Where rewards can be expected. Relationship with the natural environment. Hopes and expectations; turning points; gradual changes; results of earlier actions.</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">Hidden influences, state of whole being. Relationship with the numinous environment. The driving forces in the unconscious; motivation; sense of purpose.</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">How you will find joy. The deepest creative part of the unconscious; the hidden realm of higher material that is waiting to come to fruition and birth; hidden talents; occult or psychic abilities.</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">Thing that needs attention. Way to the gods. The strong protective side in the unconscious; the influence which will protect you; religious aspirations.</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">What will guide you. Position of the higher self in relations to the unconscious; the direction in which you will be guided by the higher self; the ability to establish contact between the higher self and the unconscious.</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">Cognitive state. Legal matters. Ideals. Creative energies in the martial sense; where your strengths lie; where to direct your energies in taking initiatives; honor and justice, leadership and authority.</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">What provides growth and beauty. Fertility; birth' rebirth; growth; maternity; family life; feminine mysteries.</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">With what or whom you should work. Erotic relations. Adaptability; relationships with others; joint efforts; cooperation; sexuality.</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">Overall psychic state. Attitude toward death. People at large; attitude toward others; other people's attitudes towards you; legal matters, friends and enemies; intellect.</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">State of emotional Balance. What will test you. Emotions; stability; imagination; psychic matters; affections.</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">What you should contemplate. Integration; gestation; expectations; progeny.</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">Area of unexpected synchronicity. Transmission; opposites; position between light and darkness; initiation; balance between the worlds outside time and space; cosmic consciousness; change from one thing into its opposite; new beginnings.</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">Greater family matters. National or community issues.Home life; country; spiritual heritage; experience; foundation; fundamental values; establishing.</entry>
+</oracleio>
+

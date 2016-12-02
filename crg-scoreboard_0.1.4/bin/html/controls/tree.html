@@ -1,0 +1,95 @@
+<html><head><title>Scoreboard Full Tree Editor</title>
+
+<script type="text/javascript" src="../external/prototype/prototype.js"></script>
+<script type="text/javascript" src="../external/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="../javascript/object-util.js"></script>
+<script type="text/javascript" src="../javascript/xml-util.js"></script>
+<script type="text/javascript" src="../javascript/window-util.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-viewer.js"></script>
+<script type="text/javascript" src="../javascript/scoreboard-controller.js"></script>
+<script type="text/javascript" src="../javascript/viewer.js"></script>
+<script type="text/javascript" src="../javascript/controller.js"></script>
+
+<script type="text/javascript" src="../external/dhtml-tree/mktree.js"></script>
+<link rel="stylesheet" href="../external/dhtml-tree/mktree.css" type="text/css">
+
+<script type="text/javascript" >
+
+function insertOrdered(list, item) {
+  var before = $A(list.childNodes).detect(function (i) { return i.getStorage().get("node.name") > item.getStorage().get("node.name"); });
+  if (!before)
+    list.insert(item);
+  else
+    list.insertBefore(item, before);
+}
+
+function removeNode(ul, node) {
+  var oldLi;
+  if (node.getId()) {
+    oldLi = ul.getStorage().get(node.name).getStorage().get("ul").getStorage().unset(node.getId());
+  } else {
+    oldLi = ul.getStorage().unset(node.name);
+  }
+  oldLi.remove();
+}
+
+function addNode(ul, node) {
+  var newLi;
+  var newUl;
+  if (node.getId()) {
+    if (!ul.getStorage().get(node.name)) {
+      newLi = Builder.node("li", [ node.name, newUl = Builder.node("ul") ]);
+      newLi.getStorage().set("node.name", node.name);
+      newLi.getStorage().set("ul", newUl);
+      ul.getStorage().set(node.name, newLi);
+      insertOrdered(ul, newLi);
+    }
+    var nameUl = ul.getStorage().get(node.name).getStorage().get("ul");
+    if (nameUl.getStorage().get(node.getId()))
+      return; // node already in ul
+    newLi = Builder.node("li", [ node.getId(), newUl = Builder.node("ul") ]);
+    newLi.getStorage().set("node.name", node.getId());
+    newLi.getStorage().set("ul", newUl);
+    nameUl.getStorage().set(node.getId(), newLi);
+    insertOrdered(nameUl, newLi);
+  } else {
+    if (ul.getStorage().get(node.name))
+      return; // node already in ul
+    newLi = Builder.node("li", [ node.name, newUl = Builder.node("ul") ]);
+    newLi.getStorage().set("node.name", node.name);
+    newLi.getStorage().set("ul", newUl);
+    ul.getStorage().set(node.name, newLi);
+    insertOrdered(ul, newLi);
+  }
+
+  newLi.insertBefore(node.createHelper("input", { type: "text", className: "updateimmediate" }), newUl);
+
+  node.observe("node:add", function (event) { addNode(newUl, event.memo.node); });
+  node.observe("node:remove", function (event) { removeNode(newUl, event.memo.node); });
+  node.getChildNodes().each(function (n) { addNode(newUl, n); });
+
+  processList(ul);
+}
+
+function setupWindow() {
+  convertTrees();
+
+  addNode($("topUl"), ScoreBoard);
+
+  collapseTree("topUI");
+}
+
+function startAll() {
+  startScoreBoard("controls/tree.html", 500, "setupWindow();");
+}
+
+</script>
+
+</head>
+
+<body onload="startAll();" >
+
+<ul id="topUl" class="mktree" ></ul>
+
+</body>
+</html>

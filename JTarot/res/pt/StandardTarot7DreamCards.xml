@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Soul Dreamers Spread (Silbury)" classification="LayoutTranslations" version="1" language="pt" author="Thomas Dilts" >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Copyright © Thomas 2007 Dilts 
+(tarot@lazy8.nu). A permissão é concedida à cópia, distribui
+e/ou modifica este original sob os termos da versão mais atrasada 
+livre da licença, da versão 1.2 ou algum da documentação do GNU 
+publicada pela fundação livre do software. Uma cópia da 
+licença pode ser encontrada em http://www.gnu.org</entry>
+	<entry key="Title">Propagação Dos Dreamers Da Alma (Silbury)</entry>
+	<entry key="Description">Esta leitura é pretendida ajudar a um compreender a 
+mensagem ou o meaning de um sonho. Os cartões devem ser 
+colocados tais que críam uma espiral sentido horário externa e devem
+ser mais circulares que o diagrama acima parece</entry>
+	<entry key="PositionTitle0">Chave</entry><entry key="Meaning0">Escolha um cartão representa a situação ideal ou 
+seus sentimentos sobre o sonho</entry>
+	<entry key="PositionTitle1">Sonhe a situação</entry><entry key="Meaning1">Disser algo sobre os eventos do sonho, como quando 
+onde, como, e porque</entry>
+	<entry key="PositionTitle2">Energia dentro</entry><entry key="Meaning2">Energia preliminar do sonho</entry>
+	<entry key="PositionTitle3">Meaning conscious</entry><entry key="Meaning3">O que o sonho lhe significa ' na vida andando '</entry>
+	<entry key="PositionTitle4">Meaning subconscious</entry><entry key="Meaning4">O que o sonho lhe significa em um nível psychic 
+interno</entry>
+	<entry key="PositionTitle5">Energia da serpente</entry><entry key="Meaning5">Quando a energia for needed fazer com que o sonho se 
+manifeste fisicamente, se você desejar, ou para resolver o dilemma do
+sonho</entry>
+	<entry key="PositionTitle6">Resultado</entry><entry key="Meaning6">Como o sonho se manifestará e seus efeitos</entry>
+</oracleio>

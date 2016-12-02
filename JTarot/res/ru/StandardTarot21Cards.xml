@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Twenty-One Card Spread (Morison)" classification="LayoutTranslations" version="1" language="ru" author="Thomas Dilts" >
+<entry key="languagename">Русско</entry>
+<entry key="copyright">Авторское право © Thomas 2007 
+Dilts (tarot@lazy8.nu). Позволение дарено к 
+экземпляру, распределяет and/or дорабатывает этот документ 
+under the terms of вариант лицензии, варианта 
+1.2 или любого документации GNU свободно более последний 
+опубликованный свободно учредительством средства программирования. 
+Экземпляр лицензии может быть найден на 
+http://www.gnu.org</entry>
+	<entry key="Title">21 Распространений Карточки (Morison)</entry>
+	<entry key="Description"></entry>
+	<entry key="PositionTitle0">Significator</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">немедленно прошлый</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Фактор Inobvious присытствыющий</entry><entry key="Meaning2">Важныйа фактор в настоящем моменте. 
+Inobvious.</entry>
+	<entry key="PositionTitle3">Положение о намерениях</entry><entry key="Meaning3">Положение о намерениях искателя</entry>
+	<entry key="PositionTitle4">Немедленно будущее</entry><entry key="Meaning4">Most likely немедленно будущее</entry>
+	<entry key="PositionTitle5">Очевидный присытствыющий фактор</entry><entry key="Meaning5">Важныйа фактор в настоящем моменте. Очень 
+очевидно</entry>
+	<entry key="PositionTitle6">Ощупывания кишки</entry><entry key="Meaning6">Ощупывания кишки искателя.</entry>
+	<entry key="PositionTitle7">Дорабатывает карточку 2 прошлое 1</entry><entry key="Meaning7">Влияния в прошлом повлияло на #2</entry>
+	<entry key="PositionTitle8">Дорабатывает карточку 2 прошлые 2</entry><entry key="Meaning8">Влияния в прошлом повлияло на #2</entry>
+	<entry key="PositionTitle9">Дорабатывает карточку 3 теперь 1</entry><entry key="Meaning9">Влияния течения влияя на # 3. Inobvious.</entry>
+	<entry key="PositionTitle10">Дорабатывает карточку 3 теперь 2</entry><entry key="Meaning10">Влияния течения влияя на # 3. Inobvious.</entry>
+	<entry key="PositionTitle11">Дорабатывает будущее 1 карточки 5</entry><entry key="Meaning11">По возможности будущие влияния, влияя на #5</entry>
+	<entry key="PositionTitle12">Дорабатывает будущее 2 карточки 5</entry><entry key="Meaning12">По возможности будущие влияния, влияя на #5</entry>
+	<entry key="PositionTitle13">Дорабатывает карточку 6 теперь 1</entry><entry key="Meaning13">Очевидные в настоящее время влияния, влияя на #6</entry>
+	<entry key="PositionTitle14">Дорабатывает карточку 6 теперь 2</entry><entry key="Meaning14">Очевидные в настоящее время влияния, влияя на #6</entry>
+	<entry key="PositionTitle15">Физическо</entry><entry key="Meaning15">Ситуация материальня искателя. По возможности 
+здоровье или состояние жизни</entry>
+	<entry key="PositionTitle16">Корень внутри в прошлом</entry><entry key="Meaning16">Сущность вопроса в прошлом</entry>
+	<entry key="PositionTitle17">В настоящее время дело</entry><entry key="Meaning17">В настоящее время дело. Оно может быть спрятан 
+или неизвестен и обозреван, или оно может представить предположения, 
+по возможности неправильно</entry>
+	<entry key="PositionTitle18">Духовность будет</entry><entry key="Meaning18">Духовность искателя будет. Это может 
+противоречить с или освещать желания искателя сознательные</entry>
+	<entry key="PositionTitle19">Будущий случай</entry><entry key="Meaning19">Правоподобный будущий случай</entry>
+	<entry key="PositionTitle20">Отражения</entry><entry key="Meaning20">Искатель должен думать о</entry>
+</oracleio>

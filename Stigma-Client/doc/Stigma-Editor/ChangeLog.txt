@@ -1,0 +1,56 @@
+Stigma - The Game: Editor change log
+====================================
+
+Project started: December, 2005. Rewritten in 2008.
+This file contains changes made to project since: 2008/02/20
+
+
+Key:
+ * changes in end-user functionality, may be interesting for everybody
+ - changes in code, important for developers  
+
+All #numbers refers to tickets numbers on http://sourceforge.net/apps/trac/stigma/
+
+
+Editor 0.5.0 - 2011/03/30
+----------------------------------
+
+Features:
+    - Log4j updated to 1.2.16 version. 
+    - MySQL connector updated to 5.1.13 version.
+
+Fixes:
+    - (#206) No more separate versions of XML files - just application version will be used.
+
+
+
+Editor 0.4.3 - 2010/10/24
+----------------------------------
+
+Fixes:
+    - Code cleaned, warnings removed
+    - Updated i18n4j version to 0.4.2
+
+
+
+Editor 0.4.2 - 2010/10/11
+----------------------------------
+
+No real changes, just maintance release.
+
+
+
+Editor 0.4.1 - 2010/08/15
+----------------------------------
+
+Features:
+    * (#94) License info on editor.
+
+
+
+Editor 0.4.0 - 2010/07/20
+----------------------------------
+
+Features:
+    * First release - version number set to major number of client/server applications.
+    * Map editor

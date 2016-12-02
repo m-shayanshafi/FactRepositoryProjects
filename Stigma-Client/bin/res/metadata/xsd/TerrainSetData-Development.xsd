@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="terrainset" type="terrainSetData"/>
+
+  <xs:complexType name="terrainSetData">
+    <xs:all>
+      <xs:element name="desc" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="terrainList" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="terrain" type="terrainTypeData" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:all>
+    <xs:attribute name="id" type="xs:short" use="required"/>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="terrainTypeData">
+    <xs:sequence>
+      <xs:element name="desc" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="tileList" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="tile" type="tileTypeData" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="color" type="xs:string" use="required"/>
+    <xs:attribute name="id" type="xs:int" use="required"/>
+    <xs:attribute name="imageFileName" type="xs:string"/>
+    <xs:attribute name="passable" type="xs:boolean" use="required"/>
+    <xs:attribute name="priority" type="xs:int" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="tileTypeData">
+    <xs:sequence/>
+    <xs:attribute name="id" type="xs:int" use="required"/>
+  </xs:complexType>
+</xs:schema>
+

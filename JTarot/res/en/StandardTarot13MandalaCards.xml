@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Mandala/Alchemical Spread (Guiley)" classification="LayoutTranslations" version="1" language="en" author="Thomas Dilts" >
+<entry key="languagename">English</entry>
+<entry key="copyright">Copyright © 2007 Thomas Dilts (tarot@lazy8.nu).  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation.  A copy of the license may be found at http://www.gnu.org</entry>
+	<entry key="Title">Mandala/Alchemical Spread (Guiley)</entry>
+	<entry key="Description">Doing the reading with only the first nine cards is
+called the Mandala Spread.  Adding the four elemental cards is the
+Alchemical spread</entry>
+	<entry key="PositionTitle0">The self</entry><entry key="Meaning0"></entry>
+	<entry key="PositionTitle1">Desires</entry><entry key="Meaning1"></entry>
+	<entry key="PositionTitle2">Dreams</entry><entry key="Meaning2">What you want to achieve</entry>
+	<entry key="PositionTitle3">Pursuits</entry><entry key="Meaning3">What we actively try to achieve</entry>
+	<entry key="PositionTitle4">Attachments</entry><entry key="Meaning4">Pursuits which hold us back from achieving
+     our dreams.  For example, many people dream of happiness but
+     pursuit money thinking it will make them happy.  However, it
+     is the worry about money, not the lack of it, which actually
+     prevents happiness.</entry>
+	<entry key="PositionTitle5">Qualities</entry><entry key="Meaning5">Good aspects about the querent</entry>
+	<entry key="PositionTitle6">Sorrows</entry><entry key="Meaning6">Faults of the querent which need improving</entry>
+	<entry key="PositionTitle7">Self-image</entry><entry key="Meaning7">How the querent views him/herself</entry>
+	<entry key="PositionTitle8">Soul's urge</entry><entry key="Meaning8">One's true purpose and desitiny</entry>
+	<entry key="PositionTitle9">Earth</entry><entry key="Meaning9">Darkness, mystery, and the unknown</entry>
+	<entry key="PositionTitle10">Air</entry><entry key="Meaning10">Spiritual illumination and enlightenment</entry>
+	<entry key="PositionTitle11">Fire</entry><entry key="Meaning11">Intellect, rational thought, will</entry>
+	<entry key="PositionTitle12">Water</entry><entry key="Meaning12">Creativity and emotions</entry>
+</oracleio>

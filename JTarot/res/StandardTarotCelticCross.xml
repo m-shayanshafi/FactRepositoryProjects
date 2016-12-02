@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Celtic cross" classification="Layout" language="" version="1" author="Unknown" >
+		<entry key="copyright">Public domain</entry>
+			<!-- number of objects(cards) in this layout -->
+<entry key="numberofobjects">10</entry>
+			<!-- The first and second row may be floating point numbers with "." as the decimal seperator.
+			This is where the card is positioned on the screen. 1= width(in the case of column) or 
+			height(in the case of row) of one card.
+			
+			Column Row IsSideways=1 -->
+<entry key="screenLayoutxy">1.5 1   0 
+			1.15 1.20 1 
+			1.5 2   0 
+			0   1   0 
+			1.5 0   0 
+			3   1   0 
+			4   3   0 
+			4   2   0 
+			4   1   0 
+			4   0   0</entry>
+			<!-- 
+				Printout table positions.  No overlapping cards allowed in the printouts.
+				minus 1 means no card shown in that table row/column.  A number means that card index is shown at
+				that position.  These may only be integers
+				That row/column
+			 -->
+<entry key="printoutxy">-1  4 -1  9 
+			  3  0   5  8 
+			-1  1 -1  7 
+			-1  2 -1  6</entry>
+			<!-- Columns Rows in the html printouts. Integer only
+			 -->
+<entry key="printoutsize">4 4</entry>
+			<!-- Column Row on the screen.  Integer only
+			 -->
+<entry key="screensize">5 4</entry>
+			<!-- In the screen, some cards may be hidden by other cards.  By printing the cards onto the screen in a different
+				order, hidden cards will be revealed.
+			 -->
+<entry key="showHiddenOrder">1 0 2 3 4 5 6 7 8 9</entry>
+</oracleio>

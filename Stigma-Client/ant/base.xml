@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="Base" default="dist">
+	<property name="3rdparty" location="../3rdparty" />
+	<property name="trans" location="../trans" />
+	<property name="src" location="../src" />
+	<property name="dist" location="../build/packages/" />
+	<property name="build" location="../build/${package}" />
+	<property name="doc" location="../doc/${package}" />
+
+	<property name="i18n4j_jar" value="i18n4j-0.4.2.jar" />
+
+	<property name="log4j_jar" value="log4j-1.2.16.jar" />
+	<property name="log4j_license" value="log4j-LICENSE.txt" />
+	<property name="mysql_jar" value="mysql-connector-java-5.1.13-bin.jar" />
+	<property name="mysql_license" value="mysql-connector-LICENSE.txt" />
+	<property name="sqlite_jar" value="sqlitejdbc-v056.jar" />
+	<property name="sqlite_license" value="sqlitejdbc-LICENSE.txt" />
+
+	<property file="versions/${package}.properties" prefix="version" />
+	<property name="version.full" value="${version.major.number}.${version.minor.number}.${version.patch.number}" />
+	<property name="release_dir" value="../build/releases/${package}/${version.full}/" />
+
+	<target name="clean">
+		<echo>Cleaning old builds</echo>
+		<delete dir="${build}" />
+		<delete dir="${dist}/${package}" />
+	</target>
+
+	<target name="init" depends="clean">
+		<echo>Preparing source</echo>
+
+		<condition property="package.real_suffix" value="_${package.suffix}" else="">
+			<isset property="package.suffix" />
+		</condition>
+
+		<property name="filestamp" value="${version.full}${package.real_suffix}" />
+
+		<condition property="log_file_suffix" value="server" else="client">
+			<isset property="use_log_4j" />
+		</condition>
+		<delete file="${src}/pl/org/minions/utils/logger/Log.java" />
+		<copy file="${src}/pl/org/minions/utils/logger/Log.java.${log_file_suffix}" tofile="${src}/pl/org/minions/utils/logger/Log.java" />
+
+		<delete file="${src}/pl/org/minions/utils/Version.java" />
+		<copy file="${src}/pl/org/minions/utils/Version.java.org" tofile="${src}/pl/org/minions/utils/Version.java" />
+		<replace file="${src}/pl/org/minions/utils/Version.java">
+			<replacefilter token="@MajorVersion@" value="${version.major.number}" />
+			<replacefilter token="@MinorVersion@" value="${version.minor.number}" />
+			<replacefilter token="@PatchVersion@" value="${version.patch.number}" />
+		</replace>
+	</target>
+
+	<target name="compile" depends="init">
+		<echo>Compiling</echo>
+		<mkdir dir="${build}"/>
+
+		<javac 
+			   srcdir="${src}" 
+			   destdir="${build}" 
+			   optimize="true"
+			   debug="false"
+			   >
+			<patternset refid="source_pattern"/>
+			<classpath>
+				<fileset dir="${3rdparty}">
+					<include name="${log4j_jar}" if="use_log_4j" />
+					<include name="${i18n4j_jar}" />
+				</fileset>
+			</classpath>
+		</javac>
+
+	</target>
+
+	<target name="jar" depends="compile">
+
+		<echo>Copying JAR additional files</echo>
+		<copy todir="${build}">
+			<fileset dir="${src}/..">
+				<patternset refid="jar_files_pattern" />
+				<include name="LICENSE.*" />
+				<include name="gpl-3.0.*" />
+			</fileset>
+		</copy>
+		<copy todir="${build}/trans">
+			<fileset dir="${trans}">
+				<include name="${package}-*.properties" />
+				<include name="LICENSE-*.*" />
+				<include name="gpl-3.0-*.*" />
+			</fileset>
+		</copy>
+
+		<echo>Compressing</echo>
+		<mkdir dir="${dist}" />
+		<mkdir dir="${dist}/${package}" />
+
+		<condition property="class_path_log4j" value="3rdparty/${log4j_jar}" else=" ">
+			<isset property="use_log_4j" />
+		</condition>
+
+		<condition property="class_path_mysql" value="3rdparty/${mysql_jar}" else=" ">
+			<isset property="add_mysql" />
+		</condition>
+
+		<condition property="class_path_sqlite" value="3rdparty/${sqlite_jar}" else=" ">
+			<isset property="add_sqlite" />
+		</condition>
+
+		<jar jarfile="${dist}/${package}/${package}.jar">
+			<fileset dir="${build}" />
+			<zipfileset includes="pl/org/minions/utils/i18n/**/*.class" src="${3rdparty}/${i18n4j_jar}"/>
+			<manifest>
+				<attribute name="Implementation-Title" value="${package}" />
+				<attribute name="Implementation-Version" value="${filestamp}" />
+				<attribute name="Implementation-Vendor" value="Minions Studio" />
+				<attribute name="Implementation-URL" value="http://stigma.sourceforge.net" />
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Main-Class" value="${main_class}" />
+				<attribute name="Class-Path" value="${class_path_log4j} ${class_path_mysql} ${class_path_sqlite}" />
+			</manifest>
+
+		</jar>
+
+	</target>
+
+	<target name="signing_jar" depends="jar" if="sign_jar">
+		<echo>Signing JAR</echo>
+		<signjar jar="${dist}/${package}/${package}.jar"  keystore="${keystore}" alias="minions" storepass="${storepass}" />
+	</target>
+
+	<target name="versioning_res" depends="jar" if="version_res">
+		<echo>Versioning resourceset</echo>
+		<replace dir="../res/" includes="**/**.xml">
+			<replacefilter token="version=&quot;Development&quot;" value="version=&quot;${version.full}&quot;" />
+			<replacefilter token="ver=&quot;Development&quot;" value="ver=&quot;${version.full}&quot;" />
+			<replacefilter token="-Development.xsd" value="-${version.full}.xsd" />
+		</replace>
+	</target>
+
+	<target name="generating_schemas" depends="jar" if="generate_schemas">
+		<delete>
+			<fileset dir="../res/metadata/xsd" includes="**/*.xsd" />
+		</delete>
+		<delete dir="../build/SchemaGenerator" />
+		<mkdir  dir="../build/SchemaGenerator" />
+		<javac srcdir="${src}" destdir="../build/SchemaGenerator" includes="**/SchemaGenerator.java">
+			<classpath>
+				<fileset dir="${3rdparty}">
+					<include name="${log4j_jar}" />
+				</fileset>
+			</classpath>
+		</javac>
+		<java classname="pl.org.minions.stigma.databases.parsers.test.SchemaGenerator" dir="../" fork="true">
+			<classpath>
+				<pathelement path="${java.class.path}"/>
+				<pathelement path="../build/SchemaGenerator" />
+				<pathelement path="../3rdparty/${log4j_jar}" />
+			</classpath>
+		</java>
+	</target>
+
+	<target name="dist" depends="jar,signing_jar,versioning_res,generating_schemas">
+		<echo>Creating distribution</echo>
+
+		<copy todir="${dist}/${package}">
+			<fileset dir="${doc}">
+				<include name="*.*" />
+			</fileset>
+			<fileset dir="${src}/..">
+				<patternset refid="package_files_pattern" />
+			</fileset>
+		</copy>
+
+		<copy todir="${dist}/${package}/">
+			<fileset dir="${src}/../">
+				<include name="LICENSE.*" />
+				<include name="gpl-3.0.*" />
+				<include name="log_config.properties" if="use_log_4j" />
+			</fileset>
+		</copy>
+
+		<copy todir="${dist}/${package}/3rdparty">
+			<fileset dir="${3rdparty}">
+				<include name="${log4j_jar}" if="use_log_4j" />
+				<include name="${log4j_license}" if="use_log_4j" />
+				<include name="${mysql_jar}" if="add_mysql" />
+				<include name="${mysql_license}" if="add_mysql" />
+				<include name="${sqlite_jar}" if="add_sqlite" />
+				<include name="${sqlite_license}" if="add_sqlite" />
+			</fileset>
+		</copy>
+
+		<mkdir dir="${release_dir}" />
+
+		<tstamp>
+			<format property="rel_date" pattern="yyyy/MM/dd" />
+		</tstamp>
+		<replace file="${doc}/ChangeLog.txt" token="&lt;not released yet&gt;" value="${rel_date}" />
+		<copy file="${doc}/ChangeLog.txt" todir="${release_dir}" />
+		<tar tarfile="${release_dir}/${package}_${filestamp}.tar" basedir="${dist}/${package}" />
+		<bzip2 src="${release_dir}/${package}_${filestamp}.tar" destfile="${release_dir}/${package}_${filestamp}.tar.bz2" />
+		<delete file="${release_dir}/${package}_${filestamp}.tar" />
+
+		<zip zipfile="${release_dir}/${package}_${filestamp}.zip" basedir="${dist}/${package}" />
+
+		<echo>Restoring source</echo>
+
+		<delete file="${src}/pl/org/minions/utils/logger/Log.java" />
+		<copy file="${src}/pl/org/minions/utils/logger/Log.java.server" tofile="${src}/pl/org/minions/utils/logger/Log.java" />
+
+		<delete file="${src}/pl/org/minions/utils/Version.java" />
+		<copy file="${src}/pl/org/minions/utils/Version.java.org" tofile="${src}/pl/org/minions/utils/Version.java" />
+
+	</target>
+
+</project>

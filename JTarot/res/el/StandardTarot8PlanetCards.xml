@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Planetary Spread (Peach)" classification="LayoutTranslations" version="1" language="el" author="Thomas Dilts" >
+<entry key="languagename">Ελληνικά</entry>
+<entry key="copyright">Πνευματικά δικαιώματα © 2007 Thomas Dilts
+(tarot@lazy8.nu). Η άδεια χορηγείται στο αντίγραφο, 
+διανέμει ή/και τροποποιεί το παρόν έγγραφο υπό τον όρο της 
+ελεύθερης άδειας τεκμηρίωσης GNU, της έκδοσης 1.2 ή 
+οποιασδήποτε πιό πρόσφατης έκδοσης που δημοσιεύεται από το 
+ελεύθερο ίδρυμα λογισμικού. Ένα αντίγραφο της άδειας 
+μπορεί να βρεθεί σε http://www.gnu.org</entry>
+	<entry key="Title">Πλανητικός που διαδίδεται (ροδάκινο)</entry>
+	<entry key="Description">"Οι κάρτες αυτής της διάδοσης μπορούν και οφείλουν να 
+ζευγαρωθούν και διαβασμένος στην αντιπαράθεση, δηλ., η κάρτα στη 
+θέση του φεγγαριού πρέπει να ζευγαρωθεί με αυτήν στη θέση του 
+ήλιου  η κάρτα στη θέση της Αφροδίτης με αυτήν στη θέση 
+του Αρη, και τα λοιπά." - Ροδάκινο</entry>
+	<entry key="PositionTitle0">Querent</entry><entry key="Meaning0">Εσείς, όπου είστε τώρα. Παρούσα κατάσταση</entry>
+	<entry key="PositionTitle1">Φεγγάρι</entry><entry key="Meaning1">Συγκινήσεις, συναισθήματα</entry>
+	<entry key="PositionTitle2">Υδράργυρος</entry><entry key="Meaning2">Σκέψεις, διάνοια</entry>
+	<entry key="PositionTitle3">Αφροδίτη</entry><entry key="Meaning3">Αγάπη, σχέσεις</entry>
+	<entry key="PositionTitle4">Ήλιος</entry><entry key="Meaning4">Ενέργεια, το εγώ, το κεντρικό σημείο</entry>
+	<entry key="PositionTitle5">Αρης</entry><entry key="Meaning5">Σύγκρουση, πόλεμος. Επίσης μπορεί να αντιπροσωπεύσει 
+τη λύση ή την απάντηση στο θέμα που είναι γιατί καλείται 
+reconciler</entry>
+	<entry key="PositionTitle6">Δίας</entry><entry key="Meaning6">Αύξηση και επέκταση. Τύχη. Θετικές επιρροές</entry>
+	<entry key="PositionTitle7">Κρόνος</entry><entry key="Meaning7">Εργασία που γίνεται. Αρνητικές επιρροές που 
+υπερνικούν</entry>
+</oracleio>

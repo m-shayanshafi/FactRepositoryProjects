@@ -1,0 +1,30 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "SFU_Basic_Team"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "\\soccer\\classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "tos_teams.sfu.SFU_Basic_Team" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "agent"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\WorldData.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\AIPlayer.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\SFU_Basic_Team.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\WorldModel.java" #[EndFile]
+#[BeginFile]SOURCE := "\\tos_teams\\sfu\\Formation.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]

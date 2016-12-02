@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Elder Futhark Runes" subclass="Futhark Layout" classification="LayoutTranslations" version="1" language="pt" author="Edred Thorsson, Runecaster's Handbook." >
+<entry key="languagename">Portuguese</entry>
+<entry key="copyright">Edred Thorsson, Manual De Runecaster.</entry>
+		<entry key="Title">24 Disposições De Rune Futhark</entry>
+		<entry key="Description">Todos os meanings dos runes são mostrados aqui assim 
+que você começa uma mistura dos meanings com o um rune que cai no 
+meaning de um outro rune.</entry>
+		<entry key="PositionTitle0">Fehu</entry><entry key="Meaning0">Matérias do dinheiro. Energias psychic. 
+Força e prosperidade financeiras do presente e do futuro 
+próximo.</entry>
+		<entry key="PositionTitle1">Uruz</entry><entry key="Meaning1">Saúde física. Energias vitais.</entry>
+		<entry key="PositionTitle2">Thurisaz</entry><entry key="Meaning2">O que o opôs (talvez físico). Conflitos e 
+complexidades de uma natureza aggressive; problemas 
+psicológicos.</entry>
+		<entry key="PositionTitle3">Ansuz</entry><entry key="Meaning3">Fontes da inspiração e da expressão intelectual. 
+Comunicações e transmissões; aponta coisas para trás 
+às fontes no passado.</entry>
+		<entry key="PositionTitle4">Raidho</entry><entry key="Meaning4">Cursos - internos ou exteriores. O que é direito 
+ou nao direito; que movimento fazer; decisões; 
+retornos.</entry>
+		<entry key="PositionTitle5">Kenaz</entry><entry key="Meaning5">Creatividade. Relacionamentos erotic. Abrir 
+acima de maneiras novas; oportunidades; informação.</entry>
+		<entry key="PositionTitle6">Gebo</entry><entry key="Meaning6">O que lhe será dado. Todas as matérias de uma 
+natureza trocando; contratos; relacionamentos pessoais.</entry>
+		<entry key="PositionTitle7">Wunjo</entry><entry key="Meaning7">Relacionamentos, amigos. O que lhe dará a 
+felicidade. Ganho; realizações; isso que é 
+desejado para.</entry>
+		<entry key="PositionTitle8">Hagalaz</entry><entry key="Meaning8">Área de crise possível que conduz à transformação. 
+As forças descontroladas no inconscientes, que são geralmente 
+de uma natureza disruptiva e que originam geralmente no passado.</entry>
+		<entry key="PositionTitle9">Nauthiz</entry><entry key="Meaning9">O que o resiste (psychically). Fonte do 
+discontent. Forças restritivas no inconsciente; medos, 
+ansiedades; sentimentos da culpa.</entry>
+		<entry key="PositionTitle10">Isa</entry><entry key="Meaning10">O que o está confinando. Blocos; stultified
+circunstâncias; queixas; qualquer coisa de que o 
+indivíduo não é preparado deixou para ir; a formação da 
+personalidade; condicionar.</entry>
+		<entry key="PositionTitle11">Jera</entry><entry key="Meaning11">Onde as recompensas podem se esperar. 
+Relacionamento com o ambiente natural. Esperanças e 
+expectativas; pontos de giro; mudanças graduais; 
+resultados de ações mais adiantadas.</entry>
+		<entry key="PositionTitle12">Eihwaz</entry><entry key="Meaning12">Influências escondidas, estado de ser inteiro. 
+Relacionamento com o ambiente numinous. As forças 
+dirigindo no inconsciente; motivation; sentido da 
+finalidade.</entry>
+		<entry key="PositionTitle13">Perthro</entry><entry key="Meaning13">Como você encontrará a alegria. A parte creativa
+a mais profunda do inconsciente; o reino escondido do material 
+mais elevado que está esperando para vir ao fruition e ao nascimento;
+talents escondidos; abilidades occult ou psychic.</entry>
+		<entry key="PositionTitle14">Algiz</entry><entry key="Meaning14">Coisa que necessita a atenção. Maneira aos 
+deuses. O lado protetor forte no inconsciente; a 
+influência que o protegerá; aspirations religiosos.</entry>
+		<entry key="PositionTitle15">Sowilo</entry><entry key="Meaning15">O que o guiará. Posição do self mais elevado 
+nas relações ao inconsciente; o sentido em que você será 
+guiado pelo self mais elevado; a abilidade de estabelecer o 
+contato entre o self mais elevado e o inconsciente.</entry>
+		<entry key="PositionTitle16">Tiwaz</entry><entry key="Meaning16">Estado cognitive. Matérias legais. Ideals. 
+Energias creativas no sentido martial; onde suas forças 
+se encontram; onde dirigir suas energias em fazer exame de 
+iniciativas; honra e justiça, liderança e autoridade.</entry>
+		<entry key="PositionTitle17">Berkano</entry><entry key="Meaning17">O que fornece o crescimento e a beleza. 
+Fertilidade; rebirth do nascimento '; crescimento; 
+maternidade; vida de família; mistérios feminine.</entry>
+		<entry key="PositionTitle18">Ehwaz</entry><entry key="Meaning18">Com que ou quem você deve trabalhar. Relações 
+erotic. Adaptability; relacionamentos com outros; 
+esforços comuns; cooperação; sexuality.</entry>
+		<entry key="PositionTitle19">Mannaz</entry><entry key="Meaning19">Estado psychic total. Atitude para a morte. 
+Povos em grande; atitude para outra; atitudes do 
+pessoa para você; matérias legais, amigos e inimigos; 
+intellect.</entry>
+		<entry key="PositionTitle20">Laguz</entry><entry key="Meaning20">Estado do contrapeso emocional. O que o testará. 
+Emoções; estabilidade; imaginação; 
+matérias psychic; afeições.</entry>
+		<entry key="PositionTitle21">Ingwaz</entry><entry key="Meaning21">O que você contemplarem. Integração; 
+gestation; expectativas; progeny.</entry>
+		<entry key="PositionTitle22">Dagaz</entry><entry key="Meaning22">Área de synchronicity inesperado. Transmissão; 
+opostos; posição entre claro e a escuridão; 
+iniciação; balance entre o tempo da parte externa de 
+mundos e o espaço; consciousness cosmic; mude de uma 
+coisa em seu oposto; começos novos.</entry>
+		<entry key="PositionTitle23">Othala</entry><entry key="Meaning23">Matérias mais grandes da família. Vida do 
+nacional ou da comunidade issues.Home; país; heritage 
+espiritual; experiência; fundação; valores 
+fundamentais; estabelecimento.</entry>
+</oracleio>

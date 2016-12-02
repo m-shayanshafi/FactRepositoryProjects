@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oracleio groupname="Tarot Standard 78 Cards" subclass="Soul Dreamers Spread (Silbury)" classification="LayoutTranslations" version="1" language="ja" author="Thomas Dilts" >
+<entry key="languagename">日本語</entry>
+<entry key="copyright">版権 © 2007 年のトマスDilts (tarot@lazy8.nu) 。許可はフリーソフト基礎によって出版されるGNU 自由なドキュメンテーション免許証、版1.2 またはあらゆるより遅い版の条件のもとでコピーに許可されたり、この文書を配ったりおよび/または変更する。免許証のコピーはhttp://www.gnu.org で見つけられるかもしれない</entry>
+	<entry key="Title">精神の夢みる人の広がり(Silbury)</entry>
+	<entry key="Description">1 つが夢のメッセージか意味を理解するのを助けるようにこの読書は意図されている。カードは外へ向かう右回りの螺線形を上記の図表がようであるそのような物置かれ、作成する円のべきであること</entry>
+	<entry key="PositionTitle0">キー</entry><entry key="Meaning0">カードを表す夢についてのdream 状態かあなたの感じを選びなさい</entry>
+	<entry key="PositionTitle1">状態を夢を見なさい</entry><entry key="Meaning1">夢のでき事についての何かを、のような時ところで、いかに、そしてなぜ言う</entry>
+	<entry key="PositionTitle2">中エネルギー</entry><entry key="Meaning2">夢の一次エネルギー</entry>
+	<entry key="PositionTitle3">意識した意味</entry><entry key="Meaning3">夢が' 歩く生命' のあなたに意味する何を</entry>
+	<entry key="PositionTitle4">潜在的な意味</entry><entry key="Meaning4">夢が内部の霊魂のレベルのあなたに意味する何を</entry>
+	<entry key="PositionTitle5">蛇エネルギー</entry><entry key="Meaning5">夢は物理的に明示するエネルギーにより必要である時、または夢のジレンマを解決するために望めば</entry>
+	<entry key="PositionTitle6">結果</entry><entry key="Meaning6">夢が及び効果いかに明示するか</entry>
+</oracleio>
